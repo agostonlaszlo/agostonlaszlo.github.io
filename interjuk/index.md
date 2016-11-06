@@ -28,4 +28,6 @@ category: moltopera
 
 Operaénekes, menedzser, marketing-szakember. Nem oszt meg aranyos videókat vagy Coelho-idézeteket, mégis harmincezren kezdték el követni a Facebookon – március óta. Ágoston László bár simán megtehetné, egyelőre nem tör politikusi babérokra, de azt már tudja, hogy a hirtelen jött népszerűséggel mit fog kezdeni.
 
+**Nagyinterjú a Klubrádióban Rangos Katalinnal**
+
 <iframe width="100%" height="600" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/282924280&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
