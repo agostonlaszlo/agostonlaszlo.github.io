@@ -10,4 +10,4 @@ category: moltopera
 **A legfontosabb interjúim**
 *Kattints a képre az interjúhoz!*
 
-![]({{ site.baseurl }}/images/vasarnapihirek.JPG)
+[![]({{ site.baseurl }}/images/vasarnapihirek.JPG)](http://www.vasarnapihirek.hu/fokusz/kozanyazas_helyett_kozbeszed__agoston_laszlo_tukrot_tart_az_elmebajnak)
