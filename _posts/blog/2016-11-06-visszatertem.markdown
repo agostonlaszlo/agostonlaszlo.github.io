@@ -12,7 +12,7 @@ image: http://agostonlaszlo.hu/images/szolasszabadsag.JPG
 
 A nyáron csináltam egy kísérletet: Orbán Viktor arab bankárok előtt mondott, iszlámról szóló elismerő szavait hirdettem meg a Fidesz és Orbán Viktor rajongói között. [Itt tudod elolvasni.](http://agostonlaszlo.hu/blog/hogyan-alljon-egy-fidesz-szavazo-az-iszlamhoz/) Másnap hackerek elérhetetlenné tették az oldalam. Most indul újra.
 
-![]({{site.baseurl}}/images/szolasszabadsag.jpg)
+![]({{site.baseurl}}/images/szolasszabadsag.JPG)
 [_A kép forrása_](https://www.orangewebsite.com/articles/wp-content/uploads/2014/10/shutterstock_187662866.jpg)
 
 Érdekes dolog a szólásszabadság. A nyár óta valahogy úgy érzem, nem mindenkinek mérik ugyanakkora kanállal.  Pedig a fene se akart itt háborúzni... csak úgy éreztem, nem korrekt a muszlimokkal szemben, hogy ha pénzzel jönnek, szereti őket, ha nem pénzzel jönnek, uszít ellenük a hazám kormánya. Gondoltam megnézem, mit szólnak ehhez a Fidesz és Orbán Viktor Facebook-oldalának rajongói - másnaptól már nem tudtam többet írni az oldalamra. Lelőtték.
