@@ -21,3 +21,9 @@ category: moltopera
 [![]({{ site.baseurl }}/images/mentorfm.JPG)](https://mentorfm.hu/webplayer/sikeres-emberek/embernek-lenni-az-embertelensegben-interju-agoston-laszloval/)
 
 <iframe src="https://player.vimeo.com/video/190270883" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+**„Magyarországnak semmi másra nincs szüksége, minthogy egyszer valaki kimondja: nyugodjunk már meg, és gondolkodjunk végre” – interjú Ágoston Lászlóval**
+
+[![]({{ site.baseurl }}/images/agostonlaszloartist.jpg)](http://hu.budapestbeacon.com/civil-ugyek/csak-nyugodjunk-mar-meg-es-gondolkodjunk-vegre-interju-agoston-laszloval/)
+
+Operaénekes, menedzser, marketing-szakember. Nem oszt meg aranyos videókat vagy Coelho-idézeteket, mégis harmincezren kezdték el követni a Facebookon – március óta. Ágoston László bár simán megtehetné, egyelőre nem tör politikusi babérokra, de azt már tudja, hogy a hirtelen jött népszerűséggel mit fog kezdeni.
