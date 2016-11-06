@@ -50,6 +50,6 @@ Február közepén lép először nyilvánosság elé a huszonéves énekesekbő
 
 **Miért nem szeretik a fiatalok az operákat?**
 
-[![](http://www.szeretlekmagyarorszag.hu/wp-content/uploads/2015/03/agostonlaszlo13.jpg)
+[![](http://www.szeretlekmagyarorszag.hu/wp-content/uploads/2015/03/agostonlaszlo13.jpg)]
 Az opera nálunk a sznobok és gazdagok műfaja volna? Erről is kérdeztük Ágoston László operaénekest, tanárt, menedzsert.
 
