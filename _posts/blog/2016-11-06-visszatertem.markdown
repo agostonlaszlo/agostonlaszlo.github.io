@@ -41,6 +41,6 @@ A cigányok egyenlőségéért.
 
 Hogy megbékéljük végre egymással Magyarországon. Hogy közanyázás helyett végre (újra?) legyen közbeszéd Magyarországon.
 
-Ki akarok állni a liberális, baloldali emberekért. És ki akarok állni a konzvervatív, keresztény jobboldaliakért. Hogy legyen információjuk, ami alapján dönteni tudnak. Hogy legyen egy olyan hely, az oldalam, ahol kulturált hangnemben, gyűlölködés nélkül tudunk érveket ellenérvekkel ütköztetni. Ez nem csak azoknak jó, akik egyetértenek velem. Ez KÖZérdek. 
+Ki akarok állni a liberális, baloldali emberekért. És ki akarok állni a konzvervatív, keresztény jobboldaliakért. Hogy legyen információjuk, ami alapján dönteni tudnak. Hogy legyen egy olyan hely, ha más nem, [legalább az oldalam](http://fb.com/agostonlaszloartist), ahol kulturált hangnemben, gyűlölködés nélkül tudunk érveket ellenérvekkel ütköztetni. Ez nem csak azoknak jó, akik egyetértenek velem. Ez KÖZérdek. 
 
 Szeretném, ha akkor is el tudnád mondani a véleményedet és akkor is szeretettel fogadna ez a közönség, ha nem értesz egyet velem. Ettől még lehetünk barátok. És én mindent meg fogok azért tenni, hogy képviselhesd a véleményedet. Hogy legalább nálam, az oldalamon szólásszabadság legyen.
