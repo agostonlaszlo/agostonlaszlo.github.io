@@ -11,3 +11,5 @@ category: moltopera
 *Kattints a képre az interjúhoz!*
 
 [![]({{ site.baseurl }}/images/vasarnapihirek.JPG)](https://www.vasarnapihirek.hu/fokusz/kozanyazas_helyett_kozbeszed__agoston_laszlo_tukrot_tart_az_elmebajnak) **Közanyázás helyett közbeszéd - Ágoston László tükröt tart az elmebajnak** <br /> | Megjelent a Vasárnapi hírek 2016. szeptember 03.-i lapszámban
+
+[![]({{ site.baseurl }}/images/mentorfm.JPG)](https://www.vasarnapihirek.hu/fokusz/kozanyazas_helyett_kozbeszed__agoston_laszlo_tukrot_tart_az_elmebajnak) 
