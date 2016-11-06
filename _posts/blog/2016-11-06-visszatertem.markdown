@@ -25,6 +25,9 @@ Nem tudom és nem is érdekel, kinek fájt ennyire, hogy emberi jogi témákkal 
 
 A lényeg, hogy most újraindult az agostonlaszlo.hu. Tőletek kértem és kaptam segítséget, Gerner Péter informatikai szakemberrel (akinek nagyon köszönöm a segítségét és munkáját!) építettük újra az oldalt egy másik rendszerben, egy biztonságos, nemzetközi szerveren. Ha jól értem azon, amin a [Nasa](https://github.com/nasa) oldalát is hostolják...
 
+![]({{site.baseurl}}/images/osszefogas.JPG)
+[_A kép forrása_](http://7sistershomeschool.com/wp-content/uploads/2011/06/bigstock_Eight_Hands_Holding_Tight_8000934-1024x682.jpg)
+
 Elég siralmas, hogy valakik nem kíméltek pénzt, erőt és energiát, hogy elhallgattassanak. Két hónapra sikerült nekik. Két hónapig csak a Facebookon tudtam írni, sokkal felületesebben, hivatkozások és képek nélkül. Jó, ha ez lenne a fő dolog az életemben, sokkal gyorsabban a végére érhettünk volna. Csak nem ez az. "Hobbi." És az operaházi premierünk és hasonló cifraságok mellett nem jutott idő arra, hogy küdjek a véleményem elmondásának a szabadságáért. 
 
 Pedig basszus, srácok... [nem én vagyok Superman, nem akarok politikai pályára állni](http://agostonlaszlo.hu/blog/superman-nem-en-vagyok/), nem akarok világot váltani. Csak ki akarok állni olyan eszmékért, amiket fontosnak tartok.
