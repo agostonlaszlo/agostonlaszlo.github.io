@@ -36,12 +36,14 @@ Operaénekes, menedzser, marketing-szakember. Nem oszt meg aranyos videókat vag
 **Ágoston: Vigyék csak el tőlünk a legjobb énekeseket!**
 
 [![]({{ site.baseurl }}/images/moltopera.jpg)](http://mno.hu/grund/agoston-vigyek-csak-el-tolunk-a-legjobb-enekeseket-1264248)
+
 A Moltopera csapatát lassan rang ugródeszkaként használni a legjobb hazai fiatal operaénekeseknek. Ezt be is bizonyították az elmúlt hónapban, amikor végre bejutott az operaház falai közé egy kis kétfelvonásos kamaraművel, Haydn A lakatlan szigetével.
 
 
 **Ágoston László: "Kizárólag tradicionális rendezésben gondolkodunk"**
 
 [![](http://kep.index.hu/1/0/940/9403/94039/9403953_42670cd769d6e1c3b3352dfe976c75fa_wm.jpg)](http://fidelio.hu/eduart/2012/01/24/agoston_laszlo_kizarolag_tradicionalis_rendezesben_gondolkodunk/)
+
 Február közepén lép először nyilvánosság elé a huszonéves énekesekből alakult Moltopera. A társulat igazgatóját kérdeztük koncepcióról, repertoárról, közreműködőkről, és a praktikus részletekről is.
 
 **Miért nem szeretik a fiatalok az operákat?**
