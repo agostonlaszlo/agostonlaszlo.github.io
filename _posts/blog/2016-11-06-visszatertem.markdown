@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Visszatértem
+title: "Visszatértem!"
 date: 2016-11-06 18:52:42.000000000 +00:00
 author: agoston_laszlo
-excerpt: A nyáron csináltam egy kísérletet: Orbán Viktor arab bankárok előtt mondott, iszlámról szóló elismerő szavait hirdettem meg a Fidesz és Orbán Viktor rajongói között. Másnap hackerek elérhetetlenné tették az oldalam. Most indult újra.
+excerpt: "A nyáron csináltam egy kísérletet: Orbán Viktor arab bankárok előtt mondott, iszlámról szóló elismerő szavait hirdettem meg a Fidesz és Orbán Viktor rajongói között. Másnap hackerek elérhetetlenné tették az oldalam. Most indult újra."
 categories: blog
 tags: [demokrácia, rólam]
 lang: hu
