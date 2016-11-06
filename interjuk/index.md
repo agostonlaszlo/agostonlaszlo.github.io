@@ -44,12 +44,13 @@ A Moltopera csapatát lassan rang ugródeszkaként használni a legjobb hazai fi
 
 **Ágoston László: "Kizárólag tradicionális rendezésben gondolkodunk"**
 
-(http://fidelio.hu/eduart/2012/01/24/agoston_laszlo_kizarolag_tradicionalis_rendezesben_gondolkodunk/)
+[![](http://fidelio.hu/eduart/2012/01/24/agoston_laszlo_kizarolag_tradicionalis_rendezesben_gondolkodunk/)](http://fidelio.hu/eduart/2012/01/24/agoston_laszlo_kizarolag_tradicionalis_rendezesben_gondolkodunk/)
 
 Február közepén lép először nyilvánosság elé a huszonéves énekesekből alakult Moltopera. A társulat igazgatóját kérdeztük koncepcióról, repertoárról, közreműködőkről, és a praktikus részletekről is.
 
 **Miért nem szeretik a fiatalok az operákat?**
 
-[![](http://www.szeretlekmagyarorszag.hu/wp-content/uploads/2015/03/agostonlaszlo13.jpg)]
+[![](http://www.szeretlekmagyarorszag.hu/wp-content/uploads/2015/03/agostonlaszlo13.jpg)](http://www.szeretlekmagyarorszag.hu/miert-nem-szeretik-a-fiatalok-az-operakat/)
+
 Az opera nálunk a sznobok és gazdagok műfaja volna? Erről is kérdeztük Ágoston László operaénekest, tanárt, menedzsert.
 
