@@ -1,10 +1,12 @@
 ---
-layout: egyedioldal
+layout: nincsfejlec
 title: "Interjúim"
 date: 2015-01-11 22:53:22.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Ágoston László legfontosabb interjúi az elmúlt évekből."
 category: moltopera
+image: http://agostonlaszlo.hu/images/vasarnapihirek.JPG
+lang: hu
 ---
 
 **A legfontosabb interjúim**
