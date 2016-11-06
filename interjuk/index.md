@@ -44,7 +44,7 @@ A Moltopera csapatát lassan rang ugródeszkaként használni a legjobb hazai fi
 
 **Ágoston László: "Kizárólag tradicionális rendezésben gondolkodunk"**
 
-[![]({{ site.baseurl }}/images/laci.jpg)](http://fidelio.hu/eduart/2012/01/24/agoston_laszlo_kizarolag_tradicionalis_rendezesben_gondolkodunk/)
+(http://fidelio.hu/eduart/2012/01/24/agoston_laszlo_kizarolag_tradicionalis_rendezesben_gondolkodunk/)
 
 Február közepén lép először nyilvánosság elé a huszonéves énekesekből alakult Moltopera. A társulat igazgatóját kérdeztük koncepcióról, repertoárról, közreműködőkről, és a praktikus részletekről is.
 
