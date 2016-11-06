@@ -1,11 +1,10 @@
 ---
 layout: page
 title: "Keresés"
-date:
+date: 
 modified:
 excerpt:
-image:
-  feature:
+image: http://www.vasarnapihirek.hu/files/public/temp/MReeKvlG_1_510x350.png
 search_omit: true
 sitemap: false
 ---
