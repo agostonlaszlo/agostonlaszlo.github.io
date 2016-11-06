@@ -7,7 +7,7 @@ excerpt: A nyáron csináltam egy kísérletet: Orbán Viktor arab bankárok el�
 categories: blog
 tags: [demokrácia, rólam]
 lang: hu
-image: http://agostonlaszlo.hu/images/szolasszabadsag.jpg
+image: http://agostonlaszlo.hu/images/szolasszabadsag.JPG
 ---
 
 A nyáron csináltam egy kísérletet: Orbán Viktor arab bankárok előtt mondott, iszlámról szóló elismerő szavait hirdettem meg a Fidesz és Orbán Viktor rajongói között. [Itt tudod elolvasni.](http://agostonlaszlo.hu/blog/hogyan-alljon-egy-fidesz-szavazo-az-iszlamhoz/) Másnap hackerek elérhetetlenné tették az oldalam. Most indul újra.
