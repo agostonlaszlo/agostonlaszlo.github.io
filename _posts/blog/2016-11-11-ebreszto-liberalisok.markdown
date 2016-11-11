@@ -30,6 +30,7 @@ Ezek az emberek leszarják a globális felmelegedést, nem különösebben érde
 A mélyszegénységben élők kétharmada nem roma." ([forrás](http://hu.euronews.com/2015/06/15/egyre-tobb-gyermek-el-melyszegenysegben-magyarorszagon-ki-segit-rajtuk))
 
 ![](http://www.agostonlaszlo.hu/images/maslow.jpg)
+<center>A Maslow-piramis - a szükségletek sorrendje</center>
 
 Most mégis mi a fenét vársz ezektől az emberektől? Akik egyébként lehetnek jó lelkűek, szerethetnek segíteni, lehetnek tisztességes, igyekvő, barátságos népek - de jelenleg a túlélésért küzdenek. 
 
