@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Csörög az óra - a liberálisok évek óta ébren álmodnak!"
+title: "Nem ők a hülyék, mi élünk burokban"
 date: 2016-11-06 18:52:42.000000000 +00:00
 author: agoston_laszlo
 excerpt: "A Brexittel, a Dicsőséges Népszavazással és most Trump megválasztásával egy világ omlott össze bennünk. Egy világ, kedves liberális, budapesti értelmiségi barátaim, amit hazudtunk magunknak."
@@ -31,7 +31,7 @@ A mélyszegénységben élők kétharmada nem roma." ([forrás](http://hu.eurone
 
 ![](http://www.moltopera.hu/tar/maslow.jpg)
 
-Most mégis mi a fenét vársz ezektől az emberektől? Akik egyébként lehetnek jó lelkűek, szerethetnek segíteni, lehetnek tisztességes, igyekvő, barátságos népek - de jelenleg a túlélésért küzdenek.
+Most mégis mi a fenét vársz ezektől az emberektől? Akik egyébként lehetnek jó lelkűek, szerethetnek segíteni, lehetnek tisztességes, igyekvő, barátságos népek - de jelenleg a túlélésért küzdenek. 
 
 „Vannak, akik drogoznak itt a faluban?” – kérdeztem a herbállal hencegő gyerekeket, akik úgy válaszoltak, mintha arról lenne szó, kik járnak a környékről focizni. „Mind drogozik.” – vágtak egymás szavába, egyikük önkéntelenül mutatja is, ahogy az injekciót tolja a karjába. „Tűvel szúrják magukat?” – döbbentem meg, mert az intravénás droghasználókat képtelen voltam a falusias környezettel azonosítani. „Igen, igen, a tűket utána a falba döfik, ott vannak a ház mögött” – mutattak az utca vége felé." ([forrás](http://index.hu/belfold/2015/04/16/dizajnerdrogdalun/))
 
@@ -53,6 +53,14 @@ Igen. De az egyik alternatív valóság Sopron, a másik Pest, a harmadik Borsod
 Mit tehetünk? Gyakoroljunk önkritikát és mindenek előtt **hagyjuk abba a hibáztatást**, hogy miért szavazott valaki így vagy úgy, mert ezzel távolabbra kerülünk azoktól az egyébként is deprivált, marginalizált, leszakadó emberektől, akikkel közös csapatot, egy országot alkotunk. Sok millió hajléktalan van Magyarországon, akinek van tető a feje fölött, mi mégis csak a budapestiekkel foglalkozunk.
 
 **Ismerjük meg a láthatatlan Magyarország helyzetét.** A problémákat, a gondokat és a pozitív példákat is. Az olyanokat, mint Cserdi története. És baromira támogassuk azokat, a Bogdán Lászlókat, akik értek már el sikereket. Ők teszik újra és igazán naggyá Magyarországot, ha szabad egy pillanatra még Trump kampányára utalnom. Akik szerint [a cigánykérdés nem probléma, hanem feladat](http://www.origo.hu/itthon/20150618-cserdi-bogdan-laszlo-cigany-roma-jobbik.html). Vagy [aki Egyik politikai elitnek sem lesz a ribanca](http://mandiner.hu/cikk/20150818_egyik_politikai_elitnek_sem_leszek_a_ribanca_a_cserdi_polgarmester_bogdan_laszlo_a_mandinernek).
+
+<iframe src="https://player.vimeo.com/video/191125143" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+És **kezdjük el képviselni ezeknek a magukra hagyott embereknek az érdekeit** is végre. Legyükónk tudatosak a problémáikkal kapcsolatban és ne kezeljük őket úgy, mint a szegény pláne mint a "buta, tájékozatlan, rasszista, öreg stb." rokont. Ez a fajta hozzáállásunk, ha magukra hagyjuk őket, csak teret nyit. Olyan erőknek, amik szintén változást akarnak. Csak éppen lehet, hogy még veszélyesebbek, mint a mostani. Olyan erőknek, amik egyszerű, hazug, gyűlölködést szító üzenetekkel a gondolkodók helyett fogják meg és húzzák be őket.
+
+Kedves liberálisok. Trump, a népszavazás 3,3 milliója és a Brexit nem csak az ő "hülyeségük". Baromira a mi felelősségünk is.
+
+
 
 
 
