@@ -5,9 +5,9 @@ date: 2016-11-06 18:52:42.000000000 +00:00
 author: agoston_laszlo
 excerpt: "A Brexittel, a Dicsőséges Népszavazással és most Trump megválasztásával egy világ omlott össze bennünk. Egy világ, kedves liberális, budapesti értelmiségi barátaim, amit hazudtunk magunknak."
 categories: blog
-tags: [demokrácia, rólam]
+tags: [demokrácia]
 lang: hu
-image: http://www.moltopera.hu/tar/detroit.JPG
+image: http://www.agostonlaszlo.hu/images/detroit.JPG
 ---
 
 A Brexittel, a Dicsőséges Népszavazással és most Trump megválasztásával egy világ omlott össze bennünk. Egy világ, kedves liberális, budapesti értelmiségi barátaim, amit hazudtunk magunknak.
@@ -18,7 +18,7 @@ Az amerikai választás másnapján egy beszélgetésre hívtak meg, ahol fiatal
 
 És azóta gondolkozom, hogy mennyire baromira igaza van. Hányhatunk Trumptól (meg is teszem), de ő nem csak a "buta, aluliskolázott, rasszistam tájékozatlan, öreg stb." embereket fogta meg Amerikában, ahogy Magyarországon se csak a fentiek szavaztak nemmel a népszavazáson. Ez ugyanolyan előítélet, mint ami ellen nap, mint nap harcolok. 
 
-![](http://www.moltopera.hu/tar/detroit.JPG)
+![](http://www.agostonlaszlo.hu/images/detroit.JPG)
 <center>(Fotó: Dave Jordano)</center>
 
 Trump a változást akarókat fogta meg. Azokat, akiknek minden mindegy, csak legyen más. Jó, hát a pali egy bunkó, de a mostani életem tarthatatlan. Gondolj az amerikai Ózdra, Detroitra! ([Itt](http://index.hu/nagykep/2013/03/18/detroit/) és [itt](http://index.hu/nagykep/2015/08/21/magyar_fotos_nepesitette_be_az_ures_varost/) van két képsorozat, ha nézelődni lenne kedved.)
@@ -29,7 +29,7 @@ Ezek az emberek leszarják a globális felmelegedést, nem különösebben érde
 
 A mélyszegénységben élők kétharmada nem roma." ([forrás](http://hu.euronews.com/2015/06/15/egyre-tobb-gyermek-el-melyszegenysegben-magyarorszagon-ki-segit-rajtuk))
 
-![](http://www.moltopera.hu/tar/maslow.jpg)
+![](http://www.agostonlaszlo.hu/images/maslow.jpg)
 
 Most mégis mi a fenét vársz ezektől az emberektől? Akik egyébként lehetnek jó lelkűek, szerethetnek segíteni, lehetnek tisztességes, igyekvő, barátságos népek - de jelenleg a túlélésért küzdenek. 
 
