@@ -7,7 +7,7 @@ excerpt: "''Az édesanyám ma reggel halt meg''- mondta a rosszarcú hong kongi 
 categories: blog
 tags: [rólam, utazásaim]
 lang: hu
-image: http://agostonlaszlo.hu/images/londonbusface.JPG
+image: http://agostonlaszlo.hu/images/lodonbusface.JPG
 ---
 ![](http://agostonlaszlo.hu/images/londonbus.JPG)
 
