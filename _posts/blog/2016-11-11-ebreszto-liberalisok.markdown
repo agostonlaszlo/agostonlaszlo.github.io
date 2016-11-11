@@ -48,7 +48,7 @@ Igen. De az egyik alternatív valóság Sopron, a másik Pest, a harmadik Borsod
 
 **Ajánlás**
 
-*Mielőtt [meghackertámadták volna az oldalam](http://agostonlaszlo.hu/blog/visszatertem), célom volt, hogy minden ilyen cikket a jobbításra tett ajánlással fejezzek be, mert nyavajogni mindenki tud, építkezni kevesen. Most, hogy újra van oldalam, folytatom ezt.*
+*Mielőtt [meghackertámadták volna az oldalam](http://agostonlaszlo.hu/blog/visszatertem), célom volt, hogy minden ilyen cikket a jobbításra tett ajánlással fejezzek be, mert nyavalyogni mindenki tud, építkezni kevesen. Most, hogy újra van oldalam, folytatom ezt.*
 
 Mit tehetünk? Gyakoroljunk önkritikát és mindenek előtt **hagyjuk abba a hibáztatást**, hogy miért szavazott valaki így vagy úgy, mert ezzel távolabbra kerülünk azoktól az egyébként is deprivált, marginalizált, leszakadó emberektől, akikkel közös csapatot, egy országot alkotunk. Sok millió hajléktalan szinten élő van ma Magyarországon, akinek bár van tető a feje fölött, sokkal mégsem jobb a sorsa. Mi mégis csak a budapestiekkel foglalkozunk.
 
