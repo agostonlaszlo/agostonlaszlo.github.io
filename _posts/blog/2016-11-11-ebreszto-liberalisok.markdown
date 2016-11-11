@@ -40,9 +40,8 @@ Nem esünk mi, budapesti liberális értelmiség, ugyanabba a hibába, amivel a 
 
 Olyanok vagyunk, mint ez az amerikai bemondónő:
 
-<div class="fb-video" data-href="https://www.facebook.com/agostonlaszloartist/videos/961483667289065/"  
-  data-allowfullscreen="true" data-width="500"></div>
-  
+<iframe src="https://player.vimeo.com/video/191150858" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 Ahelyett, hogy megértenénk, miért lehet ekkora tömegeket hazugságokkal, olcsó populizmussal megvezetni, cinikussá és lenézővé válunk. Parasztozni kezdünk (velem az élen) és elmondjuk, hogy mekkora bunkók a magyarok/öregek/a white trash. Azt mondjuk, a fejünket fogva, hogy alternatív valóságok élnek egymás mellett.
 
 Igen. De az egyik alternatív valóság Sopron, a másik Pest, a harmadik Borsod.
