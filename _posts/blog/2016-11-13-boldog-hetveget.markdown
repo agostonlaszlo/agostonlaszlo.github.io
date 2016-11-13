@@ -3,9 +3,9 @@ layout: post
 title: "BOLDOG HÉTVÉGÉT!"
 date: 2016-11-06 18:52:42.000000000 +00:00
 author: agoston_laszlo
-excerpt: "A Brexittel, a Dicsőséges Népszavazással és most Trump megválasztásával egy világ omlott össze bennünk. Egy világ, kedves liberális, budapesti értelmiségi barátaim, amit hazudtunk magunknak."
+excerpt: "Hát persze! Basszamega**vasárnap**! Be kell rohannod az irodába, mert TÉNYLEG elfelejtetted és hétfő reggel ezzel kezdünk. Nem sok idő, csak egy pár perc tényleg, Zsuzsi! Addig nézzétek meg a rajzfilmet nélkülem."
 categories: blog
-tags: [demokrácia]
+tags: [csakugy]
 lang: hu
 image: http://www.agostonlaszlo.hu/images/hetvege.JPG
 ---
