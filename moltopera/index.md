@@ -13,6 +13,3 @@ search_omit: true
 <center>Haydn: A lakatlan sziget</center>
 
 {% include fb-like.html %}
-<br>
-
-        <div class="fb-page" data-href="https://www.facebook.com/moltopera" data-width="500" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/moltopera" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/moltopera">MoltOpera</a></blockquote></div>
