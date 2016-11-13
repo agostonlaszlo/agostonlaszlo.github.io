@@ -11,4 +11,8 @@ search_omit: true
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QhsqKTsvnac" frameborder="0" allowfullscreen></iframe>
 <center>Haydn: A lakatlan sziget</center>
-_
+
+{% include fb-like.html %}
+<br>
+
+        <div class="fb-page" data-href="https://www.facebook.com/moltopera" data-width="500" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/moltopera" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/moltopera">MoltOpera</a></blockquote></div>
