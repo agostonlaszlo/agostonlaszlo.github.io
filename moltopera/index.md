@@ -13,3 +13,6 @@ search_omit: true
 <center>Haydn: A lakatlan sziget</center>
 
 {% include fb-like.html %}
+
+
+**Itt lájkolhatod a Moltopera Facebook-oldalát.**
