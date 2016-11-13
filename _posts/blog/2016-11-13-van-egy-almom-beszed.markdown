@@ -9,7 +9,7 @@ tags: [demokrácia, videó]
 lang: hu
 image: http://www.agostonlaszlo.hu/images/mlk.jpg
 ---
-Játszátok le iskolákban! Mutassátok meg barátaitoknak! Nyerjetek belőle hitet.
+Játsszátok le iskolákban! Mutassátok meg barátaitoknak! Nyerjetek belőle hitet.
 
 Tudom hosszú, de hidd el, megéri. Én minden évben meghallgatom kétszer-háromszor, lassan kívülről tudom és erőre kapok tőle. Újra elkezdek hinni abban, hogy lehet változtatni.
 
