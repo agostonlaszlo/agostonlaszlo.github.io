@@ -6,6 +6,7 @@ author: agoston_laszlo
 excerpt: "Ezt évek óta le akartam írni, mégis nehezen görögnek ki a kezem alól a szavak. Sokan kérdezik, miért nem éneklek csak ritkán, hol változtam meg... A Zeneakadémián is szeretnek címkézni - mint mindenhol. Azt mondják, az első vizsga a legfontosabb, mert ott beáraznak, ott kerül rád, hogy milyen művész vagy. Ha az elsőt elrontod, könnyen rajtad ragadhat, hogy semmit sem érsz. Én elrontottam."
 categories: blog
 tags: [rólam, zene]
+image: http://kep.cdn.indexvas.hu/1/0/995/9951/99511/9951141_83ea0bbed8ff0c8633b9bbaa9b9cf8f2_wm.jpg
 ---
 Ezt évek óta le akartam írni, mégis nehezen görögnek ki a kezem alól a szavak. Sokan kérdezik, miért nem éneklek csak ritkán, hol változtam meg...
 
