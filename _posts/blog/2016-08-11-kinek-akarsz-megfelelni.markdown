@@ -17,7 +17,7 @@ Beléptem a fagyos hangulatú, kriptaszerű hangversenyterembe (2008-at írtunk)
 Tíz darabbal kellett készülni, ötöt elénekelni, ebből kettőt én választottam, hármat a tanári kar. Féltem. A névsorban elsőként én léptem először az oroszlánok közé, nem is indult jól a dolog. De az igazi baj csak akkor jött, amikor összekevertem az ott kiválasztott darabok sorrendjét. Egy hosszú előjátékra számítottam és egy vérbő, "csajozós" olasz dalra: "Táncolj te, lány!" Egyetlen A-dúr akkordot kaptam helyette és rögtön kezdenem kellett volna egy intim, bensőséges Schumann-darabot: "Amikor a szemeidbe nézek, rögtön elszáll minden fájdalmam és bajom".
 
 ![]({{ site.baseurl }}/images/legyeskep.jpg)
-_Ez voltam én 2010-ben. A képet Herman Péter készítette, külön érdekessége, hogy egy légy is berepült a fókuszba :)_
+<center>_Ez voltam én 2010-ben. A képet Herman Péter készítette.</center>
 
 Ott álltam lefagyva. A zongorista is megzavarodott az én zavaromtól és egy igazi, értékelhetetlen macskazenét rendeztünk. A végén felnézett rám a tanszékvezető és csak ennyit mondott: "Énekelje el újra és próbáljon a kísérőjével együtt szenvedni!"
 
@@ -28,13 +28,17 @@ Minden erőmet összeszedtem a következő félévben. Megacéloztam az idegeime
 A következő vizsgám nagyon jól sikerült. Mindenki meglepődött és elégedtt volt, de **3,4** -nél nem kaphattam többet. Azért az mégse járja, hogy a "rossz énekes" jó jegyet kapjon!(Ugye az az egy tized, mennyire sokat számít...)
 
 <iframe src="https://player.vimeo.com/video/190269837" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-_Egy 2011-es vizsgafelvétel_
+<center>_Egy 2011-es vizsgafelvétel_</center>
 
-A következő vizsgám utáni értékelésen csupa gratulációt kaptam. Ilyenkor körbeültünk egy nagy márványasztalt és minden tanár (csupa Kossuth-díjas!) elmondta a véleményét. "Nincsen kritikai észrevételem, gratulálok, nagyszerű teljesítmény!" - így a az első. "Nem tudok mit mondani, nagyszerű volt"- így a második és így mindegyikük sorban, amíg el nem értünk az asztal felém eső oldalára.
+A következő vizsgám utáni értékelésen csupa gratulációt kaptam. Ilyenkor körbeültünk egy nagy márványasztalt és minden tanár (csupa Kossuth-díjas!) elmondta a véleményét. "Nincsen kritikai észrevételem, gratulálok, nagyszerű teljesítmény!" - így az első. "Nem tudok mit mondani, nagyszerű volt"- így a második és így mindegyikük sorban, amíg el nem értünk az asztal felém eső oldalára.
+
 "Talán a dikciója nem volt az igazi, egyénként nagyszerű, gratulálok!" - mondta A, mire B:
+
 "A dikciója remek, talán a színészi játéka lehetne jobb! Remek teljesítmény, gratulálok!" Válaszolt C:
+
 "Ugyan! A színészi játéka kiemelkedő! Talán a frazírozás lehetne jobb, de kiváló volt, gratulálok!" mire D:
-"Kitűnő frazírozás! Nem is mondanék mást. Gratulálok!" Ezekkel a kritikákkal lettem **3,6**. "De ez már négyes! Ugye örül?"
+
+"Kitűnő frazírozás! Nem is mondanék mást. Gratulálok!" Ezekkel az egymásnak teljesen ellentmondó "kritikákkal" lettem **3,6**. "De ez már négyes! Ugye örül?"
 Nem, nem örültem. Majd' felrobbantam. Már sohase küzdhetem le az első kisiklás bélyegét?
 
 A következő vizsgámat megint elszúrtam. A vizsga előtt egy héttel - akárcsak sok azóta nemzetközi hírű művésszé vált énekes - én is kisbabapózban gyomorgörcsöltem az ágyban, várva "a megmérettetést". Az önbizalmam a zéróhoz közelített - mitől is lett volna több?
