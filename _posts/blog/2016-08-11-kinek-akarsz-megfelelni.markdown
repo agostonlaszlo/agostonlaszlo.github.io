@@ -32,29 +32,30 @@ A következő vizsgám nagyon jól sikerült. Mindenki meglepődött és eléged
 
 A következő vizsgám utáni értékelésen csupa gratulációt kaptam. Ilyenkor körbeültünk egy nagy márványasztalt és minden tanár (csupa Kossuth-díjas!) elmondta a véleményét. "Nincsen kritikai észrevételem, gratulálok, nagyszerű teljesítmény!" - így az első. "Nem tudok mit mondani, nagyszerű volt"- így a második és így mindegyikük sorban, amíg el nem értünk az asztal felém eső oldalára.
 
-"Talán a dikciója nem volt az igazi, egyénként nagyszerű, gratulálok!" - mondta A, mire B:
+_"Talán a dikciója nem volt az igazi, egyénként nagyszerű, gratulálok!"_ - mondta A, mire B:
 
-"A dikciója remek, talán a színészi játéka lehetne jobb! Remek teljesítmény, gratulálok!" Válaszolt C:
+_"A dikciója remek, talán a színészi játéka lehetne jobb! Remek teljesítmény, gratulálok!"_ Válaszolt C:
 
-"Ugyan! A színészi játéka kiemelkedő! Talán a frazírozás lehetne jobb, de kiváló volt, gratulálok!" mire D:
+_"Ugyan! A színészi játéka kiemelkedő! Talán a frazírozás lehetne jobb, de kiváló volt, gratulálok!"_ mire D:
 
-"Kitűnő frazírozás! Nem is mondanék mást. Gratulálok!" Ezekkel az egymásnak teljesen ellentmondó "kritikákkal" lettem **3,6**. "De ez már négyes! Ugye örül?"
+_"Kitűnő frazírozás! Nem is mondanék mást. Gratulálok!"_ Ezekkel az egymásnak teljesen ellentmondó "kritikákkal" lettem **3,6**. _"De ez már négyes ám! Ugye örül?"_
+
 Nem, nem örültem. Majd' felrobbantam. Már sohase küzdhetem le az első kisiklás bélyegét?
 
 A következő vizsgámat megint elszúrtam. A vizsga előtt egy héttel - akárcsak sok azóta nemzetközi hírű művésszé vált énekes - én is kisbabapózban gyomorgörcsöltem az ágyban, várva "a megmérettetést". Az önbizalmam a zéróhoz közelített - mitől is lett volna több?
 
-Az utolsó évben felkértek, hogy legyek én a Hallgatói Önkormányzat elnöke. Menedzsment és művészet - nekem való! Összeállítottam a programom, kijelöltem a teljes csapatom (mert abban hiszek, hogy nem személyekre, hanem programokra és annak a végrehajtóira kell szavazni), és miután elsöprő győzelmet arattunk gőzerővel kezdtük el a megvalósítást. Indítottunk például egy újságot Figaro címen - mindenki legyintgetett, fénymásolt barkácsbutaságra számítottak. Aztán amikor körbevittem az egyetemen egy profi kiadványszerkesztővel megterveztetett, nyomdában nyomott újságot hirdetésekkel (!), aminek a hatodik számához a köztársasági elnök (!) írt előszót, mindenki meglepődött. Nagyon.
+Az utolsó évben felkértek, hogy legyek én a Hallgatói Önkormányzat elnöke. Menedzsment és művészet - nekem való! Összeállítottam a programom, kijelöltem a teljes csapatom (mert abban hiszek, hogy nem személyekre, hanem programokra és annak a végrehajtóira kell szavazni), és miután elsöprő győzelmet arattunk, gőzerővel kezdtük el a megvalósítást. Indítottunk például egy újságot Figaro címen - mindenki legyintgetett, fénymásolt barkácsbutaságra számítottak. Aztán amikor körbevittem az egyetemen egy profi kiadványszerkesztővel megterveztetett, nyomdában nyomott újságot hirdetésekkel (!), aminek a hatodik számához a ***köztársasági elnök*** (!) írt előszót, mindenki meglepődött. Nagyon.
 
-Nekem pedig megjött az önbizalmam. A következő vizsgám hirtelen: **4,4**. Még négyes... de már kaptam egy felajánlást. Mivel előtte már jártam a BKF-re három évig, elfogytak az államilag finanszírozott féléveim. Csak költségtérítésesen tudtam volna a Zeneakadémián maradni, félévi másfél millió forintért. AZt a felajánlást kaptam, hogy ha ott maradok a masterre, kifizetik nekem ezt az összeget. Ez hat millió forint lett volna... Tehát a "rossz énekes" talán mégsem annyira rossz...
+Nekem pedig megjött az önbizalmam. A következő vizsgám hirtelen: **4,4**. Még négyes... de már kaptam egy felajánlást. Mivel előtte már jártam a BKF-re három évig, elfogytak az államilag finanszírozott féléveim. Csak költségtérítésesen tudtam volna a Zeneakadémián maradni, félévi másfél millió forintért. Azt a felajánlást kaptam, hogy ha ott maradok a masterre, kifizetik nekem ezt az összeget. Ez hat millió forint lett volna... Tehát a "rossz énekes" talán mégsem annyira rossz...
 
 Megköszöntem és nemet mondtam. Nem akartam ott maradni, ahol évekig nem láttak bennem tehetséget (illetve csak kevesen, akiket máig mindenek felett tisztelek).
 
 <iframe width="1366" height="638" src="https://www.youtube.com/embed/WHDMRjaLDkY" frameborder="0" allowfullscreen></iframe>
-_Egy másik vizsgafelvétel... hogy remegett a hangom..._
+<center>_Egy másik vizsgafelvétel... hogy remegett a hangom..._</center>
 
-A következő vizsgám - a diplomám - az értékelők szerint még jobbansikerült, csak az eredmény maradt tizedre ugyanannyi:** 4,4**. Egyetlen tized kellett volna, hogy ötössel zárhassam a Zeneakadémiát, de ez sajnos pont nem jött össze. Az utolsó értékeléskor az egyik tanár a következőt mondta:
+A következő vizsgám - a diplomám - az értékelők szerint még jobban sikerült, csak az eredmény maradt tizedre ugyanannyi:** 4,4**. Egyetlen tized kellett volna, hogy ötössel zárhassam a Zeneakadémiát, de ez sajnos pont nem jött össze. Az utolsó értékeléskor az egyik tanár, _az a tanár_ a következőt mondta:
 
-"László, emlékszem, hogy az első vizsgája után ki akartam magát rúgni. És ezt el is mondtam magának. Hiba lett volna és sajnálom."
+_"László, emlékszem, hogy az első vizsgája után ki akartam magát rúgni. És ezt el is mondtam magának. Hiba lett volna és sajnálom."_
 
 Lassan tíz éve történt, de úgy érzem, csak most bocsátottam meg azt a mondatát, amiért akkor bocsánatot kért. Ami évekre "nem elégnek" címkézett. Nem mások előtt. Magam előtt.
 
