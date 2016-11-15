@@ -3,7 +3,7 @@ layout: post
 title: Bocsánat, megzavarhatlak a gyűlöletben egy pillanatra?
 date: 2016-07-27T13:27:02.000Z
 author: agoston_laszlo
-excerpt: Már meting ezek a migránsok meg muszlimok... ''Ennek a papnak mise közben vágta el a nyakát egy muszlim. Ezt miért nem posztolod? Ez nem rasszista cselekedet? Vagy csak a fehér ember lehet rasszista'' - írt rám magánban egy srác, akit előtte törölnöm kellett az oldalamról.
+excerpt: Már megint ezek a migránsok meg muszlimok... ''Ennek a papnak mise közben vágta el a nyakát egy muszlim. Ezt miért nem posztolod? Ez nem rasszista cselekedet? Vagy csak a fehér ember lehet rasszista'' - írt rám magánban egy srác, akit előtte törölnöm kellett az oldalamról.
 categories: blog
 tags: [terrorizmus, iszlám, megbékélés]
 lang: hu
@@ -63,4 +63,4 @@ Elnézést kérek, ha összezavartalak. Mindenkinek egyszerűbb lenne, ha simán
 
 Hülyét csinálhatsz magadból, de kérlek ne várd el, hogy kövesselek...
 
-PS.: [utálom, hogy nem lehet Magyarországon mérsékelt véleményt megfogalmazni ebben a kérdésben](http://agostonlaszlo.hu/blog/nem-vagyok-hulye-attol-meg-hogy-nem-kiabalok). Ha most azt hiszed, nem látom a kultúrák találkozásában rejlő kockázatokat, hogy nem látom az integrációs problémákat, a nők elnyomását stb. nagyot tévedsz. Csak én abban hiszek, hogy ezeket** ésszel, higgadtan, szakemberek segítségével** lehet megoldani (más esetekben akár katonai eréllyel), de SOHA nem érzelmi alapon, gyűlöletből. Ez utóbbi ellen kelek ki minden egyes alkalommal...
+PS.: [utálom, hogy nem lehet Magyarországon mérsékelt véleményt megfogalmazni ebben a kérdésben](http://agostonlaszlo.hu/blog/nem-vagyok-hulye-attol-meg-hogy-nem-kiabalok). Ha most azt hiszed, nem látom a kultúrák találkozásában rejlő kockázatokat, hogy nem látom az integrációs problémákat, a nők elnyomását stb. nagyot tévedsz. Csak én abban hiszek, hogy ezeket **ésszel, higgadtan, szakemberek segítségével** lehet megoldani (más esetekben akár katonai eréllyel), de SOHA nem érzelmi alapon, gyűlöletből. Ez utóbbi ellen kelek ki minden egyes alkalommal...
