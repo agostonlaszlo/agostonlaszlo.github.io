@@ -3,7 +3,7 @@ layout: post
 title: "Hogyan okozott csalódást Jézus"
 date: 2016-11-06 18:52:42.000000000 +00:00
 author: agoston_laszlo
-excerpt: "Mint amikor ezerszer meghallgatsz egy Cd-t, de amikor az előadót élőben hallod, ő nem úgy, nem azon a hangszínen, nem abban a tempbóban énekli el, mint ahogy megszoktad. És csalódsz, mert te a CD-felvételt, a saját elképzelésedet akartad újra meghallgatni élőben."
+excerpt: "Mint amikor ezerszer meghallgatsz egy CD-t, de amikor az előadót élőben hallod, ő nem úgy, nem azon a hangszínen, nem abban a tempóban énekli el, mint ahogy megszoktad. És csalódsz, mert te a CD-felvételt, a saját elképzelésedet akartad újra meghallgatni élőben."
 categories: blog
 tags: [rólam, demokrácia, kereszténység]
 lang: hu
@@ -25,7 +25,7 @@ Józsefről, az apjáról sem sokat olvasunk. Miután tanítani kezdett talán e
 ![](http://www.agostonlaszlo.hu/images/utolsovacsora.jpg)
 [Forrás](https://alexcolao.files.wordpress.com/2010/09/lastsupper.jpg)
 
-Mindenki, aki valamit *akart tőle*, aki *valamilyennek* akarta, aki elképzelt maga elé egy Jézus-képet és azt várta tőle, hogy ennek *megfeleljen* - csalódott. Mint amikor rongyosra hallgatsz egy zenei felvételt, eljön a tengerentúlról az előadó és élőben nem úgy, nem azon a hangszínen, nem abban a tempbóban énekli el, mint ahogy megszoktad. És csalódsz, mert te a CD-felvételt, a saját elképzelésedet akartad újra meghallgatni más hangján, akinek viszont volt saját egyénisége. Ami ráadásul nem is biztos, hogy tetszik neked.
+Mindenki, aki valamit *akart tőle*, aki *valamilyennek* akarta, aki elképzelt maga elé egy Jézus-képet és azt várta tőle, hogy ennek *megfeleljen* - csalódott. Mint amikor rongyosra hallgatsz egy zenei felvételt, eljön a tengerentúlról az előadó és élőben nem úgy, nem azon a hangszínen, nem abban a tempóban énekli el, mint ahogy megszoktad. És csalódsz, mert te a CD-felvételt, a saját elképzelésedet akartad újra meghallgatni más hangján, akinek viszont volt saját egyénisége. Ami ráadásul nem is biztos, hogy tetszik neked.
 
 Mennyire állsz készen, hogy elfogadd, ami jön egy barátodtól, rokonodtól, az élettársadtól vagy akár tőlem ezen a blogon, és mennyire akarsz egy saját elképzelést ráerőszakolni a másikra? Megálmodod a (jövőbeni) barátnődet valamilyennek és ha megjön az igazi (vagy inkább egy lehetőség, akiből az igazi is lehetne), elengeded, mert nem olyan, amilyennek képzelted. Akár itt vagyok én is példának: tudod hányan akadnak ki, amikor olyan oldalamról látnak meg, amiről eddig nem - és az nem egyezik az elképzeléseikkel? Sokszor kapom meg, hogy csalódtak bennem - de **ilyenkor nem bennem csalódnak**, én nem változtam, **hanem abban** az elképzelésben, amit rólam alkottak. Vagy még inkább, **amilyennek ők szerettek volna látni**. Forradalmárnak, politikusnak, "egyszerű" operaénekesnek, valakinek a fiának, bölcs tanítónak vagy a jó ég tudja minek. 
 
