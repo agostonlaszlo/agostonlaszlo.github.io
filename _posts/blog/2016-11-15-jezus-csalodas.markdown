@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hogyan okozott Jézus csalódást"
+title: "Hogyan okozott csalódást Jézus"
 date: 2016-11-06 18:52:42.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Mint amikor ezerszer meghallgatsz egy Cd-t, de amikor az előadót élőben hallod, ő nem úgy, nem azon a hangszínen, nem abban a tempbóban énekli el, mint ahogy megszoktad. És csalódsz, mert te a CD-felvételt, a saját elképzelésedet akartad újra meghallgatni élőben."
