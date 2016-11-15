@@ -27,17 +27,8 @@ Józsefről, az apjáról sem sokat olvasunk. Miután tanítani kezdett talán e
 
 Mindenki, aki valamit *akart tőle*, aki *valamilyennek* akarta, aki elképzelt maga elé egy Jézus-képet és azt várta tőle, hogy ennek *megfeleljen* - csalódott. Mint amikor rongyosra hallgatsz egy zenei felvételt, eljön a tengerentúlról az előadó és élőben nem úgy, nem azon a hangszínen, nem abban a tempbóban énekli el, mint ahogy megszoktad. És csalódsz, mert te a CD-felvételt, a saját elképzelésedet akartad újra meghallgatni más hangján, akinek viszont volt saját egyénisége. Ami ráadásul nem is biztos, hogy tetszik neked.
 
-Hát így vagyok én is. Sokan várják tőlem, hogy politizáljak, alapítsak pártot és harcoljak a rendszer ellen. Azt mondják, hiteltelen vagyok, ha nem teszem. Talán a keresztre nem küldenek fel, hogy sarokba szorítsanak, de nem is vagyok Megváltó. Sokan számon kérnek, hogy miért nem maradok csendben és csinálom azt, amihez értek. Állítólag még a kutyaszarról is van véleményem. De miért is ne lehetne? És József Attilát idézve "ki tiltja meg, hogy elmondjam, mi bántott hazafelé menet?" Ha érdekel olvasod - egyszerű a képlet.
+Mennyire állsz készen, hogy elfogadd, ami jön egy barátodtól, rokonodtól, az élettársadtól vagy akár tőlem ezen a blogon, és mennyire akarsz egy saját elképzelést ráerőszakolni a másikra? Megálmodod a (jövőbeni) barátnődet valamilyennek és ha megjön az igazi (vagy inkább egy lehetőség, akiből az igazi is lehetne), elengeded, mert nem olyan, amilyennek képzelted. Akár itt vagyok én is példának: tudod hányan akadnak ki, amikor olyan oldalamról látnak meg, amiről eddig nem - és az nem egyezik az elképzeléseikkel? Sokszor kapom meg, hogy csalódtak bennem - de ilyenkor nem bennem csalódnak, én nem változtam, hanem abban az elképzelésben, amit rólam alkottak. Vagy még inkább, amilyennek ők szerettek volna látni. Forradalmárnak, politikusnak, "egyszerű" operaénekesnek, valakinek a fiának, bölcs tanítónak vagy a jó ég tudja minek. 
 
-<div class="fb-video" data-href="https://www.facebook.com/agostonlaszloartist/videos/908980235872742/"  
-  data-allowfullscreen="true" data-width="500"></div>
+Egy barátom szokta mondani: nagyon nehéz azzal vitatkozni, aki nem hallgatja meg, amit mondasz, csak a saját ötletét kéviseli. Nagyon nehéz megfelelni azoknak, akik nem téged látnak, hanem a saját vágyaikat vetítik ki beléd. Én meg se próbálom - legalábbis itt az oldalon. Régen hiteltelen lennék, ha a lájkok száma határozná meg, mit gondolok vagy csinálok.
 
-Sokan várják, hogy cselekedjünk helyettük, tegyük jobbá a világot és ők - ígérik - lelkesen fognak hozzá tapsolni. Adnak egy lájkot. Megosztják. Akár meg is szavazzák, ha nem reggel van a szavazás, mert olyankor nehéz felkelni. De azért "toljad Laci!" és "mivanmár Laci?".
-
-Sokan azt várják, hogy tanító legyek, akinek a gondolataiból táplálkozhatnak. De ha olyat tanítok, amit nem tetszik nekik, ellenem fordulnak. Ha elkezdek cikkeket írni Soma mamagésa oldalára, számukra hiteltelenné válok és leiratkoznak. A cikket pedig el se olvassák.
-
-Csak apám és anyám és az ismerő barátaim nem várnak el tőlem és bíznak abban, hogy ha valamit teszek, akkor - felnőtt ember vagy! - annak oka is van, mérlegelés is előzte meg és inkább aggódnak értem, mint fordulnak el tőlem. Azokat a "barátokat" már rég leépítettem... Maradtak azok, akiket nem a saját elvárásuk érdekel, hanem az, hogy mit tudnak kapni tőlem. Akik velem nevetnek a melléfogásaimon és ott vannak, ha ennél többre lenne szükség.
-
-Bírából, farizeusból, tanítványból áradó Dunát lehetne rekeszteni. Tudsz-e barátsággal fordulni hozzzám? Tudod-e elvárások helyett köszönettel fogadni, azt és annyit, amennyit egy másik embertől (akár tőlem, de akár bármelyik barátodtól, rokonodtól, az élettársadtól) kapsz? Mi lenne ha a kapcsolataidban az "adás" lenne - legalább egy kicsivel - fontosabb?
-
-Azt hiszem, Jézus is erre próbált célozni.
+De ezt a cikket most azért írtam, hogy gondolkozz el: készen állsz elfogadni azt, amit kaphatsz egy barátodtól, rokonodtól, az élettársadtól vagy akár tőlem ezen a blogon, vagy a saját elképzeléseidnek keresel megtestesülést? Az előbbivel mind jobban járnánk.
