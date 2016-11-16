@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hogyan okozott csalódást Jézus"
-date: 2016-11-06 18:52:42.000000000 +00:00
+date: 2016-11-15 18:52:42.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Csalódott benne szinte mindenki. A népe, a közössége, a tanítványai, József, az apja, a gazdag ifjú. Mindannyian ugyanabba a hibába estek. Amibe te is esel nap, mint nap..."
 categories: blog
