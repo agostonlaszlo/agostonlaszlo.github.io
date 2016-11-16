@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BOLDOG HÉTVÉGÉT!"
-date: 2016-11-06 18:52:42.000000000 +00:00
+date: 2016-11-13 18:52:42.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Hát persze! Basszamegavasárnap! Be kell rohannod az irodába, mert TÉNYLEG elfelejtetted és hétfő reggel ezzel kezdünk. Nem sok idő, csak egy pár perc tényleg, Zsuzsi! Addig nézzétek meg a rajzfilmet nélkülem."
 categories: blog
