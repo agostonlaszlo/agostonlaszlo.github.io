@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Egy beszéd, amit a legtöbb magyar sohasem hallott"
-date: 2016-11-06 18:52:42.000000000 +00:00
+date: 2016-11-13 18:52:42.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Magyar fordítása (felirattal) eddig nem volt. Minden évben meghallgatom kétszer-háromszor, lassan kívülről tudom és erőre kapok tőle. Újra elkezdek tőle hinni abban, hogy lehet változtatni."
 categories: blog
