@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nem ők a hülyék, mi élünk burokban"
-date: 2016-11-06 18:52:42.000000000 +00:00
+date: 2016-11-11 18:52:42.000000000 +00:00
 author: agoston_laszlo
 excerpt: "A Brexittel, a Dicsőséges Népszavazással és most Trump megválasztásával egy világ omlott össze bennünk. Egy világ, kedves liberális, budapesti értelmiségi barátaim, amit hazudtunk magunknak."
 categories: blog
