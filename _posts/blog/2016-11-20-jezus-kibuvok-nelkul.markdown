@@ -9,7 +9,7 @@ tags: [iszlám, kereszténység, megbékélés, videó]
 lang: hu
 image: http://www.agostonlaszlo.hu/images/imamespap.jpg
 ---
-Volt egyszer egy Jézus nevű zsidó férfi. Az otthonától távol, egy istállóban született, mert a világ nem akarta befogadni. Azért jött, hogy békességet hirdessen "Földön az embernek" és azért szögezték keresztfára, (mert se politizálni nem akart, se úgy megváltani az embereket, ahogyan azt ők szerették volna)[http://agostonlaszlo.hu/blog/jezus-csalodas/]. 
+Volt egyszer egy Jézus nevű zsidó férfi. Az otthonától távol, egy istállóban született, mert a világ nem akarta befogadni. Azért jött, hogy békességet hirdessen "Földön az embernek" és azért szögezték keresztfára, [mert se politizálni nem akart, se _úgy megváltani az embereket, ahogyan azt ők szerették volna_](http://agostonlaszlo.hu/blog/jezus-csalodas/) 
 
 Jézus botrányos volt. Szajhákkal és uzsorásokkal mutatkozott. Azokat szerette és azok szerették, akiket akkoriban nem volt divat. Egy megszállás alatt lévő nép gyermeke, akit a sajátjai is kirekesztettek.
 
