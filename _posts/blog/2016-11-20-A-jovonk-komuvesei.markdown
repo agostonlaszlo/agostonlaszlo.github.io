@@ -5,7 +5,7 @@ date: 2016-11-20 10:52:42.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Őt is fenyegetik feldühödt másfél mázsás szülők, ő is nevetséges, megalázó fizetést kap. Néha, amikor nem látják, ő is sír és átkozza a pillanatot, amikor ezt a szakmát választotta."
 categories: blog
-tags: [rólam, demokrácia, megbékélés]
+tags: [rólam, demokrácia, megbékélés, videó]
 lang: hu
 image: http://www.agostonlaszlo.hu/images/tanarok.jpg
 ---
