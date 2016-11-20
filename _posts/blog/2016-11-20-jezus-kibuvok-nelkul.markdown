@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ha ezt megérted, csak akkor lehet a karácsony nálatok a szeretet ünnepe"
-date: 2016-11-20 15:52:42.000000000 +00:00
+date: 2016-11-20 15:32:42.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Nem épített katedrálist, nem árult bűnoldó papi bullát és nem uszított senki ellen "az egyháza védelmében". Nem alapított se keresztény, se másmilyen demokrata néppártot és nem áldott meg fegyvereket sem soha."
 categories: blog
