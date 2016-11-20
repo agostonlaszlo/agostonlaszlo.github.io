@@ -9,7 +9,7 @@ tags: [iszlám, kereszténység, megbékélés, videó]
 lang: hu
 image: http://www.agostonlaszlo.hu/images/imamespap.jpg
 ---
-Volt egyszer egy Jézus nevű zsidó férfi. Az otthonától távol, egy istállóban született, mert a világ nem akarta befogadni. Azért jött, hogy békességet hirdessen "Földön az embernek" és azért szögezték keresztfára, [mert se politizálni nem akart, se _úgy megváltani az embereket, ahogyan azt ők szerették volna_](http://agostonlaszlo.hu/blog/jezus-csalodas/) 
+Volt egyszer egy Jézus nevű zsidó férfi. Az otthonától távol, egy istállóban született, mert a világ nem akarta befogadni. Azért jött, hogy békességet hirdessen "Földön az embernek" és azért szögezték keresztfára, [mert se politizálni nem akart, se _úgy megváltani az embereket, ahogyan azt ők szerették volna._](http://agostonlaszlo.hu/blog/jezus-csalodas/) 
 
 Jézus botrányos volt. Szajhákkal és uzsorásokkal mutatkozott. Azokat szerette és azok szerették, akiket akkoriban nem volt divat. Egy megszállás alatt lévő nép gyermeke, akit a sajátjai is kirekesztettek.
 
@@ -21,5 +21,5 @@ Csak annyit mondott, hogy a szeretet a legfontosabb törvény. Kivételek és ki
 
 Ezért halt meg. E miatt és ennek a szolgálatában. Mert nem ismert kivételt és kibúvót.
 
-Boldog karácsonyt kívánok neked is. Kivételek és kibúvók nélkül.
+Boldog karácsonyi készülődést kívánok neked is. Kívánom, hogy értsd meg ezt a fenti videót. És fogadd el az üzenetét kivételek és kibúvók nélkül.
 
