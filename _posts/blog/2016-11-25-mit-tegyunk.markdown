@@ -3,7 +3,7 @@ layout: post
 title: "Vagyunk páran, akik átlátunk a Mátrixon. De mit tudunk tenni?"
 date: 2016-11-20 15:32:42.000000000 +00:00
 author: agoston_laszlo
-excerpt: "Attól még, hogy változik a rendszer, ha a fejekben ugyanaz marad, ugyanazt termeljük vissza. Ha jobbágy a magyar fejben, miért ne keresne magának földesurat?"
+excerpt: "Attól még, hogy változik a rendszer, ha a fejekben ugyanaz marad, ugyanazt termeljük vissza. Ha jobbágy a magyar fejben, miért ne keresne földesurat?"
 categories: blog
 tags: [rólam, megbékélés, demokrácia]
 lang: hu
