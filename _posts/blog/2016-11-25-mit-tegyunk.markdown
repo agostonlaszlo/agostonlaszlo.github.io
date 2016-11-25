@@ -7,7 +7,7 @@ excerpt: "Attól még, hogy változik a rendszer, ha a fejekben ugyanaz marad, u
 categories: blog
 tags: [rólam, megbékélés, demokrácia]
 lang: hu
-image: http://www.agostonlaszlo.hu/images/mittegyunk.jpg
+image: http://www.petermanmanman.com/wp-content/uploads/bfi_thumb/unlock-mind-2zyyrmdrz8b24kb9ucgx6y.jpg
 ---
 
 ![]({{ site.baseurl }}/images/mittegyunk.jpg)
