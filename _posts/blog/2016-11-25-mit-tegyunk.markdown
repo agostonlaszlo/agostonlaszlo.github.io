@@ -11,7 +11,7 @@ image: http://www.agostonlaszlo.hu/images/mittegyunk.jpg
 ---
 
 ![]({{ site.baseurl }}/images/mittegyunk.jpg)
-Fél órája gondolkozom a válaszon. A legőszintébb ez: szeretem csinálni. Művész vagyok, ti pedig nyilvánosságot biztosítotok a számomra ahhoz, hogy megnyilvánuljak. Olvastok-hallgattok, visszajelzést adtok, gondolkodásra serkentetek... az én fajtámnak ez a drogja...
+Fél órája gondolkozom a válaszon. Az első felére a legőszintébb ez: szeretem csinálni. Művész vagyok, ti pedig nyilvánosságot biztosítotok a számomra ahhoz, hogy megnyilvánuljak. Olvastok-hallgattok, visszajelzést adtok, gondolkodásra serkentetek... az én fajtámnak ez a drogja...
 
 Mit lehet tenni? Mit tehet az a gondolkodó, akinek megfájdul a feje minden egyes reggel, amint megnyitja a híreket? Amíg az emberek minden álhírnek beugranak és zsidó gyíkembereket vízionálnak kormányok mögött, addig _politikailag_ semmit. A feladat nagyobb: az embereket kell megváltoztatni. Ez a hosszabb út. Egy szép katonai puccs vagy egy sikeres politikai megmozsulás esetleg látványosabb eredménnyel juttat el - már középtávon is ugyanoda. Mondjak egy példát? Rendszerváltás.
 
