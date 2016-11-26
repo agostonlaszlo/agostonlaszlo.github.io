@@ -3,16 +3,17 @@ layout: post
 title: "Ez a két szó teszi tönkre a Facebookos kommenteket"
 date: 2016-11-20 15:32:42.000000000 +00:00
 author: agoston_laszlo
-excerpt: "Attól még, hogy változik a rendszer, ha a fejekben ugyanaz marad, ugyanazt termeljük vissza. Ha jobbágy a magyar fejben, miért ne keresne földesurat?"
+excerpt: "Kognitív disszonancia: amikor utálom a buzikat meg a másokat úgy általában, valaki viszont rámutat, hogy az egyik kedvenc énekesem (Freddy Mercury) egyszerre volt meleg és zanzibári származású. "
 categories: blog
 tags: [homoszexualitás, demokrácia]
 lang: hu
 image: http://agostonlaszlo.hu/images/mercury.jpg
 ---
 ![]({{ site.baseurl }}http://agostonlaszlo.hu/images/mercury.jpg)
+
 Kognitív disszonancia: amikor utálom a buzikat meg a másokat úgy általában, valaki viszont rámutat, hogy az egyik kedvenc énekesem (Freddy Mercury) egyszerre volt meleg és zanzibári származású. Ilyenkor el kéne rajta gondolkodnom, hogy igazam van-e, amikor általában utálom a melegeket és a máshonnan érkezetteket, de ezzel én kényelmetlen helyzetbe kerülnék, mert esetleg meg kéne kerdőjeleznem a saját hitrendszerem, horribile dictu: akár még változtatnom is kéne rajta.
 
-![]({{ site.baseurl }}/images/kognitivdisszonancia.jpg)
+![/images/kognitivdisszonancia.jpg]({{ site.baseurl }}/images/kognitivdisszonancia.jpg)
 
 Ezért a válasz, ha a könnyebb utat választom az átértékelés helyett:
 
