@@ -10,13 +10,13 @@ lang: hu
 image: http://kep.cdn.index.hu/1/0/890/8909/89090/8909025_218931_268b235d2dda97af563edf1e34426322_wm.jpg
 ---
 
-Most olvasom, hogy Justin Trudeau - akit sok mindenben példaképemnek tekintek -, Kanada miniszterelnöke olyan közleményt adott ki az elhunyt Fidel Castróról, amelyben "büszke arra, hogy apja barátjának tekinthette", "legendás forradalmárnak" és "kiváló vezetőnek" nevezte. Rá is szabadult az internet [és csúnyán pellengérre állították és kifigurázták a nem túl jól sikerült közleményt.](http://index.hu/kulfold/2016/11/27/kirohogtek_es_anyaztak_a_kanadai_miniszterelnok_castro-nekrologjat/) Még mindig jobb, mint déli szomszédja, aki [nem hagyta ki a lehetőséget, hogy belerúghasson a halott oroszlánba](http://index.hu/kulfold/2016/11/26/ferenc_papa_imadkozik_fidel_castroert/)...
+Most olvasom, hogy Justin Trudeau, Kanada miniszterelnöke - akit sok mindenben példaképemnek tekintek -,  olyan közleményt adott ki az elhunyt Fidel Castróról, amelyben "büszke arra, hogy apja barátjának tekinthette", "legendás forradalmárnak" és "kiváló vezetőnek" nevezte. Rá is szabadult az internet [és csúnyán pellengérre állították és kifigurázták a nem túl jól sikerült közleményt.](http://index.hu/kulfold/2016/11/27/kirohogtek_es_anyaztak_a_kanadai_miniszterelnok_castro-nekrologjat/) Még mindig jobb, mint déli szomszédja, aki [nem hagyta ki a lehetőséget, hogy belerúghasson a halott oroszlánba...](http://index.hu/kulfold/2016/11/26/ferenc_papa_imadkozik_fidel_castroert/)
 
 Két tanulsága van a történetnek. Egyrészt: még a példaképeink sem mindig olyanok, mint mi szeretnénk - és igazából jól is van ez így. A másik a *gyenge kezű liberalizmus*. 
 
 Sokan mondják-mondogatják: forradalom kell ma Magyarországra. Ezzel sok szempontból nem értek egyet, mindenek előtt azért, mert nem hiszek az erőszakban, másrészt mert úgy érzem, sok millió magyar EZT AKARJA, harmadrészt mert ki lenne akkor utána? Negyedrészt pedig: ki vinné véghez? Az idősödő történelemtanárok? A felmelegedés miatt biciklivel dolgozni járó kétdiplomás könnyűdroghasználók? Az LMBTQ közösség tagjai? A már külföldre emigrált fiatal orvosok, értelmiségiek? A futballhuligánok és a verekedni szerető kopaszok nem "ezen az oldalon" vannak. Gyenge kezűek a liberálisok.
 
-![]({{ site.baseurl }}/images/trudeau.jpg)
+![](http://agostonlaszlo.hu/images/trudeau.jpg)
 <center>[Forrás](http://www.aljazeera.com/mritems/Images/2015/11/8/3816d27300bd4e90a4444eedc2ecfe8c_18.jpg)</center>
 
 De kell-e, hogy erős kezűek legyünk és ha kell, kapára-kaszára keljen az értelmiség? A haza ellenségei-e azok, akik mondjuk a sztereotípia szerint kevesebb iskolázottsággal, de nagyobb izomtömeggel rendelkeznek? Szükség van-e Torockaira?
