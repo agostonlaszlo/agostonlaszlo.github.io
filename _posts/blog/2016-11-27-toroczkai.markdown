@@ -14,11 +14,11 @@ Most olvasom, hogy Justin Trudeau, Kanada miniszterelnöke - akit sok mindenben 
 
 Két tanulsága van számomra a történetnek. Egyrészt: még a példaképeink sem mindig olyanok, mint mi szeretnénk - és igazából jól is van ez így. A másik a *gyenge kezű liberalizmus*. 
 
-Sokan mondják-mondogatják: forradalom kell ma Magyarországra. Ezzel sok szempontból nem értek egyet, mindenek előtt azért, mert nem hiszek az erőszakban, másrészt mert úgy érzem, sok millió magyar EZT AKARJA, harmadrészt mert ki lenne akkor utána? Negyedrészt pedig: ki vinné véghez? Az idősödő történelemtanárok? A felmelegedés miatt biciklivel dolgozni járó kétdiplomás könnyűdroghasználók? Az LMBTQ közösség tagjai? A már külföldre emigrált fiatal orvosok, értelmiségiek? A futballhuligánok és a verekedni szerető kopaszok nem "ezen az oldalon" vannak. Gyenge kezűek a liberálisok.
+Sokan mondják-mondogatják: forradalom kell ma Magyarországra. Ezzel több szempontból sem értek egyet, mindenek előtt azért, mert nem hiszek az erőszakban, másrészt mert úgy érzem, sok millió magyar EZT AKARJA, ami most van, harmadrészt mert ki lenne akkor utána? Negyedrészt pedig: ki vinné véghez? Az idősödő történelemtanárok? A felmelegedés miatt biciklivel dolgozni járó kétdiplomás könnyűdroghasználók? Az LMBTQ közösség tagjai? A már külföldre emigrált fiatal orvosok, értelmiségiek? A futballhuligánok és a verekedni szerető kopaszok nem "ezen az oldalon" vannak. Gyenge kezűek a liberálisok.
 
 ![](http://agostonlaszlo.hu/images/trudeau.jpg)
-[*Justin Trudeau 
-(a kép forrása)*](http://www.aljazeera.com/mritems/Images/2015/11/8/3816d27300bd4e90a4444eedc2ecfe8c_18.jpg)
+*Justin Trudeau 
+[(a kép forrása)*](http://www.aljazeera.com/mritems/Images/2015/11/8/3816d27300bd4e90a4444eedc2ecfe8c_18.jpg)
 
 De kell-e, hogy erős kezűek legyünk és ha kell, kapára-kaszára keljen az értelmiség? A haza ellenségei-e azok, akik mondjuk a sztereotípia szerint kevesebb iskolázottsággal, de nagyobb izomtömeggel rendelkeznek? Szükség van-e Torockaira?
 
