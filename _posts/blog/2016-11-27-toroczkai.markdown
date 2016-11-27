@@ -17,7 +17,7 @@ Két tanulsága van a történetnek. Egyrészt: még a példaképeink sem mindig
 Sokan mondják-mondogatják: forradalom kell ma Magyarországra. Ezzel sok szempontból nem értek egyet, mindenek előtt azért, mert nem hiszek az erőszakban, másrészt mert úgy érzem, sok millió magyar EZT AKARJA, harmadrészt mert ki lenne akkor utána? Negyedrészt pedig: ki vinné véghez? Az idősödő történelemtanárok? A felmelegedés miatt biciklivel dolgozni járó kétdiplomás könnyűdroghasználók? Az LMBTQ közösség tagjai? A már külföldre emigrált fiatal orvosok, értelmiségiek? A futballhuligánok és a verekedni szerető kopaszok nem "ezen az oldalon" vannak. Gyenge kezűek a liberálisok.
 
 ![]({{ site.baseurl }}/images/trudeau.jpg)
-<center>[(Forrás)](http://www.aljazeera.com/mritems/Images/2015/11/8/3816d27300bd4e90a4444eedc2ecfe8c_18.jpg)</center>
+<center>[Forrás](http://www.aljazeera.com/mritems/Images/2015/11/8/3816d27300bd4e90a4444eedc2ecfe8c_18.jpg)</center>
 
 De kell-e, hogy erős kezűek legyünk és ha kell, kapára-kaszára keljen az értelmiség? A haza ellenségei-e azok, akik mondjuk a sztereotípia szerint kevesebb iskolázottsággal, de nagyobb izomtömeggel rendelkeznek? Szükség van-e Torockaira?
 
@@ -28,7 +28,7 @@ Kapaszkodj meg: szerintem szükség van rájuk és óriási hiba ellenséget ké
 Tudod, az országnak - akárcsak egy testnek - szüksége van immunrendszerre. Van katona barátom. Ha egyszer megtámadnák Magyarországot, ő lenne az a fehérvérsejt, aki menne megvédeni - és Toroczkai és azok a kopaszok, akik most is lementek önszerveződő módon a déli határra mingránsok után razziázni. Az már nem az immunrendszer hibája, ha egy rossz parancs valós immunválasz helyett allergiás (túl)reakciót vált ki. Ők ott lennének akkor is, ha valódi fenyegetettség érné az országot - az idősödő történelemtanárok és a biciklivel munkába járó értelmiségi lányok helyett is.
 
 ![]({{ site.baseurl }}http://kep.cdn.index.hu/1/0/890/8909/89090/8909025_218931_268b235d2dda97af563edf1e34426322_wm.jpg)
-<center>[(Forrás: index)](http://index.hu/belfold/2015/07/13/beragott_a_betyarsereg_toroczkaira/) / Nagy Lajos - MTI</center>
+<center>[Forrás: index](http://index.hu/belfold/2015/07/13/beragott_a_betyarsereg_toroczkaira/) / Nagy Lajos - MTI</center>
 
 Nem fogod elhinni, de tisztelem ezeknek az embereknek az elszántságát és hiszek benne, hogy amikor a Jobbik meg a Nemzeti Gárda felvonul egy cigányok lakta településen, hogy erőt demonstráljon, a felvonuló kopaszok nem agyatlan őrültek, akik keresik a bajt. Ők azok, akik elkeseredtek és megoldást akarnak és ez az eszköztáruk, amit használni tudnak. Az eszköztár, ami a budapesti lila ködös értelmiségnek viszont teljesen hiányzik.
 
