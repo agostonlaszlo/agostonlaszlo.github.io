@@ -3,9 +3,9 @@ layout: post
 title: "Szükség van-e Torockzaira?"
 date: 2016-11-20 15:32:42.000000000 +00:00
 author: agoston_laszlo
-excerpt: "Kognitív disszonancia: amikor utálom a buzikat meg a másokat úgy általában, valaki viszont rámutat, hogy az egyik kedvenc énekesem (Freddy Mercury) egyszerre volt meleg és zanzibári származású. "
+excerpt: "De kell-e, hogy erős kezűek legyünk és ha kell, kapára-kaszára keljen az értelmiség? A haza ellenségei-e azok, akik mondjuk a sztereotípia szerint kevesebb iskolázottsággal, de nagyobb izomtömeggel rendelkeznek? Szükség van-e Toroczkaira? "
 categories: blog
-tags: [homoszexualitás, demokrácia]
+tags: [megbékélés, demokrácia]
 lang: hu
 image: http://kep.cdn.index.hu/1/0/890/8909/89090/8909025_218931_268b235d2dda97af563edf1e34426322_wm.jpg
 ---
