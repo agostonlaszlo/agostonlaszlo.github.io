@@ -3,7 +3,7 @@ layout: post
 title: "Szükség van-e Toroczkaira?"
 date: 2016-11-20 15:32:42.000000000 +00:00
 author: agoston_laszlo
-excerpt: "De kell-e, hogy erős kezűek legyünk és ha kell, kapára-kaszára keljen az értelmiség? A haza ellenségei-e azok, akik mondjuk a sztereotípia szerint kevesebb iskolázottsággal, de nagyobb izomtömeggel rendelkeznek? Szükség van-e Toroczkaira? "
+excerpt: "De kell-e, hogy erős kezűek legyünk és ha kell, kapára-kaszára keljen az értelmiség? A haza ellenségei-e azok, akik mondjuk a sztereotípia szerint kevesebb iskolázottsággal, de nagyobb izomtömeggel rendelkeznek?"
 categories: blog
 tags: [megbékélés, demokrácia]
 lang: hu
