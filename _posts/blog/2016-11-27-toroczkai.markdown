@@ -18,7 +18,7 @@ Sokan mondják-mondogatják: forradalom kell ma Magyarországra. Ezzel több sze
 
 ![](http://agostonlaszlo.hu/images/trudeau.jpg)
 *Justin Trudeau 
-[(a kép forrása)*](http://www.aljazeera.com/mritems/Images/2015/11/8/3816d27300bd4e90a4444eedc2ecfe8c_18.jpg)
+[(a kép forrása)](http://www.aljazeera.com/mritems/Images/2015/11/8/3816d27300bd4e90a4444eedc2ecfe8c_18.jpg)*
 
 De kell-e, hogy erős kezűek legyünk és ha kell, kapára-kaszára keljen az értelmiség? A haza ellenségei-e azok, akik mondjuk a sztereotípia szerint kevesebb iskolázottsággal, de nagyobb izomtömeggel rendelkeznek? Szükség van-e Torockaira?
 
