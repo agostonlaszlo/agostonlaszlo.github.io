@@ -9,7 +9,8 @@ tags: [megbékélés, demokrácia]
 lang: hu
 image: http://kep.index.hu/1/0/890/8909/89090/8909041_6051eb2191ac3458a10de447391ae1ee_wm.jpg
 ---
-**Orbán Viktor bejelentette: [minden nyugdíjas kap 10 ezer forintot karácsonyra az Államtól](http://index.hu/gazdasag/2016/11/29/orban_minden_nyugdijas_kap_10_ezer_forintot_karacsonyra/). Lázár János 
+**Orbán Viktor bejelentette: [minden nyugdíjas kap 10 ezer forintot karácsonyra az Államtól](http://index.hu/gazdasag/2016/11/29/orban_minden_nyugdijas_kap_10_ezer_forintot_karacsonyra/). Ezután [Lázár János](http://index.hu/belfold/2011/03/19/lazar_szerint_akinek_nincs_semmije_az_annyit_is_er/) jelezte: maguk a kormányhivatalnokok viszik ki a 10 ezer forintot a nyugdíjasoknak, egy-egy biztonsági őr kíséretében. Állítása szerint (ez így olcsóbb, mintha az állami tulajdonú Magyar Posta vinné ki az Állam ajándékát)[http://index.hu/belfold/2016/12/01/a_kormanyhivatalnokok_viszik_ki_a_10_ezer_forintot_a_nyugdijasoknak]. A hivatali ügyintézésben a rendelet miatt komoly fennakadások várhatók: harmincezer állami alkalmazott fog postást játszani karácsony előtt és a két ünnep között - a postások helyett. 
+
 
 EGY TÁL LENCSE 
 
