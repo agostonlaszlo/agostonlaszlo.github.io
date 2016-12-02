@@ -3,7 +3,7 @@ layout: post
 title: "Egy tál lencse"
 date: 2016-12-02 10:32:42.000000000 +00:00
 author: agoston_laszlo
-excerpt: "Minden nyugdíjas kap 10 ezer forintot karácsonyra az Államtól. Lázár János bejelentette: maguk a kormányhivatalnokok viszik ki a 10 ezer forintot a nyugdíjasoknak, egy-egy biztonsági őr kíséretében. Állítása szerint ez így olcsóbb, mintha az állami tulajdonú Magyar Posta vinné ki az Állam ajándékát. A hivatali ügyintézésben a rendelet miatt komoly fennakadások várhatók: harmincezer állami alkalmazott fog postást játszani karácsony előtt és a két ünnep között - a postások helyett."
+excerpt: "Minden nyugdíjas kap 10 ezer forintot karácsonyra az Államtól. Lázár János bejelentette: maguk a kormányhivatalnokok viszik ki a 10 ezer forintot a nyugdíjasoknak, egy-egy biztonsági őr kíséretében. Harmincezer állami alkalmazott fog postást játszani karácsony előtt és a két ünnep között - a postások helyett."
 categories: blog
 tags: [megbékélés, demokrácia]
 lang: hu
