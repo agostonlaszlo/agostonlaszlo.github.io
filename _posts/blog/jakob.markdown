@@ -16,18 +16,18 @@ EGY TÁL LENCSE
 
 Jákób (akinek a neve csalót jelent) éppen evéshez készülődött, amikor testvére, Ézsau, megérkezett a vadászatról. Kimerült volt, éhes és nem érdekelte a jövő, csak a következő falat.
  
-- Adj ennem, kérlek! - szólt öccséhez. 
+-Adj ennem, kérlek! - szólt öccséhez. 
 
-- Nem adok, dögölj éhen. Ha nincs mit enned, pont annyit is érsz! - válaszolta Jákób, de aztán hirtelen eszébe jutott valami. - Hanem ha nekem adod az elsőszülöttségi jogodat... ha hatalomra segítesz engem... akkor itt egy tál lencse, nosza megeheted...
+-Nem adok, dögölj éhen. Ha nincs mit enned, pont annyit is érsz! - válaszolta Jákób, de aztán hirtelen eszébe jutott valami. - Hanem ha nekem adod az elsőszülöttségi jogodat... ha hatalomra segítesz engem... akkor itt egy tál lencse, nosza megeheted...
 
 Jákób a kimerült, a hosszú évek vadászatától kifáradt és rövid távú reményt váró Ézsau felé nyújtotta a fatálban a szegényes kis lencsét. 
 
-- Éhenhalok, ha nem kapok enni - gondolta Ézsau. Mit érdekel az elsőszülöttségi jog! Örökölje csak ő a közös vagyont! Legyen ő a vezető... én elsősorban és mindenek felett ÉHES vagyok.
+-Éhenhalok, ha nem kapok enni - gondolta Ézsau. Mit érdekel az elsőszülöttségi jog! Örökölje csak ő a közös vagyont! Legyen ő a vezető... én elsősorban és mindenek felett ÉHES vagyok.
 
 És megköttetett az üzlet, egy tál lencséért Ézsau eladta az örökségét csaló testvérének. 
 
 "Rohadt, mocskos zsidók!" - horkant fel Kovács úr Tápiószentandráson, ahogy a lelkész befejezte a Bibliaórát. Hazament. 
 
-Érdekes. Az ajtó előtt várnak valakik.
+Érdekes. Az ajtó előtt épp két ember várja.
 
 ![](http://agostonlaszlo.hu/images/trudeau.jpg)
