@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Az én kisvasutam"
-date: 2016-12-02 10:32:42.000000000 +00:00
+date: 2016-4-28 10:32:42.000000000 +00:00
 author: agoston_laszlo
-excerpt: "Pár éves lehettem, amikor a szüleimtől kaptam karácsonyra egy kisvasutat. A mai napig tudom, mi volt ráírva a dobozára: "PIKO KOMPLETT ANLAGE". Emlékszem, amikor a karácsonyfa alatt először játszottunk vele apámmal. Ezek azok az emlékek, amiket valahova mélyre, egy puha, kibélelt rekeszbe tesz el az ember, nehogy bajuk essen."
+excerpt: "Pár éves lehettem, amikor a szüleimtől kaptam karácsonyra egy kisvasutat. Ez állt a dobozán: PIKO KOMPLETT ANLAGE. Emlékszem, amikor a karácsonyfa alatt először játszottunk vele apámmal. Ezek azok az emlékek, amiket valahova mélyre, egy puha, kibélelt rekeszbe tesz el az ember, nehogy bajuk essen."
 categories: blog
 tags: [rólam]
 lang: hu
