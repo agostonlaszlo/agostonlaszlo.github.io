@@ -3,7 +3,7 @@ layout: post
 title: "Álltál már a kör közepén?"
 date: 2016-12-02 10:32:42.000000000 +00:00
 author: agoston_laszlo
-excerpt: "Az iskolai szekrényem ajtaja felfeszítve, a dolgaim a folyosóra szórva, a ruháim megtaposva. Ő pedig ott várt a suli előtt. Ő és tízen másik. Körben, mint a jóbarátok s rosszak. Mondták, hogy nem szólnak közbe, csak meg akarják nézni, ahogy lerendezzük.  "
+excerpt: "Az iskolai szekrényem ajtaja felfeszítve, a dolgaim a folyosóra szórva, a ruháim megtaposva. Ő pedig ott várt a suli előtt. Ő és tíz másik. Körben, mint a jóbarátok s rosszak. Mondták, hogy nem szólnak közbe, csak megnézik, ahogy lerendezzük."
 categories: blog
 tags: [megbékélés, demokrácia]
 lang: hu
