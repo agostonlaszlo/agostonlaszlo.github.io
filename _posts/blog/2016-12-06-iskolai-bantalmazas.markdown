@@ -24,6 +24,7 @@ Nem mert közelebb jönni, mert már így is csupa vér volt a keze, ahogy az or
 <iframe src="https://player.vimeo.com/video/194485192" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <center>Ezt a videót mindenképpen néz majd meg.</center>
 
+
 Másnap a teremben a táblán egy felirat fogadott: az ő neve és az enyém, mellette 0:1 TKO - azaz, hogy győztem. Őt az igazgatóiba hívatták. Elkobozták az airsoft pisztolyát. Még sokáig voltunk osztálytársak. Miután bevertem az orrát, kicsit békén hagyott. 
 
 Szerencsém volt, mert meg volt a fizikumom, hogy kiálljak magamért. Szerencsém volt, mert a többi kilenc tényleg nem avatkozott közbe. Szerencsém volt, mert nem álltak bosszút. Szerencsém volt, mert nem volt "éles" a pisztolya.
