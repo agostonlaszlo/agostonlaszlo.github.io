@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Diákévek - amiről nem szeretünk beszélni"
+title: "Álltál már a kör közepén?"
 date: 2016-12-02 10:32:42.000000000 +00:00
 author: agoston_laszlo
-excerpt: "Az első ütésemtől ömleni kezdett a vére. A második ütésemtől megingott. Tízen álltak körbe, várták, hogy ki tudok-e állni magamért. Várták, hogy csicska leszek-e a gimnáziumi évek végéig vagy megharcolok a becsületemért. Megharcoltam. Pedig senki se segített. "
+excerpt: "Az iskolai szekrényem ajtaja felfeszítve, a dolgaim a folyosóra szórva, a ruháim megtaposva. Ő pedig ott várt a suli előtt. Ő és tízen másik. Körben, mint a jóbarátok s rosszak. Mondták, hogy nem szólnak közbe, csak meg akarják nézni, ahogy lerendezzük.  "
 categories: blog
 tags: [megbékélés, demokrácia]
 lang: hu
