@@ -13,14 +13,15 @@ Nézd meg a videót aztán görgess lejjebb.
 
 <iframe src="https://player.vimeo.com/video/194485192" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-*
-*
-*
-*
-*
-*
-*
-*
+-
+-
+-
+-
+-
+-
+-
+-
+
 
 
 Legyinthetsz, hogy "Magyarországon úgysincsen fegyveres erőszak az iskolákban - de mivel jobb az, amelyikben nem használnak fegyvert? Vajon észreveszed-e azt, aki segítségre szorul? 
