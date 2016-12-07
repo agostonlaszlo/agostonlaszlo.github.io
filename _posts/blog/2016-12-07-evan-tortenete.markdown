@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Észreveszed-e vagy átsiklasz fölötte?"
+title: "Észreveszed vagy átsiklasz fölötte?"
 date: 2016-12-07 10:32:42.000000000 +00:00
 author: agoston_laszlo
-excerpt: "Az iskolai szekrényem ajtaja felfeszítve, a dolgaim a folyosóra szórva, a ruháim megtaposva. Ő pedig ott várt a suli előtt. Ő és tíz másik. Körben, mint a jóbarátok s rosszak. Mondták, hogy nem szólnak közbe, csak megnézik, ahogy lerendezzük."
+excerpt: "Sokszor egy "hogy vagy" elég lenne. Sokszor egy "vajon miért olyan, amilyen" elég lenne ahhoz, hogy ítélkezés helyett megértsük a másikat. Te kérdezel vagy állítasz? Együttérzel vagy lenyomod a másikat?"
 categories: blog
 tags: [megbékélés, demokrácia]
 lang: hu
