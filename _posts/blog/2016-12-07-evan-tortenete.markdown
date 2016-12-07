@@ -13,13 +13,16 @@ Nézd meg a videót aztán görgess lejjebb.
 
 <iframe src="https://player.vimeo.com/video/194485192" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-o
-o
-o
-o
-o
-o
-o
+G
+Ö
+R
+G
+E
+S
+S
+
+L
+E
 
 
 
