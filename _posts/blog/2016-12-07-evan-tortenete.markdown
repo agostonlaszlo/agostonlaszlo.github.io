@@ -13,16 +13,7 @@ Nézd meg a videót aztán görgess lejjebb.
 
 <iframe src="https://player.vimeo.com/video/194485192" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-G
-Ö
-R
-G
-E
-S
-S
-
-L
-E
+![](https://www.alphasights.com/assets/scroll-down-3ae7fe2b25dfa382cbca0080092f8236442e7143d6be10583ee527093a45e3a4.svg)
 
 
 
@@ -36,4 +27,4 @@ Te kérdezel vagy állítasz? Együttérzel vagy lenyomod a másikat?
 
 Ha rajtad múlt volna, eljut ez a srác a lövöldözésig?
 
-(Álltál már a kör közepén?)[http://agostonlaszlo.hu/blog/iskolai-bantalmazas/] - egy korábbi cikkem az iskolai bántalmazásról.
+[Álltál már a kör közepén?](http://agostonlaszlo.hu/blog/iskolai-bantalmazas/) - egy korábbi cikkem az iskolai bántalmazásról.
