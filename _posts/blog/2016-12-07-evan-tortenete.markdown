@@ -5,7 +5,7 @@ date: 2016-12-07 10:32:42.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Hogy vagy? - sokszor ennyi is lenne. Vajon miért olyan, amilyen? - sokszor ennyi belegondolás kéne ahhoz, hogy ítélkezés helyett megértsük a másikat. Te kérdezel vagy állítasz? Együttérzel vagy lenyomod a másikat?"
 categories: blog
-tags: [megbékélés, demokrácia]
+tags: [megbékélés, iskola]
 lang: hu
 image: http://agostonlaszlo.hu/images/evan.jpg
 ---
