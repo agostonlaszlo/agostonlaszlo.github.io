@@ -14,7 +14,7 @@ Azt hiszem, megállapodhatunk abban, hogy nehéz lenne engem menekültellenessé
 "Nem tudod elképzelni. Szomáliai, afgán és feketeafrikai országokból jönnek hozzánk, szír egy sincs. Elképzelésük sincs a nyugati életmódról. Például nyitva hagyják a csapot, mert azt hiszik, a víz örökké folyik a csapból, mint egy forrás. Azt hiszik, a pincében ingyen és örökké ég a kazánban a tűz, ezért feltekerik a fűtést és nyitott ablak mellett pazarolnak. Nem tudják, hogyan készül a papír, azt hiszik, valami növényről szüreteljük. Borzasztó fárasztó velük dolgozni és gyakorlatilag értelmetlen.
 
 ![](http://agostonlaszlo.hu/images/afgan.JPG)
-<center>A kép illusztráció </center>
+<center>A kép illusztráció, [forrása ez](http://www.klik.gr/uploads_image/2015/09/07/p19ukeokra1uhq1nme16u88ta1uf74_900.jpg) </center>
 
 Van egy kurd srác, aki dizájner ruhákban jár, a nagybátyja sok pénzzel támogatja. Azt hazudta, hogy a balkáni útvonalon érkezett, de nekünk elárulta, hogy repülővel jött. Tizenhat a papírjai szerint, de ránézésre úgy huszonöt lehet. Ha elutasítják a menekültkérelmét - erre a hivatalnokok túlterheltsége miatt még vagy egy évig nem lesz mód, hiába írtam a központba, hogy itt valami nagyon bűzlik -, más néven, más történettel visszajön. Az ilyenek foglalják a helyet a valódi rászorulók elől.
 
