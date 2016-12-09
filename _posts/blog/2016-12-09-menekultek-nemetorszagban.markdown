@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nem tudják, honnan jön a csapvíz - beszélgetés egy német menekültgondozóval"
+title: "Nem tudják, honnan jön a csapvíz - beszélgetés egy német segélymunkással"
 date: 2016-12-07 10:32:42.000000000 +00:00
 author: agoston_laszlo
 excerpt: " Ötletük sincs arról, hogyan működik az elektromosság. Használni tudják, de nem értik. Laci! Ezek a srácok nem hitték el nekem, hogy a Föld gömbölyű!"
