@@ -7,13 +7,13 @@ excerpt: " Ötletük sincs arról, hogyan működik az elektromosság. Használn
 categories: blog
 tags: [megbékélés, iskola, demokrácia]
 lang: hu
-image: http://agostonlaszlo.hu/images/afgan.jpg
+image: http://agostonlaszlo.hu/images/afgan.JPG
 ---
 Azt hiszem, megállapodhatunk abban, hogy nehéz lenne engem menekültellenességgel vádolni - bár mindig fenntartottam, hogy talán történelme legnagyobb kihívása elé néz Európa, amit az eddigi paradimgák mentén nem fog tudni megoldani. Találkoztam egy német barátommal, harminc éves, alacsony, tejfölszőke srác, aki egy hétvégére ugrott át Magyarországra. Mesélte, hogy egy keletnémet kisváros (cca. 60 ezer fő) menekültszállóján dolgozik és már nagyon kivan. Leírom nektek, mit mondott el nekem a saját tapasztalatai alapján. Nem változtam: továbbra is hiszek abban, hogy keményen, szigorúan, de emberként kell bánnunk a hozzánk érkezőkkel - és főleg, hogy undorítú, amikor a saját belpolitikai hasznunkra próbáljuk használni más nyomorúságát. De nem lehetünk vakok.
 
 "Nem tudod elképzelni. Szomáliai, afgán és feketeafrikai országokból jönnek hozzánk, szír egy sincs. Elképzelésük sincs a nyugati életmódról. Például nyitva hagyják a csapot, mert azt hiszik, a víz örökké folyik a csapból, mint egy forrás. Azt hiszik, a pincében ingyen és örökké ég a kazánban a tűz, ezért feltekerik a fűtést és nyitott ablak mellett pazarolnak. Nem tudják, hogyan készül a papír, azt hiszik, valami növényről szüreteljük. Borzasztó fárasztó velük dolgozni és gyakorlatilag értelmetlen.
 
-![](http://agostonlaszlo.hu/images/afgan.jpg)
+![](http://agostonlaszlo.hu/images/afgan.JPG)
 <center>A kép illusztráció </center>
 
 Van egy kurd srác, aki dizájner ruhákban jár, a nagybátyja sok pénzzel támogatja. Azt hazudta, hogy a balkáni útvonalon érkezett, de nekünk elárulta, hogy repülővel jött. Tizenhat a papírjai szerint, de ránézésre úgy huszonöt lehet. Ha elutasítják a menekültkérelmét - erre a hivatalnokok túlterheltsége miatt még vagy egy évig nem lesz mód, hiába írtam a központba, hogy itt valami nagyon bűzlik -, más néven, más történettel visszajön. Az ilyenek foglalják a helyet a valódi rászorulók elől.
