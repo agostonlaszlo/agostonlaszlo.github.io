@@ -5,7 +5,7 @@ date: 2016-12-13 10:32:42.000000000 +00:00
 author: agoston_laszlo
 excerpt: "A gyomrom mélyéig hasított belém a jeges rémület a dolgozószobámhoz érve: a bezárt ajtó alól lámpafény szűrődött ki! Egy rabló lehet, aki megriadhat, ha rányitok. De rá *kellett* nyitnom... nem volt más választás. Hallottam, ahogy bent motoz..."
 categories: blog
-tags: [megbékélés, iskola, demokrácia]
+tags: [megbékélés, demokrácia]
 lang: hu
 image: http://www.thenewsminute.com/sites/default/files/robbery%20cpim.jpg
 ---
@@ -65,7 +65,7 @@ Leültem a székbe és kerestem a kandikamerát. Szinte magatehetetlenül vettem
 
 **-És az itt élő ötvenezer muszlim? A melegek? A cigányok?**
 
--A cigányságról pont lekerült a teher. Most nem őket fújolják. Melegek meg muszlimok... ezek marginális kérdések, pár tízezer ember egy tízmilliós országban. Parasztáldozat. Akáecsak az a két szerencsétlen rendőr a Teréz körúton. Hát nem szerencsénk volt, hogy pont a népszavazás előtti hétvégén robbant az a bomba? Micsoda jó időzítés... persze tragikus is egyben...
+-A cigányságról pont lekerült a teher. Most nem őket fújolják. Melegek meg muszlimok... ezek marginális kérdések, pár tízezer ember egy tízmilliós országban. Parasztáldozat. Akárcsak az a két szerencsétlen rendőr a Teréz körúton. Hát nem szerencsénk volt, hogy pont a népszavazás előtti hétvégén robbant az a bomba? Micsoda jó időzítés... persze tragikus is egyben...
 
 **-Nem érzed, hogy cserbenhagytál minket?**
 
@@ -77,6 +77,6 @@ Leültem a székbe és kerestem a kandikamerát. Szinte magatehetetlenül vettem
 
 **-Akkor se tudom elfogadni.**
 
--Tudod. A te székedből én se tudnám, ahogy egy időben én se tudtam. De ahogy mondtam: a hatalomnak ára van. És azok az emberek, akikért te most úgy gondolod, hogy harcolsz, kéjjel és kész örömmel húzzák ki az akasztófád alól a sámlit, ha megfordul a széljárás. Meg akarod váltani a világot? Vasárnaponként szoktunk beszélni egy korodbeli férfiról, akinek hasonló tervei voltak és azok szögezték fára, akikért tenni akart. Akármilyen nehéz elhinned, de ha odáig jutottál volna az úton, ameddig én, te is ilyenné váltál volna. Mert máshogy nem megy. Ha Magyarország a zár, én vagyok a kulcs. De a kulcsot reszelik a zárhoz és nem fordítva - én csak olyanná váltam, amilyenné Magyarország miatt válnom kellett, hogy sikeres legyek.
+-A te székedből én se tudnám, ahogy egy időben én se tudtam. De ahogy mondtam: a hatalomnak ára van. És azok az emberek, akikért te most úgy gondolod, hogy harcolsz, kéjjel és kész örömmel húzzák majd ki az akasztófád alól a sámlit, ha megfordul a széljárás. Meg akarod váltani a világot? Vasárnaponként szoktunk beszélni egy korodbeli férfiról, akinek hasonló tervei voltak és azok szögezték fára, akikért tenni akart. Akármilyen nehéz elhinned, de ha odáig jutottál volna az úton, ameddig én, te is ilyenné váltál volna. Mert máshogy nem megy. Ha Magyarország a zár, én vagyok a kulcs. De a kulcsot reszelik a zárhoz és nem fordítva - én csak olyanná váltam, amilyenné Magyarország miatt válnom kellett, hogy sikeres legyek.
 
 Felállt és tűnődve nézett ki az ablakon. Hosszan figyelte, ahogy a hajnal első fényei megvilágítják a fagyos pesti utcát. Lehajtotta az utolsó korty whiskeyt, fáradt, karikás szemekkel megköszönte a beszélgetést és megölelt. Szívemre kötötte, hogy mindenképpen írjam le, amit a zárról meg a kulcsról mondott. Barátságosan megütögette a vállamat és kilépett a szobából. Utána mentem, hogy ajtót nyissak, de már nem volt sehol. A semmiből jött és a semmibe ment tovább. Mint minden politikus, akinek életében szobrot emeltek.
