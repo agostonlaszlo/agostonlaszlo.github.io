@@ -7,7 +7,7 @@ excerpt: "A gyomrom mélyéig hasított belém a jeges rémület a dolgozószob�
 categories: blog
 tags: [megbékélés, demokrácia]
 lang: hu
-image: http://i.dailymail.co.uk/i/pix/2014/04/30/article-0-1D77CF8900000578-630_634x363.jpg
+image: http://www.tasteofcinema.com/wp-content/uploads/2015/05/Pulp-Fiction.jpg
 ---
 Ma éjjel különös zajra ébredtem. Álmosan, vaksin tapogatózva mentem ki a hálóból (biztosan a macska! - gondoltam), majd a gyomrom mélyéig hasított belém a jeges rémület a dolgozószobámhoz érve: a bezárt ajtó alól lámpafény szűrődött ki! Ez csakis tolvaj lehet! Egy rabló, aki megriadhat, ha rányitok. De rá *kellett* nyitnom... nem volt más választás. Hallottam, ahogy bent motoz... Megragadtam egy üres borosüveget és a torkomban dobogó szívvel lenyomtam a kilincset olyan finoman, olyan halkan, hogy a legkisebb nesz se halljon. Egy darabig rémült lassúsággal, majd az első nyikordulásra teljes erőből nyitottam ki az ajtót. Szemembe vágott a fény én pedig a fejem fölé emelt, csapásra kész üveggel berontottam.
 
