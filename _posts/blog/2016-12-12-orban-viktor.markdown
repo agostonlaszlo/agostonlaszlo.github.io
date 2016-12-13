@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rabló járt nálam az éjszaka"
+title: "Tolvaj járt nálam az éjszaka"
 date: 2016-12-13 10:32:42.000000000 +00:00
 author: agoston_laszlo
 excerpt: "A gyomrom mélyéig hasított belém a jeges rémület a dolgozószobámhoz érve: a bezárt ajtó alól lámpafény szűrődött ki! Egy rabló lehet, aki megriadhat, ha rányitok. De rá *kellett* nyitnom... nem volt más választás. Hallottam, ahogy bent motoz..."
