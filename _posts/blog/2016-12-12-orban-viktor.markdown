@@ -13,7 +13,7 @@ Ma éjjel különös zajra ébredtem. Álmosan, vaksin tapogatózva mentem ki a 
 
 Ott ült a fotelemben. Nyugodt volt, előtte két whiskeys pohár. Éppen a jeget törte. Rám nézett és elmosolyodott. Olyan volt, mint aki már egy ideje várt rám. Azt hittem, rémet látok, de nem. Ő volt az. Valóban. Nem bolondultam meg. Orbán Viktor, Magyarország miniszterelnöke. Invitált, hogy üljek le vele szemben.
 
--Elnézést, hogy ilyen alkalmatlan módon... és ilyen késői órán... de szerettem volna nyugodtan beszélni veled. A nyári hecced óta követem az oldalad és egész megszerettelek.
+-Elnézést, hogy ilyen alkalmatlan módon... és ilyen késői órán... de szerettem volna nyugodtan beszélni veled. [A nyári hecced óta](http://agostonlaszlo.hu/blog/hogyan-alljon-egy-fidesz-szavazo-az-iszlamhoz/) követem az oldalad és egész megszerettelek.
 
 Szoborrá dermedve álltam a nyitott ajtó előtt, fejem fölött még mindig az üres üveget tartva.
 
@@ -69,7 +69,7 @@ Leültem a székbe és kerestem a kandikamerát. Szinte magatehetetlenül vettem
 
 -Nem érzed, hogy cserbenhagytál minket?
 
--Nem érzed, hogy bűnbakot keresel? A magyar egy veszekedős, félázsiai népség. A szemébe mézes-mázos, a háta mögött gyalázza a vezetőjét csináljon bármit is az. Emlékszel Mátyás királyra, az igazságosra? Valahogy csak megmérgezték, nem?
+-Nem érzed, hogy bűnbakot keresel? [A magyar egy veszekedős, félázsiai népség](http://24.hu/belfold/2012/07/26/orban-veszekedos-felazsiai-nep-a-magyar/). A szemébe mézes-mázos, a háta mögött gyalázza a vezetőjét csináljon bármit is az. Emlékszel Mátyás királyra, az igazságosra? Valahogy csak megmérgezték, nem?
 
 -De mit kezdjünk egy illiberális demokráciával?
 
