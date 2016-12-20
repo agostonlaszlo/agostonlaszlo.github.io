@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Miért nem kell félnek a terrortámadásoktól"
+title: "Miért nem kell félned a terrortámadásoktól"
 date: 2016-12-13 10:32:42.000000000 +00:00
 author: agoston_laszlo
 excerpt: "A gyomrom mélyéig hasított belém a jeges rémület a dolgozószobámhoz érve: a bezárt ajtó alól lámpafény szűrődött ki! Egy rabló lehet, aki megriadhat, ha rányitok. De rá *kellett* nyitnom... nem volt más választás. Hallottam, ahogy bent motoz..."
@@ -9,20 +9,26 @@ tags: [megbékélés, demokrácia, iszlám, terrorizmus]
 lang: hu
 image: http://www.tasteofcinema.com/wp-content/uploads/2015/05/Pulp-Fiction.jpg
 ---
-Tudod, én sem aludtam jól az éjjel. Két éve úgy volt, hogy Berlinbe költözöm, rengeteg barátom van ott és az egyik kedvenc városom. Aztán végignéztem, egy ember halálát (az ankarai orosz nagykövetét) egy hírportál *fellogózott* videóján. Pár napja Isztambul (ami persze nem sok vizet zavart itthon), lassan már felsorolni se tudom. Hidd el, **átérzem és tudom ennek a jelentőségét**, most mégis azt írom meg neked, miért nem kell félned.
+Tudod, én sem aludtam jól az éjjel. Két éve úgy volt, hogy Berlinbe költözöm, rengeteg barátom van ott és az egyik kedvenc városom. Láttam, ahogy kamionnal hajtottak a tömegbe és vártam a barátaim jelzését, hogy jól vannak. Aztán végignéztem egy ember halálát (az ankarai orosz nagykövetét) egy hírportál *fellogózott* videóján. Pár napja Isztambul (ami persze nem sok vizet zavart itthon), lassan már felsorolni se tudom. Hidd el, **átérzem és tudom ennek a jelentőségét**, most mégis azt írom meg neked, miért **nem kell félned**.
 
-Láttad az index "[Terrortámadástól fél a magyar vidék](http://index.hu/video/2016/09/13/videk_menekult_bevandorlas_terror_nepszavazas_plakat/)" című videóját? Egy nógrád megyei faluban készítettek riportot és arra a megállapításra jutottak (az október 2-i népszavazás előtt pár nappal), hogy "Az emberek terrortámadástól, nemi erőszaktól, rablástól rettegnek. Alig néhányan gondolják, hogy nem kell mindenkitől félni." Nagyon leíró volt a helyi Eperlugas Presszó teraszán lezajlott párbeszéd:
+Láttad az index "[Terrortámadástól fél a magyar vidék](http://index.hu/video/2016/09/13/videk_menekult_bevandorlas_terror_nepszavazas_plakat/)" című videóját? Egy nógrád megyei faluban készítettek riportot és arra a megállapításra jutottak (az október 2-i népszavazás előtt pár nappal), hogy /"Az emberek terrortámadástól, nemi erőszaktól, rablástól rettegnek. Alig néhányan gondolják, hogy nem kell mindenkitől félni."/ Nagyon leíró volt a helyi mondjuk Eperlugas Presszó teraszán lezajlott párbeszéd:
 
-Riporter: - Tartanak mondjuk attól, hogy itt, ebben a faluban terrortámadás lehet?
-Válaszadó: - Hát mér'? Hogyne! Persze! Bárhol lehet.
+**Riporter:** - Tartanak mondjuk attól, hogy itt, ebben a faluban terrortámadás lehet?
+**Válaszadó:** - Hát mér'? Hogyne! Persze! Bárhol lehet.
 
-Most viszont gondolkodjunk félelemkeltés nélkül, logikusan. Tételezzük fel, hogy tényleg meghalt 300 fő terrortámadásban Európában az elmúlt négy évben, mint ahogyan [azt a kormányközeli origó írja](http://www.origo.hu/nagyvilag/20160908-tobb-ember-hal-meg-terrorizmus-haboru.html). Ebbe belevették a törökországi eseteket is és gondolom a szélsőjobbos (véletlenül sem bevándorló vagy muszlim) Anders Breivik 77 halálos áldozattal járó támadása is bekerült. Ehhez képest ugyanebben az időszakban
+Most viszont gondolkodjunk félelemkeltés nélkül, logikusan. Tételezzük fel, hogy tényleg meghalt 300 fő terrortámadásban Európában az elmúlt négy évben, mint ahogyan [azt a kormányközeli origó írja](http://www.origo.hu/nagyvilag/20160908-tobb-ember-hal-meg-terrorizmus-haboru.html). Ebbe (a számok növelése céljából) belevették a törökországi eseteket is és nyilván a norvég szélsőjobbos (véletlenül sem bevándorló vagy muszlim) Anders Breivik 77 halálos áldozattal járó támadása is bekerült. 
+Ehhez képest ugyanebben az időszakban
 
 [Légibalesetben](planecrashinfo.com) meghalt 532 ember
 [Vonatbalesetben](https://www.lokal.hu/2016-02-az-elmult-10-ev-vasuti-szerencsetlensegei-europaban/) 111 fő (412 megsérült)
 [Autóbalesetben](http://hvg.hu/cegauto/20110516_kozlekedesi_baleset_statisztika) a világon minden hatodik másodpercben meghalt egy ember, Magyarországon a statisztika alapján 12 óránként halt meg valaki így.
 
 Nem folytatom. Sajnos pontos számokat nem találtam, de a kutakodásom alapján reálisan 10-12 fő halhatott meg kutyatámadásban 2012 óta Magyarországon, míg terrortámadásban egy fő sem. Mégsem rettegünk a repüléstől, a vonatozástól, az autózástól és nem látom a "Magyarországra nem kellenek kutyák!" - kommenteket sem.
+
+Itt egy megbízhatónak tűnő adatsor az elmúlt évekről. Érdekes... nem is most a legnagyobb a terrorfenyegetettség Európában!
+
+[](http://agostonlaszlo.hu/images/aldozatok.jpg)
+
 
 Egy másik logikusvégiggondolni való: vajon mennyire reális, hogy egy fanatikus barom mondjuk Bátonyterenyén robbantson? Képzeld csak el: elszánja magát, hogy odaadja az életét vagy életfogytiglanra kerül azért, hogy terrortámadást hajtson végre. EREDMÉNYT fog akarni. Sok halottat. Nagy felfordulást. Teherautóval fog behajtani egy karácsonyi vásárba, nem pedig egy *a számára* marginális jelentőségű ország (vajon tudja egyáltalán, hol van?) marginális jelentőségű városában fog valami marginális jelentőségűt végrehajtani. Nem látom be, hogy miért nem fogja inkább a politikailag súlyosabb, létszámban nagyobb és akár csak az angol vagy német nyelvű médiája miatt hírképesebb városokat választani.
 
