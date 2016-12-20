@@ -19,9 +19,9 @@ Láttad az index "[Terrortámadástól fél a magyar vidék](http://index.hu/vid
 Most viszont gondolkodjunk félelemkeltés nélkül, logikusan. Tételezzük fel, hogy tényleg meghalt 300 fő terrortámadásban Európában az elmúlt négy évben, mint ahogyan [azt a kormányközeli origó írja](http://www.origo.hu/nagyvilag/20160908-tobb-ember-hal-meg-terrorizmus-haboru.html). Ebbe (a számok növelése céljából) belevették a törökországi eseteket is és nyilván a norvég szélsőjobbos (véletlenül sem bevándorló vagy muszlim) Anders Breivik 77 halálos áldozattal járó támadása is bekerült. 
 Ehhez képest ugyanebben az időszakban
 
--- [Légibalesetben](planecrashinfo.com) meghalt 532 ember
--- [Vonatbalesetben](https://www.lokal.hu/2016-02-az-elmult-10-ev-vasuti-szerencsetlensegei-europaban/) 111 fő (de 412 megsérült)
--- [Autóbalesetben](http://hvg.hu/cegauto/20110516_kozlekedesi_baleset_statisztika) a világon minden hatodik másodpercben meghalt egy ember, Magyarországon a statisztika alapján 12 óránként (!) halt meg valaki így.
+- [Légibalesetben](planecrashinfo.com) meghalt 532 ember
+- [Vonatbalesetben](https://www.lokal.hu/2016-02-az-elmult-10-ev-vasuti-szerencsetlensegei-europaban/) 111 fő (de 412 megsérült)
+- [Autóbalesetben](http://hvg.hu/cegauto/20110516_kozlekedesi_baleset_statisztika) a világon minden hatodik másodpercben meghalt egy ember, Magyarországon a statisztika alapján 12 óránként (!) halt meg valaki így.
 
 Nem folytatom. Sajnos pontos számokat nem találtam, de a kutakodásom alapján reálisan 10-12 fő halhatott meg kutyatámadásban 2012 óta Magyarországon, míg terrortámadásban egy fő sem. Mégsem rettegünk a repüléstől, a vonatozástól, az autózástól és nem látom a "Magyarországra nem kellenek kutyák!" - kommenteket sem.
 
@@ -29,7 +29,7 @@ Itt egy megbízhatónak tűnő adatsor az elmúlt évekről. Érdekes... az adat
 
 ![](http://agostonlaszlo.hu/images/aldozatok.jpg)
 
-Egy másik logikusvégiggondolni való: vajon mennyire reális, hogy egy fanatikus barom mondjuk Bátonyterenyén robbantson? Képzeld csak el: elszánja magát, hogy odaadja az életét vagy életfogytiglanra kerül azért, hogy terrortámadást hajtson végre. EREDMÉNYT fog akarni. Sok halottat. Nagy felfordulást. Teherautóval fog behajtani egy karácsonyi vásárba, nem pedig egy *a számára* marginális jelentőségű ország (vajon tudja egyáltalán, hol van?) marginális jelentőségű városában fog valami marginális jelentőségűt végrehajtani. Nem látom be, hogy miért nem fogja inkább a politikailag súlyosabb, létszámban nagyobb és akár csak az angol vagy német nyelvű médiája miatt hírképesebb városokat választani.
+Egy másik logikus végiggondolni való: vajon mennyire reális, hogy egy fanatikus barom mondjuk Bátonyterenyén robbantson? Képzeld csak el: elszánja magát, hogy odaadja az életét vagy életfogytiglanra kerül azért, hogy terrortámadást hajtson végre. EREDMÉNYT fog akarni. Sok halottat. Nagy felfordulást. Teherautóval fog behajtani egy karácsonyi vásárba, nem pedig egy *a számára* marginális jelentőségű ország (vajon tudja egyáltalán, hol van a Kárpát-medence?) marginális jelentőségű városában fog valami marginális jelentőségűt végrehajtani. Nem látom be, hogy miért nem fogja inkább a politikailag súlyosabb, létszámban nagyobb és akár csak az angol vagy német nyelvű médiája miatt hírképesebb városokat választani. Nógrádban - a fentebb mutatott videó szerint legalábbis - mégis félnek.
 
 A terrorizmus szó lényege a terror. A terror jelentése "ijedtség, rettegés, rémület". A céljuk nem annak a pár embernek a halálba küldése volt, akiknek a nevét se tudták, akik *rosszkor voltak rossz helyen*. A céljuk az, hogy **te félj**. És ehhez a média és egyes, a félelemből hasznot húzó kormányok önszántukból adnak segítő kezet.
 
