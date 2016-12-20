@@ -3,13 +3,13 @@ layout: post
 title: "Miért nem kell félned a terrortámadásoktól"
 date: 2016-12-13 10:32:42.000000000 +00:00
 author: agoston_laszlo
-excerpt: "A gyomrom mélyéig hasított belém a jeges rémület a dolgozószobámhoz érve: a bezárt ajtó alól lámpafény szűrődött ki! Egy rabló lehet, aki megriadhat, ha rányitok. De rá *kellett* nyitnom... nem volt más választás. Hallottam, ahogy bent motoz..."
+excerpt: "Sokan akarják, hogy rettegj és gyűlölj. Ezt akarják a terroristák, sok médiaorgánum és sok politikus. Azt szeretném megmutatni neked, hogy miért ne tedd. Miért kell tudnod megőrizned a józanságodat és az emberségedet."
 categories: blog
 tags: [megbékélés, demokrácia, iszlám, terrorizmus]
 lang: hu
 image: http://www.tasteofcinema.com/wp-content/uploads/2015/05/Pulp-Fiction.jpg
 ---
-Tudod, én sem aludtam jól az éjjel. Két éve úgy volt, hogy Berlinbe költözöm, rengeteg barátom van ott és az egyik kedvenc városom. Láttam, ahogy kamionnal hajtottak a tömegbe és vártam a barátaim jelzését, hogy jól vannak. Aztán végignéztem egy ember halálát (az ankarai orosz nagykövetét) egy hírportál *fellogózott* videóján. Pár napja Isztambul (ami persze nem sok vizet zavart itthon), lassan már felsorolni se tudom. Hidd el, **átérzem és tudom ennek a jelentőségét**, most mégis azt írom meg neked, miért **nem kell félned**.
+Sokan akarják, hogy rettegj és gyűlölj. Ezt akarják a terroristák, ezt akarja sok médiaorgánum és sok opportunista politikus. Én most azt szeretném megmutatni neked - higgadt racionalitással -, hogy miért ne tedd. Hogy miért kell tudnod megőrizned a józanságodat és az emberségedet.
 
 Láttad az index "[Terrortámadástól fél a magyar vidék](http://index.hu/video/2016/09/13/videk_menekult_bevandorlas_terror_nepszavazas_plakat/)" című videóját? Egy nógrád megyei faluban készítettek riportot és arra a megállapításra jutottak (az október 2-i népszavazás előtt pár nappal), hogy /"Az emberek terrortámadástól, nemi erőszaktól, rablástól rettegnek. Alig néhányan gondolják, hogy nem kell mindenkitől félni."/ Nagyon leíró volt a helyi mondjuk Eperlugas Presszó teraszán lezajlott párbeszéd:
 
