@@ -11,7 +11,7 @@ image: http://www.myfuncorner.com/wp-content/uploads/2016/12/Berlin-Terror-Attac
 ---
 Sokan akarják, hogy rettegj és gyűlölj. Ezt akarják a terroristák, ezt akarja sok médiaorgánum és sok opportunista politikus. Én most azt szeretném megmutatni neked - higgadt racionalitással -, hogy miért ne tedd. Hogy miért kell tudnod megőrizned a józanságodat és az emberségedet.
 
-Láttad az index "[Terrortámadástól fél a magyar vidék](http://index.hu/video/2016/09/13/videk_menekult_bevandorlas_terror_nepszavazas_plakat/)" című videóját? Egy nógrád megyei faluban készítettek riportot és arra a megállapításra jutottak (az október 2-i népszavazás előtt pár nappal), hogy /"Az emberek terrortámadástól, nemi erőszaktól, rablástól rettegnek. Alig néhányan gondolják, hogy nem kell mindenkitől félni."/ Nagyon leíró volt a helyi mondjuk Eperlugas Presszó teraszán lezajlott párbeszéd:
+Láttad az index "[Terrortámadástól fél a magyar vidék](http://index.hu/video/2016/09/13/videk_menekult_bevandorlas_terror_nepszavazas_plakat/)" című videóját? Egy nógrád megyei faluban készítettek riportot és arra a megállapításra jutottak (az október 2-i népszavazás előtt pár nappal), hogy *"Az emberek terrortámadástól, nemi erőszaktól, rablástól rettegnek. Alig néhányan gondolják, hogy nem kell mindenkitől félni."* Nagyon leíró volt a helyi mondjuk Eperlugas Presszó teraszán lezajlott párbeszéd:
 
 **Riporter:** - Tartanak mondjuk attól, hogy itt, ebben a faluban terrortámadás lehet?
 **Válaszadó:** - Hát mér'? Hogyne! Persze! Bárhol lehet.
@@ -21,11 +21,11 @@ Ehhez képest ugyanebben az időszakban
 
 - [Légibalesetben](planecrashinfo.com) meghalt 532 ember
 - [Vonatbalesetben](https://www.lokal.hu/2016-02-az-elmult-10-ev-vasuti-szerencsetlensegei-europaban/) 111 fő (de 412 megsérült)
-- [Autóbalesetben](http://hvg.hu/cegauto/20110516_kozlekedesi_baleset_statisztika) a világon minden hatodik másodpercben meghalt egy ember, Magyarországon a statisztika alapján 12 óránként (!) halt meg valaki így.
+- [Autóbalesetben](http://hvg.hu/cegauto/20110516_kozlekedesi_baleset_statisztika) pedig a világon minden hatodik másodpercben meghalt egy ember, Magyarországon a statisztika alapján 12 óránként (!) halt meg valaki így.
 
-Nem folytatom. Sajnos pontos számokat nem találtam, de a kutakodásom alapján reálisan 10-12 fő halhatott meg kutyatámadásban 2012 óta Magyarországon, míg terrortámadásban egy fő sem. Mégsem rettegünk a repüléstől, a vonatozástól, az autózástól és nem látom a "Magyarországra nem kellenek kutyák!" - kommenteket sem.
+Nem folytatom. Sajnos pontos számokat nem találtam, de a kutakodásom alapján reálisan 10-12 fő halhatott meg kutyatámadásban 2012 óta Magyarországon, míg terrortámadásban egy fő sem. Mégsem rettegünk a repüléstől, a vonatozástól, az autózástól és nem látom a "*Magyarországra nem kellenek kutyák!*" - kommenteket sem.
 
-Itt egy megbízhatónak tűnő adatsor az elmúlt évekről. Érdekes... az adatok fényében lehet, hogy nem is most halnak meg terrortámadásokban a legtöbben Európában? Nem lehet, hogy manipulálva vagyunk?
+Itt egy megbízhatónak tűnő adatsor az elmúlt évekről. Érdekes... az adatok fényében lehet, hogy nem is most halnak meg terrortámadásokban a legtöbben Európában? Nem lehet, hogy manipulálni akarnak minket?
 
 ![](http://agostonlaszlo.hu/images/aldozatok.jpg)
 
