@@ -25,10 +25,9 @@ Ehhez képest ugyanebben az időszakban
 
 Nem folytatom. Sajnos pontos számokat nem találtam, de a kutakodásom alapján reálisan 10-12 fő halhatott meg kutyatámadásban 2012 óta Magyarországon, míg terrortámadásban egy fő sem. Mégsem rettegünk a repüléstől, a vonatozástól, az autózástól és nem látom a "Magyarországra nem kellenek kutyák!" - kommenteket sem.
 
-Itt egy megbízhatónak tűnő adatsor az elmúlt évekről. Érdekes... nem is most a legnagyobb a terrorfenyegetettség Európában!
+Itt egy megbízhatónak tűnő adatsor az elmúlt évekről. Érdekes... az adatok fényében lehet, hogy nem is most halnak meg terrortámadásokban a legtöbben Európában? Nem lehet, hogy manipulálva vagyunk?
 
-[](http://agostonlaszlo.hu/images/aldozatok.jpg)
-
+![](http://agostonlaszlo.hu/images/aldozatok.jpg)
 
 Egy másik logikusvégiggondolni való: vajon mennyire reális, hogy egy fanatikus barom mondjuk Bátonyterenyén robbantson? Képzeld csak el: elszánja magát, hogy odaadja az életét vagy életfogytiglanra kerül azért, hogy terrortámadást hajtson végre. EREDMÉNYT fog akarni. Sok halottat. Nagy felfordulást. Teherautóval fog behajtani egy karácsonyi vásárba, nem pedig egy *a számára* marginális jelentőségű ország (vajon tudja egyáltalán, hol van?) marginális jelentőségű városában fog valami marginális jelentőségűt végrehajtani. Nem látom be, hogy miért nem fogja inkább a politikailag súlyosabb, létszámban nagyobb és akár csak az angol vagy német nyelvű médiája miatt hírképesebb városokat választani.
 
