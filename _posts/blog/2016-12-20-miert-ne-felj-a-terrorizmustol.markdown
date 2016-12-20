@@ -31,6 +31,8 @@ Itt egy megbízhatónak tűnő adatsor az elmúlt évekről. Érdekes... az adat
 
 Egy másik logikus végiggondolni való: vajon mennyire reális, hogy egy fanatikus barom mondjuk Bátonyterenyén robbantson? Képzeld csak el: elszánja magát, hogy odaadja az életét vagy életfogytiglanra kerül azért, hogy terrortámadást hajtson végre. EREDMÉNYT fog akarni. Sok halottat. Nagy felfordulást. Teherautóval fog behajtani egy karácsonyi vásárba, nem pedig egy *a számára* marginális jelentőségű ország (vajon tudja egyáltalán, hol van a Kárpát-medence?) marginális jelentőségű városában fog valami marginális jelentőségűt végrehajtani. Nem látom be, hogy miért nem fogja inkább a politikailag súlyosabb, létszámban nagyobb és akár csak az angol vagy német nyelvű médiája miatt hírképesebb városokat választani. Nógrádban - a fentebb mutatott videó szerint legalábbis - mégis félnek.
 
-A terrorizmus szó lényege a terror. A terror jelentése "ijedtség, rettegés, rémület". A céljuk nem annak a pár embernek a halálba küldése volt, akiknek a nevét se tudták, akik *rosszkor voltak rossz helyen*. A céljuk az, hogy **te félj**. És ehhez a média és egyes, a félelemből hasznot húzó kormányok önszántukból adnak segítő kezet.
+<iframe src="https://player.vimeo.com/video/196409137" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-Harcolni akarsz a terrorizmus ellen? Nyugodj meg. Gyászoljuk el a halottakat és ne ülj fel a gyűlöletkeltésnek. A terrorizmusnak nagyobb a füstje, mint a lángja. Ne hagyd, hogy a lelkedben győzzenek!
+A terrorizmus szó lényege a terror. A terror jelentése "ijedtség, rettegés, rémület". A céljuk nem annak a pár embernek a halálba küldése volt, akiknek a nevét se tudták, akik *rosszkor voltak rossz helyen*. A céljuk az, hogy **te félj**. És ehhez a média és egyes, a félelemből hasznot húzó kormányok önszántukból adnak segítő kezet. 
+
+Harcolni akarsz a terrorizmus ellen? Nyugodj meg. Gyászoljuk el a halottakat és ne ülj fel a gyűlöletkeltésnek. A terrorizmusnak nagyobb a füstje, mint a lángja. Ne hagyd, hogy a lelkedben győzzenek! 
