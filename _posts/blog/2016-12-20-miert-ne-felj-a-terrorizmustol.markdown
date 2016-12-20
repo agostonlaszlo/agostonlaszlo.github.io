@@ -7,7 +7,7 @@ excerpt: "Sokan akarják, hogy rettegj és gyűlölj. Ezt akarják a terroristá
 categories: blog
 tags: [megbékélés, demokrácia, iszlám, terrorizmus]
 lang: hu
-image: http://www.tasteofcinema.com/wp-content/uploads/2015/05/Pulp-Fiction.jpg
+image: http://www.myfuncorner.com/wp-content/uploads/2016/12/Berlin-Terror-Attack-At-Least-Nine-Dead-And-50-Injured-as-Truck-Ploughs-Into-Crowd-at-Christmas-Market-VIDEO-800x445.jpg
 ---
 Sokan akarják, hogy rettegj és gyűlölj. Ezt akarják a terroristák, ezt akarja sok médiaorgánum és sok opportunista politikus. Én most azt szeretném megmutatni neked - higgadt racionalitással -, hogy miért ne tedd. Hogy miért kell tudnod megőrizned a józanságodat és az emberségedet.
 
