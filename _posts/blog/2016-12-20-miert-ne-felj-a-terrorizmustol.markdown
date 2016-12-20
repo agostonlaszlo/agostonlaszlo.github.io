@@ -19,9 +19,9 @@ Láttad az index "[Terrortámadástól fél a magyar vidék](http://index.hu/vid
 Most viszont gondolkodjunk félelemkeltés nélkül, logikusan. Tételezzük fel, hogy tényleg meghalt 300 fő terrortámadásban Európában az elmúlt négy évben, mint ahogyan [azt a kormányközeli origó írja](http://www.origo.hu/nagyvilag/20160908-tobb-ember-hal-meg-terrorizmus-haboru.html). Ebbe (a számok növelése céljából) belevették a törökországi eseteket is és nyilván a norvég szélsőjobbos (véletlenül sem bevándorló vagy muszlim) Anders Breivik 77 halálos áldozattal járó támadása is bekerült. 
 Ehhez képest ugyanebben az időszakban
 
-[Légibalesetben](planecrashinfo.com) meghalt 532 ember
-[Vonatbalesetben](https://www.lokal.hu/2016-02-az-elmult-10-ev-vasuti-szerencsetlensegei-europaban/) 111 fő (412 megsérült)
-[Autóbalesetben](http://hvg.hu/cegauto/20110516_kozlekedesi_baleset_statisztika) a világon minden hatodik másodpercben meghalt egy ember, Magyarországon a statisztika alapján 12 óránként halt meg valaki így.
+-- [Légibalesetben](planecrashinfo.com) meghalt 532 ember
+-- [Vonatbalesetben](https://www.lokal.hu/2016-02-az-elmult-10-ev-vasuti-szerencsetlensegei-europaban/) 111 fő (de 412 megsérült)
+-- [Autóbalesetben](http://hvg.hu/cegauto/20110516_kozlekedesi_baleset_statisztika) a világon minden hatodik másodpercben meghalt egy ember, Magyarországon a statisztika alapján 12 óránként (!) halt meg valaki így.
 
 Nem folytatom. Sajnos pontos számokat nem találtam, de a kutakodásom alapján reálisan 10-12 fő halhatott meg kutyatámadásban 2012 óta Magyarországon, míg terrortámadásban egy fő sem. Mégsem rettegünk a repüléstől, a vonatozástól, az autózástól és nem látom a "Magyarországra nem kellenek kutyák!" - kommenteket sem.
 
