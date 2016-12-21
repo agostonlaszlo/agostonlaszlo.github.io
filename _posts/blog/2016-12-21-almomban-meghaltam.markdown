@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Álmomban meghaltam"
-date: 2016-12-13 10:32:42.000000000 +00:00
+date: 2016-12-21 10:32:42.000000000 +00:00
 author: agoston_laszlo
 excerpt: "áshol az elkeseredett szegény öli a szegényt vagy vallás-hit-bolond a politika-hit-bolondot és mindenhol az okosok jelentik a koloncot."
 categories: blog
