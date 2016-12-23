@@ -3,13 +3,13 @@ layout: post
 title: "Felismernéd, ha ma születne?"
 date: 2016-12-23 10:32:42.000000000 +00:00
 author: agoston_laszlo
-excerpt: "Máshol az elkeseredett szegény öli a szegényt vagy vallás-hit-bolond a politika-hit-bolondot és mindenhol az okosok jelentik a koloncot."
+excerpt: "Ők José és Maria, amerikai bevándorlók, akik december 24-én nem találnak szállást, senki nem fogadja be őket, pedig az asszony áldott állapotban van. Figyeld meg a kép minden részletét..."
 categories: blog
 tags: [vers, kereszténység]
 lang: hu
 image: http://agostonlaszlo.hu/images/jose.JPG
 ---
-Everett Patterson készítette az alábbi rajzot. Érdemes rajta minden részletet megfigyelned - ők José és Maria, amerikai bevándorlók, akik december 24-én nem találnak szállást. (Ez a rajzoló oldala, ahol bemutatja az elkészültét is: <a href="http://www.everettpatterson.com/?p=1835" target="_blank">http://www.everettpatterson.com</a>). 
+Everett Patterson készítette az alábbi rajzot. Érdemes rajta minden részletet megfigyelned - ők José és Maria, amerikai bevándorlók, akik december 24-én nem találnak szállást, senki nem fogadja be őket, pedig az asszony áldott állapotban van. (Ez a rajzoló oldala, ahol bemutatja az elkészültét is: <a href="http://www.everettpatterson.com/?p=1835" target="_blank">http://www.everettpatterson.com</a>). 
 
 Zseni.
 
