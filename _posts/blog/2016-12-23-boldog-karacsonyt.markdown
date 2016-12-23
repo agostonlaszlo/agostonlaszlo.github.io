@@ -20,29 +20,29 @@ Amit én személy szerint ehhez hozzáfűznék:
 Boldog Karácsonyt _minden_ magyarnak <br />
 Egymásnak ugyan bármit is akarnak <br />
 Migránsnak és emigránsnak <br />
-Túloldalán bármely határnak 
-Tűrés-határ túloldalán 
-Boldog legyen mind valahány:
-Orbánnak és Gyurcsánynak 
-A népnek és a szabadságnak
-Békét a Jobbiknak és Baliknak
-Békét kívánok Putyinnak.
+Túloldalán bármely határnak <br />
+Tűrés-határ túloldalán <br />
+Boldog legyen mind valahány:<br />
+Orbánnak és Gyurcsánynak <br />
+A népnek és a szabadságnak<br />
+Békét a Jobbiknak és Baliknak<br />
+Békét kívánok Putyinnak.<br />
 
-Békesség a romának és a románnak
-Osztráknak, ukránnak, szlováknak.
-Sok boldogságot kívánok anyámnak 
-Szeretetet azoknak, akik anyáznak,
-Boldog ünnepet a kommentelőknek 
-Akik szónyilaikkal naponta lelőnek.
+Békesség a romának és a románnak<br />
+Osztráknak, ukránnak, szlováknak.<br />
+Sok boldogságot kívánok anyámnak <br />
+Szeretetet azoknak, akik anyáznak,<br />
+Boldog ünnepet a kommentelőknek <br />
+Akik szónyilaikkal naponta lelőnek.<br />
 
-Szíriában fegyverekből öntsenek ólom-katonát,
-Itthon ne tartóztassák le a kétfarkú kutyát,
-Kisvasút a helyén fusson: a karácsonyfa alatt,
-Bocsásd meg, Isten, a stadionokat.
+Szíriában fegyverekből öntsenek ólom-katonát,<br />
+Itthon ne tartóztassák le a kétfarkú kutyát,<br />
+Kisvasút a helyén fusson: a karácsonyfa alatt,<br />
+Bocsásd meg, Isten, a stadionokat.<br />
 
-Tálba meleg ételt, asztalra a narancsot,
-Okos vezetőket, akik adják és nem veszik a parancsot.
-Csendet fegyvernek, csendet a szívnek és a szájnak. 
-Boldog karácsonyt Magyarországnak
+Tálba meleg ételt, asztalra a narancsot,<br />
+Okos vezetőket, akik adják és nem veszik a parancsot.<br />
+Csendet fegyvernek, csendet a szívnek és a szájnak. <br />
+Boldog karácsonyt Magyarországnak<br />
 
 Ágoston László - 2016. 12.23.
