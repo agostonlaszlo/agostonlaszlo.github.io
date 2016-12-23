@@ -42,7 +42,7 @@ Bocsásd meg, Isten, a stadionokat.<br />
 
 Tálba meleg ételt, asztalra a narancsot,<br />
 Okos vezetőket, akik adják és nem veszik a parancsot.<br />
-Csendet fegyvernek, csendet a szívnek és a szájnak. <br />
-Boldog karácsonyt Magyarországnak<br />
+Csendet fegyvernek, csendet a szívnek és a szájnak... <br />
+Boldog karácsonyt Magyarországnak!<br />
 
 Ágoston László - 2016. 12.23.
