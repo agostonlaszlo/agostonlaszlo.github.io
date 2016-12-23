@@ -9,15 +9,17 @@ tags: [vers, kereszténység]
 lang: hu
 image: http://agostonlaszlo.hu/images/jose.JPG
 ---
-Everett Patterson készítette az alábbi rajzot. Érdemes rajta minden részletet megfigyelned - ők José és Maria, amerikai bevándorlók, akik december 24-én nem találnak szállást. (Ez a rajzoló oldala, ahol bemutatja az elkészültét is: [http://www.everettpatterson.com](http://www.everettpatterson.com/?p=1835). Zseni.
+Everett Patterson készítette az alábbi rajzot. Érdemes rajta minden részletet megfigyelned - ők José és Maria, amerikai bevándorlók, akik december 24-én nem találnak szállást. (Ez a rajzoló oldala, ahol bemutatja az elkészültét is: <a href="http://www.everettpatterson.com/?p=1835" target="_blank">http://www.everettpatterson.com</a>). 
+
+Zseni.
 
 ![](http://agostonlaszlo.hu/images/JoseyMariaWeb.jpg)
 
 Amit én személy szerint ehhez hozzáfűznék:
 
-Boldog Karácsonyt _minden_ magyarnak
-Egymásnak ugyan bármit is akarnak
-Migránsnak és emigránsnak 
+Boldog Karácsonyt _minden_ magyarnak <br />
+Egymásnak ugyan bármit is akarnak <br />
+Migránsnak és emigránsnak <br />
 Túloldalán bármely határnak 
 Tűrés-határ túloldalán 
 Boldog legyen mind valahány:
