@@ -15,7 +15,7 @@ Zseni.
 
 ![](http://agostonlaszlo.hu/images/JoseyMariaWeb.jpg)
 
-Amit én személy szerint ehhez hozzáfűznék:
+Amit én, személy szerint, ehhez hozzáfűznék:
 
 Boldog Karácsonyt _minden_ magyarnak <br />
 Egymásnak ugyan bármit is akarnak <br />
