@@ -29,18 +29,18 @@ Békét a Jobbiknak és Baliknak<br />
 Békét kívánok Putyinnak.<br />
 
 Békesség a romának és a románnak<br />
-Osztráknak, ukránnak, szlováknak.<br />
+Osztráknak, ukránnak, szlováknak<br />
 Sok boldogságot kívánok anyámnak <br />
-Szeretetet azoknak, akik anyáznak,<br />
+Szeretetet azoknak, akik anyáznak<br />
 Boldog ünnepet a kommentelőknek <br />
 Akik szónyilaikkal naponta lelőnek.<br />
 
-Szíriában fegyverekből öntsenek ólom-katonát,<br />
-Itthon ne tartóztassák le a kétfarkú kutyát,<br />
-Kisvasút a helyén fusson: a karácsonyfa alatt,<br />
+Szíriában fegyverekből öntsenek ólom-katonát<br />
+Itthon ne tartóztassák le a kétfarkú kutyát<br />
+Kisvasút a helyén fusson: a karácsonyfa alatt<br />
 Bocsásd meg, Isten, a stadionokat.<br />
 
-Tálba meleg ételt, asztalra a narancsot,<br />
+Tálba meleg ételt, asztalra a narancsot<br />
 Okos vezetőket, akik adják és nem veszik a parancsot.<br />
 Csendet fegyvernek, csendet a szívnek és a szájnak... <br />
 Boldog karácsonyt Magyarországnak!<br />
