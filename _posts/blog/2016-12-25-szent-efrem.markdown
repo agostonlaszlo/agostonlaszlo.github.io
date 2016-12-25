@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Egy karácsonyi csoda magyaroktól orosz stílusban"
+title:"Egy karácsonyi csoda magyaroktól orosz stílusban"
 date: 2016-12-25 10:32:42.000000000 +00:00
 author: agoston_laszlo
-excerpt: "Összetalálkozik két nagyszerű kultúra: a miénk és az orosz (mert igenis, az orosz lélek hatalmas és gyönyörű, csak a politikájukkal vannak elátkozva) és a végén a magyar nyelvű dalnak felhangzik a "hvalite!" - "magasztaljuk!" mindkét nyelven."
+excerpt:"Összetalálkozik két nagyszerű kultúra: a miénk és az orosz (mert igenis, az orosz lélek hatalmas és gyönyörű, csak a politikájukkal vannak elátkozva) és a végén a magyar nyelvű dalnak felhangzik a hvalite! - magasztaljuk! mindkét nyelven."
 categories: blog
 tags: [vers, kereszténység]
 lang: hu
