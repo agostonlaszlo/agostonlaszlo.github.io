@@ -58,7 +58,7 @@ Csodálkozol, ha ezek az emberek nem törnek magasra? Ha befolyásolhatók? Ha p
 
 Milliókról beszélek. Nem ezrekről.
 
-Mi a megoldás? (Mert megoldási javaslat nélkül nem írok cikket.)
+Mi lenne a megoldás? (Mert megoldási javaslat nélkül nem írok cikket.)
 
 1, **A rendőrségnek vissza kell adni a becsületét.** Fizetést és képzést, ami mellett el lehet várni, hogy ne legyen korrupt a rendőr, értsen a szakmájához és hogy szívvel-lélekkel végezze a munkáját. Motiválni és büntetni, ha mégis megbukik. Súlyosan.
 
