@@ -21,8 +21,8 @@ Hallod... ötleted sincs arról, hogy mi megy vidéken. Ilyenkor persze nem Péc
 -- Ugyan... nem járnak erre hasonlók.
 
 Ez a beszélgetés a karácsonyi asztalnál zajlott le egy ötezer főnél kisebb faluban élő ismerősömmel (jójó, tudom, város, de nem *igazából* nem az). Nem hittem neki. Utánanéztem. Olvass utána te is, ha akarsz itt: <br />
-[Veszélyes sodródás: somogyi kilátástalanságból a rabszolgaságba](http://www.sonline.hu/somogy/kozelet/veszelyes-sodrodas-somogyi-kilatastalansagbol-a-rabszolgasagba-582781) ) <br />
-([A modernkori rabszolgatartás még létezik - Magyarországon is](http://rtl.hu/rtlklub/fokuszplusz/a-modernkori-rabszolgatartas-meg-letezik-magyarorszagon-is)) <br />
+[Veszélyes sodródás: somogyi kilátástalanságból a rabszolgaságba](http://www.sonline.hu/somogy/kozelet/veszelyes-sodrodas-somogyi-kilatastalansagbol-a-rabszolgasagba-582781) <br />
+[A modernkori rabszolgatartás még létezik - Magyarországon is](http://rtl.hu/rtlklub/fokuszplusz/a-modernkori-rabszolgatartas-meg-letezik-magyarorszagon-is) <br />
 [Rabszolgatartás Magyarországon – Egy csicska vallomása…](http://tv2.hu/tv2klasszikusok/22461_rabszolgatartas_magyarorszagon__egy_csicska_vallomasa.html) <br />
 vagy csak kérdezz körbe egy keleti faluban.
 
