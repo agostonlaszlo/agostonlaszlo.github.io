@@ -14,10 +14,10 @@ Hallod... ötleted sincs arról, hogy mi megy vidéken. Ilyenkor persze nem Péc
 ![](http://24.p3k.hu/app/uploads/2014/11/roma1.jpg)
 <center>Fotó: MTI / Czeglédi Zsolt</center>
 
--- Beköltöztek a szomszédba, orrba verték az ott lakó idős embert, minden hónapban elveszik a nyugdíját és járatják a kútra vízért. Rendesen rabszolgának tartják.
--- De miért nem szóltok miatta?
--- Akarom én, hogy rám gyújtsák a házamat? A rendőrt nem érdekli. Annak is utána mennek, ha úgy van.
--- Szociális segítők vagy más szolgálatok? 
+-- Beköltöztek a szomszédba, orrba verték az ott lakó idős embert, minden hónapban elveszik a nyugdíját és járatják a kútra vízért. Rendesen rabszolgának tartják. <br />
+-- De miért nem szóltok miatta? <br />
+-- Akarom én, hogy rám gyújtsák a házamat? A rendőrt nem érdekli. Annak is utána mennek, ha úgy van. <br />
+-- Szociális segítők vagy más szolgálatok?  <br />
 -- Ugyan... nem járnak erre hasonlók.
 
 Ez a beszélgetés a karácsonyi asztalnál zajlott le egy ötezer főnél kisebb faluban (jójó, tudom, város, de nem az) élő ismerősömmel. Nem hittem neki. Utánanéztem. Olvass utána te is, ha akarsz itt: ([Veszélyes sodródás: somogyi kilátástalanságból a rabszolgaságba](http://www.sonline.hu/somogy/kozelet/veszelyes-sodrodas-somogyi-kilatastalansagbol-a-rabszolgasagba-582781) ) vagy itt: ([A modernkori rabszolgatartás még létezik - Magyarországon is](http://rtl.hu/rtlklub/fokuszplusz/a-modernkori-rabszolgatartas-meg-letezik-magyarorszagon-is)) vagy itt [Rabszolgatartás Magyarországon – Egy csicska vallomása…](http://tv2.hu/tv2klasszikusok/22461_rabszolgatartas_magyarorszagon__egy_csicska_vallomasa.html) vagy csak kérdezz körbe egy keleti faluban.
