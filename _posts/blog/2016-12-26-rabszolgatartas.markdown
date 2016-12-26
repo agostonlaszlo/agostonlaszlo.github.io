@@ -11,7 +11,7 @@ image: http://24.p3k.hu/app/uploads/2014/11/roma1.jpg
 ---
 Hallod... ötleted sincs arról, hogy mi megy vidéken. Ilyenkor persze nem Pécsre, Győrre és a hasonlókra gondolok. Tudtad, hogy [Magyarországon van Európában a harmadik legtöbb RABSZOLGA?](http://index.hu/kulfold/2014/11/18/harmadik_lett_magyarorszag_a_rabszolgasag-ranglistan/) Igen, jól olvastad. Rabszolga. Egy magyar falu és egy nagyváros között nem csak pártíz kilométer, de kétszáz év is lehet a távolság.
 
-![](http://24.p3k.hu/app/uploads/2014/11/roma1.jpg)
+![](http://agostonlaszlo.hu/images/roma1.jpg)
 <center>Fotó: MTI / Czeglédi Zsolt</center>
 
 -- Beköltöztek a szomszédba, orrba verték az ott lakó idős embert, minden hónapban elveszik a nyugdíját és járatják a kútra vízért. Rendesen rabszolgának tartják. <br />
@@ -20,7 +20,11 @@ Hallod... ötleted sincs arról, hogy mi megy vidéken. Ilyenkor persze nem Péc
 -- Szociális segítők vagy más szolgálatok?  <br />
 -- Ugyan... nem járnak erre hasonlók.
 
-Ez a beszélgetés a karácsonyi asztalnál zajlott le egy ötezer főnél kisebb faluban (jójó, tudom, város, de nem az) élő ismerősömmel. Nem hittem neki. Utánanéztem. Olvass utána te is, ha akarsz itt: ([Veszélyes sodródás: somogyi kilátástalanságból a rabszolgaságba](http://www.sonline.hu/somogy/kozelet/veszelyes-sodrodas-somogyi-kilatastalansagbol-a-rabszolgasagba-582781) ) vagy itt: ([A modernkori rabszolgatartás még létezik - Magyarországon is](http://rtl.hu/rtlklub/fokuszplusz/a-modernkori-rabszolgatartas-meg-letezik-magyarorszagon-is)) vagy itt [Rabszolgatartás Magyarországon – Egy csicska vallomása…](http://tv2.hu/tv2klasszikusok/22461_rabszolgatartas_magyarorszagon__egy_csicska_vallomasa.html) vagy csak kérdezz körbe egy keleti faluban.
+Ez a beszélgetés a karácsonyi asztalnál zajlott le egy ötezer főnél kisebb faluban élő ismerősömmel (jójó, tudom, város, de nem *igazából* nem az). Nem hittem neki. Utánanéztem. Olvass utána te is, ha akarsz itt: <br />
+[Veszélyes sodródás: somogyi kilátástalanságból a rabszolgaságba](http://www.sonline.hu/somogy/kozelet/veszelyes-sodrodas-somogyi-kilatastalansagbol-a-rabszolgasagba-582781) ) <br />
+([A modernkori rabszolgatartás még létezik - Magyarországon is](http://rtl.hu/rtlklub/fokuszplusz/a-modernkori-rabszolgatartas-meg-letezik-magyarorszagon-is)) <br />
+[Rabszolgatartás Magyarországon – Egy csicska vallomása…](http://tv2.hu/tv2klasszikusok/22461_rabszolgatartas_magyarorszagon__egy_csicska_vallomasa.html) <br />
+vagy csak kérdezz körbe egy keleti faluban.
 
 A fentebb belinkelt felmérés  harminchatezerre teszi a számukat, de félek, ez egy kedvesen alulbecsült szám. Tudniillik ez pontosan olyan, mint a háztartáson belüli erőszak: az eseteknek csak elenyésző része kerül felszínre.
 
