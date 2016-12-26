@@ -32,11 +32,12 @@ A fentebb belinkelt felmérés harminchatezerre teszi a számukat, de félek, ez
 
 Ez a szó körülbelül akkora elválasztógátat jelent Magyarországon, mint mondjuk a "migráns". Ha azt mondom van, rögtön szélsőjobbos vagyok, ha azt mondom, nincs, rögtön eszetlen ballibsi. Pedig van itt egy probléma, amiről beszélni kell.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dquCFnzpdPY?start=14" frameborder="0" allowfullscreen></iframe>
+![](https://kuruc.info/galeriaN/hir/szivan.jpg)
+<center> A veszprémi kézis, Marian Cosma gyilkosai </center>
 
 Kezdjük ott, hogy a vidéki Magyarország sok részén a bűnözés elképesztő méreteket ölt. Ismerősöm például nem tart háztájit, mert ellopják a csirkét az ólból. Nem vág disznót, mert kilopják a húst a füstölőből. Ha ezt nem vesszük tudomásul - hogy sok helyen **az életet lehetetleníti el a probléma** -, ha ezt relativizáljuk,
 
-<center> **cserben hagyjuk a vidéket.** </center>
+<strong><center> cserben hagyjuk a vidéket. </center></strong>
 
 És mondjuk ki: ez már meg is történt. Az elkövetők között nagyon nagy arányban vannak cigányok. Ilyen értelemben cigánybűnözés van. Ezt ne vegyük el, ne tagadjuk le, ne szépítgessük. A másik oldalon viszont kevés kontraproduktívabb és gusztustalanabb dolog van a világon, mint egy nemzetiséget **kollektíven** bűnösnek kikiáltani. Hiába terjednek a pletykák arról, hogy a börtönök túlnyomó többsége romákkal van tele (itt azt se felejtsük el azért, hogy egy nem-fehér bőrű bűnöző nagyobb eséllyel kap súlyosabb büntetést és [egy cigány állampolgárnak háromszor akkora esélye van arra, hogy rendőr igazoltassa, mint egy nem cigánynak](http://index.hu/belfold/2009/09/09/tenyek_es_tevhitek_a_bunozes_a_ciganyok_vereben_van/)), azzal biztosan nem lesz jobb a helyzet, ha nemzetiségi kérdést csinálunk a problémából. És ne felejtsük el azt a RENGETEG tisztességes cigányt, aki keményen küzd azért, hogy ki tudjon törni, de pontosan az ilyen faji előítéletek, az ilyen egy kalap alá vevő gondolkodás és az ezt tükröző megfogalmazások zárják őket ártatlanul társadalmi megítélés-börtönbe. Ha cigánybűnözésnek hívod - legyen bárhány százaléka romákhoz kötődő - és ha azt mondod: "majd bejön a cigány és elviszi" azzal **minden** cigányról mondasz ítéletet - és erősen csökkented az esélyét, hogy aki valóban akar, fel tudjon emelkedni. Remélem érted, hogy ez **jóval több, mint politikai korrektség**.
 
@@ -49,6 +50,7 @@ Cserben hagytuk a vidéket. Mentős ismerősöm meséli, hogy Debrecen környék
 Cserben hagytuk a vidéket, mert nincsen, aki rendet tartson. Nem csak a százhétezer forintos rendőri fizetés miatt. Nincsen jogalap sem. Meg van kötve a kéz, aminek védenie kéne például a tulajdont - az ilyenekből lesznek aztán az idős bácsik, akik áramot vezetnek a kerítésbe vagy a szőlősgazdák, akik fagyállót tesznek a borba. Szerinted milyen szinten lehet elkeseredett egy hétköznapi, rendes ember, ha ilyet tesz?
 
 ![](http://agostonlaszlo.hu/images/magyargarda.JPG)
+[A kép forrása](http://www.magyartudat.com/vademeles-az-uj-magyar-garda-vezetoi-ellen/)
 
 Kitermeljük a Jobbikot, a Magyar Gárdát, Toroczkait, mert válaszra, megoldásra, rendre vágyik a társadalmilag minimum száz évvel lemaradott, reménytelen vidék. Ahonnan a lányok elmennek prostinak, hogy legyen valami, a [fiúk meg tizenévesen már eldrogozták az agyukat](http://4024.hu/2015/04/16/igy-irtjak-ki-a-falukat-a-dizajnerdrogok/). Itt legyél tanár! Itt oktass emberi jogokat! Sokkal lejjebb vagyunk a Maslow-piramison...
 
@@ -64,9 +66,11 @@ Mi a megoldás? (Mert megoldási javaslat nélkül nem írok cikket.)
 
 3, **Visszaállítani az emberek bizalmát a helyi vezetőkben.** Persze ehhez olyan helyi vezetők is kellenek... Olvass utána a cserdi csodának [itt](http://mandiner.hu/cikk/20150818_egyik_politikai_elitnek_sem_leszek_a_ribanca_a_cserdi_polgarmester_bogdan_laszlo_a_mandinernek) és [itt](http://www.origo.hu/itthon/20150618-cserdi-bogdan-laszlo-cigany-roma-jobbik.html)! Sokan mondják, hogy ennek is csak a fele igaz - de egy irányt, egy gondolkodásmódot biztosan kijelöl.
 
-4, Visszaállítani az emberek bizalmát egymásban - **megtalálni a cigányság helyét.** Jobbat mondok: engedni nekik, hogy megtalálják a saját helyüket, mert egyébként egy elképesztően tehetséges és vonzó kulturájú (bár korántsem homogén) nép. Istenem, de szép lenne, ha tudnánk szeretni a cigányokat! És ha adnánk esélyt, hogy ők is szerethessék valamiért saját magukat... Ha büszke lehetne egy roma az identitására anélkül, hogy ez kiállásnak számítana. Ha egyenlő esélyeik és **egyenlő kötelezettségeik is** lennének.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dquCFnzpdPY?start=14" frameborder="0" allowfullscreen></iframe>
 
-Azt fogod mondani, hogy ez mind utópia. Kár volt leírni is, úgyse lesz belőle semmi. Lehet, hogy igazad van, nem vagyok se naiv se irracionális. De ha annyit elértem, hogy gondolkodtál ezen, fel- és kicsit megismerted a problémát, már volt értelme. Mert csak a tagadás, a struccpolitika és a halogatás értelmetlen igazán!
+4, Visszaállítani az emberek bizalmát egymásban - **megtalálni a cigányság helyét.** Jobbat mondok: engedni nekik, hogy megtalálják a saját helyüket, mert egyébként egy elképesztően tehetséges és vonzó kulturájú (bár korántsem homogén) nép. Istenem, de szép lenne, ha tudnánk szeretni a cigányokat! És ha adnánk esélyt, hogy ők is szerethessék valamiért saját magukat... Ha büszke lehetne egy roma az identitására anélkül, hogy ez kiállásnak számítana. Ha **egyenlő esélyeik és egyenlő kötelezettségeik is** lennének.
+
+Azt fogod mondani, hogy ez mind utópia - főleg, hogy ezek a dolgok nem egyik napról a másikra változnak meg és mi, itt Magyarországon nem is ismerjük a generációkra előre való felelős gondolkozást. Kár volt leírni is, úgyse lesz belőle semmi. Lehet, hogy igazad van, nem vagyok se naiv se irracionális. De ha annyit elértem, hogy gondolkodtál ezen, fel- és kicsit megismerted a problémát, már volt értelme. Mert csak a tagadás, a struccpolitika és a halogatás értelmetlen igazán!
 
 
 
