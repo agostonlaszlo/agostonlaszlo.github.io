@@ -5,7 +5,7 @@ date: 2016-12-25 10:32:42.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Tudtad, hogy Magyarországon van Európában a harmadik legtöbb RABSZOLGA? Igen, jól olvastad. Rabszolga. Egy magyar falu és egy nagyváros között nem csak pártíz kilométer, de kétszáz év is lehet a távolság."
 categories: blog
-tags: [vers, kereszténység]
+tags: [demokrácia, megbékélés]
 lang: hu
 image: http://24.p3k.hu/app/uploads/2014/11/roma1.jpg
 ---
