@@ -9,7 +9,7 @@ tags: [vers, kereszténység]
 lang: hu
 image: http://24.p3k.hu/app/uploads/2014/11/roma1.jpg
 ---
-Hallod... ötleted sincs arról, hogy mi megy vidéken. Ilyenkor persze nem Pécsre, Győrre és a hasonlókra gondolok. Tudtad, hogy [Magyarországon van Európában a harmadik legtöbb RABSZOLGA?](http://index.hu/kulfold/2014/11/18/harmadik_lett_magyarorszag_a_rabszolgasag-ranglistan/) Igen, jól olvastad. Rabszolga. Egy magyar falu és egy nagyváros között nem csak pártíz kilométer, de kétszáz év is lehet a távolság.
+Hallod... ötleted sincs arról, hogy mi megy vidéken. Ilyenkor persze nem Pécsre, Győrre és a hasonlókra gondolok. Például tudtad, hogy [Magyarországon van Európában a harmadik legtöbb RABSZOLGA?](http://index.hu/kulfold/2014/11/18/harmadik_lett_magyarorszag_a_rabszolgasag-ranglistan/) Igen, jól olvastad. Rabszolga. Egy magyar falu és egy nagyváros között nem csak pártíz kilométer, de kétszáz év is lehet a távolság.
 
 ![](http://agostonlaszlo.hu/images/roma1.jpg)
 <center>Fotó: MTI / Czeglédi Zsolt</center>
