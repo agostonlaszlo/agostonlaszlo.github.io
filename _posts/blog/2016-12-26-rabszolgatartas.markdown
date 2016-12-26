@@ -60,6 +60,8 @@ Milliókról beszélek. Nem ezrekről.
 
 Mi lenne a megoldás? (Mert megoldási javaslat nélkül nem írok cikket.)
 
+0, **Észrevenni.**
+
 1, **A rendőrségnek vissza kell adni a becsületét.** Fizetést és képzést, ami mellett el lehet várni, hogy ne legyen korrupt a rendőr, értsen a szakmájához és hogy szívvel-lélekkel végezze a munkáját. Motiválni és büntetni, ha mégis megbukik. Súlyosan.
 
 2, **Visszaállítani az emberek bizalmát az államban.** Lehet lopni és pazarló gazdálkodást folytatni... (az megvan, hogy az ország miniszterelnökének a királyi *dolgozószobájára* [3 950 000 000 forintot fogunk költeni fent a királyi várban](http://hvg.hu/itthon/20161223_Most_figyeljen_Orban_dolgozoszobajat_potom_325_milliardbol_csinaljak_meg), de azokat nevezik *"takonygerincű liberális véleményterroristának"* (idézet egy kommentből a cikk alatt), akik ezt szóvá merik tenni?). De lesz egy pont, ahol az egész ország Moldova szintjére süllyed, [ahol aki csak tehette, már elhagyta az országot és már nem a bűnözők, hanem a panasztevők után kutat a rendőrség](http://alapblog.hu/vakmajom-468/). 
