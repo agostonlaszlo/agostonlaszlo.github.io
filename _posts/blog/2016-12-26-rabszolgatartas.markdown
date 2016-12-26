@@ -26,6 +26,8 @@ Ez a beszélgetés a karácsonyi asztalnál zajlott le egy ötezer főnél kiseb
 [Rabszolgatartás Magyarországon – Egy csicska vallomása…](http://tv2.hu/tv2klasszikusok/22461_rabszolgatartas_magyarorszagon__egy_csicska_vallomasa.html) <br />
 vagy csak kérdezz körbe egy keleti faluban.
 
+"Egy állami gondozottról több mint egy év után derült ki, hogy amikor eltűnik a szállóról, egy családhoz megy dolgozni, ahol amíg volt munka, biztos, ami biztos kiláncolták éjjelre a lábánál fogva, nehogy elmenjen. És persze nem akart feljelentést tenni, nem véletlenül: volt, hogy egy hajléktalant véresre verve találtak meg, miután fel akarta jelenteni a férfit, akinek dolgozott, csak a fizetését felejtették el odaadni." ([forrás](http://index.hu/mindekozben/poszt/2014/11/23/most_akkor_tenyleg_36_ezer_rabszolga_van_ma_magyaroszagon_vagy_bloff_az_egesz_lista/))
+
 A fentebb belinkelt felmérés harminchatezerre teszi a számukat, de félek, ez egy kedvesen alulbecsült szám. Tudniillik ez pontosan olyan, mint a háztartáson belüli erőszak: az eseteknek csak elenyésző része kerül felszínre.
 
 **Cigánybűnözés. Cigánybűnözés?**
