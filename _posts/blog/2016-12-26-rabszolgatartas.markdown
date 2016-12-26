@@ -62,11 +62,11 @@ Minden probléma megoldása először a probléma felismerésével kezdődik. Ez
 
 **Vedd észre! Tudj róla! Vedd számításba! Ha tudsz, tegyél érte! Ha nem tudsz, helyezz nyomást azokra, akik tehetnek érte!**
 
-Vissza kell adnunk a rendőrségnek a becsületét. Hogy kopasz kidobófiúk ne parancsolgassanak nekik a ligetnél. Hogy legyen fizetésük és képzésük, ami mellett el lehet várni, hogy ne legyen korrupt a rendőr, értsen a szakmájához és hogy szívvel-lélekkel végezze a munkáját. Hogy büszke lehessen a hivatására.
+**Vissza kell adnunk a rendőrségnek a becsületét.** Hogy kopasz kidobófiúk ne parancsolgassanak nekik a ligetnél. Hogy legyen fizetésük és képzésük, ami mellett el lehet várni, hogy ne legyen korrupt a rendőr, értsen a szakmájához és hogy szívvel-lélekkel végezze a munkáját. Hogy büszke lehessen a hivatására.
 
-Előbb-utóbb vissza kell állítani az emberek bizalmát az államban, különben elérjük Moldovát: az országot, [ahol aki csak tehette, már nyugatra emigrált és már nem a bűnözők, hanem a panasztevők után kutat a rendőrség](http://alapblog.hu/vakmajom-468/). Az megvan, hogy az ország miniszterelnökének a királyi *dolgozószobájára* [3 950 000 000 forintot fogunk költeni fent a királyi várban](http://hvg.hu/itthon/20161223_Most_figyeljen_Orban_dolgozoszobajat_potom_325_milliardbol_csinaljak_meg), de azokat nevezik *"takonygerincű liberális véleményterroristának"* (idézet egy kommentből a cikk alatt), akik ezt szóvá merik tenni?). Azt hiszed, ez örökké mehet így? Örökké eltart minket az Unió?
+Előbb-utóbb **vissza kell állítani az emberek bizalmát az államban**, különben elérjük Moldovát: az országot, [ahol aki csak tehette, már nyugatra emigrált és már nem a bűnözők, hanem a panasztevők után kutat a rendőrség](http://alapblog.hu/vakmajom-468/). Az megvan, hogy az ország miniszterelnökének a királyi *dolgozószobájára* [3 950 000 000 forintot fogunk költeni fent a királyi várban](http://hvg.hu/itthon/20161223_Most_figyeljen_Orban_dolgozoszobajat_potom_325_milliardbol_csinaljak_meg), de azokat nevezik *"takonygerincű liberális véleményterroristának"* (idézet egy kommentből a cikk alatt), akik ezt szóvá merik tenni?). Azt hiszed, ez örökké mehet így? Örökké eltart minket az Unió?
 
-Vissza kell állítani az emberek bizalmát a helyi vezetőkben. Persze ehhez olyan helyi vezetők is kellenek... Olvass utána a cserdi csodának [itt](http://mandiner.hu/cikk/20150818_egyik_politikai_elitnek_sem_leszek_a_ribanca_a_cserdi_polgarmester_bogdan_laszlo_a_mandinernek) és [itt](http://www.origo.hu/itthon/20150618-cserdi-bogdan-laszlo-cigany-roma-jobbik.html)! Sokan mondják, hogy ennek is csak a fele igaz - de egy irányt, egy gondolkodásmódot biztosan kijelöl. Hiteles vezetők kellenek, nem pártfunkcionáriusok. Olyanok, akik ha kell, szembe is mernek szállni a fősodorral a sajátjaik védelmében. Persze lehet, hogy ehhez még ki kell halnia egy (két-három) generációnak...
+Vissza kell állítani az emberek bizalmát a helyi vezetőkben. Persze ehhez olyan helyi vezetők is kellenek... Olvass utána a cserdi csodának [itt](http://mandiner.hu/cikk/20150818_egyik_politikai_elitnek_sem_leszek_a_ribanca_a_cserdi_polgarmester_bogdan_laszlo_a_mandinernek) és [itt](http://www.origo.hu/itthon/20150618-cserdi-bogdan-laszlo-cigany-roma-jobbik.html)! Sokan mondják, hogy ennek is csak a fele igaz - de egy irányt, egy gondolkodásmódot biztosan kijelöl. **Hiteles helyi vezetők kellenek pártfunkcionáriusok helyett**. Olyanok, akik ha kell, szembe is mernek szállni a fősodorral a sajátjaik védelmében. Persze lehet, hogy ehhez még ki kell halnia egy (két-három) generációnak...
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dquCFnzpdPY?start=14" frameborder="0" allowfullscreen></iframe>
 
@@ -75,6 +75,3 @@ Vissza kell állítani az emberek bizalmát a helyi vezetőkben. Persze ehhez ol
 Azt fogod mondani, hogy ez mind utópia - főleg, hogy ezek a dolgok nem egyik napról a másikra változnak meg és mi, itt Magyarországon nem is ismerjük a generációkra előre való tervezést, felelős gondolkozást. "Kár volt leírni is, úgyse lesz belőle semmi." Lehet, hogy igazad van, nem vagyok se naiv se irracionális. De ha nem írom meg, máshonnan nem is tudsz róla. Elszórtan kerül szóba Magyarország talán legfontosabb témája. Ami igazán szót érdemelne. 
 
 Talán így jobban megérted majd a következő választás eredményeit.
-
-
-
