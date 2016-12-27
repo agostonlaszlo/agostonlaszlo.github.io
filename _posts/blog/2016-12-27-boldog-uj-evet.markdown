@@ -3,7 +3,7 @@ layout: post
 title: "2016 nem volt egy rossz év. Csak láss túl a médián!"
 date: 2016-12-25 10:32:42.000000000 +00:00
 author: agoston_laszlo
-excerpt: "Tudtad, hogy Magyarországon van Európában a harmadik legtöbb RABSZOLGA? Igen, jól olvastad. Rabszolga. Egy magyar falu és egy nagyváros között nem csak pártíz kilométer, de kétszáz év is lehet a távolság."
+excerpt: "Ez egy nagyszerű év volt, csodálatos történésekkel. Ezek egy része el se jutott Magyarországra, egy másik része meg elsikkadt a napi politikai hírek mellett. A világ szebb, mint amilyennek láttatják veled!"
 categories: blog
 tags: [demokrácia, megbékélés]
 lang: hu
