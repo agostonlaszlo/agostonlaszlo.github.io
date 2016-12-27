@@ -70,7 +70,7 @@ Már korábban is írtam arról, hogy mennyire félelemkeltő a média: [irreál
 19, [Kulka János újra játszik](http://24.hu/szorakozas/2016/11/19/kulka-janos-visszaterhet-a-szinpadra-es-hamarosan-filmet-is-forgat/)
 
 **Sport**<br />
-20, A magyar labdarúgó-válogatott sikere az EB-n
+20, A magyar labdarúgó-válogatott sikere az EB-n<br />
 ![](http://24.p3k.hu/app/uploads/2015/11/d__yt20151115010-e1448649525202.jpg)
 
 21, Hosszú Katinka lett az év úszónője, miután rommá nyerte magát az évben
@@ -82,8 +82,8 @@ Már korábban is írtam arról, hogy mennyire félelemkeltő a média: [irreál
 23, A szír Yusra Mardini részt vehetett az Olimpián és a menekültválogatott szerepeltetése
 
 <iframe src="https://player.vimeo.com/video/189814802" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-+1
+<br />
++1<br />
 24, Ide a te örömhíred, sikertörténeted kerüljön! Biztos vagyokk benne, hogy mindannyiunknak lesz mire emlékezni, van mit megköszönni 2016-nak. Én sok minden más mellett a ti figyelmeteket köszönöm meg, hogy tíz hónap alatt ennyien ajándékoztatok meg a figyelmetekkel. 
 
 Jó év volt ez a 2016 sok rossz történéssel. Boldog új évet kívánok!
