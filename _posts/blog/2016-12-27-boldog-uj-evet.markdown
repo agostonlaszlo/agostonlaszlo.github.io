@@ -9,9 +9,9 @@ tags: [demokrácia, megbékélés]
 lang: hu
 image: http://agostonlaszlo.hu/images/ritaora.jpg
 ---
-Mindenhol azt hallom, hogy mennyire szörnyű év volt 2016, csak legyen már vége, bújjunk el erre a maradék pár napra és valaki rejtse el David Attenborought is. Én is így voltam ezzel, amíg egy barátom fel nem hívta a figyelmemet arra: más szempontból ez egy nagyszerű év volt. Van olyan közeli rokonom, aki ebben az évben lett rákos és ebben az évben vált panaszmentessé. Ez jó vagy rossz? Én inkább jónak számítanám, ő rossznak számítja. Van olyan barátom, aki végigszenvedte az évet egy rossz kapcsolatban, túl van a szakításon és most egy sokkal jobb kapcsolatban él. Ez jó év volt vagy rossz? Ő rossznak mondta, szerintem minden jó, ha a vége jó...
+Mindenhol azt hallom, hogy mennyire szörnyű év volt 2016, csak legyen már vége, bújjunk el erre a maradék pár napra és valaki rejtse el David Attenborought is. Én is így voltam ezzel, amíg egy barátom fel nem hívta a figyelmemet arra: más szempontból **ez egy nagyszerű év volt.** Van olyan közeli rokonom, aki ebben az évben lett rákos és ebben az évben vált panaszmentessé. Ez jó vagy rossz? Én inkább jónak számítanám, ő rossznak számítja. Van olyan barátom, aki végigszenvedte az évet egy rossz kapcsolatban, túl van a szakításon és most egy sokkal jobb kapcsolatban él. Ez jó év volt vagy rossz? Ő rossznak mondta, szerintem minden jó, ha a vége jó...
 
-De összeszedtem pár elfelejtett hírt a médiából is. Amit kiszorított az emlékezetből a migránsozás meg a brexit és Trump. Ami mind szép és jó... csak... Mutatok egy példát - szerinted ez tényleg csak a negyedik legfontosabb hír volt aznap és a fölötte lévő három tényleg ennyivel nagyobb horderejű? Vagy tényleg torz lehet a kép, amit a világról a médián keresztül alkotunk?
+De összeszedtem pár elfelejtett hírt a médiából is. Amit kiszorított az emlékezetből a migránsozás meg a brexit és Trump. Ami mind szép és jó... csak... Mutatok egy példát - szerinted **ez tényleg csak a negyedik legfontosabb hír volt aznap** és a fölötte lévő három tényleg ennyivel nagyobb horderejű? Vagy tényleg torz lehet a kép, amit a világról a médián keresztül alkotunk?
 
 ![](http://agostonlaszlo.hu/images/ebola.jpg)
 <center>index.hu, 2016. december 24. </center>
@@ -20,7 +20,7 @@ Már korábban is írtam arról, hogy mennyire félelemkeltő a média: [irreál
 
 ![](http://agostonlaszlo.hu/images/facebook.jpg)
 
-Pedig a világ sokkal szebb annál, mint amilyennek mutatják... Csak a rossz a hír, az állam érdekelt a gyűlöletkeltésben, a bevándorlókról hallunk, minden híradó a balesetekkel van tele... És kimarad az, ami lelkesíthetne, hamar elfelejtjük az eredményeket a negatívumok meteoritesőjében állva. Összeszedtem pár dolgot 2016-ból, ami igenis bizakodásra ad okot. Amit valahogy hajlamosak vagyunk kifelejteni az évértékelésből. 
+**Pedig a világ sokkal szebb annál, mint amilyennek mutatják...** Csak a rossz a hír, az állam érdekelt a gyűlöletkeltésben, a bevándorlókról hallunk, minden híradó a balesetekkel van tele... És kimarad az, ami lelkesíthetne, hamar elfelejtjük az eredményeket a negatívumok meteoritesőjében állva. Összeszedtem pár dolgot 2016-ból, ami igenis bizakodásra ad okot. Amit valahogy hajlamosak vagyunk kifelejteni az évértékelésből. 
 
 **Egészségügy**
 1, [Megvan az első gyógyult AIDS-es - meg lehet az ellenszer](http://index.hu/tudomany/2016/10/03/meggyogyitottak_a_hiv-fertozott_ferfit/)
