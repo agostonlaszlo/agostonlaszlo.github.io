@@ -22,7 +22,7 @@ Már korábban is írtam arról, hogy mennyire félelemkeltő a média: [irreál
 
 **Pedig a világ sokkal szebb annál, mint amilyennek mutatják...** Csak a rossz a hír, az állam érdekelt a gyűlöletkeltésben, a bevándorlókról hallunk, minden híradó a balesetekkel van tele... És kimarad az, ami lelkesíthetne, hamar elfelejtjük az eredményeket a negatívumok meteoritesőjében állva. Összeszedtem pár dolgot 2016-ból, ami igenis bizakodásra ad okot. Amit valahogy hajlamosak vagyunk kifelejteni az évértékelésből. 
 
-**Egészségügy**
+**Egészségügy**<br />
 1, [Megvan az első gyógyult AIDS-es - meg lehet az ellenszer](http://index.hu/tudomany/2016/10/03/meggyogyitottak_a_hiv-fertozott_ferfit/) <br />
 2, [Az orvostudomány legyőzte az ebolát](http://index.hu/tudomany/2016/12/24/az_orvostudomany_legyozte_az_ebolat/)<br />
 3, [Sikerek a rák gyógyítsában – immunterápia](http://rakgyogyitas.hu/immunterapia-a-rak-ellen-uj-kezelesek-remenyek-es-korlatok/)<br />
@@ -32,7 +32,7 @@ Már korábban is írtam arról, hogy mennyire félelemkeltő a média: [irreál
 ![](http://agostonlaszlo.hu/images/ritaora.jpg)
 <center>Rita Ora énekesnő részt vesz az Ice Bucket Challengeben (Fotó:  Broadimage/REX)</center>
 <br />
-**Politika**
+**Politika**<br />
 6, [Az indiánok győzelme Standing rocknál az olajipar fölött](http://index.hu/kulfold/2016/12/05/tobb_ezer_veteran_szall_be_az_indianok_mellett_az_olajvezetek_elleni_tuntetesekbe/) és az amerikaiak, akik térden állva kértek bocsánatot (és kaptak) az indiánoktól.<br />
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsevaster1%2Fvideos%2F787040331435547%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
