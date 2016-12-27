@@ -7,7 +7,7 @@ excerpt: "Tudtad, hogy Magyarországon van Európában a harmadik legtöbb RABSZ
 categories: blog
 tags: [demokrácia, megbékélés]
 lang: hu
-image: http://24.p3k.hu/app/uploads/2014/11/roma1.jpg
+image: http://agostonlaszlo.hu/images/ora.jpg
 ---
 Mindenhol azt hallom, hogy mennyire szörnyű év volt 2016, csak legyen már vége, bújjunk el erre a maradék pár napra és valaki rejtse el David Attenborought is. Én is így voltam ezzel, amíg egy barátom fel nem hívta a figyelmemet arra: más szempontból ez egy nagyszerű év volt. Van olyan közeli rokonom, aki ebben az évben lett rákos és ebben az évben vált panaszmentessé. Ez jó vagy rossz? Én inkább jónak számítanám, ő rossznak számítja. Van olyan barátom, aki végigszenvedte az évet egy rossz kapcsolatban, túl van a szakításon és most egy sokkal jobb kapcsolatban él. Ez jó év volt vagy rossz? Ő rossznak mondta, szerintem minden jó, ha a vége jó...
 
@@ -62,6 +62,7 @@ Csak a rossz a hír, az állam érdekelt a gyűlöletkeltésben, a bevándorlók
 17, Oscar-díjat nyert a Saul fia
 
 ![](http://static.origos.hu/s/img/i/1602/20160229nemes-jeles-laszlo-oscar-saul.jpg)
+
 18, Leonardo di Caprio is nyert végre egy oscart
 
 ![](https://i.ytimg.com/vi/U4mBHnaiLfE/maxresdefault.jpg)
