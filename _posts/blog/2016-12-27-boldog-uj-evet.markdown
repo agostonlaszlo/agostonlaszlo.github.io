@@ -35,7 +35,7 @@ Már korábban is írtam arról, hogy mennyire félelemkeltő a média: [irreál
 **Politika**<br />
 6, [Az indiánok győzelme Standing rocknál az olajipar fölött](http://index.hu/kulfold/2016/12/05/tobb_ezer_veteran_szall_be_az_indianok_mellett_az_olajvezetek_elleni_tuntetesekbe/) és az amerikaiak, akik térden állva kértek bocsánatot (és kaptak) az indiánoktól.<br />
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsevaster1%2Fvideos%2F787040331435547%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wSpLSTDP9LY" frameborder="0" allowfullscreen></iframe>
 
 7, Hosszú Katinka eltépett szerződése, Gyárfás Tamás lemondása<br />
 
