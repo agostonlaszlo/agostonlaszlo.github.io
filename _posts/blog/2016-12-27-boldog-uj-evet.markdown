@@ -5,7 +5,7 @@ date: 2016-12-25 10:32:42.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Ez egy nagyszerű év volt, csodálatos történésekkel. Persze ezek egy része el se jutott Magyarországra, egy másik része meg elsikkadt a napi politikai hírek mellett. De a világ szebb, mint amilyennek láttatják veled!"
 categories: blog
-tags: [demokrácia, megbékélés]
+tags: [demokrácia, megbékélés, iszlám]
 lang: hu
 image: http://agostonlaszlo.hu/images/ritaora.jpg
 ---
