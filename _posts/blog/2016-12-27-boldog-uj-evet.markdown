@@ -7,7 +7,7 @@ excerpt: "Tudtad, hogy Magyarországon van Európában a harmadik legtöbb RABSZ
 categories: blog
 tags: [demokrácia, megbékélés]
 lang: hu
-image: http://agostonlaszlo.hu/images/ora.jpg
+image: http://agostonlaszlo.hu/images/ritaora.jpg
 ---
 Mindenhol azt hallom, hogy mennyire szörnyű év volt 2016, csak legyen már vége, bújjunk el erre a maradék pár napra és valaki rejtse el David Attenborought is. Én is így voltam ezzel, amíg egy barátom fel nem hívta a figyelmemet arra: más szempontból ez egy nagyszerű év volt. Van olyan közeli rokonom, aki ebben az évben lett rákos és ebben az évben vált panaszmentessé. Ez jó vagy rossz? Én inkább jónak számítanám, ő rossznak számítja. Van olyan barátom, aki végigszenvedte az évet egy rossz kapcsolatban, túl van a szakításon és most egy sokkal jobb kapcsolatban él. Ez jó év volt vagy rossz? Ő rossznak mondta, szerintem minden jó, ha a vége jó...
 
@@ -29,7 +29,7 @@ Csak a rossz a hír, az állam érdekelt a gyűlöletkeltésben, a bevándorlók
 4, [A ZIKA-vírus – visszaszorítása](http://www.who.int/emergencies/zika-virus/situation-report/23-december-2016/en/)
 5, Emlékszel még az Ice bucket challengere? Amikor vagy pénzt adományoztál az ALS ([Amiotrófiás laterálszklerózis](https://hu.wikipedia.org/wiki/Amiotr%C3%B3fi%C3%A1s_later%C3%A1lszkler%C3%B3zis)) kutatására vagy nyakon öntötted magad egy vödör jeges vízzel? Na. Hát [a kampánynak köszönhetően új gént fedeztek fel egyre közelebb az ALS gyógyítása.](https://www.theguardian.com/society/2016/jul/26/ice-bucket-challenge-als-charity-gene-discovery)
 
-![](http://agostonlaszlo.hu/images/ora.jpg)
+![](http://agostonlaszlo.hu/images/ritaora.jpg)
 <center>Rita Ora énekesnő részt vesz az Ice Bucket Challengeben (Fotó:  Broadimage/REX)</center>
 
 **Politika**
