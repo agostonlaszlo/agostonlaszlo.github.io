@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Emberkísérlet magamon"
-date: 2017-1-185 12:32:42.000000000 +00:00
+date: 2017-01-18 12:32:42.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Harmadik nap. Az alany Három napja lépett ki a magyar civilizációból. A Phenjan Egyesen már hetek óta nem nézett Híradót, de három napja letörölte az Indexet is a telefonjáról. Életfunkciói rendben, készletei kitartanak, kedélyállapota emelkedőben."
 categories: blog
