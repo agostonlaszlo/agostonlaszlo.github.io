@@ -11,19 +11,19 @@ image: http://agostonlaszlo.hu/images/pilota.jpg
 ---
 ![](http://agostonlaszlo.hu/images/pilota.jpg)
 
--Kapitány! Zuhanunk!
--Ugyan már! A gép sértetlen. Minden utas életben van.
--De kapitány! A műszerek szerint már csak ezer méter a becsapódásig!
--Biztosan jók a műszerek? Nem lehet, hogy meghamisítottad őket? Tudom, hogy te is kapitány akartál lenni, de engem választottak. Ráadásul zsidó vagy.
--Kapitány! Ötszáz méter és mind meghalunk, ha nem tekeri el a kormányt!
--Én is látom, hogy közel a föld, a hülye is látja. De nem téged neveztek ki kapitánynak. Ha téged neveztek volna ki, én is tiszteletben tartanám a te döntéseidet. 
--Kapitány! Az ég szerelmére! Ez nem rivalizálás kérdése! Száz méter és végünk van!
--A műszerek valóban ezt mutatják, ha kinézek az ablakon, én is ezt látom. Kapcsold ki a műszereket és inkább ne is beszéljünk erről!
+-- Kapitány! Zuhanunk!
+-- Ugyan már! A gép sértetlen. Minden utas életben van.
+-- De kapitány! A műszerek szerint már csak ezer méter a becsapódásig!
+-- Biztosan jók a műszerek? Nem lehet, hogy meghamisítottad őket? Tudom, hogy te is kapitány akartál lenni, de engem választottak. Ráadásul zsidó vagy.
+-- Kapitány! Ötszáz méter és mind meghalunk, ha nem tekeri el a kormányt!
+-- Én is látom, hogy közel a föld, a hülye is látja. De nem téged neveztek ki kapitánynak. Ha téged neveztek volna ki, én is tiszteletben tartanám a te döntéseidet. 
+-- Kapitány! Az ég szerelmére! Ez nem rivalizálás kérdése! Száz méter és végünk van!
+-- A műszerek valóban ezt mutatják, ha kinézek az ablakon, én is ezt látom. Kapcsold ki a műszereket és inkább ne is beszéljünk erről!
 
 Első tiszt a hangosbemondóba: 
--Valaki segítsen! A kapitány megőrült! El kell mozdítanunk! Még pár méter és mind odaveszünk!
+-- Valaki segítsen! A kapitány megőrült! El kell mozdítanunk! Még pár méter és mind odaveszünk!
 
 Utasok:
--Hogy mi? Nekünk bajunk eshet? Soha! Egyébként is... mit tehetnék én? Hagyjanak békében élni! Nem is lesz baj! Rohadt rémhírterjesztő! Ráadásul zsidó is...
+-- Hogy mi? Nekünk bajunk eshet? Soha! Egyébként is... mit tehetnék én? Hagyjanak békében élni! Nem is lesz baj! Rohadt rémhírterjesztő! Ráadásul zsidó is...
 
 (Kommentek margójára)
