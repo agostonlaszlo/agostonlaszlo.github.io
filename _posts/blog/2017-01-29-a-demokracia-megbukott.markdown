@@ -37,7 +37,7 @@ A demokrácia megbukott, mert túl széles körű lett. Nem kell mindenkinek ré
 
 Egyrészt a **civil szervezetek** (jé, éppen ezek ellen harcolunk most... álllati fura...), amelyek kormányoktól és politikától függetlenül egy-egy célra jönnek létre. Például az idősek érdekeinek védelmére vagy a kardvirágtermesztők érdekeinek védelmére. Másrészt a szakszervezetek, amelyek a dolgozó állampolgárokat védhetik. Harmadrészt az államba beépített (és nem leépített) fékek és ellensúlyok rendszere. Ezek védik meg a hatalom gyakorlásában részt venni nem tudó, nem képes vagy nem akaró állampolgárt.
 
-![](https://www.agostonlaszlo.hu/images/ngo.jpg)
+![](http://agostonlaszlo.hu/images/ngo.jpg)
 
 Másrészt a lehetőség, amit minden egyes állampolgárnak meg kell adni a jogai megszerzésére: a tanulás. Mindenki nemtől, bőrszíntől, vallástól, szexuális orientációtól és pártpreferenciától függetlenül kaphassa meg ingyen a lehetőséget arra, hogy megszerezze azokat az alapvető állampolgári, közgazdaságtani, világpolitikai, jogi és történelmi ismereteket, amelyek birtokában teljes jogú szavazópolgár lehet. Előbb értsen a repüléshez - az előző példával élve - és csak utána szóljon bele.
 
