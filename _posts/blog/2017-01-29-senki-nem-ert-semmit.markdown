@@ -9,8 +9,7 @@ tags: [demokrácia, megbékélés]
 lang: hu
 image: http://thechristianmanifesto.com/loudbrand/wp-content/uploads/2015/07/jesus_facepalm.jpg
 ---
-
-<iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/x2q9h7m" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GeG_4i_BMEA" frameborder="0" allowfullscreen></iframe>
 
 Senki nem ért semmit <br />
 A nőm például engem <br />
