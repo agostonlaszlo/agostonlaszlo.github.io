@@ -12,22 +12,22 @@ image: http://thechristianmanifesto.com/loudbrand/wp-content/uploads/2015/07/jes
 
 <iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/x2q9h7m" allowfullscreen></iframe><br /><a href="http://www.dailymotion.com/video/x2q9h7m_csik-zenekar-wc-n-sirni_music" target="_blank">Cs&iacute;k Zenekar - Wc-n s&iacute;rni</a> <i>von <a href="http://www.dailymotion.com/eektrite" target="_blank">eektrite</a></i>
 
-Senki nem ért semmit
-A nőm például engem
-Az orvosok a halált
-Minden milyen csendben
-Veszi tudomásul
-Hogy nincsen megértve
-Vagy megvan, de mit is mondjon
-Az értő a fénybe érve
-Senki nem mond semmit
-Júdás is csak csókol
-Jézus visszanéz rá
-Mindent, mindent tud a csókról
-Beszél aki keres
-Hallgat aki talál
-De senki nem ért semmit
-Az orvosok a halált
-Senki nem ért semmit
+Senki nem ért semmit <br / >
+A nőm például engem <br / >
+Az orvosok a halált <br / >
+Minden milyen csendben <br / >
+Veszi tudomásul <br / >
+Hogy nincsen megértve <br / >
+Vagy megvan, de mit is mondjon <br / >
+Az értő a fénybe érve <br / >
+Senki nem mond semmit <br / >
+Júdás is csak csókol <br / >
+Jézus visszanéz rá <br / > 
+Mindent, mindent tud a csókról <br / >
+Beszél aki keres <br / >
+Hallgat aki talál <br / >
+De senki nem ért semmit <br / >
+Az orvosok a halált <br / >
+Senki nem ért semmit <br / >
 
 (Kispál és a Borz : WC-n sírni)
