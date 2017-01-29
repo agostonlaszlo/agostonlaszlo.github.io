@@ -3,13 +3,13 @@ layout: post
 title: "A demokrácia megbukott"
 date: 2017-01-28 12:32:42.000000000 +00:00
 author: agoston_laszlo
-excerpt: "Képzelj el egy repülőt, ahol szavazásra terjesztik, ki legyen a kapitány. Előáll az egyik kellőan nagypofájú, de hozzánemértő utas, hogy ő lesz az egyik jelölt. Ha meggyőzi a többit, ő lesz a kapitány?"
+excerpt: "Képzelj el egy repülőt, ahol szavazásra terjesztik, ki legyen a kapitány. Előáll az egyik kellően nagypofájú, de hozzá nem értő utas, hogy ő lesz az egyik jelölt. Ha meggyőzi a többit, ő lesz a kapitány?"
 categories: blog
 tags: [demokrácia, megbékélés]
 lang: hu
 image: http://agostonlaszlo.hu/images/pilotaszavazas2.jpg
 ---
-Képzelj el egy repülőt, ahol szavazásra terjesztik, ki legyen a kapitány. Előáll az egyik kellőan nagypofájú, de hozzánemértő utas, hogy ő lesz az egyik jelölt. Ha meggyőzi a többit, ő lesz a kapitány? A demokrácia szabályai szerint igen. A nép akarata dönt. Minden rendszer annyira erős, mint a leggyengébb láncszeme. A demokrácia, mint rendszer tehát annyira erős, mint amennyire a okosak, bölcsek és tájékozottak a szavazók, akik döntenek. 2016 megmutatta az egész világon: a rendszer sajátossága miatt nem az fogja vezetni az országot, aki a legrátermettebb - hanem a *legnagyobb pofájú* utas, aki a legjobban tudja maga mellé állítani "az átlagszavazót".
+Képzelj el egy repülőt, ahol szavazásra terjesztik, ki legyen a kapitány. Előáll az egyik kellően nagypofájú, de hozzá nem értő utas, hogy ő lesz az egyik jelölt. Ha meggyőzi a többit, ő lesz a kapitány? A demokrácia szabályai szerint igen. A nép akarata dönt. Minden rendszer annyira erős, mint a leggyengébb láncszeme. A demokrácia, mint rendszer tehát annyira erős, mint amennyire a okosak, bölcsek és tájékozottak a szavazók, akik döntenek. 2016 megmutatta az egész világon: a rendszer sajátossága miatt nem az fogja vezetni az országot, aki a legrátermettebb - hanem a *legnagyobb pofájú* utas, aki a legjobban tudja maga mellé állítani "az átlagszavazót".
 
 ![](http://agostonlaszlo.hu/images/pilotaszavazas1.jpg)
 Forrás: http://www.newyorker.com/cartoons/a20630
