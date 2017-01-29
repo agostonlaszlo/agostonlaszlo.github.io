@@ -29,4 +29,4 @@ De senki nem ért semmit <br />
 Az orvosok a halált <br />
 Senki nem ért semmit <br />
 
-(Kispál és a Borz : WC-n sírni)
+(Kispál és a Borz : WC-n sírni - Csík zenekar verzió)
