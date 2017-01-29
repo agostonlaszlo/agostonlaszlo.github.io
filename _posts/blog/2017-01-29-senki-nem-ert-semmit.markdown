@@ -10,7 +10,7 @@ lang: hu
 image: http://thechristianmanifesto.com/loudbrand/wp-content/uploads/2015/07/jesus_facepalm.jpg
 ---
 
-<iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/x2q9h7m" allowfullscreen></iframe><br /><a href="http://www.dailymotion.com/video/x2q9h7m_csik-zenekar-wc-n-sirni_music" target="_blank">Cs&iacute;k Zenekar - Wc-n s&iacute;rni</a> <i>von <a href="http://www.dailymotion.com/eektrite" target="_blank">eektrite</a></i>
+<iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/x2q9h7m" allowfullscreen></iframe>
 
 Senki nem ért semmit <br / >
 A nőm például engem <br / >
