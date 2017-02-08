@@ -1,0 +1,36 @@
+---
+layout: post
+title: És mi van, ha az ország ezt akarja?
+date: 2016-08-05 15:17:42.000000000 +00:00
+author: agoston_laszlo
+excerpt: Az egy dolog, ha összejön az olimpiás népszavazás, de utána még érvényesnek is kéne lennie. Nem lehet, hogy a csöndes többség illúzió? Igazából nem létezik?
+categories: blog
+image: http://agostonlaszlo.hu/images/grant.jpg
+tags: [demokrácia, videó]
+lang: hu
+---
+
+Az egy dolog, ha összejön az olimpiás népszavazás, de utána még érvényesnek is kéne lennie. Nem lehet, hogy a csöndes többség illúzió? Igazából nem létezik?
+
+Nézd meg, mi történik Romániában. A kormány egy a korrupciót megkönnyítő rendeletet akart elfogadtatni és gyakorlatilag fellázadt a nép. Ennyien mentek utcára és a tiltakozás napok óta nem csillapodik. 
+
+<div class="fb-video" data-href="https://www.facebook.com/hu.euronews/videos/10154656001413110/"  
+  data-allowfullscreen="true" data-width="500"></div>
+  
+Magyarországon senki se várta el, hogy menjenek utcára az emberek. Egy nyomorult aláírást kéne adnia a budapestieknek, ha úgy gondolják, nem ér meg az olimpia egy államcsődöt. Illetve bocsánat. Nem arról van szó, hogy az olimpia ellen gyűjtenek aláírásokat. Hanem a népszavazásról, ahol aztán a nép dönthetne arról, hogy akar-e tönkremenni. ([Csődközelbe került a legutóbbi rendező Rio is](http://24.hu/fn/gazdasag/2016/08/29/csodkozelbe-kerult-rio-az-olimpia-miatt/), pedig ott azért nagyobb a teljes gazdaság, aminek ki kellett volna termelnie a költségeket.)
+
+Nálunk ez nem megy. "Kimennek tüntetni az utcára, de majd hazamennek!" - mondta Gy. Ferenc egy 2006-os beszédében. Ezért már inkább ki se mennek. De van itt egy becsapós rész: mi van, ha nincs is, aki kimenne? Mármint tömegével.
+
+Mindenki tisztában van például a magyar egészségügy állapotával. A **Magyar Orvosi Kamara** felhívta a kormány figyelmét arra, hogy gyakorlatilag az összeomlás szélén áll az egészségügy többek között az elviselhetetlen orvoshiány miatt. A válasz az volt, hogy a kormány szerint nincs orvoshiány. Ennyi. Lehet továbbmenni. Mit várhatunk ha az, aki tehetne értünk, konkrétan letagadja és lesöpri a válláról a problémát? És milyen választ ad erre Magyarország?
+
+![](http://agostonlaszlo.hu/images/tamogatottsag.jpg.jpg)
+
+Semmilyet. Torony magasan támogatja a mostani rendszert. Meg az olimpiát. Mindenki arról beszél, hogy "igen, de ott a csendes többség", aki támogatná a jelenleginél logikusabb, megoldásorientáltabb, felelősebb kormányzást. De egy nyamvadt cetlit nem tud aláírni? 
+
+Mi van akkor, ha a csendes többség a naponta megerőszakolt, megfélemlített, nyomorba taszított és egy marék rizsért hajbókoló frusztrált, jobbágysorban és jobbágy gondolkodásban élő emberek többsége? A hangos kisebbség pedig próbál minden erejével tenni valamit ezen a szakadék felé száguldó vonaton, hogy fékezzünk, gondoljuk már végig, ne gyűlöljünk, ne legyünk Európa beteg embere, ne kerüljünk egy vagy több az emberi jogokat lábbal tipró és az ellenzékét fizikailag kivégeztető diktátor hatása alá. 
+
+Mi van, ha ennek az ideának Magyarországon "nincs piaca"? Ha előszeretettel szőröstalpúzzuk a románokat, de éppen ők mutatnak nekünk példát? Ja, egyébként [Románia háromszor gyorsabban növekszik](http://www.vg.hu/gazdasag/makrogazdasag/tobb-mint-haromszor-akkorat-nott-a-roman-gazdasag-mint-a-magyar-474018) és a [versenyképességi rangsorban is régen megelőzött minket](http://www.maszol.ro/index.php/gazdasag/53759-versenykepessegben-romania-megel-zi-magyarorszagot).
+
+Nem lehet, hogy Magyarország így akar élni? Hogy nem [a demokrácia bukott meg](http://agostonlaszlo.hu/blog/a-demokracia-megbukott/), ahogyan korábban írtam, hanemm a lemmingek országa vagyunk? Tudod, minden terápia alapja, hogy a betegnek **AKARNIA KELL** a változást.
+
+Akarjuk?
