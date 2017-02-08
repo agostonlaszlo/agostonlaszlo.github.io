@@ -1,9 +1,9 @@
 ---
 layout: post
-title: És mi van, ha az ország ezt akarja?
+title: "És mi van, ha az ország ezt akarja?"
 date: 2016-08-05 15:17:42.000000000 +00:00
 author: agoston_laszlo
-excerpt: Az egy dolog, ha összejön az olimpiás népszavazás, de utána még érvényesnek is kéne lennie. Nem lehet, hogy a csöndes többség illúzió? Igazából nem létezik?
+excerpt: "Az egy dolog, ha összejön az olimpiás népszavazás, de utána még érvényesnek is kéne lennie. Nem lehet, hogy a csöndes többség illúzió? Igazából nem létezik?"
 categories: blog
 image: http://kep.index.hu/1/0/1461/14610/146103/14610399_3aa74d5a8aa8b5f7d886091dc219162b_x.jpg
 tags: [demokrácia, videó]
