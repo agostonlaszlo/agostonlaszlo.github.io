@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "És mi van, ha az ország ezt akarja?"
-date: 2016-08-05 15:17:42.000000000 +00:00
+date: 2017-02-08 13:12:42.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Az egy dolog, ha összejön az olimpiás népszavazás, de utána még érvényesnek is kéne lennie. Nem lehet, hogy a csöndes többség illúzió? Igazából nem létezik?"
 categories: blog
