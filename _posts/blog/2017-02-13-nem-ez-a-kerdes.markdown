@@ -15,7 +15,7 @@ lang: hu
 -Anyám... Engem évek óta ver a férjem... <br />
 -Na és... az előző nem vert? Az jobb volt? <br />
 
-*Az anya érzéketlenül elfordul. A lány meghökken. Nyel egyet és újra kezdi.* 
+*Az anya érzéketlenül elfordul. A lány meghökken. Nyel egyet és újra kezdi.* <br />
 -Bántalmaz a férjem, anyám... hogy jön most ide a régi párom? Hetedik éve, hogy elváltam és egyébként is... igen, az a férjem is bántalmazott... de hogy jön ez ide? <br />
 -Mit kívánod vissza a régit? Alkoholista volt és ellopta a nyakláncomat! <br />
 
