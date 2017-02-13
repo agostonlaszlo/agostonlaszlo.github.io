@@ -3,7 +3,7 @@ layout: post
 title: "Azoknak, akik a jelenlegi kormányt azzal védik, hogy a régi milyen rossz volt"
 date: 2017-02-08 13:12:42.000000000 +00:00
 author: agoston_laszlo
-excerpt: "A szülői ház ajtaja becsukódik, a középkorú lány sírva veszi le a szeme alatti hatalmas kék foltját takaró szemüveget. A levegő mozdulatlan. A lányból kiszakad a beismerés:"
+excerpt: "A szülői ház ajtaja becsukódik, a középkorú lány sírva veszi le a szeme alatti hatalmas kék foltját takaró szemüveget. A lányból kiszakad a beismerés:"
 categories: blog
 image: http://agostonlaszlo.hu/images/megvertlany.jpg
 tags: [demokrácia, videó]
