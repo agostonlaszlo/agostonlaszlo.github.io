@@ -28,7 +28,7 @@ lang: hu
 -A mostani férjeddel szerintem semmi hiba. Ver? Nem lehet, hogy megérdemled? Nem lehet, hogy te nem szereted eléggé? Nézd meg, karácsonyra is milyen szép ajándékot hozott nekem! És megvéd minket az idegenektől! Próbáld meg végre elfelejteni a régit és értsd meg, hogy ő a legjobb, aki a férjed lehet! <br />
 
 *A lány elárulva és rettenetesen egyedül érzi magát. Kinyílik körülötte az univerzum és körülveszi a bolygók csöndje.*<br />
--Kihez forduljak, ha nem a saját családomhoz? Kitől várjak támogatást, ha nem attól, akivel egy vérből valók vagyunk? Anyám, hát nem látod, hogy a mostani férjem sportautót akar venni a közös családi örökségünkből! Hogy nem veszi meg beteg nagyapámnak a gyógyszert, hanem focira költi? Nem látod, hogy nem taníttatja a gyerekünket, hanem szolgát akar belőle nevelni? Anyám? Hát nem látod ezt!
+-Kihez forduljak, ha nem a saját családomhoz? Kitől várjak támogatást, ha nem attól, akivel egy vérből valók vagyunk? Anyám, hát nem látod, hogy a mostani férjem sportautót akar venni a közös családi örökségünkből! Hogy nem veszi meg beteg nagyapámnak a gyógyszert, hanem focira költi? Nem látod, hogy nem taníttatja a gyerekünket, hanem szolgát akar belőle nevelni? Anyám? Hát nem látod ezt!<br />
 -Mert a régi talán nem akarta ellopni a pénzünket? Akkor meg mit siránkozol? Azt akarod vissza, mi?! <br />
 -Nem, anya... egyiket se akarom... <br />
 
