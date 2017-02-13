@@ -10,7 +10,7 @@ tags: [demokrácia, videó]
 lang: hu
 ---
 
-*A szülői ház ajtaja becsukódik, a középkorú lány sírva veszi le a szeme alatti hatalmas kék foltját takaró szemüveget. A levegő mozdulatlan. A lányból kiszakad a beismerés:*<br />
+*A szülői ház ajtaja becsukódik, a középkorú lány sírva veszi le a szeme alatti hatalmas kék foltját takaró napszemüveget. A levegő mozdulatlan. A lányból kiszakad a beismerés:*<br />
 
 -Anyám... Engem évek óta ver a férjem... <br />
 -Na és... az előző nem vert? Az jobb volt? <br />
@@ -34,12 +34,12 @@ lang: hu
 -Mert a régi talán nem akarta ellopni a pénzünket? Akkor meg mit siránkozol? Azt akarod vissza, mi?! <br />
 -Nem, anya... egyiket se akarom... <br />
 
-*A lány megérti, hogy nem tud áthatolni az anyja falán. Megérti, hogy már nem tartozik ehhez a családhoz. Ő akarna, nem véletlenül jött az anyjához haza, de anyja taszítja el őt.*<br />
+*A lány megérti, hogy nem tud áthatolni az anyja falán. Megérti, hogy már nem tartozik ehhez a családhoz. Ő akarna, nem véletlenül jött az anyjához haza, de a saját anyja taszítja el őt.*<br />
 -Pedig ha a mostanit nem akarod, akkor biztosan a régit akarod! Hogy szülhettem ilyen semmirekellő lányt! Szégyellem magam miattad! Bántani ezt a drága embert... Ő maga mondja el minden héten, hogy milyen jól mennek a dolgaink! A barátai is ezt mondják! Hát nem érted, hogy nekünk most jó! Jobb, mint valaha!<br />
 
 *A lány feláll és egyetlen sóhajtással fújja ki magából:*<br />
 -Egyiket se akarom, anya... egyiket se... olyan férfira vágyom, aki szeret, aki bölcs és aki nem a saját kénye-kedve szerint erőszakoskodik velem. Egy olyan férjet, akire felnézek, akiben bízok, aki együttműködő és aki törődik velem. Aki nem idegenít el azoktól, akikkel összetartozom.<br />
 -Mert a régi jobb volt? <br />
 
-*A lány visszatolja a kék foltos, ütésnyomra a napszemüvegét és elindul az ajtó felé. Csak most látja, hogy zavarában nem is zárta be rendesen...*<br />
+*A lány visszatolja a kék foltra, az ütésnyomra a napszemüvegét és elindul az ajtó felé. Csak most látja, hogy zavarában nem is zárta be rendesen.*<br />
 -Nem ez a kérdés, anya. Nem ez.
