@@ -5,7 +5,7 @@ date: 2017-02-08 13:12:42.000000000 +00:00
 author: agoston_laszlo
 excerpt: "A szülői ház ajtaja becsukódik, a középkorú lány sírva veszi le a szeme alatti hatalmas kék foltját takaró szemüveget. A levegő mozdulatlan. A lányból kiszakad a beismerés:"
 categories: blog
-image: http://kep.index.hu/1/0/1461/14610/146103/14610399_3aa74d5a8aa8b5f7d886091dc219162b_x.jpg
+image: http://agostonlaszlo.hu/images/megvertlany.jpg
 tags: [demokrácia, videó]
 lang: hu
 ---
@@ -18,6 +18,8 @@ lang: hu
 *Az anya érzéketlenül elfordul. A lány meghökken. Nyel egyet és újra kezdi.* <br />
 -Bántalmaz a férjem, anyám... hogy jön most ide a régi párom? Hetedik éve, hogy elváltam és egyébként is... igen, az a férjem is bántalmazott... de hogy jön ez ide? <br />
 -Mit kívánod vissza a régit? Alkoholista volt és ellopta a nyakláncomat! <br />
+
+![](http://agostonlaszlo.hu/images/megvertlany.jpg)
 
 *A lány döbbent. Támogatást várt és nem érti az anyja reakcióját.*<br />
 -Igen, anya, ez így van... ő is rossz férjem volt. Ő is böszmeségeket csinált... de attól, hogy a mostanitól válni akarok, miért kívánnám vissza a régit? Megtörtem... elfáradtam, anyám... kérlek légy a támaszom... <br />
