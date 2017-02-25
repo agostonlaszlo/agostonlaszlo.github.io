@@ -3,7 +3,7 @@ layout: post
 title: "Ezért nincsen Magyarországon demokrácia-el se tudjuk képzelni"
 date: 2017-02-08 13:12:42.000000000 +00:00
 author: agoston_laszlo
-excerpt: "Azt hiszem, tudom, miért ilyen hangulatú Magyarország, amilyen. Tegnap éjjel álmatlanul hánykolódva megértettem a FIDESZ-, MSZP- vagy bármilyen más szavazók lélektanát. Legalábbis lett egy teóriám. Mondjuk sokaknak fog nem tetszeni."
+excerpt: "Azt hiszem, megértettem a FIDESZ-, MSZP- vagy bármilyen más szavazók lélektanát. Legalábbis lett egy teóriám. Mondjuk sokaknak fog nem tetszeni."
 categories: blog
 image: http://agostonlaszlo.hu/images/maffia.jpg
 tags: [demokrácia]
