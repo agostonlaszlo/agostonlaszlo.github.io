@@ -11,7 +11,7 @@ lang: hu
 ---
 Azt hiszem, tudom, miért ilyen hangulatú Magyarország, amilyen. Tegnap éjjel álmatlanul hánykolódva megértettem a FIDESZ-, MSZP- vagy bármilyen más szavazók lélektanát. Legalábbis lett egy teóriám. Mondjuk sokaknak fog nem tetszeni.
 
-"A maffia szervezett bűnözői csoport. A maffia egyes tagjai szerint e bűnszövetkezet valódi neve Cosa Nostra (szó szerinti magyar fordításban „a mi ügyünk” „a mi dolgunk”)." (Wikipédia)[https://hu.wikipedia.org/wiki/Maffia]
+"A maffia szervezett bűnözői csoport. A maffia egyes tagjai szerint e bűnszövetkezet valódi neve Cosa Nostra (szó szerinti magyar fordításban „a mi ügyünk” „a mi dolgunk”)." ([Wikipédia](https://hu.wikipedia.org/wiki/Maffia) )
 
 ![](http://agostonlaszlo.hu/images/cosanostra.jpg)
 
