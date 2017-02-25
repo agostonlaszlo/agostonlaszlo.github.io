@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Azoknak, akik a jelenlegi kormányt azzal védik, hogy a régi milyen rossz volt"
+title: "Ezért nincsen Magyarországon demokrácia - el se tudjuk képzelni"
 date: 2017-02-08 13:12:42.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Azt hiszem, tudom, miért ilyen hangulatú Magyarország, amilyen. Tegnap éjjel álmatlanul hánykolódva megértettem a FIDESZ-, MSZP- vagy bármilyen más szavazók lélektanát. Legalábbis lett egy teóriám. Mondjuk sokaknak fog nem tetszeni."
@@ -11,21 +11,24 @@ lang: hu
 ---
 Azt hiszem, tudom, miért ilyen hangulatú Magyarország, amilyen. Tegnap éjjel álmatlanul hánykolódva megértettem a FIDESZ-, MSZP- vagy bármilyen más szavazók lélektanát. Legalábbis lett egy teóriám. Mondjuk sokaknak fog nem tetszeni.
 
-![](http://agostonlaszlo.hu/images/megvertlany.jpg)
-
 "A maffia szervezett bűnözői csoport. A maffia egyes tagjai szerint e bűnszövetkezet valódi neve Cosa Nostra (szó szerinti magyar fordításban „a mi ügyünk” „a mi dolgunk”)." (Wikipédia)[https://hu.wikipedia.org/wiki/Maffia]
+
+![](http://agostonlaszlo.hu/images/cosanostra.jpg)
 
 Mesélek egy mesét. Egyszer volt, hol nem volt, volt egyszer ország, amelyet a maffia irányított. Pontosabban különböző klánok versengtek azért, hogy kié legyen a placc. Ezek az egymással versengő maffia-klánok törvénytelen és erkölcstelen módon működtek, a saját embereiknek nagy hasznot, zsíros közbeszerzéseket, kiskirályságokat (az ipartól az egyetemekig, a színházaktól a könyvkiadásig) ígértek, ezért idővel rengeteg ember csatlakozott hozzájuk. Ki ehhez a klánhoz, ki ahhoz a klánhoz. 
 
 Az egyik bűnözői csoport hosszú távon ügyesebb volt, jobban tudott helyezkedni, színt váltani és megállapodásokat kötni, ezért igen komoly hatalomra tett szert. A "Cosa nostra", azaz "a mi ügyünk" helyett a "Cosa nostra nazionale" azaz "a mi nemzeti ügyünk" néven került be a köztudatba és annyira szétterjedt, hogy polipcsápjai már az ellenlábas szervezetekbe is elértek. Egy napon övék lett a teljes placc és ők osztották ki a többi, korábban jelentősnek számító, ma már csak báb-klánnak a békéért járó jutalékot.
 
-Nem szabad félreérteni: egyik maffia sem volt jobb a másiknál, de az egyik sokkal erősebbé vált, így több lehetőséget is kapott üzelmei kiterjesztésére.
+Nem szabad félreérteni: **egyik maffia sem volt jobb a másiknál**, de az egyik sokkal erősebbé vált, így több lehetőséget is kapott üzelmei kiterjesztésére.
 
 Az emberek pedig csatlakoztak, három féle okból:
 
 1, **Hasznot reméltek** az együttműködés rendszerétől - ők a "mi nemzeti ügyünk" szóhármasból a **"mi"**-t emelték ki és keményen összezártak, közösen védve a placcot, a vadászterületüket. Csak azokat engedték be a fontos pozíciókba, a jól fizető vagy stratégiailag fontos helyekre, akik lojálisak voltak hozzájuk. Százezrek, sőt milliók csatlakoztak hozzájuk, hogy jobb lehetőségeket kapjanak az érvényesülésre.
 
 2, **Tartozni akartak valahová** és a **"nemzeti"** szóban találták meg a hovatartozásuk magját - ők mérhetetlen társadalmi és egzisztenciális frusztrációban léteztek, értéktelennek, elhagyatottnak és sokszor bukottnak érezték magukat, ráadásul önhibájukon kívül. Azt érezték, hogy a munkaadójuk, a külföldi óriáscégek, úgy általában a világ nem vesz róluk tudomást, de meg volt bennük a természetes igány arra, hogy büszkék lehessenek magukra. Elkezdték hát nagy betűvel írni a Magyarságukat és azzal kezdtek büszkélkedni, amit nem ők csináltak, hanem az őseik, a nemzetükhöz tartozó tudósok vagy hadvezérek. Ők az összetartozás, a fontosság és nagyság vélt érzéséért özönlöttek ehhez a klánhoz, erős vezetőt, apaképet akartak, aki megvéd, irányt szab és elhiteti velük, hogy a születésük helye, a szüleik nemzetisége miatt ugyan olyan jók, sőt jobbak, mint más országok népei. Szívcsakra. Ezek az emberek aztán határtalan lelkesedéssel vetették bele magukat a saját apa- és nemzetképük felépítésébe és fényesítésébe, mert saját jogon nem tudtak büszkék lenni magukra. Nem voltak rossz vagy akár sikertelen emberek - csak borzasztóan frusztráltak.
+
+![](http://agostonlaszlo.hu/images/maffia.jpg)
+*Giovanni Gambino nyilatkozik a tévében*
 
 3, **"Ügyeket"** pártoltak - ők nagyon hasonlítottak az első csoporthoz, de ők nem kerültek elég közel a húsos fazékhoz, nem volt esélyük pozíciót kapni. Ők csak kevesebbet akartak fizetni a rezsiért, közmunkához akartak jutni, magasabb szakmunkás minimálbérért tengődni, védelmet akartak a maffiától az idegenek ellen vagy régi ellenségeik - a kommunisták - halálát. Őket egy vagy több téma, probléma hozta közel a "Cosa nostra nazionale"-hoz és elfogadták működési renszerét a saját, három gyerek után járó adókevezményükért, "okosba" odacsúsztatott fejlesztési mikrotámogatásukért vagy panelprogramjukért.
 
@@ -44,11 +47,12 @@ A maffia a félelemmel tartotta fent a hatalmát, ezért mindig kellett ellensé
 
 A maffia pedig bekúszott mindenhová: lerohasztotta az egészségügyet, hogy több pénzért tudjon gyógyítani a magánkórházaiban, üzletet csinált a népegészségből és hagyta meghalni azokat, akiknek nem tellett rá. Az oktatást is lerohasztotta és továbbképzéseken, portfólióírásokon és akkreditációkon keresztül sarcolta. Nem akart új dont, nem kellett neki csak a szakmunkás és kézzel iránytható kézi munkaerő. Lerohasztott mindent, csődbe vitte, hogy aztán megköszönjék, amikor egy forintért veszi meg az ezermilliárdot érő gyárat. Nem volt ez újdonság: a korábbi klánok is ezt tették.
 
+![](http://agostonlaszlo.hu/images/polip.jpg)
+*A polip című olasz, a maffiáról szóló filmsorozat egy jelenete*
+
+
 Aki tudott, elmenekült. Aki maradt, jórészt csatlakozott valamilyen formában vagy tombolva vitatkozott barátokkal, már nem barátokkal, kommentelőkkel, sörös üveggel fejbe vágni készülő mobsterekkel. Évek mentek el. Az ország megkövült, a rezsiszilárdságú alkotmány pedig úgy változott, ahogy a Don akarta. Meglett az ő akarata most és... boldogan éltek, amíg meg nem halt.
 
 Sokan nem értik, hogyan nem veheti észre egy ország, ha... el se kezdem felsorolni. Hát ezért. Mert lúdul beszélünk egy kacsához. A "közjó" érdekében kardozunk olyanokkal, akik számára a "köz" a "mi nemzeti ügyünk"-re korlátozódik. Én már nem vagyok számára köz. Közömbös a sorsom iránt.
 
 Ezért nem lehet a rendszert megújítani, megjavítani, csak váltani. De erre jelenleg nem látom, hogy tömeges lenne az igény. Az emberek Magyarországon el sem tudják képzelni, hogy létezik élet a maffia nélkül is. Elfogadják és építik. A polip mi magunk vagyunk. Ezért nem várhatjuk a poli(p)tikától a megoldást, mertennnek a polipnak ha levágod a fejét, millió karjának erejéből újat növeszt. Másik polipra cserélni meg minek?
-
-
-
