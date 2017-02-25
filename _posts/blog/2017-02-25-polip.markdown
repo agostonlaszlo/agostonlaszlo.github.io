@@ -5,8 +5,8 @@ date: 2017-02-08 13:12:42.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Azt hiszem, tudom, miért ilyen hangulatú Magyarország, amilyen. Tegnap éjjel álmatlanul hánykolódva megértettem a FIDESZ-, MSZP- vagy bármilyen más szavazók lélektanát. Legalábbis lett egy teóriám. Mondjuk sokaknak fog nem tetszeni."
 categories: blog
-image: http://agostonlaszlo.hu/images/megvertlany.jpg
-tags: [demokrácia, videó]
+image: http://agostonlaszlo.hu/images/maffia.jpg
+tags: [demokrácia]
 lang: hu
 ---
 Azt hiszem, tudom, miért ilyen hangulatú Magyarország, amilyen. Tegnap éjjel álmatlanul hánykolódva megértettem a FIDESZ-, MSZP- vagy bármilyen más szavazók lélektanát. Legalábbis lett egy teóriám. Mondjuk sokaknak fog nem tetszeni.
@@ -60,4 +60,4 @@ Sokan nem értik, hogyan nem veheti észre egy ország, ha... el se kezdem felso
 
 Ezért nem lehet a rendszert megújítani, megjavítani, csak váltani. De erre jelenleg nem látom, hogy tömeges lenne az igény. Az emberek Magyarországon el sem tudják képzelni, hogy létezik élet a maffia nélkül is. Nincsen olyan opció, hogy **ne egyesével próbáljunk előnyökhöz jutni, hanem közösen**. Mármint nem érdekközösségekben, másokat kiszorítva, hanem általában. Hogy annak is jobb legyen, akit egyébként nem szeretsz. Elfogadjuk és építjük a polipot, mert **ez a polip mi magunk vagyunk**. Nem pár politikus, nem a Don, nem is a régi donok. Nélkülünk, a mi hozzáállásunk nélkül ők mind senkik lennének...
 
-Ezért nem várhatjuk a poli(p)tikától a megoldást, mertennnek a polipnak ha levágod a fejét, millió karjának erejéből újat növeszt. Másik polipra cserélni meg minek?
+Ezért nem várhatjuk a poli(p)tikától a megoldást, mert ennnek a polipnak ha levágod a fejét, millió karjának erejéből újat növeszt. Másik polipra cserélni meg minek?
