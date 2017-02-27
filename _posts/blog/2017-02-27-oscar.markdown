@@ -11,7 +11,7 @@ image: http://www.agostonlaszlo.hu//images/kommentek-oscar.jpg
 ---
 Nyertünk egy Oscart! **Mindenkié** a siker, de úgy tűnik, mégse tud mindenki örülni neki.
 
-![](http://www.agostonlaszlo.hu//images/kommentek-oscar.jpg)
+![](http://www.agostonlaszlo.hu//images/kommentek-oscar2.jpg)
 
 Négy óra sem telt el a hír bejelentése óta, már megjelentek ezek. Ők a mi vérszívóink - a frusztrált milliók. 
 
