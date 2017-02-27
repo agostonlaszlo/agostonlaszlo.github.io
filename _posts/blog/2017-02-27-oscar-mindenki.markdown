@@ -9,7 +9,7 @@ tags: [iszlám, kereszténység, megbékélés, videó]
 lang: hu
 image: http://www.agostonlaszlo.hu/images/oscar5.jpg
 ---
-Nyertünk egy Oscart! **Mindenkié** a siker, de úgy tűnik, mégse tud mindenki örülni neki.
+Nyertünk egy Oscart! **Mindenkié** a siker, de úgy tűnik, mégse tud mindenki örülni neki. <br />
 
 ![](http://www.agostonlaszlo.hu//images/kommentek-oscar3.jpg)
 
@@ -17,7 +17,6 @@ Négy óra sem telt el a hír bejelentése óta, már megjelentek ezek. Ők a mi
 
 Tudod, sose értettem ezt a mentalitást - "dögöljön meg a szomszéd tehene"!  Vajon mekkora frusztráció lehet abban az emberben, aki szerint ezek a 14 éves lányok "aranyos kis ribancok lesznek"? Tudod mit? Nem érdekel, mekkora az ő baja.
 
-Mert egy csomó fiatal művész élete egyik legnagyobb ünnepét üli, felállva tapsolt nekik (és nekünk, magyaroknak) az egész filmes világ és végre van, lenne minek örülni, ebben a gyomorgörcs-fájású, önmagát elemésztő országban. Mert egy Deutsch Tamás tíz lépésről nézve már sokkal, de sokkal kisebb, mint egy berlini Aranymedve. Mert ezek a - bocsánat a szóért - lelki nyomorultak, akik minden magyar győzelemben megtalálják a lehetőséget a saját frusztrációjuk képernyőre fröcsögtetésében egyrészt kevesen vannak (bár így is rengetegen), másrészt nem rabolhatják el egy pillanatát sem az örömünknek.
+Mert egy csomó fiatal művész élete egyik legnagyobb ünnepét üli, felállva tapsolt nekik (és nekünk, magyaroknak) az egész filmes világ és végre van, lenne minek örülni, ebben a gyomorgörcs-fájású, önmagát elemésztő országban. Mert egy Deutsch Tamás már tíz lépésről nézve is sokkal, de sokkal kisebb, mint egy berlini Aranymedve. Mert ezek a - bocsánat a szóért - lelki nyomorultak, akik minden magyar győzelemben megtalálják a lehetőséget a saját frusztrációjuk képernyőre fröcsögtetésében egyrészt kevesen vannak (bár így is rengetegen), másrészt nem rabolhatják el egy pillanatát sem az örömünknek.
 
 Nem szomoríthat el, ha valaki képtelen örülni. Nem haraphat bele a boldogság közös tortájába bűzös pofával valaki csak azért, mert neki rossz kedve vagy feltűnési viszketegsége van. Ezek beteg emberek. A betegeket pedig nem vesszük komolyan és kár is rájuk haragudni.
-
