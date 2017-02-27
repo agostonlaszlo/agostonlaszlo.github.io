@@ -7,7 +7,7 @@ excerpt: "Három órája nyerte meg a magyar film az Oscar-díjat, szétnéztem 
 categories: blog
 tags: [iszlám, kereszténység, megbékélés, videó]
 lang: hu
-image: http://www.agostonlaszlo.hu/images/oscar5.JPG
+image: http://www.agostonlaszlo.hu/images/oscar5.jpg
 ---
 Nyertünk egy Oscart! **Mindenkié** a siker, de úgy tűnik, mégse tud mindenki örülni neki.
 
