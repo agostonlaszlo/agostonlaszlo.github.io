@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Abortusz: hisztizünk vagy keresünk megoldást?
+title: Abortusz hisztizünk vagy keresünk megoldást?
 date: 2016-07-31 23:29:18.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Pár napja orvosnál jártam és ott találtam egy vitrinben ezt az eszközt. Éppen volt valami vita az abortuszról és nagyon mellbecsapott az eszköz elnevezése. Kérdezték, mi a véleményem, hát ez."
 categories: blog
-tags: [iszlám, megbékélés, demokrácia, terrorizmus]
-redirect_from: "/hu/blog/77-a-muszlimok-mar-a-spajzban-vannak-husz-eve"
+tags: [feminizmus]
 image: http://agostonlaszlo.hu/images/magzatdarabolo.jpg
 lang: hu
 ---
