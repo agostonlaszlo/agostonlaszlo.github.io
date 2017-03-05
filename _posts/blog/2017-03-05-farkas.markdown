@@ -9,7 +9,7 @@ tags: [feminizmus]
 image: http://agostonlaszlo.hu/images/farkasok.jpg
 lang: hu
 ---
-*Pár éve egy férfi javasolta, hogy töröljék el a nők jegyárkedvezményét a szórakozóhelyeken, mert ezzel tárgyiasítják őket.
+*Pár éve egy férfi javasolta, hogy töröljék el a nők jegyárkedvezményét a szórakozóhelyeken, mert ezzel tárgyiasítják őket.*
 
 Egyszer volt, hol nem volt, valahol a kerítésen innen, de jó érzés határain túl élt egyszer egy farkas. A farkasnak nagy családja volt, akik örömmel mentek esténként birkákat rabolni és erejüket, rátermettségüket kihasználva gyakran jöttek haza nagy zsákmánnyal. De a mi farkasunknak valahogy csak nem akaródzott beállni a többi közé: túl széplelkű volt, túl kevéssé önző, egyenesen altruista.
 
