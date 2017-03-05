@@ -11,6 +11,8 @@ lang: hu
 ---
 Egyszer volt, hol nem volt, valahol a kerítésen innen, de jó érzés határain túl élt egyszer egy farkas. A farkasnak nagy családja volt, akik örömmel mentek esténként birkákat rabolni és erejüket, rátermettségüket kihasználva gyakran jöttek haza nagy zsákmánnyal. De a mi farkasunknak valahogy csak nem akaródzott beállni a többi közé: túl széplelkű volt, túl kevéssé önző, egyenesen altruista.
 
+![](http://agostonlaszlo.hu/images/farkasok.jpg)
+
 Történt egy nap, hogy a farkas úgy döntött: felhagy elődei létformájával és konszenzusra, békére fog törekedni a birkákkal. El is tervezte, mit fog majd mondani és odaállított a Farkasok Tanácsa elé, kutatásokkal, tanulmányokkal, számításokkal alátámasztva paradigmaváltó gondolatait. A Farkasok Tanácsában hangos hahotázás fogadta javaslatát:
 
 "Hát te meghülyültél! Egyenjogúvá tenni a birkákat? Nem használni az erőfölényünket? Nem élni a természet adta lehetőségeinkkel? Komolyan azt gondolod, ez működhet? Te szánalmas, szerencsétlen szarzsák!" - röhögték ki majd kergették el maguk közül a lompos farkú, aggresszív, a territóriumukat védelmező hímek.
