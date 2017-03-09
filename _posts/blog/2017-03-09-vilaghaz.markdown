@@ -1,9 +1,9 @@
 ---
 layout: post
-title: A Világ-ház mesélje
+title: A Világház meséje
 date: 2017-03-05 10:00:18.000000000 +00:00
 author: agoston_laszlo
-excerpt: "Egyszer volt, hol nem volt, valahol a kerítésen innen, de a jó érzés határain túl élt egyszer egy család. Nagy család volt, sok testvér, unokatestvér, ipa és napa, de ami a legkülönösebb volt bennük: egyetlen óriási házban laktak. A rokonság nem csak lakásonként, de emeletenként is tudott szerveződni. Úgy is nevezték, a "Világ-ház""
+excerpt: "Egyszer volt, hol nem volt, valahol a kerítésen innen, de a jó érzés határain túl élt egyszer egy család. Nagy család volt, sok testvér, unokatestvér, ipa és napa, de ami a legkülönösebb volt bennük: egyetlen óriási házban laktak. A rokonság nem csak lakásonként, de emeletenként is tudott szerveződni. Úgy is nevezték, a "Világház""
 categories: blog
 tags: [feminizmus]
 image: http://agostonlaszlo.hu/images/babel.jpg
