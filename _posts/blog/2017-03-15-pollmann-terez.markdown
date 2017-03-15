@@ -15,12 +15,14 @@ Hajlandó volt könyvtárosként kezdeni, először csak szakkört tarthatott (e
 
 2014. november 23-án ugyanazon a napon debütáltam az Operaházban nem csak énekesként, operafordítóként is. Az előbbiről - ami egy előadás-mentő beugrás vol - hamarosan mesélek még, most az utóbbi van soron. Mert ez a fordítás nem jöhetett volna létre, ha abban a négy évben ez a tanár feladja és nem tart ki mellettünk. 
 
-Nehéz dolog operát fordítani, mert nem csak a szótagszámnak és a rímeknek kell kijönnie, de bizonyos magánhangzók nem szerepelhetnek bizonyos helyeken - így lesz énekelhető a szöveg. Amikor Haydn: A lakatlan sziget című operáját fordítottam olaszból magyarra, a leginkább mégis egyetlen ponttól féltem. Sylvia - aki két éves kora óta él a lakatlan szigeten és még sohasem látott, el sem tud képzelni egy férfit - észrevesz két alakot a parton. Csak azt érzi, hogy az egyikük (Enrico) nagyon vonzó a számára. De hát miféle teremtmény lehet? Nő biztos nem, mert akkor szoknyát viselne. Férfi sem lehet, mert a nővére kiskora óta hajtogatja, hogy minden férfi taszító, sötét tekintetű gazember... akkor tehát?
-
-Az olasz szöveg szerint "amabile oggetto" - azaz szerethető tárgy, magyarosabban szerelmem tárgya. De ez sehogy se jött ki a dallamra, ráadásul egészen rosszul is hangzik... Emlékeszem, éppen a kínai büfében ültem és valami kacsát ettem, amikor beugrott: ha nem lehet nő, nem lehet férfi és nem lehet tárgy, legyen "földre szállott angyal"!
-
 ![](http://agostonlaszlo.hu/images/moltopera-csapat.jpg)
 *A premier stábja*
+
+Nehéz dolog operát fordítani, mert nem csak a szótagszámnak és a rímeknek kell kijönnie, de bizonyos magánhangzók nem szerepelhetnek bizonyos helyeken - így lesz énekelhető a szöveg. Amikor Haydn: A lakatlan sziget című operáját fordítottam olaszból magyarra, a leginkább mégis egyetlen ponttól féltem. Sylvia - aki két éves kora óta él a lakatlan szigeten és még sohasem látott, el sem tud képzelni egy férfit - észrevesz két alakot a parton. Csak azt érzi, hogy az egyikük (Enrico) nagyon vonzó a számára. De hát miféle teremtmény lehet? Nő biztos nem, mert akkor szoknyát viselne. Férfi sem lehet, mert a nővére kiskora óta hajtogatja, hogy minden férfi taszító, sötét tekintetű gazember... akkor tehát?
+
+Az olasz szöveg szerint "amabile oggetto" - azaz szerethető tárgy, magyarosabban szerelmem tárgya. De ez sehogy se jött ki a dallamra, ráadásul egészen rosszul is hangzik... Emlékeszem, éppen a kínai büfében ültem és valami kacsát ettem, amikor beugrott: ha nem lehet nő, nem lehet férfi, akkor:
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/z1Oz1uAQMm0start=75" frameborder="0" allowfullscreen></iframe>
 
 Így lett. Azóta már a harmadik évadban játszuk a Moltoperával A lakatlan szigetet az Operaházban és szinte mindig azonnal elkapkodják a jegyeket. A kritikusok nagyon szerették az előadást, három nyelven írtak róla magasztaló szavakat. 
 
