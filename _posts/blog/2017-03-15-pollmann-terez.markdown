@@ -22,7 +22,7 @@ Nehéz dolog operát fordítani, mert nem csak a szótagszámnak és a rímeknek
 
 Az olasz szöveg szerint "amabile oggetto" - azaz szerethető tárgy, magyarosabban szerelmem tárgya. De ez sehogy se jött ki a dallamra, ráadásul egészen rosszul is hangzik... Emlékeszem, éppen a kínai büfében ültem és valami kacsát ettem, amikor beugrott: ha nem lehet nő, nem lehet férfi, akkor: *(a válasz a videóban található)*
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/z1Oz1uAQMm0start=75" frameborder="0" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/z1Oz1uAQMm0?start=75" frameborder="0" allowfullscreen></iframe>
 
 Így lett. Azóta már a harmadik évadban játszuk a Moltoperával A lakatlan szigetet az Operaházban és szinte mindig azonnal elkapkodják a jegyeket. A kritikusok nagyon szerették az előadást, három nyelven írtak róla magasztaló szavakat. 
 
