@@ -13,7 +13,7 @@ Egyszer volt, hol nem volt, élt egyszer egy hölgy, aki nagyon szerette és nag
 
 Hajlandó volt könyvtárosként kezdeni, először csak szakkört tarthatott (egyetemi tanárként), majd sorát kivárva és kiállva kapott egy kicsi, pár fős csoportot is, hátha. Hatalmas lelkesedéssel fogott bele a munkájába. Annyira jó tanár volt, annyira szívvel-lélekkel végezte a dolgát, hogy a következő évben annyian akartak hozzá jelentkezni, hogy a többi tanárnak nem lett volna ki az óraszáma. Ezért - jobb a békesség-alapon - nem adtak neki többet egyetlen csoportot sem. Gyarkolatilag kirúgták, de a meglévő csoportját még végigvihette és becsületből szinte mindenkit nyelvvizsgáig vagy érettségiig vitt. Régen volt, talán igaz se volt.
 
-2014. november 23-án ugyanazon a napon debütáltam az Operaházban nem csak énekesként, operafordítóként is. Az előbbiről - ami egy előadás-mentő beugrás vol - hamarosan mesélek még, most az utóbbi van soron. Mert ez a fordítás nem jöhetett volna létre, ha abban a négy évben ez a tanár feladja és nem tart ki mellettünk. 
+Három éve ugyanazon a napon debütáltam az Operaházban nem csak énekesként, operafordítóként is. Az előbbiről - ami egy előadás-mentő beugrás vol - hamarosan mesélek még, most az utóbbi van soron. Mert ez a fordítás nem jöhetett volna létre, ha abban a négy évben ez a tanár feladja és nem tart ki mellettünk. 
 
 ![](http://agostonlaszlo.hu/images/moltopera-csapat.jpg)
 *A premier stábja*
