@@ -52,7 +52,7 @@ A rendező az előadás előtt bejelenti a beugrást és azt, hogy az ő kérés
 Vége. Megcsináltuk. Egyszer se néztem a kottába. Tőri Csaba karmester minden intésével a tenyerén hordozott, szinte hallottam, ahogyan a kollégák telepatikusan szuggerálták a fejembe a szöveget, a közönségből pedig áradt a szimpátia. Sok operaházi dolgozó is belógott állóhelyre. Mindenki kiváncsi volt, mit tud az új operatársulat, a Moltopera és hogy mit fog egy beugrással kezdeni "a marketinges fiú". A művészeti igazgató mosolyogva megölel. Nagy siker. Három nyelven írtak rólunk tizenvalahány kritikát.
 
 ![](http://agostonlaszlo.hu/images/moltopera-csapat.jpg)
-A csapat
+*A premierstáb*
 
 Este hatalmas stábbuli, hihetetlen megkönnyebbülés. Pártíz méterre vagyunk attól a helytől, ahol a zeneakadémiai felvételimre készülve egy este megálltam a hatalmas Liszt-téri építmény előtt és megfogadtam, ha egyszer engem ide felvesznek, én leszek a valaha volt legbüszkébb diákja. Debütáltam. Büszke vagyok.
 
