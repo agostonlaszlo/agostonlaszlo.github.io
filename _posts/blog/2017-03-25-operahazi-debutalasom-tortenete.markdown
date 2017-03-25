@@ -36,14 +36,14 @@ Megakad a centiző kéz, elkerekedett szemekkel rám néz.
 
 Bátor a fene! Félek, mint a tűztől. Évek óta nem énekeltem "komolyan", már tényleg "menedzserebb" lettem, mint énekes... De mi a frászt csináljak? Maradjon el, amire évek óta készülünk, amire az egész csapat gyakorolt és próbált? Külön "öröm", hogy a fél magyar zenei élet jön a premierre... neves kritikusok... áh...
 
-**Előadás-40 óra**: megérkezik a lakásomba András, a zongrista és Zsófi, a rendező. Elkezdjük tanulni a darabot és a rendezést.<br />
-**Előadás-35 óra**: éjfél körül hazamennek. Zsófi megkönnyebbül. Ő csak a lakásomon jött rá, hogy egyébként én énekes is vagyok, Zeneakadémiát végeztem, egyáltalán el tudom énekelni, ha sikerül megtanulni addig...<br />
-**Előadás-30 óra**: hajnali négykor abbahagyom a tanulást. A párnám alá teszem a kottát. Minden vudura szükségem lesz...<br />
-**Előadás-25 óra**: az első és egyetlen próbám a csapattal. Mindenki próbál segíteni. Tanulom a zenét, a szöveget és a rendezést. Négy órát aludtam.<br />
-**Előadás-21 óra**: elsírom magam a színpadon. Hagynak egy kicsit, aztán folytatjuk.<br />
-**Előadás-18 óra**: hazaérünk Andrással. Eszünk egyet és veri tovább a fejembe a darabot.<br />
-**Előadás-10 óra**: Andrást hazaküldöm pihenni. Holnap nagy nap lesz...<br />
-**Előadás-1 óra**: az éjszakát végigtanultam (sok-sok recitativo...), az öltözőben ülök. Egy széken a jelmez kikészítve. Tükör. Mint a filmekben.
+**Előadás mínusz 40 óra**: megérkezik a lakásomba András, a zongrista és Zsófi, a rendező. Elkezdjük tanulni a darabot és a rendezést.<br />
+**Előadás mínusz 35 óra**: éjfél körül hazamennek. Zsófi megkönnyebbül. Ő csak a lakásomon jött rá, hogy egyébként én énekes is vagyok, Zeneakadémiát végeztem, egyáltalán el tudom énekelni, ha sikerül megtanulni addig...<br />
+**Előadás mínusz 30 óra**: hajnali négykor abbahagyom a tanulást. A párnám alá teszem a kottát. Minden vudura szükségem lesz...<br />
+**Előadás mínusz 25 óra**: az első és egyetlen próbám a csapattal. Mindenki próbál segíteni. Tanulom a zenét, a szöveget és a rendezést. Négy órát aludtam.<br />
+**Előadás mínusz 21 óra**: elsírom magam a színpadon. Hagynak egy kicsit, aztán folytatjuk.<br />
+**Előadás mínusz 18 óra**: hazaérünk Andrással. Eszünk egyet és veri tovább a fejembe a darabot.<br />
+**Előadás mínusz 10 óra**: Andrást hazaküldöm pihenni. Holnap nagy nap lesz...<br />
+**Előadás mínusz 1 óra**: az éjszakát végigtanultam (sok-sok recitativo...), az öltözőben ülök. Egy széken a jelmez kikészítve. Tükör. Mint a filmekben.
 
 A rendező az előadás előtt bejelenti a beugrást és azt, hogy az ő kérésére a kezemben kottával fogok énekelni (fél, hogy beborítanám a darabot). Pár perc és jelenünk...
 
