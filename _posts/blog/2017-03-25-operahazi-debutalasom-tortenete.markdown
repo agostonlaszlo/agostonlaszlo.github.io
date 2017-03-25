@@ -3,7 +3,7 @@ layout: post
 title: Operaházi debütálásom története
 date: 2017-03-09 10:00:18.000000000 +00:00
 author: agoston_laszlo
-excerpt: "Három éve ugyanazon a napon debütáltam az Operaházban nem csak énekesként, operafordítóként is. Ez a fordítás nem jöhetett volna létre, ha abban a négy évben ez a tanár feladja és nem tart ki mellettünk."
+excerpt: "Beszélgetés az Operaház jelmeztárában: Melyik produkcióba készülsz? / A lakatlan szigetre. / Az nem holnapután lesz? / De igen. Beugrás. / És tudod a szerepet? / Nem még. (Nagy csend...) /Bátor vagy..."
 categories: blog
 tags: [rólam]
 image: http://agostonlaszlo.hu/images/agostonlaszlo-oltozo.jpg
@@ -13,26 +13,26 @@ lang: hu
 
 Egy órával később krízismegbeszélés a művészeti igazgatónál. A rendező nem megy bele - jogosan -, hogy valaki a "színfalak mögül" kottából beénekelje és ... és ki játszaná? A helyzet pattanásig feszült. Veszek egy nagy levegőt és bemondom:
 
-- Majd én megtanulom addigra a szerepet.
+-- Majd én megtanulom addigra a szerepet.
 
 Csönd. A rendező szemöldöke a tarkójáig szalad, a művészeti igazgató kérdezi, hogy mennyire vagyok ebben biztos. (Kis kiegészítés: ekkoriban az Operaházban szinte kizárólag marketingesként ismertek.) 
 
 ![](http://agostonlaszlo.hu/images/agostonlaszlo-oltozo.jpg)
 
-- Én nem küldelek be a csalánosba, de ha magadtól mész, vissza se tartalak - mondja és megállapodunk: másfél nap múlva beugrással debütálok az Operaházban. Én, a marketinges, menedzserfiú.
+-- Én nem küldelek be a csalánosba, de ha magadtól mész, vissza se tartalak - mondja és megállapodunk: másfél nap múlva beugrással debütálok az Operaházban. Én, a marketinges, menedzserfiú.
 
 A jelmeztárban állok, leveszik a méreteimet. Beszélgetünk a szabóval:
 
-- Melyik produkcióba készülsz? <br />
-- A lakatlan szigetre <br />
-- Az nem holnapután lesz? <br />
-- De igen. Beugrás. <br />
-- És tudod a szerepet? <br />
-- Nem még. <br />
+-- Melyik produkcióba készülsz? <br />
+-- A lakatlan szigetre <br />
+-- Az nem holnapután lesz? <br />
+-- De igen. Beugrás. <br />
+-- És tudod a szerepet? <br />
+-- Nem még. <br />
 
 Megakad a centiző kéz, elkerekedett szemekkel rám néz.
 
-- Bátor vagy...
+-- Bátor vagy...
 
 Bátor a fene! Félek, mint a tűztől. Évek óta nem énekeltem "komolyan", már tényleg "menedzserebb" lettem, mint énekes... De mi a frászt csináljak? Maradjon el, amire évek óta készülünk, amire az egész csapat gyakorolt és próbált? Külön "öröm", hogy a fél magyar zenei élet jön a premierre... neves kritikusok... áh...
 
@@ -51,6 +51,7 @@ A rendező az előadás előtt bejelenti a beugrást és azt, hogy az ő kérés
 
 Vége. Megcsináltuk. Tőri Csaba karmester minden intésével a tenyerén hordozott, szinte hallottam, ahogyan a kollégák telepatikusan szuggerálták a fejembe a szöveget, a közönségből pedig áradt a szimpátia. Sok operaházi dolgozó is belógott állóhelyre. Mindenki kiváncsi volt, mit tud az új operatársulat, a Moltopera és hogy mit fog egy beugrással kezdeni "a marketinges fiú". A művészeti igazgató mosolyogva megölel. Nagy siker. Három nyelven írtak rólunk tizenvalahány kritikát.
 
+![](http://agostonlaszlo.hu/images/moltopera-csapat.jpg)
+A csapat
+
 Este hatalmas stábbuli, hihetetlen megkönnyebbülés. Pártíz méterre vagyunk attól a helytől, ahol a zeneakadémiai felvételimre készülve egy este megálltam a hatalmas Liszt-téri építmény előtt és megfogadtam, ha egyszer engem ide felvesznek, én leszek a valaha volt legbüszkébb diákja. Debütáltam. Büszke vagyok.
-
-
