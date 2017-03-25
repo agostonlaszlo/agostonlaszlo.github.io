@@ -49,7 +49,7 @@ A rendező az előadás előtt bejelenti a beugrást és azt, hogy az ő kérés
 
 ***
 
-Vége. Megcsináltuk. Egyszer se néztem a kottába. Tőri Csaba karmester minden intésével a tenyerén hordozott, szinte hallottam, ahogyan a kollégák telepatikusan szuggerálták a fejembe a szöveget, a közönségből pedig áradt a szimpátia. Sok operaházi dolgozó is belógott állóhelyre. Mindenki kiváncsi volt, mit tud az új operatársulat, a Moltopera és hogy mit fog egy beugrással kezdeni "a marketinges fiú". A művészeti igazgató mosolyogva megölel. Nagy siker. Három nyelven írtak rólunk vagy összesen tíz kritikát (itt olvashatóak)[http://agostonlaszlo.hu/images/Alakatlanszigetsajtogyujtes.pdf].
+Vége. Megcsináltuk. Egyszer se néztem a kottába. Tőri Csaba karmester minden intésével a tenyerén hordozott, szinte hallottam, ahogyan a kollégák telepatikusan szuggerálták a fejembe a szöveget, a közönségből pedig áradt a szimpátia. Sok operaházi dolgozó is belógott állóhelyre. Mindenki kiváncsi volt, mit tud az új operatársulat, a Moltopera és hogy mit fog egy beugrással kezdeni "a marketinges fiú". A művészeti igazgató mosolyogva megölel. Nagy siker. Három nyelven írtak rólunk vagy összesen tíz kritikát [(itt olvashatóak)](http://agostonlaszlo.hu/images/Alakatlanszigetsajtogyujtes.pdf).
 
 ![](http://agostonlaszlo.hu/images/moltopera-csapat.jpg)
 *A premierstáb*
