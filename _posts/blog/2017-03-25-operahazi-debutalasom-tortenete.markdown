@@ -55,3 +55,5 @@ Vége. Megcsináltuk. Tőri Csaba karmester minden intésével a tenyerén hordo
 A csapat
 
 Este hatalmas stábbuli, hihetetlen megkönnyebbülés. Pártíz méterre vagyunk attól a helytől, ahol a zeneakadémiai felvételimre készülve egy este megálltam a hatalmas Liszt-téri építmény előtt és megfogadtam, ha egyszer engem ide felvesznek, én leszek a valaha volt legbüszkébb diákja. Debütáltam. Büszke vagyok.
+
+*A fentebb látható, az öltözőajtóról készült kép már egy évvel későbbi, amikor újra énekeltem a szerepet. Persze volt öltözőtársam, de amikor odaértem, még csak az én nevem került ki és... fém táblát kaptam... mint az Operaházban rendszeresen fellépő művészek kapnak... ez is egy mérföldkő volt az életemben. 
