@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Operaházi debütálásom története
-date: 2017-03-09 10:00:18.000000000 +00:00
+date: 2017-03-25 10:00:18.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Beszélgetés az Operaház jelmeztárában: Melyik produkcióba készülsz? / A lakatlan szigetre. / Az nem holnapután lesz? / De igen. Beugrás. / És tudod a szerepet? / Nem még. (Nagy csend...) /Bátor vagy..."
 categories: blog
