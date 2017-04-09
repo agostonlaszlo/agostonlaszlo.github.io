@@ -15,7 +15,7 @@ lang: hu
 
 Na, ki merjem tenni? Három "basszátok meg" van benne... a hallgatóságom egyharmada semmi mást sem fog meghallani belőle... merjem vállalni névvel és arccal, hogy kimondom: Magyarországon nincsen demokrácia? Ülök a gép előtt, az ujjam az enteren. Inkább aludjunk rá még egyet reggelig! 
 
-Reggel felkelek. Ott van a videó. Akarom én ezt? Megint jönni fognak a bekecses-bakancsos-tasrsolyos-kalapos nemzeti cosplayerek és virtuálisan feláldoznak a turulnak... Van ennek értelme, Laci? Megint így címlapra kerülni? Van értelme, kiállni az ország egyik legjobb egyeteméért, van értelme kockáztatni a híred-neved azért, hogy megint kimondani, amit százezrek, ha nem milliók gondolnak, csak jogosan félnek elveszteni az állásukat miatta? Van értelme a nyakadba zúdítani azt, ami jön?
+Reggel felkelek. Ott van a videó. Akarom én ezt? Megint jönni fognak a bekecses-bakancsos-tasrsolyos-kalapos nemzeti cosplayerek és virtuálisan feláldoznak a turulnak... Van ennek értelme, Laci? Megint így címlapra kerülni? Van értelme, kiállni az ország egyik legjobb egyeteméért, van értelme kockáztatni a híred-neved azért, hogy megint kimondd, amit százezrek, ha nem milliók gondolnak, csak jogosan félnek elveszteni az állásukat miatta? Van értelme a nyakadba zúdítani azt, ami jön?
 
 Nincs. De a gombot megnyomom és a videó kikerül. Mert vannak dolgok, amiket becsületből tesz meg az ember és nem higgadt megfontolásból. 
 
