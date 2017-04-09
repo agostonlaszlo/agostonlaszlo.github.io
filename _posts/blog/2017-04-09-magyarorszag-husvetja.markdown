@@ -40,7 +40,7 @@ Egy ideig hosszú posztokban válaszolgatok a főbb felvetésekre, egy idő utá
 Vállaltam? Mivel? Azzal, hogy elmondtam, amit mind tudunk? Azzal, hogy felemeltem a takarót a leprás fekélyeinkről? A fene se akart közszereplő lenni. Csak elkezdtem megosztani tartalmakat, amiket fontosnak tartok. Amik szerintem az emberek és a beteg társadalmunk épülését szolgálják. Aztán kiderült, hogy sok embernek fontos ez... Óriási keresztté nőtt ez a vállamon és cipekedés közben még köpködnek is az útszélről a katona meg odacsap...
 
 ![](http://agostonlaszlo.hu/images/nerojatszik.jpg)
-<center>Nero játszik, a lángoló Róma felett</center>
+<center>Nero játszik a lángoló Róma felett</center>
 
 Neves operaénekesek tagadtak meg, nyilvánosan álltak ki ellenem a Facebookon, ki tehetségtelennek sejtetve, ki kínosnak nevezve, akinek "nem jegyzi meg a nevét". Mert kiálltam Magyarország legjobb egyetemének erőszakos bezáratása ellen, a kultúra papjai kiakadtak rám. Ó főpapok... ó, farizeusok...
 
