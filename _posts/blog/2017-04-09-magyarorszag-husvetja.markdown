@@ -6,7 +6,7 @@ author: agoston_laszlo
 excerpt: "A keresztény Magyarország a Húsvétot ünnepli és közben számolatlanul küldi a saját fiait a Golgotára - mi pedig megannyi Jézusként siratjuk a vesztébe rohanó Jeruzsálemet. Fáj, hogy ebből a sorból is sokan a gondolat helyett csak blaszfémiát látnak majd..."
 categories: blog
 tags: [rólam]
-image: http://agostonlaszlo.hu/images/1m.jpg
+image: http://agostonlaszlo.hu/images/nerojatszik.jpg
 lang: hu
 ---
 *És szóla Pilátus:
@@ -38,6 +38,9 @@ Jön sok biztató levél. Igyekszem ezekre koncentrálni, mert közben kezdenek 
 Egy ideig hosszú posztokban válaszolgatok a főbb felvetésekre, egy idő után már csak a legviccesebb gyalázkodókat posztolom ki név és arc nélkül. Aki Grazból hazaárulózik, aki hosszú ú-val írja le, hogy kulturálatlan vagyok... Elkomorodom. Sokan nem értik, azt hiszik, nyelvtannáciskodom, meg visszahazaárulózok ezzel... Hát nem... Csak próbálok tükröt tartani azoknak az embereknek, akik úgy tűnik, nem szoktak belenézni. Mert nem konzisztensek sajá magukkal. És próbálom a gyomorgörcsöt, amit mindenkinek okoznak ezekkel közösen feldolgozni. Csattog az ostor az arcomba keményen... de hát én vállaltam...
 
 Vállaltam? Mivel? Azzal, hogy elmondtam, amit mind tudunk? Azzal, hogy felemeltem a takarót a leprás fekélyeinkről? A fene se akart közszereplő lenni. Csak elkezdtem megosztani tartalmakat, amiket fontosnak tartok. Amik szerintem az emberek és a beteg társadalmunk épülését szolgálják. Aztán kiderült, hogy sok embernek fontos ez... Óriási keresztté nőtt ez a vállamon és cipekedés közben még köpködnek is az útszélről a katona meg odacsap...
+
+![](http://agostonlaszlo.hu/images/nerojatszik.jpg)
+<center>Nero játszik, miközben Róma ég</center>
 
 Neves operaénekesek tagadtak meg, nyilvánosan álltak ki ellenem a Facebookon, ki tehetségtelennek sejtetve, ki kínosnak nevezve, akinek "nem jegyzi meg a nevét". Mert kiálltam Magyarország legjobb egyetemének erőszakos bezáratása ellen, a kultúra papjai kiakadtak rám. Ó főpapok... ó, farizeusok...
 
