@@ -3,7 +3,7 @@ layout: post
 title: Magyarország Húsvétja - quo vadis, Patria?
 date: 2017-04-09 9:00:18.000000000 +00:00
 author: agoston_laszlo
-excerpt: "A keresztény Magyarország a Húsvétot ünnepli és közben számolatlanul küldi a saját fiait a Golgotára - mi pedig megannyi Jézusként siratjuk a vesztébe rohanó Jeruzsálemet. Fáj, hogy ebből a sorból is sokan a gondolat helyett csak blaszfémiát látnak majd..."
+excerpt: "A keresztény Magyarország a Húsvétot ünnepli és közben számolatlanul küldi a saját fiait a Golgotára - mi pedig megannyi Jézusként siratjuk a vesztébe rohanó Jeruzsálemet. Fáj, hogy ebből is sokan a gondolat helyett csak blaszfémiát látnak majd..."
 categories: blog
 tags: [rólam]
 image: http://agostonlaszlo.hu/images/nerojatszik.jpg
