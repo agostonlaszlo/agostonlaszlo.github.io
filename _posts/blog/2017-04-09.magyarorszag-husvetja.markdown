@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Magyarország Húsvétja - quo vadis, Patria mea?
+title: Magyarország Húsvétja - quo vadis, Patria?
 date: 2017-04-09 9:00:18.000000000 +00:00
 author: agoston_laszlo
 excerpt: "A keresztény Magyarország a Húsvétot ünnepli és közben számolatlanul küldi a saját fiait a Golgotára - mi pedig megannyi Jézusként siratjuk a vesztébe rohanó Jeruzsálemet. Fáj, hogy ebből a sorból is sokan a gondolat helyett csak blaszfémiát látnak majd..."
@@ -10,8 +10,8 @@ image: http://agostonlaszlo.hu/images/1m.jpg
 lang: hu
 ---
 *És szóla Pilátus:
-- Kit engedjek inkább szabadon? A Názáreti Jézust vagy Barabást, a gyilkost?
-- Barabást!*
+-- Kit engedjek inkább szabadon? A Názáreti Jézust vagy Barabást, a gyilkost?
+-- Barabást!*
 
 Na, ki merjem tenni? Három "basszátok meg" van benne... a hallgatóságom egyharmada semmi mást nem fog meghallani belőle... merjem vállalni névvel és arccal, hogy kimondom: Magyarországon nincsen demokrácia? Ülök a gép előtt, az ujjam az enteren. Aludjunk rá egyet reggelig! 
 
