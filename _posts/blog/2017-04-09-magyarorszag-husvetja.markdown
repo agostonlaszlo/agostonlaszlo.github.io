@@ -11,7 +11,7 @@ lang: hu
 ---
 *És szóla Pilátus: <br />
 -- Kit engedjek inkább szabadon? A Názáreti Jézust vagy Barabást, a gyilkost? <br />
--- Barabást!*<br />
+-- Barabást! - kiáltotta a nép.*<br /> 
 
 Na, ki merjem tenni? Három "basszátok meg" van benne... a hallgatóságom egyharmada semmi mást sem fog meghallani belőle... merjem vállalni névvel és arccal, hogy kimondom: Magyarországon nincsen demokrácia? Ülök a gép előtt, az ujjam az enteren. Inkább aludjunk rá még egyet reggelig! 
 
@@ -35,7 +35,7 @@ Jön sok biztató levél. Igyekszem ezekre koncentrálni, mert közben kezdenek 
 
 ![](http://agostonlaszlo.hu/images/zsidovagyok.jpg)
 
-Egy ideig hosszú posztokban válaszolgatok a főbb felvetésekre, egy idő után már csak a legviccesebb gyalázkodókat posztolom ki név és arc nélkül. Aki Grazból hazaárulózik, aki hosszú ú-val írja le, hogy kulturálatlan vagyok... Elkomorodom. Sokan nem értik, azt hiszik, nyelvtannáciskodom, meg visszahazaárulózok ezzel... Hát nem... Csak próbálok tükröt tartani azoknak az embereknek, akik úgy tűnik, nem szoktak belenézni. Mert nem konzisztensek sajá magukkal. És próbálom a gyomorgörcsöt, amit mindenkinek okoznak ezekkel közösen feldolgozni. Csattog az ostor az arcomba keményen... de hát én vállaltam...
+Egy ideig hosszú posztokban válaszolgatok a főbb felvetésekre, egy idő után már csak a legviccesebb gyalázkodókat posztolom ki név és arc nélkül. Aki Grazból hazaárulózik, aki hosszú ú-val írja le, hogy kulturálatlan vagyok... Elkomorodom. Sokan nem értik, azt hiszik, nyelvtannáciskodom, meg visszahazaárulózok ezzel... Hát nem... Csak próbálok tükröt tartani azoknak az embereknek, akik úgy tűnik, nem szoktak belenézni. Mert nem konzisztensek saját magukkal. És próbálom a gyomorgörcsöt, amit mindenkinek okoznak ezekkel közösen feldolgozni. Csattog az ostor az arcomba keményen... de hát én vállaltam...
 
 Vállaltam? Mivel? Azzal, hogy elmondtam, amit mind tudunk? Azzal, hogy felemeltem a takarót a leprás fekélyeinkről? A fene se akart közszereplő lenni. Csak elkezdtem megosztani tartalmakat, amiket fontosnak tartok. Amik szerintem az emberek és a beteg társadalmunk épülését szolgálják. Aztán kiderült, hogy sok embernek fontos ez... Óriási keresztté nőtt ez a vállamon és cipekedés közben még köpködnek is az útszélről a katona meg odacsap...
 
