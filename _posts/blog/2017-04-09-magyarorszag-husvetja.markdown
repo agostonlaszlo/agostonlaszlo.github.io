@@ -9,9 +9,9 @@ tags: [rólam]
 image: http://agostonlaszlo.hu/images/nerojatszik.jpg
 lang: hu
 ---
-*És szóla Pilátus: </ br>
--- Kit engedjek inkább szabadon? A Názáreti Jézust vagy Barabást, a gyilkost? </ br>
--- Barabást!*</ br>
+*És szóla Pilátus: <br />
+-- Kit engedjek inkább szabadon? A Názáreti Jézust vagy Barabást, a gyilkost? <br />
+-- Barabást!*<br />
 
 Na, ki merjem tenni? Három "basszátok meg" van benne... a hallgatóságom egyharmada semmi mást nem fog meghallani belőle... merjem vállalni névvel és arccal, hogy kimondom: Magyarországon nincsen demokrácia? Ülök a gép előtt, az ujjam az enteren. Aludjunk rá egyet reggelig! 
 
