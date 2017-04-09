@@ -13,13 +13,13 @@ lang: hu
 -- Kit engedjek inkább szabadon? A Názáreti Jézust vagy Barabást, a gyilkost? <br />
 -- Barabást!*<br />
 
-Na, ki merjem tenni? Három "basszátok meg" van benne... a hallgatóságom egyharmada semmi mást nem fog meghallani belőle... merjem vállalni névvel és arccal, hogy kimondom: Magyarországon nincsen demokrácia? Ülök a gép előtt, az ujjam az enteren. Aludjunk rá egyet reggelig! 
+Na, ki merjem tenni? Három "basszátok meg" van benne... a hallgatóságom egyharmada semmi mást sem fog meghallani belőle... merjem vállalni névvel és arccal, hogy kimondom: Magyarországon nincsen demokrácia? Ülök a gép előtt, az ujjam az enteren. Inkább aludjunk rá még egyet reggelig! 
 
 Reggel felkelek. Ott van a videó. Akarom én ezt? Megint jönni fognak a bekecses-bakancsos-tasrsolyos-kalapos nemzeti cosplayerek és virtuálisan feláldoznak a turulnak... Van ennek értelme, Laci? Megint így címlapra kerülni? Van értelme, kiállni az ország egyik legjobb egyeteméért, van értelme kockáztatni a híred-neved azért, hogy megint kimondani, amit százezrek, ha nem milliók gondolnak, csak jogosan félnek elveszteni az állásukat miatta? Van értelme a nyakadba zúdítani azt, ami jön?
 
 Nincs. De a gombot megnyomom és a videó kikerül. Mert vannak dolgok, amiket becsületből tesz meg az ember és nem higgadt megfontolásból. 
 
-Kinyilvánítani, hogy szolgálhattok, te bármilyen isteneket, *"de én és az én házam népe az URat szolgáljuk!"* (Józsué 24,15). Néha a kiállás magáért fontos, nem az eredményekért, amit hoz.
+Kinyilvánítani, hogy szolgálhattok, ti bármilyen isteneket, *"de én és az én házam népe az URat szolgáljuk!"* (Józsué 24,15). Néha a kiállás magáért fontos, nem az eredményekért, amit hoz.
 
 Jönnek az első kedvelések, kommentek, megosztások, rettentően felpörög. Ezrek nézik, hamarosan százezrek...
 
@@ -31,7 +31,7 @@ A népszavazás teljesen felesleges, mert "a kormány ugyanis decemberben eldön
 
 Nem bánom... ostorozzanak... ezt nem érzem.
 
-Jön sok biztató levél. Igyekszem ezekre koncentrálni, mert közben kezdenek beesni az olyanok is, amelyek szintén biztatnak, de arra, hogy  létesítsek szexuális kapcsolatot anyámmal a haza védelmében vagy hogy költözzek vissza a Vörös-tenger mellé, ha nem jó nekem itt. Mosolygok rajtuk és törlöm-tiltom őket. Annyiszor keresnek rá, hogy már magától adja fel a Google a keresési lehetőséget:
+Jön sok biztató levél. Igyekszem ezekre koncentrálni, mert közben kezdenek beesni az olyanok is, amelyek szintén biztatnak, de arra, hogy létesítsek szexuális kapcsolatot anyámmal a haza védelmében vagy hogy költözzek vissza a Vörös-tenger mellé, ha nem jó nekem itt. Mosolygok rajtuk és törlöm-tiltom őket. Annyiszor keresnek rá, hogy már magától adja fel a Google a keresési lehetőséget:
 
 ![](http://agostonlaszlo.hu/images/zsidovagyok.jpg)
 
@@ -44,10 +44,10 @@ Vállaltam? Mivel? Azzal, hogy elmondtam, amit mind tudunk? Azzal, hogy felemelt
 
 Neves operaénekesek tagadtak meg, nyilvánosan álltak ki ellenem a Facebookon, ki tehetségtelennek sejtetve, ki kínosnak nevezve, akinek "nem jegyzi meg a nevét". Mert kiálltam Magyarország legjobb egyetemének erőszakos bezáratása ellen, a kultúra papjai kiakadtak rám. Ó főpapok... ó, farizeusok...
 
-Tudom, Soros fizet minden soromért. Miért nem tudod elképzelni, hogy valakinek önállóan is vannak gondolatai? Magadból indulsz ki? Neked fizetnek? Nem értem...
+Tudom, Soros fizet minden soromért... Miért nem tudod elképzelni, hogy valakinek önállóan is vannak gondolatai? Magadból indulsz ki? Neked fizetnek? Nem értem...
 
 A keresztény Magyarország a Húsvétot ünnepli és közben számolatlanul küldi a saját fiait a Golgotára - mi pedig megannyi Jézusként siratjuk a vesztébe rohanó Jeruzsálemet. Fáj, hogy ebből a sorból is sokan a gondolat helyett csak blaszfémiát látnak majd...
 
-Örülök, hogy egymilliónál is többen látták ezt a videót. Sok olyan konfliktust generált, amelyben porral törve hullottak le az életemről emberek, mint metszéskor a száraz gallyak. Ez vagyok én, ecce homo! Jézus nem vagyok, de kellett ez a videó, hogy Barabássá se legyek...
+Örülök, hogy egymilliónál is többen látták ezt a videót. Sok olyan konfliktust generált, amelyben porral törve hullottak le az életemről emberek, mint metszéskor a száraz gallyak. Ez vagyok én, ecce homo! - mondhatom. Jézus nem vagyok, de kellett ez a videó, hogy Barabássá se legyek...
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GxLMvcPDNoc" frameborder="0" allowfullscreen></iframe>
