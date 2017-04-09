@@ -23,7 +23,7 @@ Kinyilvánítani, hogy szolgálhattok, te bármilyen isteneket, *"de én és az 
 
 Jönnek az első kedvelések, kommentek, megosztások, rettentően felpörög. Ezrek nézik, hamarosan százezrek...
 
-![](http://agostonlaszlo.hu/images/1m.jpg)
+![](http://agostonlaszlo.hu/images/1millio.jpg)
 
 Ütik a fejemet, hogy hogyan mondhatok olyat: nincsen demokrácia... Miközben nem csak a CEU-t zárják be épp, de például [az olimpia összes létesítményét is megépítik](http://index.hu/sport/2024/budapest/2017/04/08/budapest_minden_olimpiai_helyszint_felepit_es_palyazik_2028-ra_vagy_2032-re/), akár akarja a nép, akár nem. Mondjuk nem is tudhatjuk, hogy akarja-e, mert bár konzultálunk a néppel [egy olyan oldalon, amely az orosz Yandexnek csatornázza ki az adatokat](https://444.hu/2017/04/08/orosz-kod-fut-a-kormany-nemzeti-konzultacios-weboldalan), a népszavazást elkaszáljuk... Főleg, hogy a komrányközeli valasz.hu már január 19-én megírta:
 
