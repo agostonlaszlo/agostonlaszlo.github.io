@@ -9,9 +9,9 @@ tags: [rólam]
 image: http://agostonlaszlo.hu/images/nerojatszik.jpg
 lang: hu
 ---
-*És szóla Pilátus:
--- Kit engedjek inkább szabadon? A Názáreti Jézust vagy Barabást, a gyilkost?
--- Barabást!*
+*És szóla Pilátus: </ br>
+-- Kit engedjek inkább szabadon? A Názáreti Jézust vagy Barabást, a gyilkost? </ br>
+-- Barabást!*</ br>
 
 Na, ki merjem tenni? Három "basszátok meg" van benne... a hallgatóságom egyharmada semmi mást nem fog meghallani belőle... merjem vállalni névvel és arccal, hogy kimondom: Magyarországon nincsen demokrácia? Ülök a gép előtt, az ujjam az enteren. Aludjunk rá egyet reggelig! 
 
@@ -49,3 +49,5 @@ Tudom, Soros fizet minden soromért. Miért nem tudod elképzelni, hogy valakine
 A keresztény Magyarország a Húsvétot ünnepli és közben számolatlanul küldi a saját fiait a Golgotára - mi pedig megannyi Jézusként siratjuk a vesztébe rohanó Jeruzsálemet. Fáj, hogy ebből a sorból is sokan a gondolat helyett csak blaszfémiát látnak majd...
 
 Örülök, hogy egymilliónál is többen látták ezt a videót. Sok olyan konfliktust generált, amelyben porral törve hullottak le az életemről emberek, mint metszéskor a száraz gallyak. Ez vagyok én, ecce homo! Jézus nem vagyok, de kellett ez a videó, hogy Barabássá se legyek...
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GxLMvcPDNoc" frameborder="0" allowfullscreen></iframe>
