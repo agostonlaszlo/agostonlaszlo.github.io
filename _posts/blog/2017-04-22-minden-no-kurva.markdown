@@ -11,7 +11,7 @@ lang: hu
 ---
 A legsokoldalúbb magyar szó a kurva. Minden olyan nőre rá lehet mondani, aki "nem megfelelően" viselkedik, mert túl sokat és túl okosakat kérdez (mostanában éppen a Parlamentben van erre példa), túl csinos és nemet mond egy férfinak vagy túl csinos és igent mond egy férfinak.
 
-[](http://agostonlaszlo.hu/images/szuzmaria.jpg)
+![](http://agostonlaszlo.hu/images/szuzmaria.jpg)
 
 Ezzel a szóval kezeljük az összes ego-problémánkat, az összes korábbi sérülésünkből eredő fájdalmunkat, ezzel a szóval kezelünk mindent, ami egy nővel kapcsolatban fáj. Az állatnak mondjuk: "rossz kutya" és az asszony-állatnak mondjuk "kurva".
 
