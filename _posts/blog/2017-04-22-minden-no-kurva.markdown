@@ -3,7 +3,7 @@ layout: post
 title: Minden nő kurva
 date: 2017-04-22 6:00:18.000000000 +00:00
 author: agoston_laszlo
-excerpt: A legsokoldalúbb magyar szó a kurva. Minden olyan nőre rá lehet mondani, aki nem megfelelően viselkedik, mert túl sokat és túl okosakat kérdez (mostanában éppen a Parlamentben van erre példa), túl csinos és nemet mond egy férfinak vagy túl csinos és igent mond egy férfinak.
+excerpt: A legsokoldalúbb magyar szó a kurva. Minden olyan nőre rá lehet mondani, aki nem megfelelően viselkedik, mert túl sokat és túl okosakat kérdez, túl csinos és nemet mond egy férfinak vagy túl csinos és igent mond egy férfinak.
 categories: blog
 tags: [feminizmus]
 image: http://agostonlaszlo.hu/images/szuzmaria.jpg
