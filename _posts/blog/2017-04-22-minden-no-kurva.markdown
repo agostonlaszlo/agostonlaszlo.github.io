@@ -9,7 +9,7 @@ tags: [feminizmus]
 image: http://agostonlaszlo.hu/images/szuzmaria.jpg
 lang: hu
 ---
-A legsokoldalúbb magyar szó a kurva. Minden olyan nőre rá lehet mondani, aki "nem megfelelően" viselkedik, mert túl sokat és túl okosakat kérdez (mostanában éppen a Parlamentben van erre példa), túl csinos és nemet mond egy férfinak vagy túl csinos és igent mond egy férfinak.
+A legsokoldalúbb magyar szó a kurva. Minden olyan nőre rá lehet mondani, aki "nem megfelelően" viselkedik, mert túl sokat és túl okosakat kérdez, túl csinos és nemet mond egy férfinak vagy túl csinos és igent mond egy férfinak.
 
 ![](http://agostonlaszlo.hu/images/szuzmaria.jpg)
 
