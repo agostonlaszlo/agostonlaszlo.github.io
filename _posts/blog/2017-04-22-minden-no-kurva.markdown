@@ -27,4 +27,6 @@ Ne érts félre, köteteket lehetne/kéne/fogok még írni a férfiakról is ugy
 
 Kampányt indítok - erre a fesztivál megnyitója nagyszerű apropó -, amelyben szeretném megmutatni nektek nők, lányok, csajok, anyák, szeretők, hogy többek vagytok annál, mint amennyit magatokból a társadalom tükrében láttok. Utálni fogtok majd, amikor arról fogok beszélni, saját magatok tisztán látásához még nektek is fel kell nőnetek. De a cél adott, nem kicsi és nagyon nemes:
 
-szabaddá tenni a Nőt, a nagybetűset, és így remélni megszabadulást a "Férfi" számára is. Mert egymást tartjuk rabságban, mint elítélt és őrizője. Bontsuk le a falat. Süt odakint a nap.
+szabaddá tenni a Nőt, a nagybetűset, és így remélni megszabadulást a "Férfi" számára is.
+
+Mert egymást tartjuk rabságban, mint elítélt és őrizője. Bontsuk le a falat. Süt odakint a nap.
