@@ -32,6 +32,7 @@ Hiszek abban, hogy Putyin se szóljon bele az életünkbe. Ne adósítsuk el az 
 Hiszek abban, hogy az állam se szóljon bele az életünkbe. Hadd szexeljen mindenki azzal, akivel akar, foglalkozzon viszont a nőügyekkel, biztosítsa a lehetőséget, hogy bármilyen istent imádhassak és könyörgöm... kérve kérem... ne uszítson a polgártársaim ellen...
 
 ![](http://agostonlaszlo.hu/images/jobbal.jpg)
+*Mindig valami ellen kell definiálnunk magunkat?*
 
 Nem vagyok hagyományos baloldali és a legkevésbé sem gondolom, hogy az én hozzáállásom a világhoz az egyedül üdvözítő. Ember vagyok, sokszor még tévedek is, ezt nem esik nehezemre beismerni. 
 
