@@ -5,7 +5,7 @@ date: 2017-04-28 16:00:18.000000000 +00:00
 author: agoston_laszlo
 excerpt: Nem vagyok hagyományos baloldali és a legkevésbé sem gondolom, hogy az én hozzáállásom a világhoz az egyedül üdvözítő. Ember vagyok, sokszor még tévedek is, ezt nem esik nehezemre beismerni. 
 categories: blog
-tags: [feminizmus, nőjogok, megbékélés]
+tags: [rólam, demokrácia, megbékélés]
 image: http://agostonlaszlo.hu/images/baljobb.jpg
 lang: hu
 ---
