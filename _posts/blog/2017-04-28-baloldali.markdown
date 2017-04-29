@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hehe. Ha a sok mocskolódó tudná, hogy nem is vagyok igazi baloldali...
+title: Nem is vagyok igazi baloldali...
 date: 2017-04-28 16:00:18.000000000 +00:00
 author: agoston_laszlo
 excerpt: Sajnálom, ha nem találod itthon a helyed. Mert te sem úgy vagy jobb vagy baloldali, ahogy itthon azt mások hirdetik /akarják/mondják rólad. Mert hittél egy emberben vagy pártban és rá kellett jönnöd, hogy méltatlanná vált, méltatlanná váltak a bizalmadra.
