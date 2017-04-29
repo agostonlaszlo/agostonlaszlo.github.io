@@ -40,7 +40,7 @@ Hiszek abban, hogy az állam se szóljon bele az életünkbe. Ne szóljon bele, 
 
 Nem vagyok "igazi baloldali" és a legkevésbé sem gondolom, hogy az én hozzáállásom a világhoz az egyedül üdvözítő. Ember vagyok, sokszor még tévedek is, ezt nem esik nehezemre beismerni. De tudod mit? Annyira elengedném már végre ezt az "igazi baloldali" meg "igazi magyar"-felosztást. 
 
-Itt mindenki azt hiszi, hogy focimeccsen van: két csapat játszik egymás ellen, az egyiknek nyernie, a másiknak veszítenie kell és a nézők közben válogatott ocsmányságokat üvöltenek egymásra a lelátón. Pedig igazából egy szekeret tolunk. Tolnánk, de az egyik erre húzza, a másik meg arra és a nézők csak kiabálnak a segítség helyett.
+Itt mindenki azt hiszi, hogy focimeccsen van: két csapat játszik egymás ellen, az egyiknek nyernie, a másiknak veszítenie kell és a nézők közben válogatott ocsmányságokat üvöltenek egymásra a lelátón. Pedig igazából egy szekeret tolunk. Tolnánk, de az egyik erre húzza, a másik meg arra és a nézők csak kiabálnak a párbeszéd helyett.
 
 Sajnálom, ha nem találod itthon a helyed. Mert te sem úgy vagy jobb vagy baloldali, ahogy itthon azt mások hirdetik /akarják/mondják rólad. Mert hittél egy emberben vagy pártban és rá kellett jönnöd, hogy méltatlanná vált, méltatlanná váltak a bizalmadra. Nagy csalódás és nagyon nehéz beismerni, feledni az elmúlt éveket és akár szembe is fordulni azzal, ami már nem te vagy. Ami már nem téged szolgál. 
 
