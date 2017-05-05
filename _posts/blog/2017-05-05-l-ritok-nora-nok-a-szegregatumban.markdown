@@ -46,4 +46,4 @@ Persze nem mindegyikük képes változni. Sokukban olyan mélyen épült be már
 
 Kár, hogy olyan kevesen nyújtunk kezet feléjük. A roma nők felé, ott, a szegregátumokban.
 
-*L. Ritók Nóra írása a #fgolalkozzunkanougyekkel kampányom kapcsán.*
+*L. Ritók Nóra írása a #fgolalkozzunkanougyekkel-kampány kapcsán.*
