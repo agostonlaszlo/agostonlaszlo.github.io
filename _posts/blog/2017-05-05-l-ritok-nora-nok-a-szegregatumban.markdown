@@ -29,6 +29,9 @@ Nem akarom, hogy úgy érezzenek, természetes számukra a kirekesztés, a félr
 
 Nem bírom megtapasztalni, ahogy anyaként büszkén nézik a prostituálódó lányukat, a bűnözésből élő fiukat, mert közben azt érzik, jó úgy nekik… hiszen úgy van pénzük. Úgy nem nélkülöznek. 
 
+![](http://agostonlaszlo.hu/images/romano2.jpg)
+[A kép forrása](http://darkroom.baltimoresun.com/wp-content/uploads/2013/10/RTR38DU4.jpg)
+
 Inkább azt akarom, hogy természetes legyen nekik is a tanulás. Nem a nyolc osztályig, hanem azon túl is. Hogy használják a fogamzásgátlást, és akkor szüljenek, amikor ők is akarják. Hogy az együttlétben a párjukkal ők is fontosak legyenek, ne pusztán alanyai legyenek a kapcsolatnak. Hogy ne alázkodjanak meg a családon belül, ne törölje mindenki a lábát beléjük. Szeretném, ha nem kellene a kútról behordaniuk a vizet, és kézzel mosniuk az egész családra, néha 8-10 emberre is. Olyan jó lenne, ha a paprikás ízű ételeken kívül mást is tudnának főzni. Ha a család néha megköszönné és megdicsérné a főztjüket. Ha nem lenne számukra megszokott a csótány, az egér, vagy a patkány a házakban és a házak körül. Ha lenne mindig elég intim betétjük, ha szükségük van rá. Hogy az életüket ne csak a falun belül éljék, és lássanak a világból többet, mint amit a tv szappanoperái adnak. Mozit, színházat, múzeumot, cukrászdát. Hogy a könyv, az újság része legyen az életüknek. 
 
 Jó lenne, ha nem kellene hazudniuk azért, hogy védjék a gyerekeiket, vagy a párjukat. Ha őszinték lehetnének. Ha nem kellene kölcsönkérniük, mert ami a családba befut, az sosem elég a hónap végéig. Ha nem ők alázkodnának meg folyton a kölcsönért könyörgéssel. Szeretném, hogy merjenek és tudjanak kérdezni, ha nem értenek valamit. A hivatalban, az iskolában, az orvosnál, a boltban. Ha résztvevői lehetnének a róluk szóló döntéseknek, akár az önkormányzatokban is. 
