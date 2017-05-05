@@ -1,9 +1,9 @@
 ---
 layout: post
-title: L. Ritók Nóra: Nők a szegregátumokban
+title: L.Ritók Nóra: Nők a szegregátumokban
 date: 2017-05-05 16:00:18.000000000 +00:00
 author: agoston_laszlo
-excerpt: Sajnálom, ha nem találod itthon a helyed. Mert te sem úgy vagy jobb vagy baloldali, ahogy itthon azt mások hirdetik /akarják/mondják rólad. Mert hittél egy emberben vagy pártban és rá kellett jönnöd, hogy méltatlanná vált, méltatlanná váltak a bizalmadra.
+excerpt: Nem bírom megtapasztalni, ahogy anyaként büszkén nézik a prostituálódó lányukat, a bűnözésből élő fiukat, mert közben azt érzik, jó úgy nekik… hiszen úgy van pénzük. Úgy nem nélkülöznek. 
 categories: blog
 tags: [rasszizmus, demokrácia, megbékélés, feminizmus]
 image: http://agostonlaszlo.hu/images/romano.jpg
