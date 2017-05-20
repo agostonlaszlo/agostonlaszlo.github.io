@@ -3,7 +3,7 @@ layout: post
 title: A propagandista este, a tükör előtt
 date: 2017-05-20 09:00:18.000000000 +00:00
 author: agoston_laszlo
-excerpt: Nem bírom megtapasztalni, ahogy anyaként büszkén nézik a prostituálódó lányukat, a bűnözésből élő fiukat, mert közben azt érzik, jó úgy nekik… hiszen úgy van pénzük. Úgy nem nélkülöznek. 
+excerpt: Mert ő sem ide akart jutni. Michelangelo szeretett volna lenni, de évek óta csak szobafestő... ez a srác viszont... akit lejáratott a mindennapi betevőért ... ő egy sixtusi kápolnát próbál építeni éppen...
 categories: blog
 tags: [demokrácia, megbékélés]
 image: http://agostonlaszlo.hu/images/propagandista.jpg
