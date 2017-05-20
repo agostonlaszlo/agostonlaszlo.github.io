@@ -13,7 +13,7 @@ Az "újságíró" a tükör előtt állt és hosszan nézte saját magát. Nem t
 
 Gyermekkorában a magyartanára tehetségesnek tartotta és kiválóra értékelte a forgalmazásait. Tizenhat volt, amikor egy lány azért csókolta meg, mert a szívéig értek a sorai. Akkoriban még hitt.
 
-[!](http://agostonlaszlo.hu/images/propagandista.jpg)
+![](http://agostonlaszlo.hu/images/propagandista.jpg)
 
 Hitt magában, abban, hogy világot megváltó nagy irodalmár lesz vagy legalább zseniális, Nixonokat buktató oknyomozó riporter. Csillogott a szeme.
 
