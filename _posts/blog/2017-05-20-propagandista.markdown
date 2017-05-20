@@ -33,4 +33,4 @@ Sóhajtott egyet és leült a laptophoz. Felhatjtotta a tetejét. A szíve helye
 
 Hátul csörömpölés. Valami elpattant. Talán a tükör. Ki tudja... meleg van.
 
-**(A fenti történet minden pontja a képzelet szüleménye. Bármely egyezés megtörtént eseményekkel, valóságos szereplőkkel csak véletlen lehet.)
+*(A fenti történet minden pontja a képzelet szüleménye, a kép illusztráció Bármely egyezés megtörtént eseményekkel, valóságos szereplőkkel csak véletlen lehet...)
