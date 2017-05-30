@@ -6,12 +6,14 @@ author: agoston_laszlo
 excerpt: Ha még egyszer meglátok egy Jobbikos vacakot a házban, nem vagyok a fiatok többé - fordultam az ebédlőben a kővé dermedt és sokkolt szüleimhez sok évvel ezelőtt, majd látványosan kettétörtem az szóban forgó darabot. Szegény szüleim persze a legkevésbé sem politikai kiállásnak szánták, csak... feltettek egy az utcán kapott hűtőmágnest...
 categories: blog
 tags: [demokrácia, megbékélés]
-image: http://agostonlaszlo.hu/images/propagandista.jpg
+image: http://agostonlaszlo.hu/images/vonagabor.jpg
 lang: hu
 ---
 "Ha még egyszer meglátok egy Jobbikos hűtőmágnest a házban, nem vagyok a fiatok többé" - fordultam az ebédlőben a kővé dermedt és sokkolt szüleimhez sok évvel ezelőtt, majd látványosan kettétörtem az inkriminált darabot. "Ismeritek Feri barátomat? Meleg. Ezek az emberek kémiailag kasztrálnák. Tényleg ezt akarjátok támogatni?"
 
 Szegény szüleim persze a legkevésbé sem gondolták ezt át és nem is politikai kiállásnak szánták, csak... feltettek egy az utcán kapott hűtőmágnest...
+
+![](http://agostonlaszlo.hu/images/vonagabor.jpg)
 
 Pár hete kaptam egy megkeresést: nincs-e kedvem Vona Gáborral, a Jobbik elnökével találkozni egy beszélgetésre. Elsőre nem értettem, hogy vicc-e vagy komoly, akarnak tőlem valamit vagy valami csapda... Végül arra jutottam, hogy ha nem találkozom vele, **ha nem ülök le egy asztalhoz azokkal, akik másban hisznek, mint én - azzá válok, mint ami ellen harcolok.** Másként mondva: **nem az a kérdés, kivel ülsz le egy asztalhoz, hanem hogy ott mit képviselsz.**
 
