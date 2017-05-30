@@ -3,7 +3,7 @@ layout: post
 title: Találkozásom Vona Gáborral
 date: 2017-05-20 09:00:18.000000000 +00:00
 author: agoston_laszlo
-excerpt: Ha még egyszer meglátok egy Jobbikos hűtőmágnest a házban, nem vagyok a fiatok többé - fordultam az ebédlőben a kővé dermedt és sokkolt szüleimhez sok évvel ezelőtt, majd látványosan kettétörtem az inkriminált darabot. Kedvelitek Feri barátomat? Ezek börtönbe záratnák, mert meleg. Tényleg ezt akarjátok támogatni?
+excerpt: Ha még egyszer meglátok egy Jobbikos hűtőmágnest a házban, nem vagyok a fiatok többé - fordultam az ebédlőben a kővé dermedt és sokkolt szüleimhez sok évvel ezelőtt, majd látványosan kettétörtem az inkriminált darabot. 
 categories: blog
 tags: [demokrácia, megbékélés]
 image: http://agostonlaszlo.hu/images/vonagabor.jpg
