@@ -9,9 +9,9 @@ tags: [demokrácia, megbékélés]
 image: http://agostonlaszlo.hu/images/vonagabor.jpg
 lang: hu
 ---
-"Ha még egyszer meglátok egy Jobbikos hűtőmágnest a házban, nem vagyok a fiatok többé" - fordultam az ebédlőben a kővé dermedt és sokkolt szüleimhez sok évvel ezelőtt, majd látványosan kettétörtem az inkriminált darabot. "Ismeritek Feri barátomat? Meleg. Ezek az emberek kémiailag kasztrálnák. Tényleg ezt akarjátok támogatni?"
+"Ha még egyszer meglátok egy Jobbikos hűtőmágnest a házban, nem vagyok a fiatok többé" - fordultam az ebédlőben a kővé dermedt és sokkolt szüleimhez sok évvel ezelőtt, majd látványosan kettétörtem az inkriminált darabot. "Kedvelitek Feri barátomat? Ezek [börtönbe záratnák, mert meleg](http://hvg.hu/itthon/20120411_jobbik_tervezet). Tényleg ezt akarjátok támogatni?"
 
-Szegény szüleim persze a legkevésbé sem gondolták ezt át és nem is politikai kiállásnak szánták, csak... feltettek egy az utcán kapott hűtőmágnest...
+Szegény szüleim persze a legkevésbé se gondolták ezt át és nem is politikai kiállásnak szánták, csak... feltettek egy az utcán kapott hűtőmágnest...
 
 ![](http://agostonlaszlo.hu/images/vonagabor.jpg)
 
@@ -22,6 +22,8 @@ Hétfőn felvettem a tavaly a Budapest Prideon kapott szivárványos "buzikarkö
 Ismertek. Ez volt az első megdöbbenésem. Tudom, százezer ember követ, de ettől még most is újra és újra megdöbbenek, amikor ismeretlenek felém irányuló szeretetével vagy tiszteletével találkozom. A múlkor egy vécésfiú kérdezett rám, hogy én vagyok-e az Ágoston Laci... Megtisztelő volt és pont ugyanannyira megtisztelő, mint bárki más hasonló kérdése, most éppen a Parlamentben.
 
 A beszélgetés meglepően jó élmény volt. Eleve "harckészültségben" érkeztem a karkötőm miatt. Vártam pár fintort, akár beszólást, hogy provokációnak veszik (jó, legyünk őszinték... valahol az is volt). Ehhez képest tiszteletet kaptam és kulturált eszmecserét EU-ról, arról, hogy mit jelent ma nemzetinek lenni, a menekültkérdésről - és miután szóba hoztam a karkötőt - a melegkérdésről. 
+
+Megkérdeztem, hogy mi a helyzet a melegek bebörtönzésével, a rasszizmussaal, az antiszemitizmussal, miért nem jönnek ki a Pridera és miért nem vesznek részt a kisebbségek rendezvényein, ha valóban megváltozott a véleményük a kérdésről. "Ezt szolgálta, amikor [Gyöngyöspatán roma közmunkások közé álltam be dolgozni](http://alfahir.hu/vona_gabor_kozmunkara_jelentkezem) vagy amikor [levélben köszöntöttem a zsidó közösséget](http://zsido.com/vajon-mit-valaszolt-koves-slomo-a-jobbik-hanukai-levelere/), de ezeket is mindig a visszájára fordította a média. Szívesen veszek részt beszélgetéseken, fórumokon, ilyen volt például az *Egyenlő házasságot mindenkinek?*-konferencia is, amiről a sajtó úgy írt, hogy [bemerészkedtünk az oroszlány szivárványszínű barlangjába](http://24.hu/belfold/2016/10/20/a-jobbik-bemereszkedett-az-oroszlan-szivarvanyszinu-barlangjaba/). De akármit csinálunk, a sajtó egy jelentős része szívesebben fotózza az arcunk helyett a lábunkat: van-e valakin bakancs. Aztán ha van - akármiért - azzal fognak foglalkozni a valóban fontos dolgok helyett."
 
 Őszintén bevallom, elgondolkodtató élmény volt. Nem lettem Jobbik-szavazó, de kiváncsi igen. Arra, hogy mennyi az igazság abban a képben, amit az állami propagandagépezet a néppártosodó Jobbikról mutat. Le tudják és tényleg le akarják-e vetni az eddigi farkasbőrt? Vona Gábor a pártot vagy magát reprezentálta jobban ezen a kétségkívül kellemes beszélgetésen? És Vona - akinek a politikusi kvalitásai felől eddig se volt kétségem - vajon mennyire képviselte velem szemben azt, amit én hallani akartam azzal szemben, amit akár csak a politikai szükségszerűség kényszerítésében megtenne, ha lehetősége nyílna rá?
 
