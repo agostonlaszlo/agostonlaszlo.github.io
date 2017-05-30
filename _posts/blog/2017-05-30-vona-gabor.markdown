@@ -3,7 +3,7 @@ layout: post
 title: Találkozásom Vona Gáborral
 date: 2017-05-20 09:00:18.000000000 +00:00
 author: agoston_laszlo
-excerpt: Ha még egyszer meglátok egy Jobbikos vacakot a házban, nem vagyok a fiatok többé - fordultam az ebédlőben a kővé dermedt és sokkolt szüleimhez sok évvel ezelőtt, majd látványosan kettétörtem az szóban forgó darabot. Szegény szüleim persze a legkevésbé sem politikai kiállásnak szánták, csak... feltettek egy az utcán kapott hűtőmágnest...
+excerpt: Ha még egyszer meglátok egy Jobbikos hűtőmágnest a házban, nem vagyok a fiatok többé - fordultam az ebédlőben a kővé dermedt és sokkolt szüleimhez sok évvel ezelőtt, majd látványosan kettétörtem az inkriminált darabot. Kedvelitek Feri barátomat? Ezek börtönbe záratnák, mert meleg. Tényleg ezt akarjátok támogatni?
 categories: blog
 tags: [demokrácia, megbékélés]
 image: http://agostonlaszlo.hu/images/vonagabor.jpg
@@ -15,7 +15,7 @@ Szegény szüleim persze a legkevésbé se gondolták ezt át és nem is politik
 
 ![](http://agostonlaszlo.hu/images/vonagabor.jpg)
 
-Pár hete kaptam egy megkeresést: nincs-e kedvem Vona Gáborral, a Jobbik elnökével találkozni egy beszélgetésre. Elsőre nem értettem, hogy vicc-e vagy komoly, akarnak tőlem valamit vagy valami csapda... Végül arra jutottam, hogy ha nem találkozom vele, **ha nem ülök le egy asztalhoz azokkal, akik másban hisznek, mint én - azzá válok, mint ami ellen harcolok.** Másként mondva: **nem az a kérdés, kivel ülsz le egy asztalhoz, hanem hogy ott mit képviselsz.**
+Pár hete kaptam egy megkeresést: nincs-e kedvem Vona Gáborral, a Jobbik elnökével találkozni egy beszélgetésre. Elsőre nem értettem, hogy vicc-e vagy komoly, akarnak tőlem valamit vagy valami csapda... Végül arra jutottam, hogy ha nem találkozom vele, **ha nem ülök le egy asztalhoz azokkal, akik másban hisznek, mint én és nem vagyok kíváncsi mások véleményére - azzá válok, mint ami ellen harcolok.** Másként mondva: **nem az a kérdés, kivel ülsz le egy asztalhoz, hanem hogy ott mit képviselsz.**
 
 Hétfőn felvettem a tavaly a Budapest Prideon kapott szivárványos "buzikarkötőmet" és elindultam a Parlamentbe. Bénáztam egy sort, beálltam a turisták közé, pedig *magyar vagyok, nem turista*, de végül egy attilás úr mögött csak megtaláltam a helyes utat. 
 
