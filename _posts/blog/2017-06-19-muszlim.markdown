@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Megölték Júliát!
-date: 2017-05-20 09:00:18.000000000 +00:00
+date: 2017-06-19 09:00:18.000000000 +00:00
 author: agoston_laszlo
-excerpt: A világ sokkban van. Megölték Júliát, a csinos, fiatal ápolónőt. Kollégái, barátai döbbenten állnak a hír hallatán. Te mit szólsz hozzá? Miféle beteg ember támadhat meg egy ilyen nőt?
+excerpt: A világ sokkban van. Megölték Júliát, a csinos, fiatal ápolónőt. Kollégái, barátai döbbenten állnak a hír hallatán. Te mit szólsz hozzá? Megérdemelte, ha már ilyen volt?
 categories: blog
 tags: [demokrácia, megbékélés]
 image: http://agostonlaszlo.hu/images/juliakepe.jpg
