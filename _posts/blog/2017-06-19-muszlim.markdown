@@ -6,12 +6,12 @@ author: agoston_laszlo
 excerpt: A világ sokkban van. Megölték Júliát, a csinos, fiatal ápolónőt. Kollégái, barátai döbbenten állnak a hír hallatán. Te mit szólsz hozzá? Miféle beteg ember támadhat meg egy ilyen nőt?
 categories: blog
 tags: [demokrácia, megbékélés]
-image: http://agostonlaszlo.hu/images/julia.JPG
+image: http://agostonlaszlo.hu/images/juliakepe.jpg
 lang: hu
 ---
 A világ sokkban van. Megölték Júliát, a csinos, fiatal ápolónőt. Kollégái, barátai döbbenten állnak a hír hallatán. Te mit szólsz hozzá? Megérdemelte, ha már ilyen volt?
 
-![](http://agostonlaszlo.hu/images/julia.JPG)
+![](http://agostonlaszlo.hu/images/juliakepe.jpg)
 
 Júlia igazi közösségi ember volt, de otthon is sokat dolgozott a háztartásban. Gyilkosa akkor támadt rá, amikor az utcán egyedül hazafelé sétált este.
 
@@ -20,7 +20,7 @@ Júlia nagyon vallásos, hithű asszony volt, a gyülekezete motorja. Mindenki s
 Te mit szólsz hozzá? Megérdemelte, ha már ilyen volt?
 
 ![](http://agostonlaszlo.hu/images/muszlimterror.jpg)
-Egy fehér, keresztény, európai férfi az elkövető
+*Egy fehér, "keresztény", európai férfi az elkövető*
 
 Gyakran járt a mecsetbe és megszentelte a Ramadánt. Számára az iszlám nem csak egy szó volt, hanem az életét kitöltő komoly tartalom.
 
