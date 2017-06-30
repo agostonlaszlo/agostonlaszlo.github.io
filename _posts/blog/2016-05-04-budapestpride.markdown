@@ -89,3 +89,5 @@ A helyes megfejtés:
 5. Budapest Pride 
 6. Aintree lóversenypálya, női futam, Anglia
 7. Budapest Pride
+
+Igen, jól látod: a Facebookos címlapkép nem a Prideon, hanem egy heteró eseményen készült. Azokat is tiltsuk be?
