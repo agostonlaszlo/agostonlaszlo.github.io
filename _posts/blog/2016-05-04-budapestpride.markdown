@@ -8,6 +8,7 @@ categories: blog
 tags: [homoszexualitás, rólam]
 redirect_from: "/hu/blog/44-budapestpride"
 lang: hu
+image: http://agostonlaszlo.hu/images/pride4.JPG
 ---
 2014-ben vettem részt először a budapesti melegfelvonuláson (cisznemű, heteró férfiként), 2015-ben már menetkísérő (egyféle rendező) voltam. Pár őszinte szó arról, amit láttam és amit láttam róla.
 
