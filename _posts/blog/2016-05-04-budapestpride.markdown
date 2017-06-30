@@ -3,7 +3,7 @@ layout: post
 title: "Melegfelvonulás: a pokol tornácán?"
 date: 2016-05-04 08:04:09.000000000 +00:00
 author: agoston_laszlo
-excerpt: 2014-ben vettem részt először a budapesti melegfelvonuláson (cisznemű, heteró férfiként), 2015-ben már menetkísérő (egyféle rendező) voltam. Pár őszinte szó arról, amit láttam és amit láttam róla.
+excerpt: Ha a Budapest Pride tényleg az lenne, aminek például Vona Gábor hiszi, én se vennék részt rajta. Sajnos a média széthazudja a kevésbé szenzációs valóságot. A cikk végén teszt!
 categories: blog
 tags: [homoszexualitás, rólam]
 redirect_from: "/hu/blog/44-budapestpride"
@@ -12,7 +12,7 @@ lang: hu
 2014-ben vettem részt először a budapesti melegfelvonuláson (cisznemű, heteró férfiként), 2015-ben már menetkísérő (egyféle rendező) voltam. Pár őszinte szó arról, amit láttam és amit láttam róla.
 
 ![]({{site.baseurl}}/images/prideszer.jpg)
-*A 2015-ös Prideon már menetkísérő, "szervező" voltam az első élményei után
+*A 2015-ös Prideon már menetkísérő, "szervező" voltam az első élményei után*
 
 "Beleinnál?" - kérte tőlem a gyülekező egyik beléptetőpontján álló szervező az ásványvizes üvegemre mutatva. Mondtam, hogy nem vagyok szomjas, majd azonnal rá is jöttem, hogy nem ez a kérdés. Próbálták kiszűrni azokat, akik savat hoznának be, hogy a "mocskos buzikra" locsolják. Beleittam. Nem sav volt.
 
