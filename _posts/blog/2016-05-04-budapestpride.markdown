@@ -90,4 +90,4 @@ A helyes megfejtés:
 6. Aintree lóversenypálya, női futam, Anglia
 7. Budapest Pride
 
-Igen, jól látod: a Facebookos címlapkép nem a Prideon, hanem egy heteró eseményen készült. Azokat is tiltsuk be?
+Igen, jól látod: a Facebookos címlapkép nem a Prideon, hanem egy hétköznapi, "heteró" eseményen készült. Azokat is tiltsuk be?
