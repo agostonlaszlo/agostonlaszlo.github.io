@@ -21,6 +21,7 @@ A helyi hírek szerint a kb. 1,2 millió fős Koppenhága minden hatodik lakosa,
 Kerékpárral és gyalogosan mindvégig lehetett közlekedni a felvonulás útszakaszán is illetve az autósok elől is csak az első kamion előtti és az utolsó kamion mögötti pár száz métert zárták le. Nem hogy ellentüntetés, de rendőri készenlét se nagyon volt. Az egész menet során talán ha öt rendőrt láttam összesen. Itt gondolom nem is értik, hogy miért kéne. Az utcákat és a boltokat szivárványszínű lufikkal, vagy egyéb kreatív ötletekkel "öltöztették fel" az ünnepre.
 
 ![]({{site.baseurl}}/images/danpride11.jpg)
+*Sajnos az [oldalamat ért hackertámadás után](http://agostonlaszlo.hu/blog/visszatertem/) nem tudtam minden képet visszaállítani. Ez például ilyen.*
 
 Ez a ruhabolt például kabátokból rakta ki a szivárványt.
 
@@ -37,7 +38,6 @@ Otthon egyetlen ilyen ruha rögtön körbeszáguldaná a magyar sajtót és bűn
 ![]({{site.baseurl}}/images/danpride3.jpg)
 
 Az egyik kedvenc jelmezem volt.
-
 ![]({{site.baseurl}}/images/danpride4.jpg)
 
 **3. Komoly üzenetek**
@@ -45,6 +45,7 @@ Az egyik kedvenc jelmezem volt.
 Súlyos társadalmi üzeneteket is megfogalmaztak a felvonulók. Ők például fekete szalaggal leragasztott szájjal meneteltek azokért, akik magukért nem tudnak...
 
 ![]({{site.baseurl}}/images/danpride14.jpg)
+*Sajnos az [oldalamat ért hackertámadás után](http://agostonlaszlo.hu/blog/visszatertem/) nem tudtam minden képet visszaállítani. Ez például ilyen.*
 
 Ők a meleg, leszbikus, biszexuális, transz és queer menekültekért vonultak fel.
 
