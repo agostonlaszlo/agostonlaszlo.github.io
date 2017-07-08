@@ -16,44 +16,44 @@ Korábban már leírtam az élményeimet a budapesti prideról is ([Melegfelvonu
 
 A helyi hírek szerint a kb. 1,2 millió fős Koppenhága minden hatodik lakosa, azaz majd' 200 ezer ember vett részt a rendezvény valamely programján, amely a város több pontját is karnevállá változtatta. Kordonok helyett az ünneplő tömeg sorfala között vonult a menet. Az emberek tömött sorokban állták végig a menet útvonalát (kb. 3,5 kilométer hosszan) és vártak a felvonulók megérkeztére.
 
-{{site.baseurl}}/images/danpride13.jpg
+![]({{site.baseurl}}/images/danpride13.jpg)
 
 
 Kerékpárral és gyalogosan mindvégig lehetett közlekedni a felvonulás útszakaszán is illetve az autósok elől is csak az első kamion előtti és az utolsó kamion mögötti pár száz métert zárták le. Nem hogy ellentüntetés, de rendőri készenlét se nagyon volt. Az egész menet során talán ha öt rendőrt láttam összesen. Itt gondolom nem is értik, hogy miért kéne. Az utcákat és a boltokat szivárványszínű lufikkal, vagy egyéb kreatív ötletekkel "öltöztették fel" az ünnepre.
 
-{{site.baseurl}}/images/danpride11.jpg
+![]({{site.baseurl}}/images/danpride11.jpg)
 
 Ez a ruhabolt például kabátokból rakta ki a szivárványt.
 
-{{site.baseurl}}/images/danpride21.jpg
+![]({{site.baseurl}}/images/danpride21.jpg)
 
 Dániában a kutyát is érdekli.
 
-{{site.baseurl}}/images/danpride2.jpg
+![]({{site.baseurl}}/images/danpride2.jpg)
 
 **2. Magyar szemmel vad jelmezek**
 
 Otthon egyetlen ilyen ruha rögtön körbeszáguldaná a magyar sajtót és bűnjelként mutogatnák - itt mindenki elengedi magát és a legváltozatosabb jelmezekben parádézik. Hozzá kell tenni, az északi népek tapasztalataim szerint jóval szabadabban állnak az emberi testhez (gondolva itt akár a nudista strandokra is), általában több e témában a megengedhető, mint Magyarországon. A képen látható rózsaszín ruhás hölgyek mindegyike egyébként - hiába, skandináv vérvonal... - kétszáz centi körüli magassággal bír.
 
-{{site.baseurl}}/images/danpride3.jpg
+![]({{site.baseurl}}/images/danpride3.jpg)
 
 Az egyik kedvenc jelmezem volt.
 
-{{site.baseurl}}/images/danpride4.jpg
+![]({{site.baseurl}}/images/danpride4.jpg)
 
 **3. Komoly üzenetek**
 
 Súlyos társadalmi üzeneteket is megfogalmaztak a felvonulók. Ők például fekete szalaggal leragasztott szájjal meneteltek azokért, akik magukért nem tudnak...
 
-{{site.baseurl}}/images/danpride14.jpg
+![]({{site.baseurl}}/images/danpride14.jpg)
 
 Ők a meleg, leszbikus, biszexuális, transz és queer menekültekért vonultak fel.
 
-{{site.baseurl}}/images/danpride6.jpg
+![]({{site.baseurl}}/images/danpride6.jpg)
 
 Ők arra szerettek volna rabruhába öltözve emlékeztetni, hogy a világ 76 országában a homoszexualitás máig bűntény, amit börtönnel szankcionálnak...
 
-{{site.baseurl}}/images/danpride7.jpg
+![]({{site.baseurl}}/images/danpride7.jpg)
 
 **4. Szabad véleménynyilvánítás**
 
@@ -63,40 +63,40 @@ Súlyos társadalmi üzeneteket is megfogalmaztak a felvonulók. Ők például f
 
 "Bulizz a színházzal! A színház mindenkié" - a Folketeateret kamionjának hátulja.
 
-{{site.baseurl}}/images/danpride5.jpg
+![]({{site.baseurl}}/images/danpride5.jpg)
 
 **5. Hatalmas buli**
 
 Gyakorlatilag nem csak a felvonulás útvonalán, de a mellékutcákban, sőt távolabbi kerületekben is állt a bál. Hetero és nem hetero emberek együtt ünnepelték a sokszínűséget. Mindenféle bőrszín, mindenféle rassz, mindenféle vallás, mindenféle kultúra együtt vonult fel és együtt ünnepelt. Szép volt.
 
-{{site.baseurl}}/images/danpride8.jpg
+![]({{site.baseurl}}/images/danpride8.jpg)
 
 Magyarországon sokaknak már egy szivárványszínű zászlót lengetni is bátorságnak tűnik. Itt sokszor farsangi hangulatot teremtettek a résztvevők.
 
-{{site.baseurl}}/images/danpride9.jpg
+![]({{site.baseurl}}/images/danpride9.jpg)
 
 **6. Családok gyerekekkel**
 
 A tömegben pedig rengeteg volt a gyerek, a szülők a nyakukba ültetve magyarázták fiaiknak és leányaiknak, hogy mi történik. Nem, nem valószínű, hogy ettől a látványtól bárki is hirtelen meleg lesz. De arra van esély, hogy elfogadó felnőttként nőnek majd fel.
 
-{{site.baseurl}}/images/danpride1.jpg
+![]({{site.baseurl}}/images/danpride1.jpg)
 
 A "szexuális" jellegű öltözetek mellett igen sokan csak egyszerűen "szokatlant" vettek fel. Így ez a csirkének öltözött (egyébként szintén kétméteres) úr és barátai.
 
-{{site.baseurl}}/images/danpride12.jpg
+![]({{site.baseurl}}/images/danpride12.jpg)
 
 Sajnos nem tudom képekkel átadni azt a felszabadult, békés légkört, ami az otthoni Prideot is jellemzi, de itt valahogy más... Otthon ez egy tüntetés az emberi jogok védelmében, egy pár órás ünnep, ahol a két utca mély kordonsorok között megtapasztalhatod, hogy milyen szabadnak lenni. Itt ez a hétköznapok kivetülése és egy jó közös buli a nagybani piac helyett a városközpontban.
 
-{{site.baseurl}}/images/danpride15.jpg
+![]({{site.baseurl}}/images/danpride15.jpg)
 
 Nem tudom eleget hangsúlyozni, hogy a világ minden tájáról érkezett emberek táncoltak most órákon át együtt teljes békességben. Hogy a szülők a nyakukban hozták el a gyerekeiket, mert szeretnének nekik minél többet megmutatni a világból. Hogy nincsen különös rendőri készenlét és nincsen az egész várost megbénító lezárás, vannak viszont szivárványba öltözött boltok és feldíszített utcák, ahol színházak, sőt állami szervek mutatják ki támogatásukat büntetenül sőt fellobogózzák a buszokat és a vonatokat...
 
 Eközben Magyarországon kordonok közé szorul a menet, mert pártíz ember...
-{{site.baseurl}}/images/ellentuntetok.jpg
+![]({{site.baseurl}}/images/ellentuntetok.jpg)
 [forrás: Origo 2014](http://www.origo.hu/itthon/20140707-a-pride-on-kamionra-maszo-ellentuntetot-es-a-biztonsagi-oroket-is-orzetbe-vette-a-rendorseg.html)
-{{site.baseurl}}/images/ellentuntetok2.jpg
+![]({{site.baseurl}}/images/ellentuntetok2.jpg)
 [forrás: MASZOL 2013](http://www.maszol.ro/index.php/kulfold/14731-melegek-es-jobbikosok-vonultak-a-budapest-pride-on)
 
 Dánia a világ [legboldogabb](https://en.wikipedia.org/wiki/World_Happiness_Report) (Magyarország 152-ből a 91.), [legkevésbé korrupt](https://en.wikipedia.org/wiki/Corruption_Perceptions_Index) (Magyarország a 168 orszából az 50.) és a [negyedik leggazdagabb](http://piackutatas.blogspot.dk/2015/07/a-vilag-leggazdagabb-orszagai-2014.html) országa (Magyrország a 75.). Egészen biztos vagyok benne, hogy ebben a többi emberhez (rasszhoz, valláshoz, kultúrához, szexuális identitáshoz) való hozzáállásuk is nagy mértékben közrejátszik.
 
-Döntsd el, a fenti képek közül, melyiket tartod vonzóbbnak és kezdjük el azt az országot építeni.
+**Döntsd el, a fenti képek közül, melyiket tartod vonzóbbnak és kezdjük el azt az országot építeni.**
