@@ -25,7 +25,7 @@ Kerékpárral és gyalogosan mindvégig lehetett közlekedni a felvonulás útsz
 
 Ez a ruhabolt például kabátokból rakta ki a szivárványt.
 
-[hiányzó kép: danpride1.jpg]
+[hiányzó kép: danpride21.jpg]
 
 Dániában a kutyát is érdekli.
 
@@ -91,14 +91,12 @@ Sajnos nem tudom képekkel átadni azt a felszabadult, békés légkört, ami az
 
 Nem tudom eleget hangsúlyozni, hogy a világ minden tájáról érkezett emberek táncoltak most órákon át együtt teljes békességben. Hogy a szülők a nyakukban hozták el a gyerekeiket, mert szeretnének nekik minél többet megmutatni a világból. Hogy nincsen különös rendőri készenlét és nincsen az egész várost megbénító lezárás, vannak viszont szivárványba öltözött boltok és feldíszített utcák, ahol színházak, sőt állami szervek mutatják ki támogatásukat büntetenül sőt fellobogózzák a buszokat és a vonatokat...
 
-Mindeközben éppen mai hír Magyarországon ([forrás](http://magyarnarancs.hu/villamnarancs/nem-az-a-baj-hogy-ujrahasznositott-es-gagyi-az-56-os-himnusz-hanem-az-hogy-melegjogi-aktivista-a-szerzo-100550)):
-
-[hianyzó kép duro.jpg]
-
+Eközben Magyarországon kordonok közé szorul a menet, mert pártíz ember...
+{{site.baseurl}}/images/ellentuntetok.jpg
+[forrás: Origo 2014](http://www.origo.hu/itthon/20140707-a-pride-on-kamionra-maszo-ellentuntetot-es-a-biztonsagi-oroket-is-orzetbe-vette-a-rendorseg.html)
+{{site.baseurl}}/images/ellentuntetok2.jpg
+[forrás: MASZOL 2013](http://www.maszol.ro/index.php/kulfold/14731-melegek-es-jobbikosok-vonultak-a-budapest-pride-on)
 
 Dánia a világ [legboldogabb](https://en.wikipedia.org/wiki/World_Happiness_Report) (Magyarország 152-ből a 91.), [legkevésbé korrupt](https://en.wikipedia.org/wiki/Corruption_Perceptions_Index) (Magyarország a 168 orszából az 50.) és a [negyedik leggazdagabb](http://piackutatas.blogspot.dk/2015/07/a-vilag-leggazdagabb-orszagai-2014.html) országa (Magyrország a 75.). Egészen biztos vagyok benne, hogy ebben a többi emberhez (rasszhoz, valláshoz, kultúrához, szexuális identitáshoz) való hozzáállásuk is nagy mértékben közrejátszik.
 
-**Ha tetszett és olvasnál még hasonlókat, itt lájkolhatod az oldalam:**
-[Ágoston László](https://www.facebook.com/agostonlaszloartist) 
-
-**Ne felejtsd el megosztani, ha értesz és egyetértesz!**
+Döntsd el, a fenti képek közül, melyiket tartod vonzóbbnak és kezdjük el azt az országot építeni.
