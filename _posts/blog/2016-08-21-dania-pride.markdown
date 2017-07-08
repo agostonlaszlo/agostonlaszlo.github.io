@@ -37,6 +37,7 @@ Otthon egyetlen ilyen ruha rögtön körbeszáguldaná a magyar sajtót és bűn
 ![]({{site.baseurl}}/images/danpride3.jpg)
 
 Az egyik kedvenc jelmezem volt.
+
 ![]({{site.baseurl}}/images/danpride4.jpg)
 
 **3. Komoly üzenetek**
@@ -68,8 +69,6 @@ Súlyos társadalmi üzeneteket is megfogalmaztak a felvonulók. Ők például f
 
 Gyakorlatilag nem csak a felvonulás útvonalán, de a mellékutcákban, sőt távolabbi kerületekben is állt a bál. Hetero és nem hetero emberek együtt ünnepelték a sokszínűséget. Mindenféle bőrszín, mindenféle rassz, mindenféle vallás, mindenféle kultúra együtt vonult fel és együtt ünnepelt. Szép volt.
 
-![]({{site.baseurl}}/images/danpride22.jpg)
-
 Magyarországon sokaknak már egy szivárványszínű zászlót lengetni is bátorságnak tűnik. Itt sokszor farsangi hangulatot teremtettek a résztvevők.
 
 ![]({{site.baseurl}}/images/danpride9.jpg)
@@ -86,13 +85,14 @@ A "szexuális" jellegű öltözetek mellett igen sokan csak egyszerűen "szokatl
 
 Sajnos nem tudom képekkel átadni azt a felszabadult, békés légkört, ami az otthoni Prideot is jellemzi, de itt valahogy más... Otthon ez egy tüntetés az emberi jogok védelmében, egy pár órás ünnep, ahol a két utca mély kordonsorok között megtapasztalhatod, hogy milyen szabadnak lenni. Itt ez a hétköznapok kivetülése és egy jó közös buli a nagybani piac helyett a városközpontban.
 
-![]({{site.baseurl}}/images/danpride15.jpg)
+![]({{site.baseurl}}/images/danpride22.jpg)
 
 Nem tudom eleget hangsúlyozni, hogy a világ minden tájáról érkezett emberek táncoltak most órákon át együtt teljes békességben. Hogy a szülők a nyakukban hozták el a gyerekeiket, mert szeretnének nekik minél többet megmutatni a világból. Hogy nincsen különös rendőri készenlét és nincsen az egész várost megbénító lezárás, vannak viszont szivárványba öltözött boltok és feldíszített utcák, ahol színházak, sőt állami szervek mutatják ki támogatásukat büntetenül sőt fellobogózzák a buszokat és a vonatokat...
 
 Eközben Magyarországon kordonok közé szorul a menet, mert pártíz ember...
 ![]({{site.baseurl}}/images/ellentuntetok.jpg)
 [forrás: Origo 2014](http://www.origo.hu/itthon/20140707-a-pride-on-kamionra-maszo-ellentuntetot-es-a-biztonsagi-oroket-is-orzetbe-vette-a-rendorseg.html)
+
 ![]({{site.baseurl}}/images/ellentuntetok2.jpg)
 [forrás: MASZOL 2013](http://www.maszol.ro/index.php/kulfold/14731-melegek-es-jobbikosok-vonultak-a-budapest-pride-on)
 
