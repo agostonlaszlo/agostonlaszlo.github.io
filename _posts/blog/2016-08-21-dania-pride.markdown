@@ -3,7 +3,7 @@ layout: post
 title: Képek egy békésebb világból - így is lehet?
 date: 2016-08-21 10:31:47.000000000 +00:00
 author: agoston_laszlo
-excerpt: "Korábban már leírtam az élményeimet a budapesti prideról is (Melegfelvonulás - a pokol tornácán? címmel itt érhető el) és szóltam arról, miért lenne fontos, hogy végiggondold, mit írsz egy a melegjogokról szóló poszt alá illetve miért nem kéne Isten nevében gyűlöletet szítani az LMBTQ-emberek ellen... Most egy külföldi utamon a Copenhagen Prideon, azaz a koppenhágai melegfelvonuláson jártam. Alább a tapasztalataim."
+excerpt: "Néhány fotó a koppenhágai felvonulásról. Döntsd el, a magyar és az ottani képek közül, melyiket tartod vonzóbbnak és kezdjük el azt az országot építeni."
 categories: blog
 tags: [homoszexualitás, megbékélés]
 lang: hu
@@ -16,44 +16,44 @@ Korábban már leírtam az élményeimet a budapesti prideról is ([Melegfelvonu
 
 A helyi hírek szerint a kb. 1,2 millió fős Koppenhága minden hatodik lakosa, azaz majd' 200 ezer ember vett részt a rendezvény valamely programján, amely a város több pontját is karnevállá változtatta. Kordonok helyett az ünneplő tömeg sorfala között vonult a menet. Az emberek tömött sorokban állták végig a menet útvonalát (kb. 3,5 kilométer hosszan) és vártak a felvonulók megérkeztére.
 
-[hiányzó kép: danpride13.jpg]
+{{site.baseurl}}/images/danpride13.jpg
 
 
 Kerékpárral és gyalogosan mindvégig lehetett közlekedni a felvonulás útszakaszán is illetve az autósok elől is csak az első kamion előtti és az utolsó kamion mögötti pár száz métert zárták le. Nem hogy ellentüntetés, de rendőri készenlét se nagyon volt. Az egész menet során talán ha öt rendőrt láttam összesen. Itt gondolom nem is értik, hogy miért kéne. Az utcákat és a boltokat szivárványszínű lufikkal, vagy egyéb kreatív ötletekkel "öltöztették fel" az ünnepre.
 
-[hiányzó kép: danpride11.jpg]
+{{site.baseurl}}/images/danpride11.jpg
 
 Ez a ruhabolt például kabátokból rakta ki a szivárványt.
 
-[hiányzó kép: danpride21.jpg]
+{{site.baseurl}}/images/danpride21.jpg
 
 Dániában a kutyát is érdekli.
 
-[hiányzó kép: danpride2.jpg]
+{{site.baseurl}}/images/danpride2.jpg
 
 **2. Magyar szemmel vad jelmezek**
 
 Otthon egyetlen ilyen ruha rögtön körbeszáguldaná a magyar sajtót és bűnjelként mutogatnák - itt mindenki elengedi magát és a legváltozatosabb jelmezekben parádézik. Hozzá kell tenni, az északi népek tapasztalataim szerint jóval szabadabban állnak az emberi testhez (gondolva itt akár a nudista strandokra is), általában több e témában a megengedhető, mint Magyarországon. A képen látható rózsaszín ruhás hölgyek mindegyike egyébként - hiába, skandináv vérvonal... - kétszáz centi körüli magassággal bír.
 
-[hiányzó kép: danpride3.jpg]
+{{site.baseurl}}/images/danpride3.jpg
 
 Az egyik kedvenc jelmezem volt.
 
-[hiányzó kép: danpride4.jpg]
+{{site.baseurl}}/images/danpride4.jpg
 
 **3. Komoly üzenetek**
 
 Súlyos társadalmi üzeneteket is megfogalmaztak a felvonulók. Ők például fekete szalaggal leragasztott szájjal meneteltek azokért, akik magukért nem tudnak...
 
-[hiányzó kép: danpride14.jpg]
+{{site.baseurl}}/images/danpride14.jpg
 
 Ők a meleg, leszbikus, biszexuális, transz és queer menekültekért vonultak fel.
 
-[hiányzó kép: danpride6.jpg]
+{{site.baseurl}}/images/danpride6.jpg
 
 Ők arra szerettek volna rabruhába öltözve emlékeztetni, hogy a világ 76 országában a homoszexualitás máig bűntény, amit börtönnel szankcionálnak...
 
-[hiányzó kép: danpride7.jpg]
+{{site.baseurl}}/images/danpride7.jpg
 
 **4. Szabad véleménynyilvánítás**
 
@@ -63,17 +63,17 @@ Súlyos társadalmi üzeneteket is megfogalmaztak a felvonulók. Ők például f
 
 "Bulizz a színházzal! A színház mindenkié" - a Folketeateret kamionjának hátulja.
 
-[hiányzó kép: danpride5.jpg]
+{{site.baseurl}}/images/danpride5.jpg
 
 **5. Hatalmas buli**
 
 Gyakorlatilag nem csak a felvonulás útvonalán, de a mellékutcákban, sőt távolabbi kerületekben is állt a bál. Hetero és nem hetero emberek együtt ünnepelték a sokszínűséget. Mindenféle bőrszín, mindenféle rassz, mindenféle vallás, mindenféle kultúra együtt vonult fel és együtt ünnepelt. Szép volt.
 
-[hiányzó kép: danpride8.jpg]
+{{site.baseurl}}/images/danpride8.jpg
 
 Magyarországon sokaknak már egy szivárványszínű zászlót lengetni is bátorságnak tűnik. Itt sokszor farsangi hangulatot teremtettek a résztvevők.
 
-[hiányzó kép: danpride9.jpg]
+{{site.baseurl}}/images/danpride9.jpg
 
 **6. Családok gyerekekkel**
 
@@ -83,11 +83,11 @@ A tömegben pedig rengeteg volt a gyerek, a szülők a nyakukba ültetve magyar�
 
 A "szexuális" jellegű öltözetek mellett igen sokan csak egyszerűen "szokatlant" vettek fel. Így ez a csirkének öltözött (egyébként szintén kétméteres) úr és barátai.
 
--[hiányzó kép: danpride12.jpg]
+{{site.baseurl}}/images/danpride12.jpg
 
 Sajnos nem tudom képekkel átadni azt a felszabadult, békés légkört, ami az otthoni Prideot is jellemzi, de itt valahogy más... Otthon ez egy tüntetés az emberi jogok védelmében, egy pár órás ünnep, ahol a két utca mély kordonsorok között megtapasztalhatod, hogy milyen szabadnak lenni. Itt ez a hétköznapok kivetülése és egy jó közös buli a nagybani piac helyett a városközpontban.
 
-[hiányzó kép: danpride15.jpg]
+{{site.baseurl}}/images/danpride15.jpg
 
 Nem tudom eleget hangsúlyozni, hogy a világ minden tájáról érkezett emberek táncoltak most órákon át együtt teljes békességben. Hogy a szülők a nyakukban hozták el a gyerekeiket, mert szeretnének nekik minél többet megmutatni a világból. Hogy nincsen különös rendőri készenlét és nincsen az egész várost megbénító lezárás, vannak viszont szivárványba öltözött boltok és feldíszített utcák, ahol színházak, sőt állami szervek mutatják ki támogatásukat büntetenül sőt fellobogózzák a buszokat és a vonatokat...
 
