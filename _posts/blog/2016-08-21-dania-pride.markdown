@@ -12,12 +12,11 @@ redirect_from: "/hu/blog/84-dania-pride"
 ---
 Korábban már leírtam az élményeimet a budapesti prideról is ([Melegfelvonulás - a pokol tornácán?](http://agostonlaszlo.hu/blog/budapestpride) címmel itt érhető el</a>) és szóltam arról, miért lenne fontos, [hogy végiggondold, mit írsz egy a melegjogokról szóló poszt alá](http://agostonlaszlo.hu/blog/lmbtq), illetve [miért nem kéne Isten nevében gyűlöletet szítani az LMBTQ-emberek ellen](http://agostonlaszlo.hu/blog/keresztenyseg-meleg)... Most egy külföldi utamon a Copenhagen Prideon, azaz a koppenhágai melegfelvonuláson jártam. Alább a tapasztalataim.
 
-1. Általános társadalmi támogatás
+**1. Általános társadalmi támogatás**
 
 A helyi hírek szerint a kb. 1,2 millió fős Koppenhága minden hatodik lakosa, azaz majd' 200 ezer ember vett részt a rendezvény valamely programján, amely a város több pontját is karnevállá változtatta. Kordonok helyett az ünneplő tömeg sorfala között vonult a menet. Az emberek tömött sorokban állták végig a menet útvonalát (kb. 3,5 kilométer hosszan) és vártak a felvonulók megérkeztére.
 
 ![]({{site.baseurl}}/images/danpride13.jpg)
-
 
 Kerékpárral és gyalogosan mindvégig lehetett közlekedni a felvonulás útszakaszán is illetve az autósok elől is csak az első kamion előtti és az utolsó kamion mögötti pár száz métert zárták le. Nem hogy ellentüntetés, de rendőri készenlét se nagyon volt. Az egész menet során talán ha öt rendőrt láttam összesen. Itt gondolom nem is értik, hogy miért kéne. Az utcákat és a boltokat szivárványszínű lufikkal, vagy egyéb kreatív ötletekkel "öltöztették fel" az ünnepre.
 
@@ -49,7 +48,7 @@ Súlyos társadalmi üzeneteket is megfogalmaztak a felvonulók. Ők például f
 
 Ők a meleg, leszbikus, biszexuális, transz és queer menekültekért vonultak fel.
 
-![]({{site.baseurl}}/images/danpride6.jpg)
+![]({{site.baseurl}}/images/danpride8.jpg)
 
 Ők arra szerettek volna rabruhába öltözve emlékeztetni, hogy a világ 76 országában a homoszexualitás máig bűntény, amit börtönnel szankcionálnak...
 
@@ -69,7 +68,7 @@ Súlyos társadalmi üzeneteket is megfogalmaztak a felvonulók. Ők például f
 
 Gyakorlatilag nem csak a felvonulás útvonalán, de a mellékutcákban, sőt távolabbi kerületekben is állt a bál. Hetero és nem hetero emberek együtt ünnepelték a sokszínűséget. Mindenféle bőrszín, mindenféle rassz, mindenféle vallás, mindenféle kultúra együtt vonult fel és együtt ünnepelt. Szép volt.
 
-![]({{site.baseurl}}/images/danpride8.jpg)
+![]({{site.baseurl}}/images/danpride22.jpg)
 
 Magyarországon sokaknak már egy szivárványszínű zászlót lengetni is bátorságnak tűnik. Itt sokszor farsangi hangulatot teremtettek a résztvevők.
 
