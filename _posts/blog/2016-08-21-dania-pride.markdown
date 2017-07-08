@@ -20,8 +20,7 @@ A helyi hírek szerint a kb. 1,2 millió fős Koppenhága minden hatodik lakosa,
 
 Kerékpárral és gyalogosan mindvégig lehetett közlekedni a felvonulás útszakaszán is illetve az autósok elől is csak az első kamion előtti és az utolsó kamion mögötti pár száz métert zárták le. Nem hogy ellentüntetés, de rendőri készenlét se nagyon volt. Az egész menet során talán ha öt rendőrt láttam összesen. Itt gondolom nem is értik, hogy miért kéne. Az utcákat és a boltokat szivárványszínű lufikkal, vagy egyéb kreatív ötletekkel "öltöztették fel" az ünnepre.
 
-![]({{site.baseurl}}/images/danpride11.jpg)
-*Sajnos az [oldalamat ért hackertámadás után](http://agostonlaszlo.hu/blog/visszatertem/) nem tudtam minden képet visszaállítani. Ez például ilyen.*
+![]({{site.baseurl}}/images/danpride33.jpg)
 
 Ez a ruhabolt például kabátokból rakta ki a szivárványt.
 
