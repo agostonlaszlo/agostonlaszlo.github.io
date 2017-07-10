@@ -3,7 +3,7 @@ layout: post
 title: "Így szeretlek, Magyarország!"
 date: 2017-07-10 09:00:18.000000000 +00:00
 author: agoston_laszlo
-excerpt: Mi történik valójában a Budapest Prideon? Megkértem a kilátogatókat, írják meg a saját tapasztalataikat két mondatban!
+excerpt: Összességében tehát hihetetlenül pozitív élmény volt az egész, nem erre számítottam, hanem sokkal több provokációra, visszafogottságra és nem erre a felszabadult 'együttlétre' :)
 categories: blog
 tags: [demokrácia, megbékélés]
 image: http://agostonlaszlo.hu/images/pridezaszlo.jpg
