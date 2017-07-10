@@ -1,15 +1,18 @@
 ---
 layout: post
-title: A propagandista este, a tükör előtt
+title: Így nem lettem leszbikus
 date: 2017-05-20 09:00:18.000000000 +00:00
 author: agoston_laszlo
-excerpt: Mert ő sem ide akart jutni. Michelangelo szeretett volna lenni, de évek óta csak szobafestő... ez a srác viszont... akit lejáratott a mindennapi betevőért ... ő egy sixtusi kápolnát próbál építeni éppen...
+excerpt: Mi történik valójában a Budapest Prideon? Megkértem a kilátogatókat, írják meg a saját tapasztalataikat két mondatban!
 categories: blog
 tags: [demokrácia, megbékélés]
-image: http://agostonlaszlo.hu/images/propagandista.jpg
+image: http://agostonlaszlo.hu/images/pridezaszlo.jpg
 lang: hu
 ---
 A tavalyi évhez hasonlóan 2017-ben is meghirdettem: akinek nincs kivel kijönni a Budapest Pridera vagy aki eddig félt kinézni, jöjjön velem és szerezzen tapasztalatot arról, hogy mi is történik VALÓJÁBAN ilyenkor a körúton. A jelenlévő "első prideozókat" arra kértem, írják meg a személyes élményeiket 2-3 mondatban, amiket alább *változtatás nélkül* közreadok.
+
+![](http://agostonlaszlo.hu/images/pridezaszlo.jpg)
+Fotó: Davda Bereznai / Pride.hu
 
 "Életem első Pride-ja. Te jó ég! Táncoltam az utcán! De hát én sehol sem táncolok! Az a fajta buli volt, ahol nem olvadt le az arcomról a mosoly. Sehol egy tangás pasi?! Láttam egy 5 fős csoportot, a srácok elég provokatív szerelésben vonultak. Aztán felfedeztem rajtuk a "Poland" feliratokat. Sajnos a Lánchídnál kidőltem a melegtől és megpihentem a Gresham Palota gyepén, így nem mentem végig. Azóta megnéztem egy 2 órás videót. Egy (!) fiatalt láttam, aki elveszítette a kapcsolatot a külvilággal. Jövőre, veletek, ugyanott. " (Mónika)
 
