@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Így nem lettem leszbikus
-date: 2017-05-20 09:00:18.000000000 +00:00
+date: 2017-07-10 09:00:18.000000000 +00:00
 author: agoston_laszlo
 excerpt: Mi történik valójában a Budapest Prideon? Megkértem a kilátogatókat, írják meg a saját tapasztalataikat két mondatban!
 categories: blog
