@@ -9,8 +9,8 @@ tags:
 image: http://agostonlaszlo.hu/images/tagostonlaszlo.JPG
 lang: hu
 ---
-*"Nem voltam jobb, se rosszabb senkinél, 
-Mégis a legtöbb: ember, aki él."
+*"Nem voltam jobb, se rosszabb senkinél, <br />
+Mégis a legtöbb: ember, aki él." <br />
 (Karinthy Frigyes: Előszó)*
 
 Mit gondolsz, apa, milyen hangnemben kéne írnom arról, hogy elmentél? Szerinted súlyos legyen, mint a hiányod lesz innentől fogva vagy inkább kedélyes, mint amilyen te voltál, amikor a horgászatról, a macskádról vagy a kertedről beszéltél? Igazad van... busongani nincs értelme. Nem történt semmi tragédia.
