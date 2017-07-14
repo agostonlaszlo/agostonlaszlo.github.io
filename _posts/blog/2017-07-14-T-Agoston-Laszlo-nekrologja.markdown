@@ -5,8 +5,8 @@ date: 2017-07-10 09:00:18.000000000 +00:00
 author: agoston_laszlo
 excerpt: Te voltál az az ember, aki mindenkit megszelidített. A kedvenc képemen rólad egy sündisznót simogatsz éppen. Ő érezte, hogy jó a lelked, téged pedig nem zavartak a felszíni tüskék.
 categories: blog
-tags: [demokrácia, megbékélés]
-image: http://agostonlaszlo.hu/images/pridezaszlo.jpg
+tags: 
+image: http://agostonlaszlo.hu/images/tagostonlaszlo.JPG
 lang: hu
 ---
 *"Nem voltam jobb, se rosszabb senkinél, 
@@ -14,6 +14,8 @@ Mégis a legtöbb: ember, aki él."
 (Karinthy Frigyes: Előszó)*
 
 Mit gondolsz, apa, milyen hangnemben kéne írnom arról, hogy elmentél? Szerinted súlyos legyen, mint a hiányod lesz innentől fogva vagy inkább kedélyes, mint amilyen te voltál, amikor a horgászatról, a macskádról vagy a kertedről beszéltél? Igazad van... busongani nincs értelme. Nem történt semmi tragédia.
+
+![](http://agostonlaszlo.hu/images/tagostonlaszlo.JPG)
 
 Te voltál az az ember, aki mindenkit megszelidített. A kedvenc képemen rólad egy sündisznót simogatsz éppen. Ő érezte, hogy jó a lelked, téged pedig nem zavartak a felszíni tüskék. Te voltál az, akinek Durci macska mindent megengedett (pedig a durcás szóból származik a neve) és aki most minduntalan, az ajtót nézve vár. Igen, ott ül a szoba közepén és nem találja a helyét. Mert a helye a hasadon van, amikor alszol. Sose tudtam eldönteni ő melegít téged vagy te melegíted őt...
 
