@@ -35,4 +35,4 @@ Büszke vagyok rád. Még látjuk egymást. Jó utat!
 
 Fiad
 
-Ha méltón szeretnél emlékezni apámra, tölts egy pohár bort és olvasd el egy írását [www.tagostonlaszlo.hu](http://tagostonlaszlo.hu). Minden részvéttáviratnál többet jelentene... khm... jelent neki. És kívánj neki nyugalmat és jó ihletet. Tudom, hogy ezt az élményt is meg akarja írni. Dolgozni akar. És - talán egy másik életben - újra adni neked.
+*Ha méltón szeretnél emlékezni apámra, tölts egy pohár bort és olvasd el egy írását [www.tagostonlaszlo.hu](http://tagostonlaszlo.hu). Minden részvéttáviratnál többet jelentene... khm... jelent neki. És kívánj neki nyugalmat és jó ihletet. Tudom, hogy ezt az élményt is meg akarja írni. Dolgozni akar. És - talán egy másik életben - újra adni neked.*
