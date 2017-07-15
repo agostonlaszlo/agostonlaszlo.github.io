@@ -21,7 +21,7 @@ Te voltál az az ember, aki mindenkit megszelidített. A rólad készült kedven
 
 Harmincnégy boldog évet éltél anyámmal. Hangos szóra otthon nem emlékszem, ahogyan engem is tisztelettel neveltél. Igen, a fiút megtanította tisztelni, ahogyan az apa tisztelte a fiát. A tizennyolcadik születésnapomon kezet adtál nekem, egy különös kézfogás ajándékát. Mert idáig nevelőm voltál - mondtad -, de felnőtt férfiként a barátom akartál lenni. Mindig hittél bennem és jobban féltettél bárkinél, amikor a határaimat feszegettem. De sohasem fékeztél, gátoltál volna. Tanítani akartál, nem dirigálni.
 
-Mit beszélek itt múlt időben! Látod, közhelyesen gondolkodom még most is, apa! Mert nem tűntél el csak meghaltál. Olyan ez a múlt idő, mintha mindennek vége lenne, mintha soha többé nem látnánk egymást, mintha azzal a hetven kilónyi kihűlt, merev szövettel bármi is elveszett volna belőled! Marhaság! Az én apám, aki edzőterem és szolárium helyett mindig a szellem napvilágában sütkérezett nem írható le egy több áttétes, máj-, szív-, vese-, tüdő- és mittudoménménmilyen- elégtelen testtel. Ne haragudj, hogy egyáltalán felvetődött bennem.
+Mit beszélek itt múlt időben! Látod, közhelyesen gondolkodom még most is, apa! Mert nem tűntél el csak meghaltál. Olyan ez a múlt idő, mintha mindennek vége lenne, mintha soha többé nem látnánk egymást, mintha azzal a hetven kilónyi kihűlt, merev szövettel bármi is elveszett volna belőled! Marhaság! Az én apám, aki edzőterem és szolárium helyett mindig a szellem napvilágában sütkérezett nem írható le egy több áttétes, máj-, szív-, vese-, tüdő- és mittudoménmégmilyen- elégtelen testtel. Ne haragudj, hogy egyáltalán felvetődött bennem.
 
 ![](http://agostonlaszlo.hu/images/tengermellett.jpg)
 <center>Szüleim és a tenger</center>
@@ -38,4 +38,4 @@ Büszke vagyok rád. Még látjuk egymást. Jó utat!
 
 Fiad
 
-*Ha méltón szeretnél emlékezni apámra, tölts egy pohár bort és olvasd el egy írását a könyveiben vagy az oldalán ( [www.tagostonlaszlo.hu](http://tagostonlaszlo.hu) ). Minden részvéttáviratnál többet jelentene... khm... jelent neki. És kívánj neki nyugalmat és jó ihletet. Tudom, hogy ezt az élményt is meg akarja írni. Dolgozni akar. Adni magából a világnak és neked.*
+*Ha méltón szeretnél emlékezni apámra, tölts egy pohár bort és olvasd el egy írását a könyveiben vagy az oldalán ( [www.tagostonlaszlo.hu](http://tagostonlaszlo.hu/olvashato) ). Minden részvéttáviratnál többet jelentene... khm... jelent neki. És kívánj neki nyugalmat és jó ihletet. Tudom, hogy ezt az élményt is meg akarja írni. Dolgozni akar. Adni magából a világnak és neked.*
