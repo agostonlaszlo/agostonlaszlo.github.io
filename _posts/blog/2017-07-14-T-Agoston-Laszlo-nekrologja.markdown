@@ -23,8 +23,8 @@ Harmincnégy boldog évet éltél anyámmal. Hangos szóra otthon nem emlékszem
 
 Mit beszélek itt múlt időben! Látod, közhelyesen gondolkodom még most is, apa! Mert nem tűntél el csak meghaltál. Olyan ez a múlt idő, mintha mindennek vége lenne, mintha soha többé nem látnánk egymást, mintha azzal a hetven kilónyi kihűlt, merev szövettel bármi is elveszett volna belőled! Marhaság! Az én apám, aki edzőterem és szolárium helyett mindig a szellem napvilágában sütkérezett nem írható le egy több áttétes, máj-, szív-, vese-, tüdő- és mittudoménménmilyen- elégtelen testtel. Ne haragudj, hogy egyáltalán felvetődött bennem.
 
-![](http://agostonlaszlo.hu/images/tagostonlaszlo.JPG)
-<center>Szüleim a tengerparton</center>
+![](http://agostonlaszlo.hu/images/tengermellett.jpg)
+<center>Szüleim és a tenger</center>
 
 A tested levetkezve, az utolsó gombok kipattintása előtt, az ágyon fekve rám bíztad, hogy gondozzam azt a temérdek gondolatot, amit ötven év alatt papírra vetettél. Tudod, hogy kritikus vagyok ezekkel, apa! Sokat fogunk még bírkózni mi ketten azokon az elváló igekötőkön és jelzős szerkezeteken. Én máshogy fogom gondolni, te pedig majd meggyőzöl, hogy maradjon csak úgy, ahogyan te akartad. Mindketten tudnánk engedni. Egyikőnk sem teszi.
 
