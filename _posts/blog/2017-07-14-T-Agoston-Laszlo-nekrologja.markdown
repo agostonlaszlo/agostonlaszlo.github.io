@@ -13,13 +13,13 @@ lang: hu
 Mégis a legtöbb: ember, aki él." <br />
 (Karinthy Frigyes: Előszó)*
 
-Mit gondolsz, apa, milyen hangnemben kéne írnom arról, hogy elmentél? Szerinted súlyos legyen, mint a hiányod lesz innentől fogva vagy inkább kedélyes, mint amilyen te voltál, amikor a horgászatról, a macskádról vagy a kertedről beszéltél? Igazad van... busongani nincs értelme. Nem történt semmi tragédia.
+Mit gondolsz, apa, milyen hangnemben kéne írnom arról, hogy elmentél? Szerinted súlyos legyen, mint a hiányod lesz innentől fogva vagy inkább kedélyes, mint amilyen te magad voltál, amikor a horgászatról, a macskádról vagy a kertedről beszéltél? Igazad van... busongani nincs értelme. Nem történt semmi tragédia.
 
 ![](http://agostonlaszlo.hu/images/tagostonlaszlo.JPG)
 
-Te voltál az az ember, aki mindenkit megszelidített. A kedvenc képemen rólad egy sündisznót simogatsz éppen. Ő érezte, hogy jó a lelked, téged pedig nem zavartak a felszíni tüskék. Te voltál az, akinek Durci macska mindent megengedett (pedig a durcás szóból származik a neve) és aki most minduntalan, az ajtót nézve vár. Igen, ott ül a szoba közepén és nem találja a helyét. Mert a helye a hasadon van, amikor alszol. Sose tudtam eldönteni ő melegít téged vagy te melegíted őt...
+Te voltál az az ember, aki mindenkit megszelidített. A rólad készült kedvenc képemen egy sündisznót simogatsz éppen. Ő érezte, hogy jó a lelked, téged pedig nem zavartak a felszíni tüskék. Te voltál az, akinek Durci macska mindent megengedett (pedig a durcás szóból származik a neve) és aki most minduntalan, az ajtót nézve vár. Igen, ott ül a szoba közepén és nem találja a helyét. Mert a helye a hasadon van, amikor alszol. Sose tudtam eldönteni ő melegít téged vagy te melegíted őt...
 
-Harmincnégy évet éltél anyámmal. Hangos szóra otthon nem emlékszem, ahogyan engem is tisztelettel neveltél. Igen, a fiút megtanította tisztelni, ahogyan az apa tisztelte a fiát. A tizennyolcadik születésnapomon kezet adtál nekem, egy különös kézfogás ajándékát. Mert idáig nevelőm voltál - mondtad -, de felnőtt férfiként a barátom akartál lenni. Mindig hittél bennem és jobban féltettél bárkinél, amikor a határaimat feszegettem. De sohasem fékeztél, gátoltál volna. Tanító voltál, nem parancsnok.
+Harmincnégy boldog évet éltél anyámmal. Hangos szóra otthon nem emlékszem, ahogyan engem is tisztelettel neveltél. Igen, a fiút megtanította tisztelni, ahogyan az apa tisztelte a fiát. A tizennyolcadik születésnapomon kezet adtál nekem, egy különös kézfogás ajándékát. Mert idáig nevelőm voltál - mondtad -, de felnőtt férfiként a barátom akartál lenni. Mindig hittél bennem és jobban féltettél bárkinél, amikor a határaimat feszegettem. De sohasem fékeztél, gátoltál volna. Tanítani akartál, nem dirigálni.
 
 Mit beszélek itt múlt időben! Látod, közhelyesen gondolkodom még most is, apa! Mert nem tűntél el csak meghaltál. Olyan ez a múlt idő, mintha mindennek vége lenne, mintha soha többé nem látnánk egymást, mintha azzal a hetven kilónyi kihűlt, merev szövettel bármi is elveszett volna belőled! Marhaság! Az én apám, aki edzőterem és szolárium helyett mindig a szellem napvilágában sütkérezett nem írható le egy több áttétes, máj-, szív-, vese-, tüdő- és mittudoménménmilyen- elégtelen testtel. Ne haragudj, hogy egyáltalán felvetődött bennem.
 
@@ -29,10 +29,10 @@ Nem írok díjakról, kétezer feletti közlésszámról, amit abban a barna not
 
 Megígérem, hogy kiadok egy utolsó, összegző könyvet az írásaidból. Aztán feltöltöm az életműved az internetre. Bárkinek hozzáférhetően. Ingyen. Mert a te humánumod olyan mint a vírus: elég rászabadítani a világra, az emberek elolvassák, beléjük ivódik és bennük szaporodni kezd. Te sosem csak az én apám voltál és most már mindörökké a miénk maradsz.
 
-Látod, apa? Birtokolnálak, nem engednélek. Írnám hosszan ezt a nyavajás nekrológot, hogy sose kelljen, hogy véget érjen. De véget ér. Ahogyan a földi pálya is. Amit megfutottál. Becsülettel. Sikeresen. Igaz ember mondjára. 
+Látod, apa? Birtokolnálak, nem engednélek. Írnám hosszan ezt a nyavalyás nekrológot, hogy sose kelljen, hogy véget érjen. De véget ér. Ahogyan a földi pálya is. Amit megfutottál. Becsülettel. Sikeresen. Igaz ember mondjára. 
 
 Büszke vagyok rád. Még látjuk egymást. Jó utat!
 
 Fiad
 
-*Ha méltón szeretnél emlékezni apámra, tölts egy pohár bort és olvasd el egy írását [www.tagostonlaszlo.hu](http://tagostonlaszlo.hu). Minden részvéttáviratnál többet jelentene... khm... jelent neki. És kívánj neki nyugalmat és jó ihletet. Tudom, hogy ezt az élményt is meg akarja írni. Dolgozni akar. És - talán egy másik életben - újra adni neked.*
+*Ha méltón szeretnél emlékezni apámra, tölts egy pohár bort és olvasd el egy írását a könyveiben vagy az oldalán ( [www.tagostonlaszlo.hu](http://tagostonlaszlo.hu) ). Minden részvéttáviratnál többet jelentene... khm... jelent neki. És kívánj neki nyugalmat és jó ihletet. Tudom, hogy ezt az élményt is meg akarja írni. Dolgozni akar. Adni magából a világnak és neked.*
