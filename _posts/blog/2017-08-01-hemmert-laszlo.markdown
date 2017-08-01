@@ -3,7 +3,7 @@ layout: post
 title: Gyűlölni fognak a virágárusok, de nem bánom
 date: 2017-07-10 09:00:18.000000000 +00:00
 author: agoston_laszlo
-excerpt: Örülnék, ha meghonosodna Magyarországon ez a szokás - mégha a saját rokonaim kérdőre is vontak érte. Lehet, hogy a hagyomány ellen van, de nagyszerű az eredmény.
+excerpt: Örülnék, ha meghonosodna Magyarországon ez a szokás - még ha a saját rokonaim kérdőre is vontak érte. Lehet, hogy a hagyomány ellen van, de többet ér, mint virágokat vásárolni.
 categories: blog
 tags: 
 image: http://agostonlaszlo.hu/images/hemmertlaci.jpg
