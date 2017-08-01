@@ -24,14 +24,14 @@ Végül 99 ezer forint gyűlt össze, amit 120-ra egészítettük ki. Tanuk elő
 ![](http://agostonlaszlo.hu/images/hemmertlaci.jpg)
 *Ma reggel meglátogattuk "Hemilacit"
 
-Köszönöm mindenkinek, aki eljött, aki hozzájárult és bátorítok mindenkit, hogy kövesse a példánkat! A koszorúk, virágok elhervadnak, de a segítségadás és -kapás öröme örök életre szól. 
+Köszönöm mindenkinek, aki eljött, aki hozzájárult és bátorítok mindenkit, hogy kövesse a példánkat! A koszorúk, virágok elhervadnak, de a segítségadás és -kapás öröme örök életre szól. Szerintem jobb helyen van ez a pénz egy rászorulónál adományként, mint másnap kidobott virágként a kukában.
 
-Végezetül pedig szerepeljen itt néhány illusztráció T. Ágoston László *Csendélet tigrissel* című könyvéből. Jobbulást neked "Hemilaci"!
+Végezetül pedig szerepeljen itt néhány illusztráció apám, T. Ágoston László *Csendélet tigrissel* című könyvéből. Jobbulást neked "Hemilaci"!
 
-![](http://agostonlaszlo.hu/images/hemmert4.jpg)
 ![](http://agostonlaszlo.hu/images/hemmert5.jpg)
 ![](http://agostonlaszlo.hu/images/hemmert6.jpg)
 ![](http://agostonlaszlo.hu/images/hemmert7.jpg)
+![](http://agostonlaszlo.hu/images/hemmert4.jpg)
 ![](http://agostonlaszlo.hu/images/hemmert8.jpg)
 ![](http://agostonlaszlo.hu/images/hemmert9.jpg)
 ![](http://agostonlaszlo.hu/images/hemmert10.jpg)
