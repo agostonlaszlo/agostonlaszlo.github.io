@@ -6,7 +6,7 @@ author: agoston_laszlo
 excerpt: Örülnék, ha meghonosodna Magyarországon ez a szokás - mégha a saját rokonaim kérdőre is vontak érte. Lehet, hogy a hagyomány ellen van, de nagyszerű az eredmény.
 categories: blog
 tags: 
-image: http://agostonlaszlo.hu/images/tagostonlaszlo.JPG
+image: http://agostonlaszlo.hu/images/hemmertlaci.jpg
 lang: hu
 ---
 "Erzsike!" - mondta a templomgondnok édesanyámnak - "Ha Laci bácsit ennyien búcsúztatják, nem lesz hely a virágoknak az urnateremben. Inkább kérjenek koszorúmegváltást és ajánlják a meg nem vásárolt virágok árát jótékony célra!" - javasolta.
@@ -22,11 +22,12 @@ Anyámmal mindketten megörültünk az ötletnek: mennyivel nagyszerűbb dolog l
 Végül 99 ezer forint gyűlt össze, amit 120-ra egészítettük ki. Tanuk előtt számoltam meg és [az itt elérhető átvételi nyilatkozattal](http://agostonlaszlo.hu/images/hemmert2.jpg) nyújtottuk át ma reggel a kedvezményezettnek. Sokkal többet kaptunk, mint adtunk. És azt hiszem, sokkal többet számított még az összegnél is a gesztus. Tudom, hogy apám büszke volt ránk és tudom, hogy - bár van, akit ez megbotránkoztatott és szégyell minket érte - apám akarata és a szelleme szerint cselekedtünk.
 
 ![](http://agostonlaszlo.hu/images/hemmertlaci.jpg)
-*Ma reggel meglátogattuk "Hemilacit"
+*Ma reggel meglátogattuk "Hemilacit"*
 
 Köszönöm mindenkinek, aki eljött, aki hozzájárult és bátorítok mindenkit, hogy kövesse a példánkat! A koszorúk, virágok elhervadnak, de a segítségadás és -kapás öröme örök életre szól. Szerintem jobb helyen van ez a pénz egy rászorulónál adományként, mint másnap kidobott virágként a kukában.
 
-Végezetül pedig szerepeljen itt néhány illusztráció apám, T. Ágoston László *Csendélet tigrissel* című könyvéből. Jobbulást neked "Hemilaci"!
+Végezetül pedig szerepeljen itt néhány illusztráció apám, T. Ágoston László, *Csendélet tigrissel* című könyvéből. 
+Neked pedig jobbulást, "Hemilaci"!
 
 ![](http://agostonlaszlo.hu/images/hemmert5.jpg)
 ![](http://agostonlaszlo.hu/images/hemmert6.jpg)
