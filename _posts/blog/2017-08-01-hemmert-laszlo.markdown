@@ -21,7 +21,7 @@ Anyámmal mindketten megörültünk az ötletnek: mennyivel nagyszerűbb dolog l
 
 Végül 99 ezer forint gyűlt össze, amit 120-ra egészítettük ki. Tanuk előtt számoltam meg és [az itt elérhető átvételi nyilatkozattal](http://agostonlaszlo.hu/images/hemmert2.jpg) nyújtottuk át ma reggel a kedvezményezettnek. Sokkal többet kaptunk, mint adtunk. És azt hiszem, sokkal többet számított még az összegnél is a gesztus. Tudom, hogy apám büszke volt ránk és tudom, hogy - bár van, akit ez megbotránkoztatott - az akarata és a szelleme szerint cselekedtünk.
 
-![](http://agostonlaszlo.hu/images/hemmert.jpg)
+![](http://agostonlaszlo.hu/images/hemmertlaci.jpg)
 
 Köszönöm mindenkinek, aki eljött, aki hozzájárult és bátorítok mindenkit, hogy kövesse a példánkat! A koszorúk, virágok elhervadnak, de a segítségadás és -kapás öröme örök életre szól.  
 
