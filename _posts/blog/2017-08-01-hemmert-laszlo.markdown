@@ -34,19 +34,24 @@ Neked pedig jobbulást, "Hemilaci"!
 
 ![](http://agostonlaszlo.hu/images/hemmert5.jpg)
 *Amint megérkeztünk, első dolgunk volt felhívni az otthon maradottakat,s megtudni, hogy rendesen evett-e a cica, nem történt-e valami baj." (Macskaféltés)
+
 ![](http://agostonlaszlo.hu/images/hemmert6.jpg)
 *-Túl éli, doktor úr? -kérdezte a feleségem.* (A szabadság íze)
+
 ![](http://agostonlaszlo.hu/images/hemmert7.jpg)
 *"Így, négyesben töltöttük az egész délutánt. Mi a kerti hintán ülve, egymás kezét szorongatva idéztük fel hajdan volt első szerelmünket, ők meg ott, a szaletli kövén élték át a magukét. (Macskaszerelem)*
+
 ![](http://agostonlaszlo.hu/images/hemmertl4.jpg)
-*Reggelente a nejem kel föl elsőként.Durci már ott áll lesben az  ajtóban, s amint kinyitja, már ugrk is be rajta. Uzsgyi, föl az ágyra, oda bújik a kezemhez és megharap, hogy fölébresszen, s hogy megsimogassam.* (Macskaszelidítők)
+*Reggelente a nejem kel föl elsőként.Durci már ott áll lesben az  ajtóban, s amint kinyitja, már ugrk is be rajta. Uzsgyi, föl az ágyra, oda bújik a kezemhez és megharap, hogy fölébresszen, s hogy megsimogassam. (Macskaszelidítők)*
+
 ![](http://agostonlaszlo.hu/images/hemmert8.jpg)
 (Az amazon)
+
 ![](http://agostonlaszlo.hu/images/hemmert9.jpg)
-"Van egy újabb reggeli szokásunk. (...) Odaállok mellé, összedugjuk az orrunkat és irigykedve bámuljuk a szomszéd udvarban rohangáló kutyákat. Összekacsintunk, s együtt várjuk a tavaszt." (Cicámkám)
+*"Van egy újabb reggeli szokásunk. (...) Odaállok mellé, összedugjuk az orrunkat és irigykedve bámuljuk a szomszéd udvarban rohangáló kutyákat. Összekacsintunk, s együtt várjuk a tavaszt." (Cicámkám)*
+
 ![](http://agostonlaszlo.hu/images/hemmert10.jpg)
-*"Már azon se csodálkoznék, ha kiderülne, hogy harci kutya volt az apja - mondtam bosszankodva. - Még ilyet, hogy egy öklömnyi macska harap!"*
+*"Már azon se csodálkoznék, ha kiderülne, hogy harci kutya volt az apja - mondtam bosszankodva. - Még ilyet, hogy egy öklömnyi macska harap!" (Macskaszelidítők)*
+
 ![](http://agostonlaszlo.hu/images/hemmert11.jpg)
-*"A mellemre ül, dorombol egy sort, aztán megy a dolgára. Megnyugodott, hogy mégsem hagyom magára."* (Macskaféltés)
-
-
+*"A mellemre ül, dorombol egy sort, aztán megy a dolgára. Megnyugodott, hogy mégsem hagyom magára." (Macskaféltés)*
