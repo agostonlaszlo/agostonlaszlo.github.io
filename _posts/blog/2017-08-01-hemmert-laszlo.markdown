@@ -33,7 +33,7 @@ Végezetül pedig szerepeljen itt néhány illusztráció apám, T. Ágoston Lá
 Neked pedig jobbulást, "Hemilaci"!
 
 ![](http://agostonlaszlo.hu/images/hemmert5.jpg)
-*Amint megérkeztünk, első dolgunk volt felhívni az otthon maradottakat,s megtudni, hogy rendesen evett-e a cica, nem történt-e valami baj." (Macskaféltés)
+<center> *"Amint megérkeztünk, első dolgunk volt felhívni az otthon maradottakat,s megtudni, hogy rendesen evett-e a cica, nem történt-e valami baj." (Macskaféltés)* </center)
 
 ![](http://agostonlaszlo.hu/images/hemmert6.jpg)
 *-Túl éli, doktor úr? -kérdezte a feleségem.* (A szabadság íze)
@@ -45,7 +45,7 @@ Neked pedig jobbulást, "Hemilaci"!
 *Reggelente a nejem kel föl elsőként.Durci már ott áll lesben az  ajtóban, s amint kinyitja, már ugrk is be rajta. Uzsgyi, föl az ágyra, oda bújik a kezemhez és megharap, hogy fölébresszen, s hogy megsimogassam. (Macskaszelidítők)*
 
 ![](http://agostonlaszlo.hu/images/hemmert8.jpg)
-(Az amazon)
+*(Az amazon)*
 
 ![](http://agostonlaszlo.hu/images/hemmert9.jpg)
 *"Van egy újabb reggeli szokásunk. (...) Odaállok mellé, összedugjuk az orrunkat és irigykedve bámuljuk a szomszéd udvarban rohangáló kutyákat. Összekacsintunk, s együtt várjuk a tavaszt." (Cicámkám)*
