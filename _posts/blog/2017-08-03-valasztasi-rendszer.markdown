@@ -47,8 +47,8 @@ Másrészt a világ tragikusan felgyorsult. Az elmúlt korokban az idősebbek ta
 **Példák a fenti számításra:**<br />
 <br />
 Dolgozó, egyetemet végzett felnőtt: 3x2=6 pont<br />
-Munkanélküli középiskolát végzett felnőtt: 2x1=2 pont<br />
-Nyugdíjas egyetemi tanár: 4x1=4 pont<br />
+Munkanélküli érettségizett felnőtt: 2x1=2 pont<br />
+Nyugdíjas egyetemi tanár: 3x1=3 pont<br />
 Dolgozó általános iskolai végzettségű felnőtt: 1x2=2 pont<br />
 Nyugdíjas általános iskolai végzettségű: 1x1=1 pont<br />
 Határon túli magyar: 0 pont<br />
