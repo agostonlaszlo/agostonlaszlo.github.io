@@ -39,7 +39,7 @@ Másrészt a világ tragikusan felgyorsult. Az elmúlt korokban az idősebbek ta
 
 **Vegyünk egy családi hasonlatot**: a legnagyobb szava a kereső, munkaképes, fiatal embernek legyen. A kevésbé erős, kevésbé képzett is tudja magát képviselni, de ne ő vezesse a családi tanácsot. Az időst becsüljük meg, szeressük és támogassuk, legyen neki tisztességes helye benne, de ne ő határozza meg, hogy milyen házat építünk. Aki pedig csak látogatóba érkezik a családhoz, mint távolba szakadt rokon, hallgassuk meg a véleményét, de döntési jogköre ne legyen, hiszen nem ő fog a döntés eredményeivel együtt élni.
 
-Példák a fenti számításra:<br />
+**Példák a fenti számításra:**<br />
 <br />
 Dolgozó, egyetemet végzett felnőtt: 3x2=6 pont<br />
 Munkanélküli középiskolát végzett felnőtt: 2x1=2 pont<br />
