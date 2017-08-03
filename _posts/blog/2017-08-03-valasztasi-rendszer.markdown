@@ -54,7 +54,7 @@ Dolgozó általános iskolai végzettségű felnőtt: 1x2=2 pont<br />
 Nyugdíjas általános iskolai végzettségű: 1x1=1 pont<br />
 Határon túli magyar: 0 pont<br />
 <br />
-(A pontokon természetesen lehet változtatni, hogy igazságosabb legyen a rendszer.) <br />
+*(A pontokon természetesen lehet változtatni, hogy igazságosabb legyen a rendszer.)* <br />
 
 Mit gondolsz? Tudom, hogy esélytelen Magyarországon bevezetni, hiszen a politkusok soha sem fognak azért kampányolni, hogy dolgozniuk kelljen és **félelem/gyűlöletkeltő plakátok helyett valódi programot kelljen kidolglzniuk...** De az elmélet nekem tetszik. Talán egy szebb korban meg is valósul majd, ha elég sokan egyetértenek vele.
 
