@@ -25,6 +25,9 @@ Középiskola: 2 pont<br />
 Egyetem: 3 pont<br />
 Doktori: 4 pont<br />
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8ALKq4tVuUQ" frameborder="0" allowfullscreen></iframe>
+<i><center>"A legjobb érv a demokrácia ellen egy ötperces beszélgetés egy átlagos szavazóval." (Winston Churchill)</center></i>
+
 **Részvétel a társadalomban**<br />
 Ez egy szorzó, ami azt hivatott szolgálni, hogy a társadalom építésében aktívan részt vevők nagyobb jogot kapjanak a társadalom fejlődési irányainak meghatározásakor.<br />
 <br />
@@ -32,6 +35,9 @@ Az elmúlt évben nem volt bejelentett munkahelye: 1x<br />
 Az elmúlt egy évben volt bejelentett munkahelye: 2x<br />
 
 A **nyugdíjasok** - amennyiben nem dolgoznak a nyugdíj mellett - szintén az 1x szorzót kapnák. Miért? Mert - bocsánat a könyörtelen megfogalmazásért - az országot már nem nekik építjük. Lásd a Brexitet, amit olyan emberek szavaztak meg nagy arányban, akik a hosszú távú (10+ év) hatásait statisztikailag kis számban élik csak meg. **Egy pillanatig sem szeretném azt propagálni, hogy a nyugdíjasok kevésbé fontos tagjai a társadalomnak**, de a jövőt illető kérdésekben azoké kell, hogy legyen az elsőbbség, akik a jövőben - egyszerű, megkerülhetetlen természeti törvényszerűség miatt - több időt fognak eltölteni. 
+
+![](http://agostonlaszlo.hu/images/brexitchart.JPG)
+<i><center> [http://index.hu/kulfold/2016/06/25/az_oregek_szavaztak_ki_angliat_az_eu-bol/](Forrás) </center></i>
 
 Másrészt a világ tragikusan felgyorsult. Az elmúlt korokban az idősebbek tapasztalata segítség volt a társadalmak számára, mert mondjuk 1810 és 1870 között nem történt akkora társadalmi változás, hogy ezek a tapasztalatok ne maradtak volna érvényesek. 1957 és 2017 között (de már 1997 és 2017 között is) akkora a szakadék minden szempontból, hogy az én apám és anyám gyakran az én tapasztalataimra hagyatkoznak inkább, mert én vagyok jártasabb "az új világban". **Ettől még családi és emberi kérdésekben úgy gondolom, az idősebb generációktól tanulnunk nem csak lehetőség, de kötelesség is és óriásit hibázunk, ha ezekben leértékeljük a nyugdíjaskorúakat!**
 
