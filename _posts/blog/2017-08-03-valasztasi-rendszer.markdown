@@ -18,7 +18,7 @@ Azóta gondolkozom, hogy milyen megoldást tudnék javasolni, hiszen a szavazatm
 Nem a szavazati jog korlátozása, hanem **a szavazati erő méltányos elosztása** lenne a kívánatos. Erre bevezetnék egy rendkívül egyszerű pontrendszert. Midenkinek volna szavazati joga, de több tényező is befolyásolná az értékét.
 
 **Végzettség:** <br />
-Még mindig nem pontos, hiszen láttam már hülyét doktori címmel is és kiválóan gondolkodó "egyszerű embert", de a tanulással eltöltött idő általánosságban jó ökölszabálynak tűnik. Már csak a felfelé növekvő nyelvi követelmény és az ehhez kapcsolódó szélesebb körű "világra rálátás" miatt is.<br />
+Még mindig nem pontos, hiszen láttam már hülyét doktori címmel is és kiválóan gondolkodó "egyszerű embert", de a tanulással eltöltött idő általánosságban jó ökölszabálynak tűnik. Már csak a felfelé növekvő nyelvi követelmény és az ehhez kapcsolódó szélesebb körű "világra rálátás" miatt is. (Ne feledjük, hogy bár a doktorit végzettek szavazata négyszer annyit ér, mint az általános iskolai végzettségűeké, utóbbiak számban sokkal többen vannak, mint előbbiek!)<br />
 <br />
 Általános iskola (vagy kevesebb): 1 pont<br />
 Középiskola: 2 pont<br />
