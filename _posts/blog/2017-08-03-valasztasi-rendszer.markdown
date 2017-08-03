@@ -24,8 +24,8 @@ Még mindig nem pontos, hiszen láttam már hülyét doktori címmel is és kiv�
 Érettségivel: 2 pont<br />
 Diplomával: 3 pont<br />
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8ALKq4tVuUQ" frameborder="0" allowfullscreen></iframe>
-<i><center>"A legjobb érv a demokrácia ellen egy ötperces beszélgetés egy átlagos szavazóval." (Winston Churchill)</center></i>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TPhSEsGuXYA?start=2" frameborder="0" allowfullscreen></iframe>
+<i><center>Minden ember egyformán fontos, de nem minden ember egyformán képes.</center></i>
 
 **Részvétel a társadalomban**<br />
 Ez egy szorzó, ami azt hivatott szolgálni, hogy a társadalom építésében aktívan részt vevők nagyobb jogot kapjanak a társadalom fejlődési irányainak meghatározásakor.<br />
