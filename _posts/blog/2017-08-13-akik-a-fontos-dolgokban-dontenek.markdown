@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hogyan lettem zsidóból náci egy hónap alatt?
+title: Akik a fontos dolgokban döntenek
 date: 2017-07-10 09:00:18.000000000 +00:00
 author: agoston_laszlo
 excerpt: Volt, aki Hitlerhez hasonlított, amiért azt mertem mondani, hogy bár minden ember egyformán fontos, nem mindenki egyformán képes szavazni. Ezért mindenkit a képességei szerint engedtem volna dönteni az ország ügyeiről.
