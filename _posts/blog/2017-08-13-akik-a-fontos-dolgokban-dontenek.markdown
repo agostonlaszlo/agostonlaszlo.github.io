@@ -50,5 +50,4 @@ Azt ugye tudod, hogy ha mindenki szavazhatott volna, Magyarország sohasem vette
 
 Az ötlet, amit felvetettem, ezer helyen lyukas (például a GYES-en lévők vagy a papírjaikat kamu egyetemeken megszerzettek kérdése), de az biztos, hogy **a mostani, csak az érzelmi és zsigeri politizálást támogató és megkövetelő rendszer váltásra szorul**. Egyszerűen a jelenlegi berendezkedés magától váltja ki a jelenlegi hibás működést: van, akin túl nagy az elvárás, sok erős vállon pedig túl kevés a teher.
 
-Jó lenne, ha nem csipőből, érzéelmi alapon válaszolnánk erre a felvetésre. Van jobb ötlet, mint az enyém? Én csak örülök. De el kell kezdenie végre a rációnak irányítania, különben mindannyian véglegesen és menthetetlenül elveszünk az erdőben.
-
+Jó lenne, ha nem csipőből, érzelmi alapon válaszolnánk erre a felvetésre. Van jobb ötlet, mint az enyém? Én csak örülök. De el kell kezdenie végre a rációnak irányítania, különben mindannyian véglegesen és menthetetlenül elveszünk az erdőben.
