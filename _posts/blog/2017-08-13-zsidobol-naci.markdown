@@ -15,6 +15,9 @@ Ha a többség döntését követik, mind meg fognak halni. Ha a racionálisabb 
 
 Hát így van ez az emberekkel egy pár dologban. Például a **globális felmelegedés** kapcsán, amelyben a kevés tudós nem tudja meggyőzni a többi szavazót, hogy csökkentsük a fogyasztásunkat, a széndioxid-kibocsájtásunkat, különben mind meghalunk. Vagy **így volt a zsidók kiírtásával kapcsolatban**, amikor nem tudta a racionális kisebbség meggyőzni a feltüzelt többséget a zsidótörvények ártó voltáról. És így van még ezer esetben, amikor az **ész helyett a propaganda**, a hangulatkeltés, a sorosozás, a migránsozás és zsidózás és cigányozás és muszlimozás győz. Sok lúd disznót, ahogy mondani szokás. 
 
+![](http://agostonlaszlo.hu/images/orban-trump.jpg)
+<em><center>Az Economist címlapja. Felirat: "A félelemmel játszani".</center></em>
+
 Te mernél **népszavazást tartani az atombomba ledobásáról**? Főleg, ha a tévé és a rádió is harsogja, hogy nem ember, hanem félelmetes állat a másik? Bíznál benne, hogy az emberek többsége józan ésszel, belátással, sok érvet és indokot józanol meghallgatva és mérlegelve alapos utánajárás után döntene? **Rá mernéd tenni a saját életed?**
 
 Csak mert ezt teszed. 
@@ -35,6 +38,9 @@ Ekkor lettem zsidóból azonnal náci. "Zsidó" eddig azért voltam, mert klassz
 **Minden ember egyenlőnek születik**, de döntései vagy külső behatások alapján nem egyenlő emberekként halunk meg. Az mégsem lehet üdvös állapot, hogy **ma az elítélt bűnözőknek is be kell vinni a szavazóurnát** és a **kényszergyógykezelt anyagyilkosok** (igen, jól írtam) szavazata is ugyanannyit ér, mint egy nemzetközi tendenciákat elemző közgazdászé. Egy demens öregúr vagy egy súlyos kábítószerfüggő ugyanannyira szavazóképes, mint a legjobb diplomata. Ez így szerinted biztosan építi a társadalmunkat?
 
 Hát ki lenne akkor mégis olyan hülye, hogy ne **a befolyásolhatókat, a könnyen megijeszthetőket, fanatizálhatókat, kritikára kevésbé képeseket akarja meggyőzni** a választási győzelem eléréséhez? Sőt! Igazából, mivel ők vannak többen, ezért **ŐKET KELL meggyőzni**, ha kormányozni akarsz. Erre példa Nigel Farage. Erre példa Erdogan. Erre példa Orbán. Erre példa Trump.
+
+![](http://agostonlaszlo.hu/images/hitler.jpg)
+<em><center>A választásokon győztes (43,8%) Hitlert ünneplik 1933-ban.</center></em>
 
 Azt ugye tudod, hogy ha mindenki szavazhatott volna, Magyarország sohasem vette volna fel a kereszténységet és valószínűleg kiírtottak volna minket? Azt ugye tudod, hogy ha mindenki szavazhatott volna, nem születik meg az 1867-es kiegyezés és nem jön el az elmúlt ötszáz év legvirágzóbb időszaka? Azt ugye tudod, hogy Hitlert is megszavazták? Azt ugye tudod, hogy Churchill a második világháború megnyerése után vereséget szenvedett a választásokon és csak '51-ben választották újra? 
 
