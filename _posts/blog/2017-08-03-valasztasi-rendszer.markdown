@@ -57,3 +57,4 @@ Határon túli magyar: 0 pont<br />
 
 Mit gondolsz? Tudom, hogy esélytelen Magyarországon bevezetni, hiszen a politkusok soha sem fognak azért kampányolni, hogy dolgozniuk kelljen és **félelem/gyűlöletkeltő plakátok helyett valódi programot kelljen kidolglzniuk...** De az elmélet nekem tetszik. Talán egy szebb korban meg is valósul majd, ha elég sokan egyetértenek vele.
 
+[A cikk (ön)kritikáját és továbbgondolását itt olvashatod.](http://agostonlaszlo.hu/blog/nem-volt-igazam/)
