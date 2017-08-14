@@ -11,7 +11,7 @@ lang: hu
 ---
 Hát gyerekek, ezt félreszabtam. Becsület ne essék: ahol nem dolgoznak, nem hullik a forgács - ez már a sokadik posztom lesz arról a kérdésről, hogy mennyire ártalmas, amikor a világról mit sem tudó emberek szavazata ugyanolyan súllyal esik a latba, mint a szakértőké. A problémafelvetés jogos - ha választást lehet nyerni az emberek eszének a kihagyásával, akkor esztelen kormányok fognak esztelen döntéseket hozni -, **de a megoldás nem az**. A szavazatokat súlyozni kell, ez számomra nem kérdés, hogy nagyobb súllyal essen latba annak a szava, akinek a véleménye biztosabb, racionális alapokon nyugszik, mint egy befolyásolható, tudatlan emberé.
 
-De vajon egy tanult ember tényleg szükségszerűen belátóbb is? **Vajon egy diplomás tényleg feltétlenül többet tud**, mint valaki, aki a nyolc osztály után dolgozni kezdett és magát képezte tovább? **Be kell látnom, ez hülyeség.**
+De vajon egy tanult ember tényleg szükségszerűen belátóbb is? **Vajon egy diplomás tényleg feltétlenül többet tud**, mint valaki, aki mondjuk a nyolc osztály után dolgozni kezdett és magát képezte tovább? **Be kell látnom, ez hülyeség.**
 
 ![](http://agostonlaszlo.hu/images/egyetemista.jpg)
 [Forrás](https://www.facebook.com/tunyaeskukker/photos/a.829725110412466.1073741828.827589410626036/1568117113239925/?type=3&theater)
