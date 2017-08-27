@@ -3,7 +3,7 @@ layout: post
 title: Ki a leghíresebb magyar?
 date: 2017-08-15 06:42:18.000000000 +00:00
 author: agoston_laszlo
-excerpt: Apám mindig azt mondta, hogy Puskás... de én ezt nem hiszem. Egyrészt nem sok Puskás-térrel találkoztam életemben, nem is tanítják az iskolákban. De van egy magyar, akiről rengeteg teret és utcát neveztek el a világon...
+excerpt: Apám mindig azt mondta, hogy Puskás... de én ezt nem hiszem. Egyrészt nem sok fiatal ismeri, másrészt Puskás-térrel se sokkal találkoztam életemben, nem is tanítják az iskolákban. De van egy magyar, akiről rengeteg teret és utcát neveztek el a világon...
 categories: blog
 tags: 
 image: http://agostonlaszlo.hu/images/leghiresebb.jpg
