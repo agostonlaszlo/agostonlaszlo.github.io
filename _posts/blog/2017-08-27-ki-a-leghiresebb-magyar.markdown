@@ -34,7 +34,7 @@ Az a Bartók, akinek a máig mindenhol játszott Kékszakállúját 1911-ben egy
 Az a Bartók, akinek a Csodálatos mandarinja 1926-os kölni (szintén botrányt kavaró) bemutatója után, csak **1945-ben** (!), a szerző halálának évében jutott el Magyarországra. Korábban 1931-ben és 1941-ben próbálták Budapesten színre vinni, de a cenzúra nem engedte, pedig **1942-ben már a milánói Scalaban is elvezényelte egy Ferencsik nevű fiatalember**...
 
 ![](http://agostonlaszlo.hu/images/bartok.jpg)
-<em><center>"Mai ember, minden idők legvadabbikának embere, próbálj mindenek előtt ember lenni, s ha felfogtad, mit jelent embernek lenni, csak akkor törődhetsz hazával, társsal és baráttal." (Bartók&nbspBéla)</center></em>
+<em><center>"Mai ember, minden idők legvadabbikának embere, próbálj mindenek előtt ember lenni, s ha felfogtad, mit jelent embernek lenni, csak akkor törődhetsz hazával, társsal és baráttal."</center></em>
 
 Az a Bartók, aki **a magyar lélek egyik legjobb ismerője volt** és pótolhatatlan kincseket mentett meg társaival a népdalok feljegyzésével - és a magyar népdalok különleges hangzásvilágának komolyzenébe ültetésével.
 
