@@ -6,17 +6,17 @@ author: agoston_laszlo
 excerpt: Apám mindig azt mondta, hogy Puskás... de én ezt nem hiszem. Egyrészt nem sok Puskás-térrel találkoztam életemben, nem is tanítják az iskolákban. De van egy magyar, akiről rengeteg teret és utcát neveztek el a világon...
 categories: blog
 tags: 
-image: http://agostonlaszlo.hu/images/horn.jpg
+image: http://agostonlaszlo.hu/images/leghiresebb.jpg
 lang: hu
 ---
 Apám mindig azt mondta, hogy Puskás... de én ezt nem hiszem. Mond neked valamit például *Omar Sívori (1961)*, *Josef Masopust (1962)* vagy *Denis Law (1964)* neve? Ők is akkoriban voltak aranylabdások, a világ legjobbjai, a saját hazájukban bizonyára mindenki ismeri őket, de mi már nem. Túl régen lehetett nekik szurkolni. Arrafelé nem vetítik le évente egyszer a hatvanöt éves 6-3-at...
 
 Aztán mondják sokan Gábor Zsazsa nevét, meg Cicciolináét vagy Palvin Barbiét is (hiába, a magyar nők szépsége...) - de se teret, se utcát nem neveztek el róluk. Bélyegen és pénzen meg végképp nem látni őket. Vicces is lenne... milyen ruhában? Vagy anélkül?
 
-Mondhatjuk: Rubik! - a kockáját ismerik... de azt, hogy ez magyar találmány lenne? Kevesen.
-Mondhatjuk: Lugosi Béla, vagy Johnny Weissmuller - te ismernéd őket, ha nem tudnád, hogy magyarok voltak?
-Mondhatjuk: Liszt! De úgy, hogy magyarul se tudott...
-Mondhatjuk: Soros! - de légy őszinte: mit tudtál róla három évvel ezelőttig? Meg ő már inkább amerikai... sőt...
+Mondhatjuk: Rubik! - a kockáját ismerik... de azt, hogy ez magyar találmány lenne? Kevesen.<br />
+Mondhatjuk: Lugosi Béla, vagy Johnny Weissmuller - te ismernéd őket, ha nem tudnád, hogy magyarok voltak?<br />
+Mondhatjuk: Liszt! De úgy, hogy magyarul se tudott...<br />
+Mondhatjuk: Soros! - de légy őszinte: mit tudtál róla három évvel ezelőttig? Meg ő már inkább amerikai... sőt...<br />
 
 Keressünk olyat, aki nem csak *származása*, de szíve-lelke és munkássága szerint is magyar volt. Akiből sohasem lett Franz vagy George.
 
