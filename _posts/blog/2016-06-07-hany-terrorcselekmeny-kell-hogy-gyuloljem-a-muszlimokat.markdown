@@ -3,11 +3,12 @@ layout: post
 title: "Hány terrorcselekmény kell még ahhoz, hogy gyűlöljem a muszlimokat?"
 date: 2016-06-07 09:07:01.000000000 +00:00
 author: agoston_laszlo
-excerpt: "Amikor az első bomba robban és esetleg hozzátartozója lesz az emberek közt, másképpen fog gondolkozni és beszélni - kommentelte valaki a Nem vagyok hülye attól még, hogy nem kiabálok című poszt alá. Tényleg: mi lenne velem, a sokszínűséget és elfogadást hirdető liberális gondolkodóval, ha Magyarországon is lenne robbantás?"
+excerpt: "Amikor az első bomba robban és esetleg hozzátartozója lesz az emberek közt, másképpen fog gondolkozni és beszélni - kommentelte valaki. Tényleg: mit mondanék, ha Magyarországon is lenne robbantás?"
 categories: blog
 tags: [iszlám, megbékélés, demokrácia, terrorizmus]
 redirect_from: "/hu/blog/57-fogom-e-vegre-gyulolni-a-muzulmanokat-ha-robbantas-lesz-az-eb-n"
 lang: hu
+image: http://www.investors.com/wp-content/uploads/2016/02/EDIT2-quds-022616-newscom.jpg
 
 ---
 "Amikor az első bomba robban és esetleg hozzátartozója lesz az emberek közt, másképpen fog gondolkozni és beszélni" - kommentelte valaki a [Nem vagyok hülye attól még, hogy nem kiabálok](http://agostonlaszlo.hu/hu/blog/70-nem-vagyok-hulye-attol-meg-hogy-nem-kiabalok) című poszt alá. Tényleg: mi lenne velem, a sokszínűséget és elfogadást hirdető liberális gondolkodóval, ha Magyarországon is lenne robbantás? Eleve: hát nem látok én a szememtől, hogy minden napra jut egy borzalom? Mennyi vérnek kell még kiömlenie ahhoz, hogy eszemhez térjek?
