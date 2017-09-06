@@ -37,7 +37,7 @@ Gondolatkísérletünket kezdjük azzal, hogy megvizsgáljuk, mi történne, ha 
 
 Én pedig azt mondanám, hogy **nem**. És ezen rettentően meglepődnének.
 
-<center></b>Mi alapján ítélsz?</b></center>
+<center><b>Mi alapján ítélsz?</b></center>
 
 Adott egy kultúra, ami **1,7 milliárd (!) embert foglal magába**, a Föld lakosságának kb. egynegyedét (kereszténység: 2,4 milliárd - 33%). Ebben a végtelenül nagy és különböző, heterogén univerzumban a CNN szerint van [100-200 ezer](http://edition.cnn.com/2014/09/26/opinion/bergen-schneider-how-many-jihadists/), de tudod mit? Triplázzunk rá és legyen 500 ezer, tehát **0,000294 százaléknyi** olyan vadidióta, aki most annak szurkol, hogy sikerüljön egy robbantás. Ez az arány Magyarország lakosságára kivetítve 2910 embert jelent. **Ez körülbelül annyi, mint Táplánszentkereszt (2409 fő) és Egyházasdengeleg (464 fő) lakossága együttvéve.** Mennyire éreznéd reálisnak, ha ezen (a példához általam teljesen véletlenszerűen kiválasztott) két község lakossága alapján megmondanák mondjuk a franciák, hogy
 
