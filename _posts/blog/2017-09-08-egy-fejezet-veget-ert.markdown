@@ -32,10 +32,10 @@ Az a rengeteg ember, aki rajtam keresztül akarja elmondani a saját vélemény�
 
 Belecsúsztam abba, amire a legjobb példa az egyébként szerintem sokra érdemes Juhász Péter: **próbálom megmutatni, mennyire mélyen vagyunk, ahelyett hogy felfelé emelném az olvasót**. Ez a fanatikust nem hatja meg *("látod, ezt is pont azok nem fogják olvasni, akiknek kéne")*, a többi meg már régesrég tud róla és csak hazavágja a kedvét. Gyakorlatilag pont annyira értelmetlen, mint bizonygatni a kormányról, hogy nem Magyarország érdekeit tartja szem előtt vagy hogy a politikusaink korruptak. Axióma.
 
-Ó tömlőbe nem töltünk új bort, mert szétfeszíti azt - mondja a Biblia. És igazat mond. Nem foglalkozhatom a megélhetési haza-árulókkal (*vö.: letelepedési kötvény*) és nem irányíthatok rájuk több hiábavaló figyelmet. Rég átléptünk már a Rubikonon, **akármekkora bűnt követnek el, itt, a régi rendszerben, már nem lesz rá megoldás**. Ha nem hiszed, hát nézd meg, hány botrányba került politikus tűnt el az elmúlt évtizedben a politikai palettáról. És ettől vagyunk kétségbe esve, mert úgy érezzük, nincs megoldás. Ebben a rendszerben valóban. De ez a rendszer már haldoklik - és most nem egy kormányzó pártról, hanem a magyarországi közélet egész rohadt valóságáról beszélek.
-
 ![](http://agostonlaszlo.hu/images/kuczinsky2.jpg)
 <center><em>Pawel Kuczinsky karikatúrája</em></center>
+
+Ó tömlőbe nem töltünk új bort, mert szétfeszíti azt - mondja a Biblia. És igazat mond. Nem foglalkozhatom a megélhetési haza-árulókkal (*vö.: letelepedési kötvény*) és nem irányíthatok rájuk több hiábavaló figyelmet. Rég átléptünk már a Rubikonon, **akármekkora bűnt követnek el, itt, a régi rendszerben, már nem lesz rá megoldás**. Ha nem hiszed, hát nézd meg, hány botrányba került politikus tűnt el az elmúlt évtizedben a politikai palettáról. És ettől vagyunk kétségbe esve, mert úgy érezzük, nincs megoldás. Ebben a rendszerben valóban. De ez a rendszer már haldoklik - és most nem egy kormányzó pártról, hanem a magyarországi közélet egész rohadt valóságáról beszélek.
 
 **Magyarországnak *pozitív* üzenetre van szüksége.**
 
