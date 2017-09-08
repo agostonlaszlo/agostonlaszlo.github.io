@@ -48,6 +48,6 @@ Mi jön most
 7, Határozott kézzel fogok mindenkit **kitiltani az oldalról, aki kötekedni jár ide**. Minden kitiltás után bűntudatom van, mert azt érzem, megbuktam, mint a tanár érzi a saját bukását, amikor évismétlésre küld egy diákot. De aki nálam gyűlölködik, mehet. Van rá annyi sok más hely...
 8, Szeretnék nektek **lehetőséget adni, hogy részt vegyetek ebben a munkában**. Még nem tudom, hogyan és mi módon, sokaknak csak egy megosztással, sokaknak valódi munkával, de semmiképpen sem pártként. Százezren vagyunk. Ha ebből csak száz ember képes és akar változtatni, az már nagyon messze vihet ügyeket. És sikerélményt jelentene ott, ahol ebből van a legkevesebb.
 
-És amíg ennek nekikezdek pihenek egy keveset. Hosszú volt az út idáig, csodálatos közönség voltatok! Itt az ideje, hogy a közös siránkozás helyett inkább lelket öntsünk a másikba. 
+Ez lenne hát a koncepció, meglátjuk, hogy sikerült - ahogy a társulatigazgató mondja a Bajazzók nyitányában. Itt az ideje, hogy a közös siránkozás helyett inkább lelket öntsünk a másikba. 
 
-Kezdjük.
+Nyíljon a függyöny! Kezdünk.
