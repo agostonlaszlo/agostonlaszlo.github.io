@@ -13,7 +13,7 @@ Tegnap rám írt valaki. Kérdezte, mi történt velem. Más vagyok. Nem ugyanaz
 
 Sokszor elmeséltem már, hogy **teljesen "véletlenül" lettem az ország egyik legismertebb bloggere**. Láttam egy videót, amit le szerettem volna fordítani anyukámnak, aki nem beszél angolul, és ha már... hát feltettem a 149 kedvelést tudó oldalamra. Hamarosan átléptük az ezredik követőt is...
 
-[](http://agostonlaszlo.hu/images/fokep.jpg)
+[]!(http://agostonlaszlo.hu/images/fokep.jpg)
 
 Nem volt célom, de élveztem, hogy tudok új hangot hozni Magyarországon: egy nyugodt, egyik oldalhoz sem kötődő, békés hangot, aki mindenkit meghallgat. Sőt! Válaszol. És óriási szükség volt erre a hangra, mutatta ezt, hogy **volt olyan hét, amikor több embert értem el a Facebookon, mint az Index...**
 
