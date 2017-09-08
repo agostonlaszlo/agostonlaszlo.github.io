@@ -21,14 +21,16 @@ Nyilván én is változtam. Lejátszottuk az utolsó előadásunkat egy időre a
 
 **Ha ma visszanézek arra az emberre és arra a kommunikációra, amivel kezdődött, én is látom, hogy máshol tartunk.** Hozzátéve, hogy akkor még nem pörgött maxon a gyűlöletkampány, októberi népszavazás, brexit, Trump, olimpiai baromság, Soros-plakátok... Másfél éve még nem voltunk ennyire mélyen Putyinban és nem voltunk ekkora fekély Európa testén. Látod, ilyet se írtam volna...
 
-![](http://agostonlaszlo.hu/images/kuczinsky1.jpg)
+![](http://agostonlaszlo.hu/images/kuczinsky11.jpg)
 <center><em>Pawel Kuczinsky karikatúrája</em></center>
 
 **De Magyarország felőrli az erőt.** A kisvállalkozókét, a röghöz kötött diákokét, az értük aggódó szülőkét, a nekem *napról-napra* folyamatosan gyomorrákot kívánó, "csecsemőbaszónak" és hazaárulónak bélyegző szerencsétlenekét - és a racionális gondolkodást zászlajára tűző bloggerét is. **Annyira sokan hitték azt, hogy én fogom helyettük megcsinálni!**
 
-Az újságíró, aki abból él, hogy az én írásaimat lopja - engem nem zavar, örülök, ha sokan látják, **csak ne forgatná ki a szavaimat**...
-Az olvasó, **aki azt várta, hogy majd pártot alakítok** és amíg ő kívülről kibicel a változásnak, addig valaki épít neki és helyette egy jobb, szebb, igazságosabb Magyarországot, amit ő köszönettel elfogad, beleül és elhasznál az eddigi gondolkodásmódjával.
-Az a rengeteg ember, aki rajtam keresztül akarja elmondani a saját véleményét, tőlem akarja hallani a saját gondolatait és **ha én valamiért nem úgy gondolom, hát mérhetetlenül megsértődik rám**.
+Az újságíró, aki abból él, hogy az én írásaimat lopja - engem nem zavar, örülök, ha sokan látják, **csak ne forgatná ki a szavaimat**...<br />
+
+Az olvasó, **aki azt várta, hogy majd pártot alakítok** és amíg ő kívülről kibicel a változásnak, addig valaki épít neki és helyette egy jobb, szebb, igazságosabb Magyarországot, amit ő köszönettel elfogad, beleül és elhasznál az eddigi gondolkodásmódjával.<br />
+
+Az a rengeteg ember, aki rajtam keresztül akarja elmondani a saját véleményét, tőlem akarja hallani a saját gondolatait és **ha én valamiért nem úgy gondolom, hát mérhetetlenül megsértődik rám**.<br />
 
 Belecsúsztam abba, amire a legjobb példa az egyébként szerintem sokra érdemes Juhász Péter: **próbálom megmutatni, mennyire mélyen vagyunk, ahelyett hogy felfelé emelném az olvasót**. Ez a fanatikust nem hatja meg *("látod, ezt is pont azok nem fogják olvasni, akiknek kéne")*, a többi meg már régesrég tud róla és csak hazavágja a kedvét. Gyakorlatilag pont annyira értelmetlen, mint bizonygatni a kormányról, hogy nem Magyarország érdekeit tartja szem előtt vagy hogy a politikusaink korruptak. Axióma.
 
