@@ -33,7 +33,7 @@ Belecsúsztam abba, amire a legjobb példa az egyébként szerintem sokra érdem
 
 Magyarországnak 
 
-<center><em>pozitív>/em><center>
+<center><em>pozitív</em></center>
 
 üzenetre van szüksége. Útmutatásra előre és nem hátratekintésre vissza. Baromi nehéz lesz, mert **Európa talán legnagyobb lelki fertőjében és ideológiai posványában ülünk**. De a mocsokban ülve nem lehet megtisztulni a mocsoktól, főleg nem azzal, hogy felhívjuk mindenki figyelmét arra, hogy mennyire mocskosak vagyunk - tovább dagonyázva.
 
@@ -41,12 +41,12 @@ Mi jön most
 
 1, **Fogok reklámozni az oldalamon**. Olyan dolgokat, amelyek szerintem jók, előre vivők és kivezetnek a mocsokból. <br />
 2, Nem írok többet közéletről olyan kommentet, **aminek a végén nincsen javaslat arra, hogyan lehetne jobb**. <br />
-3, Sokat fogok foglalkozni a **szexualitással**. Ne rökönyödj meg: Magyarországon elmaradt a hatvanas-hetvenes évek szexuális forradalma, borzasztó álvallásosság és prüdéria van, ami mindenre kihat. Na ezt majd kifejtem :)
-4, Sokat fogok foglalkozni **vallással, spiritualitással**, mert itt is rengeteg dolgot kell helyre tennünk.
-5, Fogok írni olyan témafelvetéseket - javaslatokat, amelyek **egy kormányprogram részei lehetnek** és "nyílt forráskóddal" közreadom. Felőlem akármelyik párt megcsinálhatja, csak essen már neki... mondjuk a kerekesszékesek mobilitásának javításának!
-6, Többet fogok a **művészet(em)ről** közreadni itt. A művészet emel - és nekünk most emelkedésre van szükségünk!
-7, Határozott kézzel fogok mindenkit **kitiltani az oldalról, aki kötekedni jár ide**. Minden kitiltás után bűntudatom van, mert azt érzem, megbuktam, mint a tanár érzi a saját bukását, amikor évismétlésre küld egy diákot. De aki nálam gyűlölködik, mehet. Van rá annyi sok más hely...
-8, Szeretnék nektek **lehetőséget adni, hogy részt vegyetek ebben a munkában**. Még nem tudom, hogyan és mi módon, sokaknak csak egy megosztással, sokaknak valódi munkával, de semmiképpen sem pártként. Százezren vagyunk. Ha ebből csak száz ember képes és akar változtatni, az már nagyon messze vihet ügyeket. És sikerélményt jelentene ott, ahol ebből van a legkevesebb.
+3, Sokat fogok foglalkozni a **szexualitással**. Ne rökönyödj meg: Magyarországon elmaradt a hatvanas-hetvenes évek szexuális forradalma, borzasztó álvallásosság és prüdéria van, ami mindenre kihat. Na ezt majd kifejtem :)<br />
+4, Sokat fogok foglalkozni **vallással, spiritualitással**, mert itt is rengeteg dolgot kell helyre tennünk.<br />
+5, Fogok írni olyan témafelvetéseket - javaslatokat, amelyek **egy kormányprogram részei lehetnek** és "nyílt forráskóddal" közreadom. Felőlem akármelyik párt megcsinálhatja, csak essen már neki... mondjuk a kerekesszékesek mobilitásának javításának!<br />
+6, Többet fogok a **művészet(em)ről** közreadni itt. A művészet emel - és nekünk most emelkedésre van szükségünk!<br />
+7, Határozott kézzel fogok mindenkit **kitiltani az oldalról, aki kötekedni jár ide**. Minden kitiltás után bűntudatom van, mert azt érzem, megbuktam, mint a tanár érzi a saját bukását, amikor évismétlésre küld egy diákot. De aki nálam gyűlölködik, mehet. Van rá annyi sok más hely...<br />
+8, Szeretnék nektek **lehetőséget adni, hogy részt vegyetek ebben a munkában**. Még nem tudom, hogyan és mi módon, sokaknak csak egy megosztással, sokaknak valódi munkával, de semmiképpen sem pártként. Százezren vagyunk. Ha ebből csak száz ember képes és akar változtatni, az már nagyon messze vihet ügyeket. És sikerélményt jelentene ott, ahol ebből van a legkevesebb.<br />
 
 Ez lenne hát a koncepció, meglátjuk, hogy sikerült - ahogy a társulatigazgató mondja a Bajazzók nyitányában. Itt az ideje, hogy a közös siránkozás helyett inkább lelket öntsünk a másikba. 
 
