@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jogom van nemmel szavazni a melegházasságra!
-date: 2017-05-20 09:00:18.000000000 +00:00
+date: 2017-09-10 11:00:18.000000000 +00:00
 author: agoston_laszlo
 excerpt: Ki a fenét érdekel, hogy az öngyilkosságok száma nagyságrendekkel magasabb az LMBTQ-tinédzserek között, miért kéne megosztanom a jogaimat velük csak azért, hogy emberi lényeknek érezhessék magukat?
 categories: blog
