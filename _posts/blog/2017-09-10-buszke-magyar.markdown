@@ -9,7 +9,7 @@ tags: [demokrácia, megbékélés]
 image: http://agostonlaszlo.hu/images/orszaghaz.jpg
 lang: hu
 ---
-Rengeteg reakciót kaptam arra az írásomra, amelyben azt írtam: a magyar nemzet nem jobb senkinél. Viszont nem is rosszabb és nagy hibának neveztem, hogy versenyeztetjük a nemzeteket. Tudod miért? Mert nem hiszem, hogy valaki a születésénél fogva kéne hogy győztes vagy vesztes legyen.
+Rengeteg reakciót kaptam arra az írásomra, amelyben azt írtam: [a magyar nemzet nem jobb senkinél. Viszont nem is rosszabb](https://facebook.com/agostonlaszloartist/photos/a.524823634288406.1073741831.447410712029699/1225438904226872/?type=3&theater)és nagy hibának neveztem, hogy versenyeztetjük a nemzeteket. Tudod miért? Mert nem hiszem, hogy valaki a születésénél fogva kéne hogy győztes vagy vesztes legyen.
 
 **"Balsors, akit régen tép... megszenvedte már e nép..."**
 
