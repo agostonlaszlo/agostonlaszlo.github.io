@@ -3,7 +3,7 @@ layout: post
 title: Mit ér az ember, ha magyar?
 date: 2017-09-10 09:00:18.000000000 +00:00
 author: agoston_laszlo
-excerpt: Rendre előkerül a beszélgetéseimben, hogy miért nem vagyok "jobb magyar". Miért nem lesz könnyes a szemem, Trianontól, miért nem tartom a magyar embert jobbnak, mint a román vagy afrikai embert, miért nem hiszem, hogy Isten választott népe vagyunk és nálunk a legszebbek a lányok és legjobb a kaja...
+excerpt: Rendre előkerül a beszélgetéseimben, hogy miért nem vagyok jobb magyar. Miért nem lesz könnyes a szemem, Trianontól, miért nem tartom a magyar embert jobbnak, mint a román vagy afrikai embert, miért nem hiszem, hogy Isten választott népe vagyunk és nálunk a legszebbek a lányok és legjobb a kaja...
 categories: blog
 tags: [demokrácia, megbékélés]
 image: http://agostonlaszlo.hu/images/orszaghaz.jpg
