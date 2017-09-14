@@ -19,7 +19,7 @@ Szerinted melyik mondat igaz? A helyes válasz: mindkettő. [Látszólag ellentm
 Mivel már így is nekem estek páran, hogy hazudok, most egy hosszabb sor forrás következik, aztán elmondom, mi miért van és mit lehetne tenni ellene.
 
 **Óriási a munkanélküliség**
-Tudom, a kormány azt hazudja, hogy szinte nincs is munkanélküliség ( [Orbán: "Aki akar, lényegében tud dolgozni](http://24.hu/fn/gazdasag/2017/01/13/orban-viktor-aki-akar-lenyegeben-tud-dolgozni/) ), de pár apróságot elfelejtenek: 
+Tudom, a kormány azt hazudja, hogy szinte nincs is munkanélküliség ( [Orbán: "Aki akar, lényegében tud dolgozni](http://24.hu/fn/gazdasag/2017/01/13/orban-viktor-aki-akar-lenyegeben-tud-dolgozni/) ), de pár apróságot elfelejtenek: <br />
 1, ahhoz, hogy valaki statisztikailag munkanélkülinek számítson **regisztráltatnia kell magát** <br />
 2, a közmunkaprogram nem valódi munka, nem gyorsítja a gazdaságot, csak álcázott és feltételhez kötött segély, amivel remekül lehet a statisztikát kozmetikázni.<br />
 3, rengeteg magyar állampolgár dolgozik ingázva vagy átjelentkezés nélkül külföldön (ezek is javítják az itthoni számokat).
@@ -47,7 +47,7 @@ Tudom, a kormány azt hazudja, hogy szinte nincs is munkanélküliség ( [Orbán
 
 Sokat hajtogattam már - mert szerintem ez Magyarország egyik rákfenéje -, hogy [a társadalom egynegyede funkcionális analfabéta](http://hvg.hu/itthon/20080908_funkcionalis_analfabetizmus_steklacs_iras). Képzetlen, írni-olvasni is alig, ha egyáltalán, tudó, sok esetben a munkához nem szokott, **munkaerőpiaci szempontból értéktelen milliók**. Kérlek ezt ne minősítésnek, értékítéletnek vedd, mert nem az. De ha valaki egy [árufeltöltő munkát se képes tisztességgel elvégezni](http://168ora.hu/megrohantak-vasarlok-az-uzleteket-de-nincs-arufeltolto/), mire lenne - munkaerőpiaci szempontból - alkalmas? Maximum gyümölcsöt szedni, de azt egész évben nem lehet és [gyakran inkább nem is választják](http://168ora.hu/megrohantak-vasarlok-az-uzleteket-de-nincs-arufeltolto/).
 
-![](http://agostonlaszlo.hu/images/monikashow.jpg)
+![](http://agostonlaszlo.hu/images/monika.jpg)
 <center><em>Te kit alkalmaznál szívesen a cégedben a Mónika Show vendégei közül?</em></center>
 
 Nem választják, mert nincsen meg a munkakultúrájuk sem (és itt már nem csak a funkcionális analfabétákról beszélek). Időben odaérni valahova, a munkát minőségileg megfelelően elvégezni (lásd még: milyen munkát végeznek sokszor a mai "mesteremberek" egy lakásfelújítás során), adminisztrálni, megbízhatónak lenni (ismerősöm folyamatosan arra panaszkodik, hogy éjjel felmondanak neki és másnap már nem jönnek dolgozni, összetörik a céges kocsit, aztán eltűnnek stb.), horribile dictu az ügyféllel nem bunkónak lenni. Ilyen, erre képes ember egyre kevesebb van Magyarországon. Kérdezz meg gyakorlatilag bárkit a munkaadók közül!
