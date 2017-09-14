@@ -6,7 +6,7 @@ author: agoston_laszlo
 excerpt: Remélem, ez a cikk milliomossá tesz majd pár embert. Van benne egy tuti tipp legalábbis. Magyarország az a hely, ahol se munkaerő nincs, se munkahely, mégis azt hazudják, hogy erősödünk. Olvasd el, mire gondolok és mi a javaslatom!
 categories: blog
 tags: [demokrácia, megbékélés]
-image: http://agostonlaszlo.hu/images/munkanelkuliseg.jpg
+image: http://agostonlaszlo.hu/images/koldus.jpg
 lang: hu
 ---
 Magyarország középtávon csődbe fog menni, ha nem teszünk semmit, akkora a munkaerőhiány. 
@@ -19,7 +19,9 @@ Szerinted melyik mondat igaz? A helyes válasz: mindkettő. [Látszólag ellentm
 Mivel már így is nekem estek páran, hogy hazudok, most egy hosszabb sor forrás következik, aztán elmondom, mi miért van és mit lehetne tenni ellene.
 
 **Óriási a munkanélküliség**
-Tudom, a kormány azt hazudja, hogy szinte nincs is munkanélküliség ( [Orbán: "Aki akar, lényegében tud dolgozni](http://24.hu/fn/gazdasag/2017/01/13/orban-viktor-aki-akar-lenyegeben-tud-dolgozni/) ), de pár apróságot elfelejtenek: <br />
+
+Tudom, a kormány azt hazudja, hogy szinte nincs is munkanélküliség ( [Orbán: "Aki akar, lényegében tud dolgozni](http://24.hu/fn/gazdasag/2017/01/13/orban-viktor-aki-akar-lenyegeben-tud-dolgozni/) ), de pár apróságot elfelejtenek:
+
 1, ahhoz, hogy valaki statisztikailag munkanélkülinek számítson **regisztráltatnia kell magát** <br />
 2, a közmunkaprogram nem valódi munka, nem gyorsítja a gazdaságot, csak álcázott és feltételhez kötött segély, amivel remekül lehet a statisztikát kozmetikázni.<br />
 3, rengeteg magyar állampolgár dolgozik ingázva vagy átjelentkezés nélkül külföldön (ezek is javítják az itthoni számokat).
