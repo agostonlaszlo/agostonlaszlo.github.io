@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Nincs munkád? Naná! Nincs embered? Naná!
+title: Szegény Magyarország! Szegény magyarok!
 date: 2017-09-14 09:00:18.000000000 +00:00
 author: agoston_laszlo
-excerpt: Remélem, ez a cikk milliomossá tesz majd pár embert. Van benne egy tuti tipp legalábbis. Magyarország az a hely, ahol se munkaerő nincs, se munkahely, mégis azt hazudják, hogy erősödünk. Olvasd el, mire gondolok és mi a javaslatom!
+excerpt: Magyarország az a hely, ahol se munkaerő nincs, se munkahely, mégis azt hazudják, hogy erősödünk. Olvasd el, mire gondolok és mi a javaslatom! Remélem, ez a cikk milliomossá is tesz majd pár embert, mindannyiónk érdekében!
 categories: blog
 tags: [demokrácia, megbékélés]
 image: http://agostonlaszlo.hu/images/koldus.jpg
