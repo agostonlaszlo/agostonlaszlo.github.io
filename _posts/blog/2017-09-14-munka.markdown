@@ -3,10 +3,10 @@ layout: post
 title: A tudás hatalom, sohasem szégyen!
 date: 2017-09-14 09:00:18.000000000 +00:00
 author: agoston_laszlo
-excerpt: Remélem, ez a cikk milliomossá tesz majd pár embert... mindannyiónk érdeke lenne! Mert alig maradt Magyarországon képzett, valamire jó munkaerő, mégis nagy a munkanélküliség. Írtam pár javaslatot a megoldásra!
+excerpt: Remélem, ez a cikk milliomossá tesz majd pár embert... mindannyiónk érdeke lenne! Mert alig maradt Magyarországon képzett, valamire jó munkaerő, mégis nagy a munkanélküliség. Írtam pár javaslatot a megoldásra! Érdekel?
 categories: blog
 tags: [demokrácia, megbékélés]
-image: http://agostonlaszlo.hu/images/fiatalokeuropaban.jpg
+image: http://agostonlaszlo.hu/images/elethosszigtartotanulas.jpg
 lang: hu
 ---
 Magyarország középtávon csődbe fog menni, ha nem teszünk semmit, akkora a munkaerőhiány. <br />
@@ -90,7 +90,9 @@ Gondolj bele! Fél lábú emberek nyertek már jiu-jitsu versenyt, mert nem adt�
 Te miért ne lennél képes?  
 Te miért ne lennél képes? 
 
-Te miért is ne lennél képes???
+![](http://agostonlaszlo.hu/images/elethosszigtartotanulas.jpg)
+<center><em>Te miért is ne lennél képes???</em></center>
+
 
 **A fiataloknak**
 
