@@ -9,7 +9,7 @@ tags: [demokrácia, megbékélés]
 image: http://agostonlaszlo.hu/images/koldus.jpg
 lang: hu
 ---
-Magyarország középtávon csődbe fog menni, ha nem teszünk semmit, akkora a munkaerőhiány. 
+Magyarország középtávon csődbe fog menni, ha nem teszünk semmit, akkora a munkaerőhiány. <br />
 Magyarország középtávon csődbe fog menni, ha nem teszünk semmit, akkora a munkanélküliség.
 
 Szerinted melyik mondat igaz? A helyes válasz: mindkettő. [Látszólag ellentmond egymásnak a kettő, pedig ez korántsem így van.](http://index.hu/gazdasag/allas/2015/11/02/munkaero_mobilitas/). 
