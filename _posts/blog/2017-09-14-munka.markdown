@@ -1,0 +1,100 @@
+---
+layout: post
+title: Nincs munkád? Naná! Nincs embered? Naná!
+date: 2017-09-14 09:00:18.000000000 +00:00
+author: agoston_laszlo
+excerpt: Remélem, ez a cikk milliomossá tesz majd pár embert. Van benne egy tuti tipp legalábbis. Magyarország az a hely, ahol se munkaerő nincs, se munkahely, mégis azt hazudják, hogy erősödünk. Olvasd el, mire gondolok és mi a javaslatom!
+categories: blog
+tags: [demokrácia, megbékélés]
+image: http://agostonlaszlo.hu/images/munkanelkuliseg.jpg
+lang: hu
+---
+Magyarország középtávon csődbe fog menni, ha nem teszünk semmit, akkora a munkaerőhiány. 
+Magyarország középtávon csődbe fog menni, ha nem teszünk semmit, akkora a munkanélküliség.
+
+Szerinted melyik mondat igaz? A helyes válasz: mindkettő. (Látszólag ellentmond egymásnak a kettő, pedig ez korántsem így van.)[http://index.hu/gazdasag/allas/2015/11/02/munkaero_mobilitas/]. 
+
+![](http://agostonlaszlo.hu/images/munkanelkuliseg.jpg)
+
+Mivel már így is nekem estek páran, hogy hazudok, most egy hosszabb sor forrás következik, aztán elmondom, mi miért van és mit lehetne tenni ellene.
+
+**Óriási a munkanélküliség**
+Tudom, a kormány azt hazudja, hogy szinte nincs is munkanélküliség ( (Orbán: "Aki akar, lényegében tud dolgozni)[http://24.hu/fn/gazdasag/2017/01/13/orban-viktor-aki-akar-lenyegeben-tud-dolgozni/]), de pár apróságot elfelejtenek: 
+1, ahhoz, hogy valaki statisztikailag munkanélkülinek számítson **regisztráltatnia kell magát** <br />
+2, a közmunkaprogram nem valódi munka, nem gyorsítja a gazdaságot, csak álcázott és feltételhez kötött segély, amivel remekül lehet a statisztikát kozmetikázni.<br />
+3, rengeteg magyar állampolgár dolgozik ingázva vagy átjelentkezés nélkül külföldön (ezek is javítják az itthoni számokat).
+
+(A Gazdasági Kutatóintézet Igazgatója is minimum másfélszeresére teszi a valódi munkanélküliek számát a statisztikákhoz képest([http://www.origo.hu/gazdasag/20160330-a-9-szazalekot-is-eleri-a-munkanelkuliseg-a-gki-szerint.html]. A folyamatosan hamisított statisztikák miatt nehéz a valóságról képet alkotni, de viszonlyag egyszerűen bizonyítható az állításom, ha elnézel mondjuk egy zsákfaluba vagy a keleti országrész szinte bármely településére, ahol gyakorlatilag senkinek nincs munkahelye. Akár akar, akár nem.
+
+![](http://agostonlaszlo.hu/images/koldus.jpg)
+
+**Óriási a munkaerőhiány**
+
+[Ezért nincs elég idénymunkás: a fákon maradhatnak a gyümölcsök?](https://www.penzcentrum.hu/karrier/ezert_nincs_eleg_idenymunkas_a_fakon_maradhatnak_a_gyumolcsok.1045650.html)<br />
+[Megrohanták a vásárlók az üzleteket, de nincs árufeltöltő](http://168ora.hu/megrohantak-vasarlok-az-uzleteket-de-nincs-arufeltolto/)<br />
+[Orvoshiány Magyarországon: ez már a kritikus stádium](http://hvg.hu/hetilap/2017.21/201721_betoltetlen_praxisok_afogaszok_kivonulnak_ajozsefvarosbol)<br />
+[Nővérhiány itthon: mélypont mélypont után](http://mandiner.hu/cikk/20170118_noverhiany_itthon_melypont_melypont_utan_munkaerohiany_riport)<br />
+[Bölcsészek állnak programozni, olyan nagy a hiány](http://eduline.hu/felnottkepzes/2016/9/12/Bolcseszek_allnak_programozni_oly_nagy_a_hi_4KTMI5)<br />
+[Tombol a munkaerőhiány, a boltláncok mindenhonnan beszippantják az embereket](http://24.hu/fn/gazdasag/2017/07/01/tombol-a-munkaerohiany-a-boltlancok-mindenhonnan-beszippantjak-az-embereket/)<br />
+[Már diákmunkásból is hiány van az országban](http://24.hu/fn/uzleti-tippek/2017/06/05/mar-diakmunkasbol-is-hiany-van-az-orszagban/)<br />
+[Rettegnek a főnökök és cégtulajdonosok: Nincs elég szakember - tudom, ez Blikk, de a KSH adatai alapján készült](http://www.blikk.hu/aktualis/belfold/rettegnek-a-fonokok-es-cegtulajdonosok-nincs-eleg-szakember/dshp09w)<br />
+(160 lakásos társasház építését kellett lefújni, mert nincs elég munkás)[http://hvg.hu/gazdasag/20170913_160_lakasos_tarsashaz_epiteset_kellett_lefujni_mert_nincs_eleg_munkas]<br />
+(Elbuktunk egy autógyárat, mert nincs elég munkás)[http://hvg.hu/gazdasag/20160804_Elbuktunk_egy_autogyarat_mert_nincs_eleg_munkas_varga_mihaly_interju_figyelo]<br />
+[Varga Mihály nagy bejelentése: „Vendégmunkások kellenek!”](http://valasz.hu/uzlet/varga-mihaly-nagy-bejelentese-vendegmunkasok-kellenek-120385)
+
+
+**A semmire sem jó munkaerő**
+
+Sokat hajtogattam már - mert szerintem ez Magyarország egyik rákfenéje -, hogy [a társadalom egynegyede funkcionális analfabéta](http://hvg.hu/itthon/20080908_funkcionalis_analfabetizmus_steklacs_iras). Képzetlen, írni-olvasni is alig, ha egyáltalán, tudó, sok esetben a munkához nem szokott, **munkaerőpiaci szempontból értéktelen milliók**. Kérlek ezt ne minősítésnek, értékítéletnek vedd, mert nem az. De ha valaki egy [árufeltöltő munkát se képes tisztességgel elvégezni](http://168ora.hu/megrohantak-vasarlok-az-uzleteket-de-nincs-arufeltolto/), mire lenne - munkaerőpiaci szempontból - alkalmas? Maximum gyümölcsöt szedni, de azt egész évben nem lehet és [gyakran inkább nem is választják](http://168ora.hu/megrohantak-vasarlok-az-uzleteket-de-nincs-arufeltolto/).
+
+![](http://agostonlaszlo.hu/images/monikashow.jpg)
+<center><em>Te kit alkalmaznál szívesen a cégedben a Mónika Show vendégei közül?</em></center>
+
+Nem választják, mert nincsen meg a munkakultúrájuk sem (és itt már nem csak a funkcionális analfabétákról beszélek). Időben odaérni valahova, a munkát minőségileg megfelelően elvégezni (lásd még: milyen munkát végeznek sokszor a mai "mesteremberek" egy lakásfelújítás során), adminisztrálni, megbízhatónak lenni (ismerősöm folyamatosan arra panaszkodik, hogy éjjel felmondanak neki és másnap már nem jönnek dolgozni, összetörik a céges kocsit, aztán eltűnnek stb.), horribile dictu az ügyféllel nem bunkónak lenni. Ilyen, erre képes ember egyre kevesebb van Magyarországon. Kérdezz meg gyakorlatilag bárkit a munkaadók közül!
+
+**A használható munkaerő fontért és euróért dolgozik**
+
+Már hentestől is hallottam, hogy (senki se marad itthon százötvenezerért gürizni)[https://www.vg.hu/gazdasag/ot-eve-nem-akart-ilyen-sok-magyar-fiatal-kulfoldon-dolgozni-487022/], ha ugyanazért a munkáért a többszörösét is megkaphatja egy olyan országban, ahol az emberek nem marják ki egymás szemét a politikában és van minőségi egészségügyi ellátás. És ez minden területen így van, orvostól szakmunkásig. Dániát például az ott élő magyarok hívják **a diplomás takarítók országának** - mert a magyar diplomás is inkább elmegy oda akár takarítani is. Ne felejtsük el a nyugati országrészből Ausztriába ingázókat sem... **Ezt hívják kontraszelekciónak**: a jók elmennek és a kevésbé jók maradnak. Tehát ami munkaerő még van Magyarországon, az is lefölözött, másod- és harmadosztályú a külföldre távozotthoz képest. *(Persze nagy különbségek vannak szakmák között, hiszen mondjuk egy pszichológus a nyelvi korlát miatt sokkal nehezebben praktizál külföldön, mint egy programozó.)*
+
+![](http://agostonlaszlo.hu/images/fiatalokeuropaban.jpg)
+<center><em>Kiürül Magyarország – a fiatalok kétharmada külföldön dolgozna</center></em>
+(Forrás)[http://hu.euronews.com/2016/01/13/kiurul-magyarorszag-a-fiatalok-ketharmada-kulfoldon-dolgozna]
+
+Mi a sok nóta vége? Hogy elfolyik a magyar gazdaság testéből az életadó vér és energia nyugatra (érthető okokból) és ha lekapcsol minket az Európai Unió a lélegeztetőgépről, egyszer csak meghalunk. Mert most is **segélyből él az ország**: ne gondold, hogy az "unortodox gazdaságpolitika" más](http://index.hu/gazdasag/2017/09/08/orban_unios_penz_gdp-novekedes/), mint a hosszútávú lehetőségeink felégetése a rövidtávú politikai célok érdekében. Ezért is óriási pofátlanság Brüsszelezni...
+
+**Mi a megoldás?**
+
+Oktatás. (Tudod, amit a birka szavazók képzése céljából tönkretesznek, de aminek a hatása generációkig velünk marad.) Nem csak iskolai, de **felnőttoktatás**. Átképzés. Ha az állam nem teszi meg - akinek a dolga lenne a mi befizetett adóforintjainkból - akkor a magánszektoré. Itt van például a [Green Fox Academy](https://www.greenfoxacademy.com/), ahol azt ígérik, hogy ha befizeted a tandíjat és elvégzed a programozó-képzésüket, segítenek munkahelyet találni utána. Óriási ötlet. Más szektorban másold le!
+
+![](http://agostonlaszlo.hu/images/felnottoktatas.jpg)
+<center><em>Tudod, a jó pap is...</em></center>
+
+**Itt a millió dolláros ötlet**: ha létrehozol olyan felnőttképzési intézményt, amely a rengeteg munkanélküliből (kínálat) minőségi munkaerőt farag az óriási munkaerőhiány közepén (kínálat), te eszetlen sok pénzt kereshetsz a közvetítői díjakból. Nem lesz könnyű, mert nehéz esetekkel fogsz dolgozni, de ha sikeres vagy, tárt karokkal várja a piac a termékedet. A stricik elmennek Szabolcsba és kiválasztják a legszebb lányokat prostinak Svájcba. **Te arra választhatsz ki embereket, hogy jobbá tedd az életüket**. Még csak intézményes keretek se kellenek. Mentorálj!
+
+**Nem találok munkát és nem vagyok fiatal már... mit tegyek?**
+
+Ne add fel! És főleg ne add fel az önképzést! Senkit se fog érdekelni, hány éves vagy, ha a tudásod megfelelő. Ha jól bánsz a számítógéppel, ha tudsz legalább angolul, ha elmélyedt ismereteid vannak a kérdéses szakmában. Meglehet, nem a hiányszakmák egyikében dolgoznál, így mindezek birtokában is nehezen helyezkedsz el - hiszen a rossz gazdasági helyzet miatt folyamarosan tűnnek el a cégek Magyarországról. De akkor még mindig ott az átképzés lehetősége. És ha ezt a cikket olvasod, **már meg van a lehetőséged erre**: az internet. 
+[Itt például tudsz ingyen nyelvet tanulni](https://hu.duolingo.com/). [Itt ingyen tudsz programozni tanulni.](https://www.w3schools.com/)
+Ha keresel, találsz...
+
+![](http://agostonlaszlo.hu/images/diego.jpg)
+<center><em>Diego Oliveira, aki fél lábbal lett a Riói Open bajnoka</em></center>
+
+Gondolj bele! Fél lábú emberek nyertek már jiu-jitsu versenyt, mert nem adták fel, és képesek voltak alkalmazkodni! Képesek voltak változni az időkkel együtt és megújulni. Te miért ne lennél képes? Te miért ne lennél képes?  Te miért ne lennél képes? 
+
+Te miért is ne lennél képes???
+
+**A fiataloknak**
+
+Tanulj, baszki! Engem is sokat cseszegettek, strébereztek, csúfoltak - azok, akik ma pont sokkal szarabbul élnek, mint én. Rövid távon nekik van igazuk. Hosszabb távon neked. Ezt a videót Színész Bobék cigányoknak készítették. De rád ugyanúgy vonatkozik: **a tudás hatalom, sohase szégyen!**.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m46y9dR7lLI?rel=0&amp;start=5" frameborder="0" allowfullscreen></iframe>
+
+**Összegzés**
+
+1, Sajnálom, ha ki kell ábrándítsalak, de **Magyarország nem erősödik**. Erősítik azok, akiket plakátkampányokkal támadunk, amíg még tart a segély.
+2, **Az oktatás lezüllesztése nem csak időleges kérdés**, hanem az unokáink generációja is szenvedni fog a mai hibák miatt. Ezt jegyezd meg!
+3, Ne hibáztasd azt a fiatalt, aki elmenekül innét. Igaza van. **Inkább azt támadd, aki miatt elmenekül...**
+4, Ha a mindenkori kormány nem akarja megoldani a felnőttoktatás kérdését, **alapíts rá te magad vállalkozást!** Építs fel embereket, tanítsd ki őket és keress rajta te is pénzt. Ez nem csak neked jó üzlet, az országnak is!
+5, Akárhány éves vagy, **képezd magad!** Az internet lehetőséget ad mindenre, főleg, ha tudsz angolul!
+
+Jó lenne, ha ezt minél többen megértenék.
