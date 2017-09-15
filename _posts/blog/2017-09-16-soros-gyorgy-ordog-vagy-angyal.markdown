@@ -31,7 +31,7 @@ Mit kellett volna tennie? Magányos tizennégy éves akcióhősként szembefordu
 ![](http://agostonlaszlo.hu/images/sorosgyorgy1.jpg)
 
 **II. vádpont - Société Générale**<br />
-"1988-ban Soros tudomást szerez róla, hogy egy befektető Société Générale nagybank ellenséges felvásárlására készül (ez a menedzsment hozzájárulása nélküli befolyásszerzést jelenti). Pár nappal később a Soros Fund 95 ezer SocGen-részvényt vásárol, majd haszonnal ad túl rajtuk. Miért baj ez? Mert nem nyilvános információ birtokában, a piacot megelőzve vásárolt. Tudta, hogy meg fogják venni a bankot, ezért részt vett belőle, hogy drágábban adhassa el. Ez tilos.
+1988-ban Soros tudomást szerez róla, hogy egy befektető Société Générale nagybank ellenséges felvásárlására készül (ez a menedzsment hozzájárulása nélküli befolyásszerzést jelenti). Pár nappal később a Soros Fund 95 ezer SocGen-részvényt vásárol, majd haszonnal ad túl rajtuk. Miért baj ez? Mert nem nyilvános információ birtokában, a piacot megelőzve vásárolt. Tudta, hogy meg fogják venni a bankot, ezért részt vett belőle, hogy drágábban adhassa el. Ez tilos.
 
 **Magyarázat**<br />
 Soros elismerte, hogy tudott a felvásárlási szándékról, de tagadta, hogy ezért vásárolt volna. Az ügy bonyolultságára jellemző, hogy 23 évvel a történtek után még mindig zajlott a per, ekkor már a strasbourgi Emberjogi Bíróságon, ahol alig vesztette el (4 bíró ellene, 3 mellette ítélt). Állítása szerint nem a büntetés, hanem a befektetői hírneve miatt vállalta a negyedszázados pereskedést.
@@ -88,7 +88,7 @@ A kétezres évek elején Soros számos kitüntetést kap a Magyar Államtól, �
 <center><em>Soros a kitüntetésével</em></center>
 
 **V. vádpont - az OTP megtámadása**<br />
-2008. október 9-én az OTP Bank részvényei 22%-ot esnek egy a kereskedés végén érkezett order következtében. Kiderült, hogy az OTP megtámadása mögött a Soros Fund Management állt, amely a tranzakcióval 675 ezer amerikai dollárt nyert. A tőkepiaci tevékenysége során megsértette a piacbefolyásolás tilalmára vonatkozó jogszabályi előírásokat, ami miatt a Pénzügyi Szervezetek Állami Felügyelete a nyereség 400 százalékának megfelelő bírságot szabott ki rá.
+2008.október 9-én az OTP Bank részvényei 22%-ot esnek egy a kereskedés végén érkezett order következtében. Kiderült, hogy az OTP megtámadása mögött a Soros Fund Management állt, amely a tranzakcióval 675 ezer amerikai dollárt nyert. A tőkepiaci tevékenysége során megsértette a piacbefolyásolás tilalmára vonatkozó jogszabályi előírásokat, ami miatt a Pénzügyi Szervezetek Állami Felügyelete a nyereség 400 százalékának megfelelő bírságot szabott ki rá.
 
 **Magyarázat**<br />
 Soros közleményében kijelentette, hogy nem ő adott megbízást az ügyletre, és sajnálja a történteket.
