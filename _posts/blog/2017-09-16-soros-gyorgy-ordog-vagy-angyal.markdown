@@ -111,4 +111,6 @@ A migrációval kapcsolatos ["Soros-tervnek"](http://index.hu/belfold/2017/09/08
 
 Köszönöm, ha idáig elolvastad. Nem vagyok Soros életrajzírója, elképzelhetőnek tartom, hogy van, amit kihagytam. Ha így lenne, az nem szándékos volt, igyekeztem a tőlem telhető legszélesebb források közül meríteni.
 
-kérlek, ha kommentelsz, tegyél három felkiáltójelet a mondanivalód elé. Vicces lesz látni, hogy ki az, aki csak a cím alapján szól majd hozzá és ki az, aki el is olvasta ;)
+![](http://agostonlaszlo.hu/images/felkialtojel.jpg)
+
+**Kérlek, ha majd kommentelsz, tegyél három felkiáltójelet a mondanivalód elé**. Vicces lesz látni, hogy ki az, aki csak a cím alapján szól majd hozzá és ki az, aki el is olvasta ;)
