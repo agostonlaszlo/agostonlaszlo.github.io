@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Soros - Ördög vagy angyal?
+title: Soros - ördög vagy angyal?
 date: 2017-09-14 09:00:18.000000000 +00:00
 author: agoston_laszlo
 excerpt: Nézzük végig tárgyilagosan, mit lehet tudni Magyarország jelenlegi legnagyobb ellenségéről - vagy pártfogójáról? Vádpontról vádpontra, források alapján!
