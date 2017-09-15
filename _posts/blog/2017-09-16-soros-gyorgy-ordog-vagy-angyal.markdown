@@ -96,9 +96,9 @@ Soros közleményében kijelentette, hogy nem ő adott megbízást az ügyletre,
 **Véleményem**<br />
 Ekkor már régen nem Soros ad-vesz a piacon (78 évesen nem is csoda). Elmondása szerint ő nem is lépett volna ilyet. A büntetést kifizeti, rosszul jár... nekem ez hitelesen hangzik.
 
-[Forrás1][https://hu.wikipedia.org/wiki/Soros_Gy%C3%B6rgy#cite_note-26] [Forrás2](http://index.hu/gazdasag/tozsde/2009/03/26/soros_allt_az_otp_oktoberi_megtamadasa_mogott) [Forrás3](http://www.origo.hu/gazdasag/hirek/20110728-soros-gyorgy-magyar-amerikai-milliardos-emlekezetes-uzleti-huzasai.html)
+[Forrás1](https://hu.wikipedia.org/wiki/Soros_Gy%C3%B6rgy#cite_note-26) [Forrás2](http://index.hu/gazdasag/tozsde/2009/03/26/soros_allt_az_otp_oktoberi_megtamadasa_mogott) [Forrás3](http://www.origo.hu/gazdasag/hirek/20110728-soros-gyorgy-magyar-amerikai-milliardos-emlekezetes-uzleti-huzasai.html)
 
-2010-ben (egymillió dollárt adományoz a vörösiszap-katasztrófa áldozatainak)(http://www.origo.hu/itthon/20101008-egymillio-dollart-ad-soros-gyorgy-alapitvanya-az-iszapkatasztrofa-aldozatainak.html] megsegítésére, miközben (a kormány ellopja a kárenyhítésre szánt civil adományokat)(http://nol.hu/belfold/20111130-einstandolt_adomanyok-1289823].
+2010-ben [egymillió dollárt adományoz a vörösiszap-katasztrófa áldozatainak](http://www.origo.hu/itthon/20101008-egymillio-dollart-ad-soros-gyorgy-alapitvanya-az-iszapkatasztrofa-aldozatainak.html) megsegítésére, **miközben [a kormány ellopja a kárenyhítésre szánt civil adományokat](http://nol.hu/belfold/20111130-einstandolt_adomanyok-1289823]**.
 
 ![](http://agostonlaszlo.hu/images/sorosgyorgy5.jpg)
 <center><em>2010-ben még úgy tűnik, nem tartották Sorost sátáni valutaspekulánsnak, az emberiség söpredékének (Fotó: Pelsőczy Csaba / Miniszterelnökség)</em></center>
@@ -107,7 +107,7 @@ Jó ha tudják azok, akik bőszen büdöszsidózzák, hogy 2011-ben megvádolja 
 
 Ezután, nyolcvan fölött, már kevésbé aktív, tudatosan visszább vonul. Magyarországi működése során összesen **[harmincmilliárd forint támogatást nyújtott hazánknak](http://www.origo.hu/gazdasag/hirek/20110728-soros-gyorgy-magyar-amerikai-milliardos-emlekezetes-uzleti-huzasai.html)**, mielőtt a kétezres évek közepén fokozatosan leépítette tevékenységét. 
 
-A migrációval kapcsolatos ("Soros-tervnek")[http://index.hu/belfold/2017/09/08/soros_terv_migracio_fidesz_kvotaper/] hamarosan külön cikket szentelek majd.
+A migrációval kapcsolatos ( "Soros-tervnek" )[http://index.hu/belfold/2017/09/08/soros_terv_migracio_fidesz_kvotaper/] hamarosan külön cikket szentelek majd.
 
 Köszönöm, ha idáig elolvastad. Nem vagyok Soros életrajzírója, elképzelhetőnek tartom, hogy van, amit kihagytam. Ha így lenne, az nem szándékos volt, igyekeztem a tőlem telhető legszélesebb források közül meríteni.
 
