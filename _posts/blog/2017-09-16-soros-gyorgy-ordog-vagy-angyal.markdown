@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Ördög vagy angyal?
+title: Soros - Ördög vagy angyal?
 date: 2017-09-14 09:00:18.000000000 +00:00
 author: agoston_laszlo
-excerpt: Nézzük végig tárgyilagosan, mit lehet tudni Magyarország jelenlegi legnagyobb ellenségéről - vagy pártfogójáról?
+excerpt: Nézzük végig tárgyilagosan, mit lehet tudni Magyarország jelenlegi legnagyobb ellenségéről - vagy pártfogójáról? Vádpontról vádpontra, források alapján!
 categories: blog
 tags: [demokrácia, megbékélés]
 image: http://agostonlaszlo.hu/images/elethosszigtartotanulas.jpg
 lang: hu
 ---
 
-Próbáltam minél hitelesebben és pártatlanabbul összeszedni. Fő vezérfonalam a (Wikipédia vonatkozó cikke volt)[https://hu.wikipedia.org/wiki/Soros_Gy%C3%B6rgy#cite_note-31].
+Próbáltam minél hitelesebben és pártatlanabbul összeszedni. Fő vezérfonalam a [Wikipédia vonatkozó cikke volt](https://hu.wikipedia.org/wiki/Soros_Gy%C3%B6rgy).
 
 Soros György 1930-ban született Budapesten.
 
@@ -21,7 +21,7 @@ Soros György 1930-ban született Budapesten.
 Később erre azt mondta, nem bántja, hogy így történt, mert nincsen személyes felelőssége a vagyonelkobzásokban - ahogyan haszna sem volt belőlük-, a túlélés érdekében szemlélődőként kísérte a tisztviselőt. 
 
 **Véleményem**
-Mit kellett volna tennie? Rambóként szembefordul a nyilasokkal? Az vesse rá az első követ, aki nem így tett volna.
+Mit kellett volna tennie? Magányos tizennégy éves akcióhősként szembefordul a nyilasokkal? Azt hiszem, ezek a fotelből nem felfogható életszituációk. Hála Istennek. És maradjon is így! Személyes véleményem, hogy nem ártott senkinek ezzel, az vesse rá az első követ, aki máshogy cselekedett volna...
 [Forrás](http://vigyazo.blog.hu/2017/01/11/dokumentum_soros_gyorgy_es_a_budapesti_deportalasok_interju_magyar_felirattal)
 
 1947-ben Angliába emigrál, ahol gazdasági végzettséget szerez. 
