@@ -6,7 +6,7 @@ author: agoston_laszlo
 excerpt: Nézzük végig tárgyilagosan, mit lehet tudni Magyarország jelenlegi legnagyobb ellenségéről - vagy pártfogójáról? Vádpontról vádpontra, források alapján!
 categories: blog
 tags: [demokrácia, megbékélés]
-image: http://agostonlaszlo.hu/images/elethosszigtartotanulas.jpg
+image: http://agostonlaszlo.hu/images/sorosgyorgy6.jpg
 lang: hu
 ---
 
@@ -107,6 +107,8 @@ Jó ha tudják azok, akik bőszen büdöszsidózzák, hogy 2011-ben megvádolja 
 
 Ezután, nyolcvan fölött, már kevésbé aktív, tudatosan visszább vonul. Magyarországi működése során összesen **[harmincmilliárd forint támogatást nyújtott hazánknak](http://www.origo.hu/gazdasag/hirek/20110728-soros-gyorgy-magyar-amerikai-milliardos-emlekezetes-uzleti-huzasai.html)**, mielőtt a kétezres évek közepén fokozatosan leépítette tevékenységét. 
 
-A migrációval kapcsolatos "Soros-tervnek" hamarosan külön cikket szentelek.
+A migrációval kapcsolatos ("Soros-tervnek")[http://index.hu/belfold/2017/09/08/soros_terv_migracio_fidesz_kvotaper/] hamarosan külön cikket szentelek majd.
 
-Köszönöm, ha idáig elolvastad, kérlek, ha kommentelsz, tegyél három felkiáltójelet a mondanivalód elé. Vicces lesz látni, hogy ki az, aki csak a cím alapján szól majd hozzá és ki az, aki el is olvasta ;)
+Köszönöm, ha idáig elolvastad. Nem vagyok Soros életrajzírója, elképzelhetőnek tartom, hogy van, amit kihagytam. Ha így lenne, az nem szándékos volt, igyekeztem a tőlem telhető legszélesebb források közül meríteni.
+
+kérlek, ha kommentelsz, tegyél három felkiáltójelet a mondanivalód elé. Vicces lesz látni, hogy ki az, aki csak a cím alapján szól majd hozzá és ki az, aki el is olvasta ;)
