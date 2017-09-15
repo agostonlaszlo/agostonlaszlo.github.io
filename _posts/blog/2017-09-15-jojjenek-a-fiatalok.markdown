@@ -32,7 +32,7 @@ Szóval bekerültem a Heti Hetesbe. Nagy dolog volt ez nekem, mert sok évvel ez
 
 Tudod mi lett? **Viccelődtek rajtam**, hogy miért tenor hangon beszélek az interjúban, ha bariton vagyok. Én meg ott álltam és néztem nagy szemekke Hajdú Stevet, ahogy **egy szar viccért elárul engem**. (Ehhez az is hozzátartozik, hogy a Zeneakadémián éveken keresztül kaptam meg kritikaként, hogy túl tenorális a hangom és különösen érzékeny vagyok már erre.) De tényleg? Valóban ezt a támogatást tudja nyújtani a neves színészekből álló baloldali kör? Mit várjunk az ellenségeinktől, ha a szövetségeseink ilyenek? (Ilyenkor finoman utalok a tegnap az [Amerikai Népszavában megjelent engem pocskondiázó cikkre is](http://nepszava.us/zsebesi-zsolt-a-szerecsenmosdato-agoston-laszlo/).)
 
-A régi visszahúzza az újat. Az [MSZP ugyanúgy beáll ütni a Momentumot](https://444.hu/2017/02/24/szanyi-tibor-szerint-a-fidesz-penzeli-a-momentum-mozgalmat-haris-evan-keresztul), mint a Fidesz, mert a status quoban érdekelt. Pont mint a munkás, aki kiüti a fiatal újonc kezéből az ásót, hogy ne látszon az ő hatékonysága miatt, mennyire szarik dolgozni a brigád.
+A régi visszahúzza az újat. Az [MSZP ugyanúgy beáll ütni a Momentumot](https://444.hu/2017/02/24/szanyi-tibor-szerint-a-fidesz-penzeli-a-momentum-mozgalmat-haris-evan-keresztul), mint a Fidesz, mert a status quoban érdekelt. Pont mint a munkás, aki kiüti a fiatal újonc kezéből az ásót, hogy ne látsszon az ő hatékonysága miatt, mennyire szarik dolgozni a brigád.
 
 A régi munkások nem fogják megváltoztatni ezt az országot. **A régi értelmiség, a régi politikusok, a régi szavazók már megmutatták mit tudnak és mire képesek.** Nem is értik az új idők szavát és már nem is alkalmasak.
 
