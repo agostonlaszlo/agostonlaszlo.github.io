@@ -107,7 +107,7 @@ Jó ha tudják azok, akik bőszen büdöszsidózzák, hogy 2011-ben megvádolja 
 
 Ezután, nyolcvan fölött, már kevésbé aktív, tudatosan visszább vonul. Magyarországi működése során összesen **[harmincmilliárd forint támogatást nyújtott hazánknak](http://www.origo.hu/gazdasag/hirek/20110728-soros-gyorgy-magyar-amerikai-milliardos-emlekezetes-uzleti-huzasai.html)**, mielőtt a kétezres évek közepén fokozatosan leépítette tevékenységét. 
 
-![](http://agostonlaszlo.hu/images/sorosgyorgy7.jpg
+![](http://agostonlaszlo.hu/images/sorosgyorgy7.jpg)
 
 Ennek a harminc év alatt [Magyarországra hozott pénznek közel a húsz százalékáért, 5,6 milliárd forintért](http://24.hu/belfold/2017/07/02/56-milliardot-plakatol-el-a-kormany-soros-ellen/) plakátolja tele az Orbán-kormány az országot a Soros-ellenes plakátokkal.
 
