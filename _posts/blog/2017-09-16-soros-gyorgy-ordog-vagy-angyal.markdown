@@ -117,4 +117,4 @@ Köszönöm, ha idáig elolvastad. Nem vagyok Soros életrajzírója, elképzelh
 
 ![](http://agostonlaszlo.hu/images/felkialtojel.jpg)
 
-**Kérlek, ha majd kommentelsz, tegyél három felkiáltójelet a mondanivalód elé** és ne áruld el senkinek, miért teszed. Vicces lesz látni, hogy ki az, aki csak a cím alapján szól majd hozzá és ki az, aki el is olvasta ;)
+**Kérlek, ha majd kommentelsz, tegyél három felkiáltójelet a mondanivalód elé** és ne áruld el senkinek, miért teszed. Vicces - és félek, egyben elszomorító - lesz látni, hogy hányan vannak, akik csak a cím alapján szólnak majd hozzá és ki az, aki el is olvasta ;)
