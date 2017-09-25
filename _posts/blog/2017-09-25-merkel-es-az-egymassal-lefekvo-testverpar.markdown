@@ -9,7 +9,7 @@ tags: [demokrácia, homoszexualitás, muszlim, megbékélés]
 image: http://www.bumm.sk/uploads/news/714/139714/merkel-nyerte-a-nemet-valasztasokat-de-abszolut-nem-lehet-boldog_139714.jpg
 lang: hu
 ---
-Vasárnap este - szándékosan - nagy vihart kavart egy posztom, amelyben a következő kérdést tettem fel:
+Vasárnap este - szándékosan - nagy vihart kavart [egy posztom](https://www.facebook.com/agostonlaszloartist/photos/a.561808153923287.1073741833.447410712029699/1242847295819366/?type=1&theater), amelyben a következő kérdést tettem fel:
 
 *"Egy testvérpár úgy dönt, ki akarja egymással próbálni a szexet. Minden létező módon védekeznének, gondolatkísérletünk szerint a teherbeesés esélye 0%, az eset egyszeri, sohasem ismételnék meg. Nem ártanak vele senkinek, de az egyik legnagyobb tabut döntögetik. Elfogadod vagy ellenzed? Miért?"*
 
