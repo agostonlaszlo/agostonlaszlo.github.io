@@ -50,19 +50,23 @@ Pozitív visszajelzést várunk és pontosan ezért is nehéz szembemenni a tren
 
 **4. Felületesség**
 
-Kipróbáltam már párszor, hogy a cikkeim végére megírom: aki idáig eljutott az olvasásban, a kommentjeibe tegyen három felkiáltójelet. Ijesztő, hogy aztán hányan kommenteltek úgy - főleg a Soros Györgyről írott, tehát forró témáról szóló cikkem alatt -, hogy nem olvasták végig vagy meg se nyitották az írást. Itt nekem nem volt szerencsém: az első keresésemre nem adott ki találatot arról, hogy hamis lenne a sztori. Pedig az esetek 99%-ában csak rá kell nézni a Googlere, rögtön ott a cáfolat, a második körben már azonnal rátaláltam a cáfolatra is [itt](http://www.snopes.com/cockroach-zimbabwe-x-ray/). Egyébként még azt is leírják, hogy a tüdőröntgen nem kevésbé híres személy, mint Marilyn Monroe milliók által vágyott mellkasát ábrázolja. Az eredetiben persze csótány nélkül. 
+Kipróbáltam már párszor, hogy a cikkeim végére megírom: aki idáig eljutott az olvasásban, a kommentjeibe tegyen három felkiáltójelet. Ijesztő, hogy aztán hányan kommenteltek úgy - főleg a [Soros Györgyről írott](http://agostonlaszlo.hu/blog/soros-gyorgy-ordog-vagy-angyal/), tehát forró témáról szóló cikkem alatt -, hogy nem olvasták végig vagy meg se nyitották az írást. Itt nekem nem volt szerencsém: az első keresésemre nem adott ki találatot arról, hogy hamis lenne a sztori. **Pedig az esetek 99%-ában csak rá kell nézni a Googlere**, rögtön ott a cáfolat, a második körben már azonnal rátaláltam a cáfolatra is [itt](http://www.snopes.com/cockroach-zimbabwe-x-ray/). Egyébként még azt is leírják, hogy a tüdőröntgen nem kevésbé híres személy, mint Marilyn Monroe milliók által vágyott mellkasát ábrázolja. Az eredetiben persze csótány nélkül. 
+
+Egyébként az ilyen fact-checkre tök jó, nagyon ajánlom a [Snopes.com](http://www.snopes.com)-ot.
 
 **5. A józan ész hiánya**
 
-Vagy használatának mellőzése. Csak próbáld meg beleélni magad egy percre: akármilyen hülye is vagy, tényleg eladod mindened, hitelt veszel fel (de hát mire, ha eladtad mindened?) és Indiába mész el kezeltetni magad (ami szintén nem a kórházairól híres), mert egyetlen röntgenképen egyetlen orvos talált valamit? Nincs egy barátod, aki szólna neked? Nincs a világon egyetlen ember, akinek feltűnne, hogy ez mekkora marhaság? 
+Vagy használatának mellőzése. **Csak próbáld meg beleélni magad egy percre**: akármilyen hülye is vagy, tényleg eladod mindened, hitelt veszel fel (de hát mire, ha eladtad mindened?) és Indiába mész el kezeltetni magad (ami szintén nem a kórházairól híres), mert egyetlen röntgenképen egyetlen orvos talált valamit? Nincs egy barátod, aki szólna neked? Nincs a világon egyetlen ember, akinek feltűnne, hogy ez mekkora marhaság? Maga a fent leírt folyamat is heteket, ha nem hónapokat vesz igénybe, ami bőségesen elég idő arra, hogy jobban átgondold vagy valaki segítsen...
 
-Maga a fent leírt folyamat is heteket, ha nem hónapokat vesz igénybe, ami bőségesen elég idő arra, hogy jobban átgondold vagy valaki segítsen...
+Csak gondold végig logikusan és belátod, hogy nem hihető. Egyszerűen értelmetlen. Pont annyira, mint az mondjuk, hogy Erzsébet királynő gyíkember és a föld alól jár fel embereket befolyásolni, akiknek a fején nincsen alusisak. Mert ilyet is hallottam. Élőben. Komolyan gondolva.
 
-És mégis, mindezekkel együtt vagy mindezek ellenére én magam is bele tudtam csúszni egy ilyenbe. Mit várjunk el akkor azoktól, akik 
+És mégis, mindezekkel együtt vagy mindezek ellenére én magam is bele tudtam csúszni egy ilyenbe. Mit várjunk el akkor azoktól, akik egyébként
 
 - nem tudnak angolul
 - az állami gyűlöletmédiát fogasztják
 - soha nem kaptak oktatást, ami a forráskritikát tanította volna, de
-- egész életükben feladatok elvégzésére voltak "befogva" kreativitás, alkotó munka helyett.
+- egész életükben feladatok elvégzésére voltak "befogva" kreativitás, alkotó munka helyett?
 
-A hülyeségemért az elnézéseteket kérem, de nekem mégis sokat ért ez az élmény. Úgy érzem, kitörte a magas ló egyik lábát és közelebb kerültem a megértéshez. És sokkal kevésbé ítélem el azokat, akik naponta esnek abba a hibába, amibe én ma reggel estem bele.
+A hülyeségemért az elnézéseteket kérem, de nekem mégis sokat ért ez az élmény. Úgy érzem, kitörte a magas ló egyik lábát és közelebb kerültem a megértéshez. 
+
+Sokkal kevésbé ítélem el azokat, akik naponta esnek abba a hibába, amibe én ma reggel estem bele.
