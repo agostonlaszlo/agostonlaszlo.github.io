@@ -19,11 +19,11 @@ Ez alapján elég jó képet kaphatunk arról, hogy az összes Soros-terves, mig
 
 **1. A megbízható forrás**
 
-A kép egy évekig Nigériában élt barátomtól származik, az ő idővonalán láttam meg a következő kommenttel: "Na ez igazán Nigéria!". Mivel Mark egyébként egy nemzetközi nagy cég középvezetője, aki utazásai során a fél világot bejárta és alapvetően szeretem és tisztelem őt, egyfajta ajánlásként hatott, hogy az ő neve alatt jelent meg a hír. Abban, hogy a szemmel láthatóan hiteltelen képet valóságnak hittem, nagy szerepet játszott a megosztó hitelességébe vetett hitem.
+A kép **egy évekig Nigériában élt barátomtól származik**, az ő idővonalán láttam meg a következő kommenttel: "Na ez igazán Nigéria!". Mivel Mark egyébként egy nemzetközi nagy cég középvezetője, aki utazásai során a fél világot bejárta és alapvetően szeretem és tisztelem őt, egyfajta **ajánlásként hatott**, hogy az ő neve alatt jelent meg. Abban, hogy a szemmel láthatóan hiteltelen képet valóságnak hittem, nagy szerepet játszott **a megosztó hitelességébe vetett hitem**.
 
 **2. Jól ráerősített az eredeti sztereotípiámra**
 
-Legyünk őszinték: számunkra Afrika még mindig *Az istenek a fejükre estek* és Sir David Attenborough természetfilmjeinek vadregényes helyszíne, ahol úgy képzeljük, hogy csak éhező gyerekek és egymást géppisztollyal kergető vademberek milliói élnek Kunta Kinte vezetésével. Ne is csodálkozzunk ezen, hiszen a moziban szinte kizárólag ez az Afrika jelenik meg. A mi fejünkben egyszerűen hihetetlen, hogy az alábbi képek is Nigéria fővárosában, Abujában és Lagosban készültek.
+Legyünk őszinték: számunkra Afrika még mindig *Az istenek a fejükre estek* és Sir David Attenborough természetfilmjeinek vadregényes helyszíne, ahol úgy képzeljük, hogy csak éhező gyerekek és egymást géppisztollyal kergető vademberek milliói élnek Kunta Kinte vezetésével. Ne is csodálkozzunk ezen, hiszen a moziban szinte kizárólag ez az Afrika jelenik meg. Legtöbbünk számára egyszerűen hihetetlen, hogy **az alábbi képek is Nigéria fővárosában, Abujában és Lagosban készültek**.
 
 ![](http://agostonlaszlo.hu/images/abuja.jpg)
 <center><i><a href="https://travel.jumia.com/blog/ng/5-solid-truths-about-living-in-abuja-3051" target="blank" >A kép forrása</a></i></center>
@@ -40,11 +40,13 @@ Legyünk őszinték: számunkra Afrika még mindig *Az istenek a fejükre estek*
 ![](http://agostonlaszlo.hu/images/lagos4.jpg)
 <center><i><a href="https://travel.jumia.com/blog/ng/5-solid-truths-about-living-in-abuja-3051" target="blank" >A kép forrása</a></i></center>
 
+És **mivel ráerősítenek a sztereotípánkra**, a saját véleményünket, eddigi tudásunkat megerősítve **minket is megerősítenek** ezek a videók, képek, cikkek - hamis, vagy csúsztatáson alapuló anyagok.
+
 **3. Jó a sztori**
 
-Szeretünk az ismerőseinkkel olyan történeteket megosztani, amelyeket mi érdekesnek, viccesnek vagy éppen fontosnak találtunk. Ezért mondjuk a vicceket, ezért osztjuk meg az élményeinket is. Egy-egy nagyotmondó, szenzációs migráns-történet vagy pár látványos kép meztelen férfiakról egy felvonuláson tud akkora impulzust kelteni, hogy beinduljon valakiben a megosztási reflex: "Ezt nézd meg!"
+Szeretünk az ismerőseinkkel olyan történeteket megosztani, amelyeket mi **érdekesnek, viccesnek vagy éppen fontosnak találtunk**. Ezért mondjuk a vicceket, ezért osztjuk meg az élményeinket is. Egy-egy nagyotmondó, szenzációs migráns-történet vagy pár látványos kép meztelen férfiakról egy felvonuláson tud akkora impulzust kelteni, hogy beinduljon valakiben a megosztási reflex: *"Ezt nézd meg!"*
 
-És mivel ráerősít a sztereotípánkra, a saját véleményünket, eddigi tudásunkat megerősítve minket is megerősítenek ezek a videók, képek, cikkek - hamis, vagy csúsztatáson alapuló anyagok.
+Pozitív visszajelzést várunk és pontosan ezért is nehéz szembemenni a trendekkel: mert mindenkinek fáj, megterhelő az anyázást hallgatni, ha nem azt mondjuk, amit a közegünk hallani szeretne. A **pozitív visszajelzés csábító** - és ezért sokan sokat képesek áldozni.
 
 **4. Felületesség**
 
