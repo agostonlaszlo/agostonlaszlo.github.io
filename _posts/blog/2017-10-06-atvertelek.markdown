@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Átvertelek
-date: 2017-09-25 8:00:18.000000000 +00:00
+date: 2017-10-06 8:00:18.000000000 +00:00
 author: agoston_laszlo
 excerpt: Miért osztanak meg rengetegen szabad szemmel is jól láthatóan hamis híreket? Hogy lehet valaki annyira eszetlenül hülye, hogy nem látja, hogy átverést tár az ismerősei / követői elé? Komolyan nem is értem... Idióták ezek? Nem. Legalábbis nem tartom magamat annak, pedig én is megtettem.
 categories: blog
