@@ -59,6 +59,6 @@ Tudod, nem attól lesz valaki igazi próféta, hogy megkövezik. Nem attól lesz
 
 1937 van. Ez a cikk is bekerül a rólam szóló jelentésbe. Ezt a cikket is csatolják majd egy aktához, amit egy orosz titkosügynök kidobott aktája helyére húz be majd egy eziscsakegymunkavalakinekeztiselkellvégeznie-ember. 
 
-Kádár nem halt meg. Rákosi él. Lehet, hogy holnap az én arcom lesz Sorosé helyén. Lehet, hogy a tiéd. Itt már bármi lehet. A Gép bárkit bedarál és nyomós indok se kell hozzá. És jövőre - akár csak 1937-ben - tapsolni fognak a milliók és hazaárulónak, a rendszer ellenségének neveznek majd téged és engem veled. Egyet tehetünk, próbáljunk meg nem haragudni rájuk.
+Kádár nem halt meg. Rákosi él. Lehet, hogy holnap az én arcom lesz Sorosé helyén. Lehet, hogy a tiéd. Itt már bármi lehet. **A Gép bárkit bedarál és nyomós indok se kell hozzá.** És jövőre - akár csak 1937-ben - tapsolni fognak a milliók és hazaárulónak, a rendszer ellenségének neveznek majd téged és engem veled. Egyet tehetünk, próbáljunk meg nem haragudni rájuk.
 
 Bocsássuk meg, mert nem tudják mit cselekszenek.
