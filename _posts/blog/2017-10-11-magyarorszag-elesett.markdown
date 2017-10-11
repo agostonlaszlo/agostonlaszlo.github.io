@@ -22,6 +22,8 @@ Ezen gondolkozom már nagyon régóta. És azon, hogy vajon mit tettem volna én
 
 1937 ma van. Aki értelmiségi teheti, elmenekül, testvér testvér ellen támad, a szabadság - egyenlőség - testvériség nevében kriptasötétbe vetett ordas eszmék pedig dörömbölnek a sírverem ajtaján: úgy hiszik, eljött a feltámadásuk ideje. A papok megáldják a szó-fegyvereket és a Parlamentben nevezik Isten ellenségeinek, a Sátán ügynökeinek a segíteni akarókat választott árulóink.
 
+<iframe src="https://www.youtube.com/embed/BqdQk4ETko4" frameborder="0" allowfullscreen></iframe>
+
 Meddig próbálsz ellenállni és mikor jön el az a pont, amikor meghajtod fejedet a Gép előtt? Amikor belátod, hogy 2018-ban ugyanez a kormány fog győzni, csak a mérték a kérdéses. Amikor belátod, [hogy az egypártrendszer szentháromságának ugyanúgy tagja az MSZP, mint a KDNP](http://24.hu/kozelet/2017/10/07/havas-szinjatek-volt-a-vita-molnar-a-fidesz-kottajabol-jatszott/) és hogy az européer Magyarországra - amelyben nincs mondjuk eleve elcsalva egy választás már a rendszer bevezetésekor -, amelybe '89 óta elvileg törekedtünk, egyszerűen nincs kereslet az ostobák, a megfélemlítettek és a kacagó hazaárulók között?
 
 *"Az nem lehet, hogy ész, erõ <br />
