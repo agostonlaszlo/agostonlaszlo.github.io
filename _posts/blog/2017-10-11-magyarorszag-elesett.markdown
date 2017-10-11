@@ -3,7 +3,7 @@ layout: post
 title: Magyarország elesett
 date: 2017-10-06 8:00:18.000000000 +00:00
 author: agoston_laszlo
-excerpt: 1937 van. Zsidó vagy a náci Németországban. Mit csinálsz? Mai fejjel azt mondod: menekülsz. De akkor ők miért nem menekültek el? 
+excerpt: 1937 van. Zsidó vagy a náci Németországban. Mit csinálsz? Mai fejjel azt mondod, menekülsz. De akkor ők miért nem menekültek el?
 categories: blog
 tags: [demokrácia, megbékélés]
 image: http://agostonlaszlo.hu/images/tepettzaszlo.jpg
