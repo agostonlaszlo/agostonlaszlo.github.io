@@ -3,7 +3,7 @@ layout: post
 title: Magyarország elesett
 date: 2017-10-06 8:00:18.000000000 +00:00
 author: agoston_laszlo
-excerpt: Miért osztanak meg rengetegen jól láthatóan hamis híreket? Hogy lehet valaki annyira hülye, hogy átverést tár az ismerősei elé? Komolyan nem is értem... Idióták ezek? Nem. Legalábbis nem tartom magamat annak, pedig én is megtettem.
+excerpt: 1937 van. Zsidó vagy a náci Németországban. Mit csinálsz? Mai fejjel azt mondod: menekülsz. De akkor ők miért nem menekültek el? 
 categories: blog
 tags: [demokrácia, megbékélés]
 image: http://agostonlaszlo.hu/images/tepettzaszlo.jpg
