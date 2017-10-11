@@ -6,7 +6,7 @@ author: agoston_laszlo
 excerpt: Miért osztanak meg rengetegen jól láthatóan hamis híreket? Hogy lehet valaki annyira hülye, hogy átverést tár az ismerősei elé? Komolyan nem is értem... Idióták ezek? Nem. Legalábbis nem tartom magamat annak, pedig én is megtettem.
 categories: blog
 tags: [demokrácia, megbékélés]
-image: http://agostonlaszlo.hu/images/rovar2.JPG
+image: http://agostonlaszlo.hu/images/tepettzaszlo.jpg
 lang: hu
 ---
 *"Az nem lehet, hogy annyi szív
@@ -18,7 +18,7 @@ Szakadt meg a honért."*
 
 Ezen gondolkozom már nagyon régóta. És azon, hogy vajon mit tettem volna én, ha 1937-ben értelmiségi vagyok és végig kell néznem, ahogy milliókat fanatizálnak ordas eszmékkel és ahogy testvér testvérnek támad, ahogy az egyház megáldja a fegyvereket és az emberek mosolyogva vagy fogat csikorgatva készülnek előidézni a romlást. Ellenálltam volna? És gázkamrában végzem? Vagy menekültem volna? Nem tudhatom.
 
-![](http://agostonlaszlo.hu/images/Chamberlain.jpg)
+![](http://agostonlaszlo.hu/images/tepettzaszlo.jpg)
 
 1937 ma van. Aki értelmiségi teheti, elmenekül, testvér testvér ellen támad, a szabadság - egyenlőség - testvériség nevében kriptasötétbe vetett ordas eszmék pedig dörömbölnek a sírverem ajtaján: úgy hiszik, eljött a feltámadásuk ideje. A papok megáldják a szó-fegyvereket és a Parlamentben nevezik Isten ellenségeinek, a Sátán ügynökeinek a segíteni akarókat választott árulóink.
 
@@ -31,7 +31,7 @@ Egy átoksúly alatt."
 
 A zsidó sem hitte 1937-ben, hogy létezik, létezhet az, aminek a jöttét senki sem akarta elhinni. Nem hitte el, hogy a szomszédja örömmel ül majd bele az ő elhagyott lakásába, miután marhavagonokba zsúfolták a gyerekeit. Azt gondolta mindig, hogy biztosan ez az üreg legmélye. Áltatta magát, mint ahogyan Chamberlain báró is hitt Hitlernek, amikor a meg nem támadási szerződést büszkén lobogtatva szállt le a hestoni repülőtéren 1938-ban, két évvel azelőtt, hogy Hitler porrá bombáztatta volna az országát.
 
-![](http://agostonlaszlo.hu/images/Chamberlain.jpg)
+![](http://agostonlaszlo.hu/images/megnemtamadasi.jpg)
 <center><i>Chamberlain báró a meg nem támadási megállapodással</i></center>
 
 Mondd, mit csinált Európa a Krím-félsziget annektálásakor? Nem ugyanazt, mint amikor Hitler az Anschlussal elfoglalta Ausztriát? 
@@ -49,8 +49,12 @@ Százezrek ajakán."
 
 Ez most erőszaktétel. Megerőszakolják a hazámat és nem tehetek semmit ellene. "Letörnek népet és hazát, bosszút állnak ifjon, s gyönge lányon." - de a Nagy Francia Forradalomnak is ugyan, mi lett a vége? Kivégzések és őrület... Fel kell nőnie az emberiségnek, fel kell nőnie a magyar embereknek ahhoz, hogy előre tudjunk lépni. Úgy tűnik, előbb át kell esnünk ezen az erőszaktételen. Mert megakadályozni - és ne áltasd magad! - nem tudjuk. "Ne ellenkezz, hamarabb túl leszel rajta!"
 
-Nem fogok ellenkezni. Hallom a kalapács-csattogást, de üresen hagyom a nekem készülő keresztet. Nem a kormányt, a népet kell leváltani. Mert nem a kormány, Magyarország rohad. A zsidókat sem Hitler és Göring zárta be a vagonba Auschwitz felé. Hanem a társadalom önzése és közönye. 
+Úgy tűnik, nem tudjuk felújítani a házat, porig kell égnie, hogy valami tisztát, jobbat húzhassunk egy nap a helyére. Át kell mennünk ezen és túl kell élnünk, hogy aztán megbánhassuk bűneinket, ahogyan a németek is tették.
 
-1937 van. Ez a cikk is bekerül a rólam szóló jelentésbe. Lehet, hogy holnap az én arcom lesz Soros helyén. Lehet, hogy a tiéd. A Gép bárkit bedarál és nyomós indok se kell hozzá. És jövőre - akár csak 1937-ben - tapsolni fognak a milliók. Ne haragudj rájuk.
+Ezért nem fogok ellenkezni. Hallom a kalapács-csattogást, de üresen hagyom a nekem készülő keresztet. Mert nem a kormányt, a népet kell leváltani. Mert nem a kormány, Magyarország rohad. A zsidókat sem Hitler és Göring zárta be a vagonba Auschwitz felé. Hanem a társadalom önzése és közönye. Lásd meg hát, Magyarország, milyen az étel, amit főztél! Mert nem fogod megérteni, amíg meg nem ízleled magad. 
 
-Bocsád meg, mert nem tudják mit cselekszenek.
+Tudod, nem attól lesz valaki igazi próféta, hogy megkövezik. Nem attól lesz valaki igazi forradalmár, hogy kivégzik. Nem attól lesz valaki igazi hadvezér, hogy a többiekkel veszik a csatában. Ők a hősök. Róluk tanulunk. De igazán annak a munkája ér valamit, aki be is tudja fejezni azt. Elkezdeni könnyű. Befejezni nehéz.
+
+1937 van. Ez a cikk is bekerül a rólam szóló jelentésbe. Ezt a cikket is csatolják majd egy aktához, amit egy orosz titkosügynök kidobott aktája helyére húz be majd valaki. Kádár nem halt meg. Rákosi él. Lehet, hogy holnap az én arcom lesz Sorosé helyén. Lehet, hogy a tiéd. Itt már bármi lehet. A Gép bárkit bedarál és nyomós indok se kell hozzá. És jövőre - akár csak 1937-ben - tapsolni fognak a milliók és hazaárulónak, a rendszer ellenségének neveznek majd téged és engem veled. Ne haragudjunk rájuk.
+
+Bocsássuk meg, mert nem tudják mit cselekszenek.
