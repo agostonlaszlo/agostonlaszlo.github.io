@@ -9,10 +9,10 @@ tags: [demokrácia, megbékélés]
 image: http://agostonlaszlo.hu/images/tepettzaszlo.jpg
 lang: hu
 ---
-*"Az nem lehet, hogy annyi szív
-Hiába onta vért,
-S keservben annyi hû kebel
-Szakadt meg a honért."* 
+*"Az nem lehet, hogy annyi szív <br />
+Hiába onta vért, <br />
+S keservben annyi hû kebel <br />
+Szakadt meg a honért."*  <br />
 
 1937 van. Zsidó vagy a náci Németországban. Mit csinálsz? Mai fejjel azt mondod: menekülsz. De akkor ők miért nem menekültek el? 
 
@@ -24,10 +24,10 @@ Ezen gondolkozom már nagyon régóta. És azon, hogy vajon mit tettem volna én
 
 Meddig próbálsz ellenállni és mikor jön el az a pont, amikor meghajtod fejedet a Gép előtt? Amikor belátod, hogy 2018-ban ugyanez a kormány fog győzni, csak a mérték a kérdéses. Amikor belátod, [hogy az egypártrendszer szentháromságának ugyanúgy tagja az MSZP, mint a KDNP](http://24.hu/kozelet/2017/10/07/havas-szinjatek-volt-a-vita-molnar-a-fidesz-kottajabol-jatszott/) és hogy az européer Magyarországra - amelyben nincs mondjuk eleve elcsalva egy választás már a rendszer bevezetésekor -, amelybe '89 óta elvileg törekedtünk, egyszerűen nincs kereslet az ostobák, a megfélemlítettek és a kacagó hazaárulók között?
 
-"Az nem lehet, hogy ész, erõ
-És oly szent akarat
-Hiába sorvadozzanak
-Egy átoksúly alatt."
+*"Az nem lehet, hogy ész, erõ <br />
+És oly szent akarat <br />
+Hiába sorvadozzanak <br />
+Egy átoksúly alatt."* <br />
 
 A zsidó sem hitte 1937-ben, hogy létezik, létezhet az, aminek a jöttét senki sem akarta elhinni. Nem hitte el, hogy a szomszédja örömmel ül majd bele az ő elhagyott lakásába, miután marhavagonokba zsúfolták a gyerekeit. Azt gondolta mindig, hogy biztosan ez az üreg legmélye. Áltatta magát, mint ahogyan Chamberlain báró is hitt Hitlernek, amikor a meg nem támadási szerződést büszkén lobogtatva szállt le a hestoni repülőtéren 1938-ban, két évvel azelőtt, hogy Hitler porrá bombáztatta volna az országát.
 
@@ -42,10 +42,10 @@ Nem érzed, mert lassan, napról napra, centiről centire törték el a gerincü
 
 Magyarország elesett. Évről évre csúszunk lefelé és a jövő évi választáson ki fog derülni, hogy a többség ezt akarja. Ha nem ezt akarja, akkor is ki fog derülni. Mert a maffiát a demokratikus eszközök sosem érdekélték és nem is engedik, hogy felálljon egy hiteles, valamire való ellenfél. Mindig az jut eszembe, hogy Bajnai Gordon milyen sietve távozott az országból és mennyire nincsen róla hír...
 
-"Még jõni kell, még jõni fog
-Egy jobb kor, mely után
-Buzgó imádság epedez
-Százezrek ajakán."
+*"Még jõni kell, még jõni fog <br />
+Egy jobb kor, mely után <br />
+Buzgó imádság epedez <br />
+Százezrek ajakán."* <br />
 
 Ez most erőszaktétel. Megerőszakolják a hazámat és nem tehetek semmit ellene. "Letörnek népet és hazát, bosszút állnak ifjon, s gyönge lányon." - de a Nagy Francia Forradalomnak is ugyan, mi lett a vége? Kivégzések és őrület... Fel kell nőnie az emberiségnek, fel kell nőnie a magyar embereknek ahhoz, hogy előre tudjunk lépni. Úgy tűnik, előbb át kell esnünk ezen az erőszaktételen. Mert megakadályozni - és ne áltasd magad! - nem tudjuk. "Ne ellenkezz, hamarabb túl leszel rajta!"
 
