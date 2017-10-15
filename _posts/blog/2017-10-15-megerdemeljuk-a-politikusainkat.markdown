@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Megérdemeljük a mindenkori politikusainkat
-date: 2017-10-06 8:00:18.000000000 +00:00
+date: 2017-10-15 8:00:18.000000000 +00:00
 author: agoston_laszlo
 excerpt: Magyarországon nincsen demokrácia. Vajon igény volna rá? Ha nincsen, mi Magyarország jövője? Mi hozhat változást? Nem látom pozitívan a helyzetet. Miért nem szeretném bántani Orbánt többé?
 categories: blog
@@ -11,7 +11,7 @@ lang: hu
 ---
 Magyarországon nincsen demokrácia - de igény volna rá? Szállj fel a vonatra és nézz szét: az utasok szerinted mennyire vágynak foglalkozni állampolgári kötelességükkel, a közügyekkel? Szerinted mennyire képesek és mennyire van lehetőségük a tájékozódásra, a nemzetközi kitekintésre, a politikai pártok párttalan, egyenlő vizsgálatára? 
 
-Ki akar itt demokráciiát, amikor lehet csendben káromkodni a kocsmában is? 
+Ki akar itt demokráciiát, amikor lehet csendben a kocsmában káromkodni is? 
 
 ![](http://agostonlaszlo.hu/images/kormanyvaltas.jpg)
 
@@ -23,26 +23,34 @@ Magyarországon nincsen demokrácia - de nincs is rá igény.
 
 <iframe src="https://player.vimeo.com/video/238252631" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-Még az ország immár 12. éve regnáló miniszterelnöke szerint is "veszekedős félázsiai származék a magyar", amely tulajdonképpen nem érdemli, mert nem igényli a demokráciát. Orbán és a Fidesz semmi egyebet nem csinál, mint az összes valóságshow és Éjjel-Nappal Butapest: **nem teremti, hanem kiszolgálja az igényeket**.
+Még az ország immár 12. éve regnáló miniszterelnöke szerint is "veszekedős félázsiai származék a magyar", amely tulajdonképpen nem érdemli, mert nem igényli a demokráciát. Orbán és a Fidesz semmi egyebet nem csinál, mint a legnézettebb tévéműsorok, az összes valóságshow és Éjjel-Nappal Butapest: **nem teremti, hanem kiszolgálja az igényeket**.
 
-Lehet azon vakarózni, hogy ez mennyire jó vagy rossz, de olyannyira tény, hogy bárki lépne a helyükre, pont ott folytatná, ahol ők abbahagyták. Ezt mind tudjuk, nem? Ja és ugye te sem gondolod, hogy csak úgy, egy nyavajás szavazással le lehetne mondatni a Fideszt, aki éppen a honvédő szerepében tetszeleg és aki arra kondícionálja a magyarokat, hogy mindenki más hazaáruló, ugye? 
+Lehet azon vakarózni, hogy ez mennyire jó vagy rossz, de olyannyira adottság, hogy **bárki lépne a helyükre, pont ott folytatná, ahol ők abbahagyták. Ezt mind tudjuk, nem?** Ja és ugye te sem gondolod, hogy csak úgy, egy nyavajás szavazással le lehetne mondatni a Fideszt, aki éppen a honvédő szerepében tetszeleg és aki arra kondícionálja a magyarokat, hogy mindenki más hazaáruló, ugye? 
 
-Bármennyire fájdalmas a szembenézés: nem a politikusaink csinálnak minket, hanem mi csináljuk a politikusainkat. Ők csak a tükör, amelyben a társadalom látja magát. Pont azon a színvonalon vannak, mint a választóik, akik szavaznak rájuk. Máskülönben miért is tenne valaki hitet egy nálánál hitványabb mellett?
+Bármennyire fájdalmas a szembenézés: **nem a politikusaink csinálnak minket, hanem mi csináljuk a politikusainkat.** Ők csak a tükör, amelyben a társadalom látja magát. Pont azon a színvonalon vannak, mint a választóik, akik szavaznak rájuk. Máskülönben miért is tenne valaki hitet egy nálánál hitványabb mellett?
 
 <iframe src="https://player.vimeo.com/video/238252998" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-És itt nem csak Orbánra és a Fideszre gondolok. Gondolok itt minden pártra kis hazánkban.
+És itt nem csak Orbánra és a Fideszre gondolok. **Gondolok itt minden pártra kis hazánkban.**
 
-Gyerekkorom óta beszélünk itt kormányváltásról és gyerekkorom óta mindig pofára esünk. Mert a tünetet akarjuk gyógyítani a betegség helyett. Mondhatod: de hát a Fidesz volt, aki elvadította az embereket! Miattuk lett gyűlölködő ennnyi ember, miattuk lett Őcsény meg a többi.
+Gyerekkorom óta beszélünk itt kormányváltásról és gyerekkorom óta mindig pofára esünk. Mert **a tünetet akarjuk gyógyítani a betegség helyett.** Mondhatod: de hát a Fidesz volt, aki elvadította az embereket! Miattuk lett gyűlölködő ennnyi ember, miattuk lett Őcsény meg a többi.
 
-Pedig nem. Ők csak felszínre hozták és meglovagolták a már meglévő ostobaságot, félelmet, felelősség-kerülést és xenofóbiát. Csak kiszolgáltak. A társadalomban meg nem lévő dolgot teremteni egyetlen párt sem képes. Az persze már más kérdés, hogy a vendégszeretet, a tehetség és a nyíltszívűség ugyanúgy része a magyarságnak, csak ez nem kap már rég óta teret.
+Pedig nem. Ők **csak felszínre hozták és meglovagolták** a már meglévő ostobaságot, félelmet, felelősség-kerülést és xenofóbiát. Csak kiszolgáltak. A társadalomban meg nem lévő dolgot teremteni egyetlen párt sem képes. Az persze már más kérdés, hogy a vendégszeretet, a tehetség és a nyíltszívűség ugyanúgy része a magyarságnak, csak ez nem kap már rég óta teret...
 
-Hogy mi a megoldás? Rossz hírem van és ne a hír hozójára haragudj meg ezért. Attól félek, Magyarországnak el kell érnie a legalját. Lehet - bár nagyon nem szeretném! -, hogy csőd és vérontás és összeomlás nélkül már nem tanul a magyar. Nekünk Mohács kell. Amikor majd a gyermeke szétloccsant agyvelejét mossa magáról az anya, lehet, hogy elkezd vágyódni a béke után. Amikor a nyugati országok hazaküldik a magyar menekülteket, hogy "harcoljanak otthon" és "ne akarják elfoglalni Európát", lehet, hogy megtanul együttérezni a magyar. Persze, tudom, ez velünk nem történhet meg... Majd jön az Eu és megvéd? Hogyan? Kiad két dörgedelmes állásfoglalást vagy lesz egy durva vitanap a Deutsch Tamás, Juncker és Farage nevével fémjelzett Európai Parlamentben?
+Hogy mi a megoldás? Egyrészt el kell engedni a politikát. Régi paradigma, ó szövet, nincs benne megoldás. **A népet kell nevelni** - akár olyan Facebook-videókkal, mint amelyekkel én is próbálom - és **nem ráharapni a folyamatosan felénk dobott gumicsontokra**. Megpróbálok én sem foglalkozni Orbánnal és a Fidesszel többé (remélem , sikerülni fog, mert nagy azért a kísértés), mert **aki eddig nem látta be**, hogy mondjuk a Soros-kampány kamu, **az vagy hülye vagy cinkos**. Egyikkel ezért, másikkal azért nincs miről beszélni.
 
-Kívánom, hogy így legyen? Nem. De nem látom egyelőre más esélyt. Szerinted milyen karmát gyárt most magának ez az ország?
+Igen, stadionok fognak még épülni. Igen, össze fog omlani a kórházrendszer, hogy mindenkit a fizetősbe tereljenek át. Igen, orosz titkosügynökök fognak szabadon garázdálkodni közöttünk. Ez így lesz. Hiába adsz neki energiát, csak belefásulsz, elfogysz és kiégsz. Sajnálom.
+
+Attól félek, **Magyarországnak el kell érnie a legalját**. Úgy tűnik, csőd, vérontás és összeomlás nélkül nem tanul a magyar. **Nekünk Mohács kell.**
+
+Amikor majd a gyermeke szétloccsant agyvelejét mossa magáról az anya, lehet, hogy elkezd vágyódni a béke után. Amikor a nyugati országok hazaküldik a magyar menekülteket, hogy *"harcoljanak otthon"* és *"ne akarják elfoglalni Európát"*, lehet, hogy megtanul együttérezni a magyar.Szerinted milyen karmát gyárt most magának ez az ország?
+
+Persze, tudom, ez velünk nem történhet meg... Majd jön az Eu és megvéd... Hogyan? Kiad két dörgedelmes állásfoglalást vagy lesz egy durva vitanap a Deutsch Tamás, Juncker és Farage nevével fémjelzett Európai Parlamentben?
+
+Kívánom, hogy így legyen? Nem. A legkevésbé sem. De nem látok egyelőre másra esélyt. Nem a politikusaink, hanem a szavazóik miatt.
 
 ![](http://agostonlaszlo.hu/images/plakatos.jpg)
 
-És végül, de nem utolsó sorban: nem akarok többet belekötni Orbán Viktorba és a pártjába. Próbálok nem is foglalkozni vele, remélem , sikerülni fog, mert nagy azért a kísértés... Tele vagyok jobbnál jobb ötletekkel, hogyan lehetne húzkodni az oroszlán bajszát - de vajon ér ez bármit is azon kívül, hogy pár ember szeretni fog, pár meg gyűlöl érte? Tud ez többről szólni, mitn rólam? Hiszen **aki eddig nem látta be**, hogy átverik, a szemébe hazudnak, aki szerint nem emberiesség elleni bűncselekmény, ami itthon történik,  aki szerint helyes döntés a stadion a kórház helyett és aki szerint Magyarországnak most olimpia meg Oroszország kell, aki nem látja, hogy a Soros-kampány kamu, **az vagy hülye vagy cinkos**. Egyikkel ezért, másikkal azért nincs miről beszélni.
+Terjeszd a jót és nagyon vigyázz magadra! **Már egy ideje dolgozom egy rendszeren, amellyel te is részt vehetsz a pozitív üzenetek terjesztésében** pont annyi energiával, amennyit te rászánni bírsz. De kitiltom ebből a rendszerből a direkt politikát. Felesleges energiapazarlás és csak veszélyt hozol a saját fejedre. Hamarosan jelentkezem majd ezzel.
 
-Ne haragudj a rossz hírért. Mit tanácsolok? **Vigyázz magadra! Add fel a naivitásod és készülj fel**, mert a repülés innentől rázós lesz. Ma a civilek, jövőre lehet, hogy az értelmiség jön. De a tarra égetett mezőn egy nap majd újra élet sarjad. **Őrizd meg magad akkorra**, mert egy nap kellenek még majd Magyarországra az (újjá)építő kezek.
+**Add fel a naivitásod és készülj fel**, mert a repülés innentől rázós lesz. Ma a civilek, jövőre lehet, hogy az értelmiség jön. Félek, nagy lesz a rombolás, de egy nap a tarra égett mezőn is új élet sarjad. **Őrizd meg magad akkorra**, kellenek majd még Magyarországra az (újjá)építő kezek!
