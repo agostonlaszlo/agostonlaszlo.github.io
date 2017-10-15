@@ -40,6 +40,7 @@ Pedig nem. Ők **csak felszínre hozták és meglovagolták** a már meglévő o
 Hogy mi a megoldás? Egyrészt el kell engedni a politikát. Régi paradigma, ó szövet, nincs benne megoldás. **A népet kell nevelni** - akár olyan Facebook-videókkal, mint amelyekkel én is próbálom - és **nem ráharapni a folyamatosan felénk dobott gumicsontokra**. Megpróbálok én sem foglalkozni Orbánnal és a Fidesszel többé (remélem , sikerülni fog, mert nagy azért a kísértés), mert **aki eddig nem látta be**, hogy mondjuk a Soros-kampány kamu, **az vagy hülye vagy cinkos**. Egyikkel ezért, másikkal azért nincs miről beszélni.
 
 ![](http://civilhetes.net/sites/default/files/kepek/71ybc72dq50wnydds_0.jpg)
+<center><i>Nem alkották, csak felszínre hozták...</i></center>
 
 Igen, stadionok fognak még épülni. Igen, össze fog omlani a kórházrendszer, hogy mindenkit a fizetősbe tereljenek át. Igen, orosz titkosügynökök fognak szabadon garázdálkodni közöttünk. Ez így lesz. Hiába adsz neki energiát, csak belefásulsz, elfogysz és kiégsz. Sajnálom.
 
