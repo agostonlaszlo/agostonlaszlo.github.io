@@ -39,17 +39,17 @@ Pedig nem. Ők **csak felszínre hozták és meglovagolták** a már meglévő o
 
 Hogy mi a megoldás? Egyrészt el kell engedni a politikát. Régi paradigma, ó szövet, nincs benne megoldás. **A népet kell nevelni** - akár olyan Facebook-videókkal, mint amelyekkel én is próbálom - és **nem ráharapni a folyamatosan felénk dobott gumicsontokra**. Megpróbálok én sem foglalkozni Orbánnal és a Fidesszel többé (remélem , sikerülni fog, mert nagy azért a kísértés), mert **aki eddig nem látta be**, hogy mondjuk a Soros-kampány kamu, **az vagy hülye vagy cinkos**. Egyikkel ezért, másikkal azért nincs miről beszélni.
 
+![](http://civilhetes.net/sites/default/files/kepek/71ybc72dq50wnydds_0.jpg)
+
 Igen, stadionok fognak még épülni. Igen, össze fog omlani a kórházrendszer, hogy mindenkit a fizetősbe tereljenek át. Igen, orosz titkosügynökök fognak szabadon garázdálkodni közöttünk. Ez így lesz. Hiába adsz neki energiát, csak belefásulsz, elfogysz és kiégsz. Sajnálom.
 
-Attól félek, **Magyarországnak el kell érnie a legalját**. Úgy tűnik, csőd, vérontás és összeomlás nélkül nem tanul a magyar. **Nekünk Mohács kell.**
+Attól félek, **Magyarországnak el kell érnie a legalját**. Úgy tűnik, csőd, vérontás és összeomlás nélkül nem tanul a magyar. **Nekünk Mohács kell.** Szerinted milyen karmát gyárt most magának ez az ország?
 
-Amikor majd a gyermeke szétloccsant agyvelejét mossa magáról az anya, lehet, hogy elkezd vágyódni a béke után. Amikor a nyugati országok hazaküldik a magyar menekülteket, hogy *"harcoljanak otthon"* és *"ne akarják elfoglalni Európát"*, lehet, hogy megtanul együttérezni a magyar.Szerinted milyen karmát gyárt most magának ez az ország?
+![](http://agostonlaszlo.hu/images/plakatos.jpg)
 
 Persze, tudom, ez velünk nem történhet meg... Majd jön az Eu és megvéd... Hogyan? Kiad két dörgedelmes állásfoglalást vagy lesz egy durva vitanap a Deutsch Tamás, Juncker és Farage nevével fémjelzett Európai Parlamentben?
 
-Kívánom, hogy így legyen? Nem. A legkevésbé sem. De nem látok egyelőre másra esélyt. Nem a politikusaink, hanem a szavazóik miatt.
-
-![](http://agostonlaszlo.hu/images/plakatos.jpg)
+**Kívánom, hogy így legyen? Nem.** A legkevésbé sem. De nem látok egyelőre másra esélyt. Nem a politikusaink, hanem a szavazóik miatt.
 
 Terjeszd a jót és nagyon vigyázz magadra! **Már egy ideje dolgozom egy rendszeren, amellyel te is részt vehetsz a pozitív üzenetek terjesztésében** pont annyi energiával, amennyit te rászánni bírsz. De kitiltom ebből a rendszerből a direkt politikát. Felesleges energiapazarlás és csak veszélyt hozol a saját fejedre. Hamarosan jelentkezem majd ezzel.
 
