@@ -9,7 +9,7 @@ tags: [demokrácia, megbékélés]
 image: http://agostonlaszlo.hu/images/plakatos.jpg
 lang: hu
 ---
-Magyarországon nincsen demokrácia - de igény volna rá? Szállj fel a vonatra és nézz szét: az utasok szerinted mennyire vágynak foglalkozni állampolgári kötelességükkel, a közügyekkel? Szerinted mennyire képesek és mennyire van lehetőségük a tájékozódásra, a nemzetközi kitekintésre, a politikai pártok párttalan, egyenlő vizsgálatára? 
+Magyarországon nincsen demokrácia - de vajon **igény volna rá?** Szállj fel a vonatra és nézz szét: az utasok szerinted mennyire vágynak foglalkozni állampolgári kötelességükkel, a közügyekkel? Szerinted mennyire képesek és mennyire van lehetőségük a tájékozódásra, a nemzetközi kitekintésre, a politikai pártok párttalan, egyenlő vizsgálatára? 
 
 Ki akar itt demokráciiát, amikor lehet csendben a kocsmában káromkodni is? 
 
