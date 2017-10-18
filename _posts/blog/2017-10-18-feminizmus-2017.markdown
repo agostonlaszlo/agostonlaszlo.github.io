@@ -3,7 +3,7 @@ layout: post
 title: Elég a férfigyűlöletből!
 date: 2017-10-15 8:00:18.000000000 +00:00
 author: agoston_laszlo
-excerpt: Kaptam már pofont, öntött már le nő nyilvános helyen úgy, hogy nem érdemeltem meg, de számára jó heccnek tűnt. mégis hazugnak, elnyomónak, nácinak, szexuális ragadózónak neveznek - mert férfi vagyok. Mert egyenlőség-pártiként és nem nőpártiként beszélek.
+excerpt: A nőknek is tenniük kell a férfiakért és el kell kezdenünk begyógyítani azokat a sebeket is, amiket a női erőszak okozott a férfiakon. Lehet, hogy ez nem szexuális vagy fizikai volt. De a lelki is ugyanannyira fáj. 
 categories: blog
 tags: [demokrácia, megbékélés]
 image: http://agostonlaszlo.hu/images/feminizmus.jpg
