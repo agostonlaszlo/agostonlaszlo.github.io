@@ -22,9 +22,9 @@ Tamás  kommentje (kiemelések tőlem):
 
 Drága Tamás és minden hasonlóan érvelő honfitársam!
 
-A stadionokban a tavalyi szezonban [2 704 fő](https://www.magyarfutball.hu/hu/merkozesek/bajnoki_merkozesek/nb_i/2016_2017/nezoszamok) volt az átlagos fordulónkénti nézőszám - de ezeket az adatokat is [rendesen kozmetikázzák]https://444.hu/2016/03/04/sokkal-kevesebben-jarnak-magyarorszagon-meccsre-mint-amit-a-klubok-hazudnak, sőt [hovatovább hamisítják](https://444.hu/2017/04/23/a-meccsen-ahol-ez-a-kep-keszult-hivatalosan-4854-nezo-volt).
+A stadionokban a tavalyi szezonban [2 704 fő](https://www.magyarfutball.hu/hu/merkozesek/bajnoki_merkozesek/nb_i/2016_2017/nezoszamok), ebben az évadban eddig [2798](https://www.magyarfutball.hu/hu/merkozesek/bajnoki_merkozesek/nb_i/2017_2018/nezoszamok) volt az átlagos fordulónkénti nézőszám - de ezeket az adatokat is [rendesen kozmetikázzák, sőt [hovatovább hamisítják](https://444.hu/2016/03/04/sokkal-kevesebben-jarnak-magyarorszagon-meccsre-mint-amit-a-klubok-hazudnak).
 
-A képen látható meccsen hivatalosan 4854 drukker váltott jegyet, a valóságban 4-500 fő volt kint.
+A képen látható meccsen például [hivatalosan 4854 drukker váltott jegyet, a valóságban 4-500 fő volt kint]((https://444.hu/2017/04/23/a-meccsen-ahol-ez-a-kep-keszult-hivatalosan-4854-nezo-volt)).
 
 ![](https://4cdn.hu/kraken/image/upload/s--Ci2QfTwr--/7076TutrruzPMgCRs.png)
 
