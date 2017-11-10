@@ -3,7 +3,7 @@ layout: post
 title: Miért nem kell több stadion? - válasz a szétlájkolt topkommentre Vujity Tvrtko posztja alatt
 date: 2017-11-11 8:00:18.000000000 +00:00
 author: agoston_laszlo
-excerpt: Ne védjük már minden áron az ostobaságot - attól még, hogy szimpatizálsz egy párttal, lehet eszed... 
+excerpt: Ne védjük már minden áron az ostobaságot - attól még, hogy szimpatizálsz egy párttal, lehetsz realista... 
 categories: blog
 tags: [demokrácia, megbékélés]
 image: http://agostonlaszlo.hu/images/feminizmus.jpg
