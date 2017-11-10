@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Elég a férfigyűlöletből! - is
-date: 2017-10-18 8:00:18.000000000 +00:00
+date: 2017-11-10 8:00:18.000000000 +00:00
 author: agoston_laszlo
 excerpt: A nőknek is tenniük kell a férfiakért és el kell kezdenünk begyógyítani azokat a sebeket is, amiket a női erőszak okozott a férfiakon. Lehet, hogy ez nem szexuális vagy fizikai volt. De a lelki is ugyanannyira fáj. 
 categories: blog
