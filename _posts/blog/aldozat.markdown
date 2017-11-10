@@ -1,0 +1,66 @@
+---
+layout: post
+title: Elég a férfigyűlöletből! - is
+date: 2017-10-18 8:00:18.000000000 +00:00
+author: agoston_laszlo
+excerpt: A nőknek is tenniük kell a férfiakért és el kell kezdenünk begyógyítani azokat a sebeket is, amiket a női erőszak okozott a férfiakon. Lehet, hogy ez nem szexuális vagy fizikai volt. De a lelki is ugyanannyira fáj. 
+categories: blog
+tags: [demokrácia, megbékélés]
+image: http://agostonlaszlo.hu/images/feminizmus.jpg
+lang: hu
+---
+**Fehér Gyűrű Közhasznú Egyesület**
+
+Bűncselekmények vétlen áldozatainak segítünk, iratlopásnál az összes irat pótlásánál segítünk, melyet INGYEN kaphatnak meg az áldozatok, valamint közlekedési balesetek vétlen halálos és 8. napon túli áldozatán is tudunk segíteni. Anyagi, jogi és pszichológusi segítségre számíthatnak a Fehér Gyűrűnél. Hangsúlyozom, hogy van 2 gyerekekkel foglalkozó pszichológusunk is. Országosan 23 iroda áll az áldozatok rendelkezésére.
+
+Elérhetőségek
+Személyesen: Budapest, 1055 Szent István körút 1.  (hétköznap 10-15. óra között)
+Telefonon: +36 1 3122287. 
+Honlap: [http://fehergyuru.eu](http://fehergyuru.eu)
+Számlaszám: 10200940-21512355. 
+
+**Amivel segíthetsz**: önkéntesség, pénzadomány
+---
+
+**Cilinder Alapítvány**
+
+Több száz cigány gyermeket tanítunk a VIII. kerületben és vannak tapasztalataink iskolai és családon belüli erőszak ügyekben. Olyan önkénteseket keresünk, akik vállalják a telefon ügyeletet napi 16 órában beosztva. A pénz arra kell pl., hogy visszahívják az illetőket, akiknek gyakran nincs kimenő hívásra lehetőségük és vissza kell őket hívni. Mi abban tudunk segíteni, hogy keresünk pszichológust és kapcsolatban vagyunk a gyámhatóság vezetőivel. Tudunk biztosítani krízis esetén átmeneti időre szállást is néhány fő számára. 
+
+Elérhetőségek
+Személyesen: 
+Telefonon: +36 1 3122287. 
+Honlap: [https://www.cilinderalapitvany.com](https://www.cilinderalapitvany.com)
+Számlaszám: ERSTE Bank RT 11600006-00000000-05630736 
+
+**Amivel segíthetsz**: önkéntesség, pénzadomány
+
+**Ifjúsági Lelki Elsősegély**
+
+Elsősorban ifjúsági, de bárki hívását fogadjuk, aki krízisben van, öngyilkossági gondolatokkal küzd, bántalmazás érte, vagy "csak" olyan gonddal, problémával, döntéshelyzettel küzd, amiben egy felkészült önkéntes segítő kérdéseivel támogatni tudja. Az Ifjúsági Lelki Elsősegély anonim szolgálat, nem szükséges bemutatkozni, semmilyen adatot elmondani, így olyan szorongató titkok elmondására is alkalmas következmények nélkül, melyek személyes kapcsolatokban nehezebben felvállalhatók.
+
+Elérhetőségek
+Személyesen: 
+Telefonon: 137-00 ingyenesen hívható hétköznapokon 17-21 óra között,
+Honlap: [Facebook-oldal](https://www.facebook.com/Ifjúsági-Lelki-Elsősegély-828456660531159/)
+Irodavezető Fügedi Orsolya és Oláh Szilvia. 
+Számlaszám: ERSTE Bank RT 11600006-00000000-05630736 
+
+**Amivel segíthetsz**: önkéntesség, pénzadomány
+
+**Telefonos Lelki Elsősegély Szolgálat Veszprém**
+
+2016-ban 8 018 hívást fogadott a veszprémi szolgálat, országos szinten ez több mint százezer hívást jelent. Veszprémben képzést hirdetünk, szeretnénk bővíteni a létszámot. [A felhívás innen tölthető le.](http://agostonlaszlo.hu/images/feminizmus.jpg)
+
+Elérhetőségek
+Telefonon: 116-123  (anonim, ingyenesen hívható 0-24)
+
+
+**Amivel segíthetsz**: önkéntesség, pénzadomány
+
+Holdtündér Segítői
+
+Lélekterapeuták vagyunk, egy pszichológus támogatásával kiegészülve. Segítő csoport, melynek fő témája a bántalmazás - legyen az lelki, fizikai vagy szexuális, párkapcsolaton / családon belül vagy azon kívül. Szükség esetén próbálunk segíteni a továbblépésben. Kapcsolattartás, segítség nyújtás a titkos Facebook csoportban, illetve akár négyszemközt skype-on. A virtuális világon túl lehetőség szerint csoporttalálkozókat is tervezünk majd. 
+
+
+Elérhetőségek:
+holdtundersegitoi@gmail.com
