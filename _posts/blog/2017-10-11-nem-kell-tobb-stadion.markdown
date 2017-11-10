@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Miért nem kell több stadion? - válasz a szétlájkolt topkommentre Vujity Tvrtko posztja alatt
-date: 2017-10-18 8:00:18.000000000 +00:00
+date: 2017-11-11 8:00:18.000000000 +00:00
 author: agoston_laszlo
-excerpt: A nőknek is tenniük kell a férfiakért és el kell kezdenünk begyógyítani azokat a sebeket is, amiket a női erőszak okozott a férfiakon. Lehet, hogy ez nem szexuális vagy fizikai volt. De a lelki is ugyanannyira fáj. 
+excerpt: Ne védjük már ostobasággal az ostobaságot... 
 categories: blog
 tags: [demokrácia, megbékélés]
 image: http://agostonlaszlo.hu/images/feminizmus.jpg
 lang: hu
 ---
-Talán sokan emlékeztem [Vujity Tvrtko írására, ami nagyon hamar virális lettG(https://www.facebook.com/vujitytvrtko/photos/a.523675771035274.1073741826.272564679479719/1500905689978939/?type=3&theater): - még az Andorra elleni vereség után írta le, hogy amíg az egészségügy és a többi romokban, nem kérünk több stadiont, ne fizessünk évi félmilliárdot egy kutyaütő válogatott edzőjének stb. Azóta nyilván megy az agyatlan anyázás az oldalán, ahogy az Magyarországon már szinte el is várható.
+Talán sokan emlékeztem [Vujity Tvrtko írására, ami nagyon hamar virális lett](https://www.facebook.com/vujitytvrtko/photos/a.523675771035274.1073741826.272564679479719/1500905689978939/?type=3&theater): - még az Andorra elleni vereség után írta le, hogy amíg az egészségügy és a többi romokban, nem kérünk több stadiont, ne fizessünk évi félmilliárdot egy kutyaütő válogatott edzőjének stb. Azóta nyilván megy az agyatlan anyázás az oldalán, ahogy az Magyarországon már szinte el is várható.
 
 ![](http://agostonlaszlo.hu/images/tvrtko.jpg)
 
