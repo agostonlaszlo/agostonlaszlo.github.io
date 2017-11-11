@@ -35,11 +35,11 @@ Nem, barátaim. **Ne legyünk életből felmentettek** vagy olyanok, mint amikor
 
 Azért bukott az elmúlt években sok helyen a bal oldali, liberális kormányzat, mert **nem hitték el nekik/nekünk, hogy tudunk változást, valódi haladást elérni**. Hogy is tudnánk, amikor gyors és hatásos cselekvés helyett próbálunk mindig mindenkinek megfelelni. Nem az a lényeg, hogy eljussunk A-ból B-be, hanem hogy közben senki ne bántódjon meg.
 
-Nézd meg a mai magyar baloldalt! Nem (csak) a Fidesz szalámizta szét - szétszalámizta az saját magát. Mert ódzkodunk az erős kéztől és mindent próbálunk rohadtul alternatívan látni. Tényleg nincsen annyi közös a mai baloldali pártokban, hogy alapot teremtsen az együttmáködésre? Tényleg ennyire különbözőek a programok? Vagy csak megy a hiszti. a szájkarate a haladás és a pragmatikus megoldások keresése helyett? 
+Nézd meg a mai magyar baloldalt! Nem (csak) a Fidesz szalámizta szét - **szétszalámizta az saját magát**. Mert ódzkodunk az erős kéztől és mindent próbálunk rohadtul alternatívan látni. **Tényleg nincsen annyi közös a mai baloldali pártokban, hogy alapot teremtsen az együttmáködésre?** Tényleg ennyire különbözőek a programok? Vagy csak megy a hiszti. a szájkarate a haladás és a pragmatikus megoldások keresése helyett? 
 
-Olyanok vagyunk, mint egy kupac tudós, aki nagyon ért a személyiségi jogokhoz, a filozófiához és az atomfizikához, de egy kiló parizert nem tud megvenni. 
+Olyanok vagyunk, mint egy kupac tudós, aki nagyon ért a személyiségi jogokhoz, a filozófiához és az atomfizikához - de egy kiló parizert nem tud megvenni. 
 
-Egy konferencián nem rég arról beszéltem, hogy a hajó elsüllyedni látszik, [a demkorácia megbukott](http://agostonlaszlo.hu/blog/a-demokracia-megbukott/), meg kell szülnünk az új paradigmát. A jelenlévők megbotránkoztak. Igaz, hogy a hajó süllyed, a víz már az orrunkig ér, de nem bukott meg a kedves eszme, csak nem működik. Inkább kutassuk és beszélgessünk róla tovább.
+Egy konferencián nem rég arról beszéltem, hogy **a hajó elsüllyedni látszik, [a demkorácia megbukott**](http://agostonlaszlo.hu/blog/a-demokracia-megbukott/), meg kell szülnünk az új paradigmát. A jelenlévők megbotránkoztak. Igaz, hogy a hajó süllyed, a víz már az orrunkig ér, de nem bukott meg a kedves eszme, csak nem működik. Inkább kutassuk és beszélgessünk róla tovább.
 
 
 **3, Kirekesztés**
