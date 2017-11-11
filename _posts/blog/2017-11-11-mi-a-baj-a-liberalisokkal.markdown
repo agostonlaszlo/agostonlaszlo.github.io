@@ -10,7 +10,6 @@ image: https://i1.wp.com/noticiasvenezuela.org/wp-content/uploads/2017/10/wide-j
 lang: hu
 ---
 
--
 Nem hiszem, hogy van ma Magyarországon, aki engem ne liberálisnak tekintene a blogom alapján - és ezt örömmel vállalom is. De nekem is megtelik időnként a cipőm a liberális nyavajgással és ha egy fél centivel távolabbról nézed, nem nehéz megérteni, miért unják sokan - közte sokszor magam is - a liberális mantrákat... Menő dolog kritizálni Trumpot, Orbánt, a jobb oldalt és az úgynevezett konzervatívokat - de némi önkritika azért nekünk is beleférhetne. 
 
 **1, Az eszme mindenek felett**
