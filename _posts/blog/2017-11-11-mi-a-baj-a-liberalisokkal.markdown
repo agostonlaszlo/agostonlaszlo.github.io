@@ -27,7 +27,7 @@ Nem, barátaim. **Ne legyünk életből felmentettek** vagy olyanok, mint amikor
 
 ![](http://agostonlaszlo.hu/images/drogoskomment.jpg)
 ![](http://agostonlaszlo.hu/images/drogoskomment2.jpg)
-<center><i>Úgy tűnik, nem inzulinproblémái voltak, akármennyire is pörögtek ezen sokan...</center></i>
+<center><i>Úgy tűnik, nem inzulinproblémái voltak, akármennyire is pörögtek ezen sokan...</i></center>
 
 
 **2, Töketlenség**
@@ -58,7 +58,7 @@ Igen, tanultam Vona Gábortól és **mégsem lettem Jobbikos**. Ahogyan tőletek
 Ez pedig a fentiből következik: annyira toleránsak vagyunk és annyira hiszünk a szép eszmékben, hogy **nekifutásból köpjük magunkat szemen, ha ezeket valaki bántja**. Fideszesnek lenni vallás? Igen az. És **liberálisnak lenni is az** ebben a szétpolarizált, hülye világban. 
 
 ![](http://agostonlaszlo.hu/images/kecs.jpg)
-<center><i>Vallás</center></i>
+<center><i>Vallás</i>/center>
 
 Mert képtelenek vagyunk tartani szintet: nem merek női témákról írni, mert rögtön jönnek a "nincsen p/nád, kussolj"-típusú kommentek. Ha valaki felveti, hogy a cigányok körében magasabb a bűnözési ráta, azonnal megkapja a "náci" címkét. Ha valaki konzervatív, rögtön ostoba, agymosott szemét is lesz.
 
