@@ -60,7 +60,7 @@ Ez pedig a fentiből következik: annyira toleránsak vagyunk és annyira hiszü
 ![](http://agostonlaszlo.hu/images/kecs.jpg)
 <center><i>Vallás</i></center>
 
-Mert képtelenek vagyunk tartani szintet: már nem merek női témákról írni, mert rögtön jönnek a "nincsen p/nád, kussolj"-típusú kommentek. Ha valaki felveti, hogy a cigányok körében magasabb a bűnözési ráta, azonnal megkapja a "náci" címkét. Ha valaki konzervatív, rögtön ostoba, agymosott szemét is lesz.
+Mert képtelenek vagyunk tartani szintet: már nem merek női témákról írni, mert rögtön jönnek a *nincsen p/nád, kussolj"*-típusú [SIC!] kommentek. Ha valaki felveti, hogy a cigányok körében magasabb a bűnözési ráta, azonnal megkapja a *"náci"* címkét. Ha valaki konzervatív, rögtön *ostoba, agymosott szemét* is lesz.
 
 Ez a gyűlölet. És nem érdekel, ki kezdte.
 
