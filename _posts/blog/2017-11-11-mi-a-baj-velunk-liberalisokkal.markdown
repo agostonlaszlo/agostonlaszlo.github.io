@@ -69,7 +69,7 @@ Mert képtelenek vagyunk tartani szintet: már nem merek női témákról írni,
 Ez a gyűlölet. És nem érdekel, ki kezdte.
 
 ![](http://agostonlaszlo.hu/images/nepszava.JPG)
-<center><i>Az Amerikai Népszava cikke, amelyben mindennek elmondanak, mert azt kértem az olvasóimtól, hogy nevezzenek meg egyetlen dolgot, amit Orbán jólcsinált 12 év alatt</i></center>
+<center><i>Az Amerikai Népszava cikke, amelyben mindennek elmondanak, mert azt kértem az olvasóimtól, hogy nevezzenek meg egyetlen dolgot, amit Orbán jól csinált 12 év alatt</i></center>
 
 
 **5, Elbeszélés mások feje fölött**
