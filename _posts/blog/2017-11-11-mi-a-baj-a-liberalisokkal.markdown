@@ -10,11 +10,11 @@ image: https://i1.wp.com/noticiasvenezuela.org/wp-content/uploads/2017/10/wide-j
 lang: hu
 ---
 
-Nem hiszem, hogy van ma Magyarországon, aki engem ne liberálisnak tekintene a blogom alapján - és ezt örömmel vállalom is. De nekem is megtelik időnként a cipőm a liberális nyavajgással és ha egy fél centivel távolabbról nézed, nem nehéz megérteni, miért unják sokan - közte sokszor magam is - a liberális mantrákat... Menő dolog kritizálni Trumpot, Orbánt, a jobb oldalt és az úgynevezett konzervatívokat - de némi önkritika azért nekünk is beleférhetne. 
+Nem hiszem, hogy van ma Magyarországon, aki engem ne liberálisnak tekintene a blogom alapján - és ezt örömmel vállalom is. De nekem is megtelik időnként a hócipőm a liberális nyavajgással és ha egy fél centivel távolabbról nézed, nem nehéz megérteni, miért unják sokan - közte sokszor magam is - a liberális mantrákat... Menő dolog kritizálni Trumpot, Orbánt, a jobb oldalt és az úgynevezett konzervatívokat - de némi önkritika azért nekünk is beleférhetne. 
 
 **1, Az eszme mindenek felett**
 
-Hiszek a szabadságban, a kisebbségek, a gyengék védelmében, a szabad piacban stb. de azért az mégis túlzás, hogy **semmilyen pragmatizmus nem szorult a liberális oldalba**. Csodálatos példa: pár napja kitettem egy - szerintem nagyon vicces - posztot arról, hogy egy srác nyilvános posztban panaszkodik, hogy elvesztette a Corvin-tetőn a hasitasiját, benne egy 80 ezer készpénzzel, egy nyomógombos telefonnal és egy kismérleggel. Ment a hülyéskedés, hogy mi lehet? Gyorsbecsüs? Fürjhentes?
+Hiszek a szabadságban, a kisebbségek, a gyengék védelmében, a szabad piacban stb. de azért az mégis túlzás, hogy **semmilyen pragmatizmus nem szorult a liberális oldalba**. Csodálatos példa: pár napja kitettem egy - szerintem nagyon vicces - posztot arról, hogy [egy srác nyilvánosan panaszkodik](https://www.facebook.com/agostonlaszloartist/posts/1277461212357974), hogy elvesztette a Corvin-tetőn a hasitasiját, benne egy 80 ezer készpénzzel, egy nyomógombos telefonnal és egy kismérleggel. Ment a hülyéskedés, hogy mi lehet? Gyorsbecsüs? Fürjhentes?
 
 Nyilván drogdíler volt. Aki 2017-ben **nyomógombos** (azaz kártyás, eldobható, nem beazonosítható) telefonnal, az állítása szerint a lakbérének megfelelő **készpénzzel** és egy (a drog kiporciózására szólgáló) **mikromérleggel** jár **szórakozóhelyre**, az elég egyértelmű, mit akar tenni.
 
