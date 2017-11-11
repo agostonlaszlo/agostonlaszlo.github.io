@@ -43,7 +43,7 @@ Olyanok vagyunk, mint egy kupac tudós, aki nagyon ért a személyiségi jogokho
 
 Egy konferencián nem rég arról beszéltem, hogy **a hajó elsüllyedni látszik**, [a demkorácia megbukott](http://agostonlaszlo.hu/blog/a-demokracia-megbukott/), meg kell szülnünk az új paradigmát. A jelenlévők megbotránkoztak. Igaz, hogy a hajó süllyed, a víz már az orrunkig ér, de nem bukott meg a kedves eszme, csak nem működik. Inkább kutassuk és beszélgessünk róla tovább.
 
-Ahogy egy barátom mondta, ha feltennénk 5 nagy liberális filozófust egy fa tetejére és csak akkor jöhetnének le, ha az alapvető kérdésekben közös nevezőre jutnának, vajon éhen ész szomjan halnának-e fent a fán?
+Ahogy egy barátom mondta, ha feltennénk 5 nagy liberális filozófust egy fa tetejére és csak akkor jöhetnének le, ha az alapvető irányokban közös nevezőre jutnának, vajon éhen és szomjan halnának-e fent a fán?
 
 
 **3, Kirekesztés**
