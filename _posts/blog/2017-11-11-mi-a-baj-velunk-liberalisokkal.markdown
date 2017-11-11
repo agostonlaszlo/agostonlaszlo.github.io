@@ -43,6 +43,8 @@ Olyanok vagyunk, mint egy kupac tudós, aki nagyon ért a személyiségi jogokho
 
 Egy konferencián nem rég arról beszéltem, hogy **a hajó elsüllyedni látszik**, [a demkorácia megbukott](http://agostonlaszlo.hu/blog/a-demokracia-megbukott/), meg kell szülnünk az új paradigmát. A jelenlévők megbotránkoztak. Igaz, hogy a hajó süllyed, a víz már az orrunkig ér, de nem bukott meg a kedves eszme, csak nem működik. Inkább kutassuk és beszélgessünk róla tovább.
 
+Ahogy egy barátom mondta, ha feltennénk 5 nagy liberális filozófust egy fa tetejére és csak akkor jöhetnének le, ha az alapvető kérdésekben közös nevezőre jutnának, vajon éhen ész szomjan halnának-e fent a fán?
+
 
 **3, Kirekesztés**
 --
@@ -62,9 +64,12 @@ Ez pedig a fentiből következik: annyira toleránsak vagyunk és annyira hiszü
 ![](http://agostonlaszlo.hu/images/kecs.jpg)
 <center><i>Vallás</i></center>
 
-Mert képtelenek vagyunk tartani szintet: már nem merek női témákról írni, mert rögtön jönnek a *nincsen p/nád, kussolj"*-típusú [SIC!] kommentek. Ha valaki felveti, hogy a cigányok körében magasabb a bűnözési ráta, azonnal megkapja a *"náci"* címkét. Ha valaki konzervatív, rögtön *ostoba, agymosott szemét* is lesz.
+Mert képtelenek vagyunk tartani szintet: már nem merek női témákról írni, mert rögtön jönnek a *nincsen p/nád, kussolj"*-típusú [SIC!] kommentek. Ha valaki felveti, hogy a cigányok körében magasabb a bűnözési ráta, azonnal megkapja a *"náci"* címkét. Ha valaki konzervatív, rögtön *ostoba, agymosott szemét* is lesz. 
 
 Ez a gyűlölet. És nem érdekel, ki kezdte.
+
+![](http://agostonlaszlo.hu/images/nepszava.JPG)
+<center><i>Az Amerikai Népszava cikke, amelyben mindennek elmondanak, mert azt kértem az olvasóimtól, hogy nevezzenek meg egyetlen dolgot, amit Orbán jólcsinált 12 év alatt</i></center>
 
 
 **5, Elbeszélés mások feje fölött**
