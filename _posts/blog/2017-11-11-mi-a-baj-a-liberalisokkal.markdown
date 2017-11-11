@@ -6,7 +6,7 @@ author: agoston_laszlo
 excerpt: Nekem is megtelik időnként a hócipőm a liberális mantrákkal és nem nehéz megérteni, miért. Menő dolog kritizálni Trumpot, Orbánt, a jobb oldalt és az úgynevezett konzervatívokat - de némi önkritika azért nekünk is beleférhetne. 
 categories: blog
 tags: [demokrácia, megbékélés]
-image: http://agostonlaszlo.hu/images/aldozatsegites.jpg
+image: https://i1.wp.com/noticiasvenezuela.org/wp-content/uploads/2017/10/wide-jp-29.jpg?fit=1200%2C675&ssl=1
 lang: hu
 ---
 
@@ -25,7 +25,10 @@ Nem, barátaim. **Ne legyünk életből felmentettek** vagy olyanok, mint amikor
 
 És ha nem hiszel nekem, higgy legalább magának a srácnak... 
 
-(Persze, hogy azt írja, vásárolni akart... te mit írnál...)
+![](http://agostonlaszlo.hu/images/drogoskomment.jpg)
+![](http://agostonlaszlo.hu/images/drogoskomment2.jpg)
+<center><i>Úgy tűnik, nem inzulinproblémái voltak, akármennyire is pörögtek ezen sokan...</center></i>
+
 
 **2, Töketlenség**
 --
@@ -38,19 +41,29 @@ Olyanok vagyunk, mint egy kupac tudós, aki nagyon ért a személyiségi jogokho
 
 Egy konferencián nem rég arról beszéltem, hogy a hajó elsüllyedni látszik, [a demkorácia megbukott](http://agostonlaszlo.hu/blog/a-demokracia-megbukott/), meg kell szülnünk az új paradigmát. A jelenlévők megbotránkoztak. Igaz, hogy a hajó süllyed, a víz már az orrunkig ér, de nem bukott meg a kedves eszme, csak nem működik. Inkább kutassuk és beszélgessünk róla tovább.
 
+
 **3, Kirekesztés**
 --
 
 Emlékeztek, micsoda kiborulás volt az oldalamon, amikor [leültem Vona Gáborral beszélgetni](http://agostonlaszlo.hu/blog/vona-gabor/)? Rögtön náci lettem és áruló. **Mennyivel vagyunk jobbak a deákné vásznánál, ha mi magunk is címkézünk és nem vagyunk hajlandóak a párbeszédre?** Ha csak a saját hangunkat akarjuk hall(g)atni a másikkal való érdemi eszmecsere helyett? Ha **csak meggyőzni akarunk, nem tanulni**.
 
-Igen, tanultam Vona Gábortól. Ahogyan tőletek is. Ahogyan mindenkitől az életben, akire odafigyeltem. Vagy csak a cigányokra, zsidókra és melegekre igaz, hogy **több, ami összeköt, mint ami elválaszt**?
+![](http://agostonlaszlo.hu/images/vonagabor.jpg)
+
+Igen, tanultam Vona Gábortól és **mégsem lettem Jobbikos**. Ahogyan tőletek is. Ahogyan mindenkitől az életben, akire odafigyeltem. Vagy csak a cigányokra, zsidókra és melegekre igaz, hogy **több, ami összeköt, mint ami elválaszt**?
+
 
 **4, Gyűlölködés**
 --
 
-Ez pedig a fentiből következik: annyira toleránsak vagyunk és annyira hiszünk a szép eszmékben, hogy **nekifutásból köpjük magunkat szemen, ha ezeket valaki bántja**. Fideszesnek lenni vallás? Igen az. És **liberálisnak lenni is az** ebben a szétpolarizált, hülye világban. Mert képtelenek vagyunk tartani szintet: nem merek női témákról írni, mert rögtön jönnek a "nincsen p/nád, kussolj"-típusú kommentek. Ha valaki felveti, hogy a cigányok körében magasabb a bűnözési ráta, azonnal megkapja a "náci" címkét. Ha valaki konzervatív, rögtön ostoba, agymosott szemét is lesz.
+Ez pedig a fentiből következik: annyira toleránsak vagyunk és annyira hiszünk a szép eszmékben, hogy **nekifutásból köpjük magunkat szemen, ha ezeket valaki bántja**. Fideszesnek lenni vallás? Igen az. És **liberálisnak lenni is az** ebben a szétpolarizált, hülye világban. 
+
+![](http://agostonlaszlo.hu/images/kecs.jpg)
+<center><i>Vallás</center></i>
+
+Mert képtelenek vagyunk tartani szintet: nem merek női témákról írni, mert rögtön jönnek a "nincsen p/nád, kussolj"-típusú kommentek. Ha valaki felveti, hogy a cigányok körében magasabb a bűnözési ráta, azonnal megkapja a "náci" címkét. Ha valaki konzervatív, rögtön ostoba, agymosott szemét is lesz.
 
 Ez a gyűlölet. És nem érdekel, ki kezdte.
+
 
 **5, Elbeszélés mások feje fölött**
 --
