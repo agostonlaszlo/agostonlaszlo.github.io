@@ -10,7 +10,7 @@ image: http://agostonlaszlo.hu/images/piszi.jpg
 lang: hu
 ---
 
-Nem hiszem, hogy van ma Magyarországon, aki engem ne liberálisnak tekintene a blogom alapján - és ezt örömmel vállalom is. De nekem is megtelik időnként a hócipőm a liberális nyavajgással és ha egy fél centivel távolabbról nézed, nem nehéz megérteni, miért unják sokan - közte sokszor magam is - a liberális mantrákat... Menő dolog kritizálni Trumpot, Orbánt, a jobb oldalt és az úgynevezett konzervatívokat - de némi önkritika azért nekünk is beleférhetne. 
+Nem hiszem, hogy van ma Magyarországon, aki engem ne liberálisnak tekintene a blogom alapján - és **ezt örömmel vállalom is**. De nekem is megtelik időnként a hócipőm a liberális nyavajgással és ha egy fél centivel távolabbról nézed, nem nehéz megérteni, miért unják sokan - közte sokszor magam is - a liberális mantrákat... Menő dolog kritizálni Trumpot, Orbánt, a jobb oldalt és az úgynevezett konzervatívokat - de **némi önkritika azért nekünk is beleférhetne**. 
 
 ![](http://agostonlaszlo.hu/images/piszi.jpg)
 
