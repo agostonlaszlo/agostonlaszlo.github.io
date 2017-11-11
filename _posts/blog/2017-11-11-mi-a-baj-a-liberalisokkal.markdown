@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mi a baj velünk, liberálisokkal
-date: 2017-11-10 8:00:18.000000000 +00:00
+date: 2017-11-11 8:00:18.000000000 +00:00
 author: agoston_laszlo
 excerpt: Nekem is megtelik időnként a hócipőm a liberális mantrákkal és nem nehéz megérteni, miért. Menő dolog kritizálni Trumpot, Orbánt, a jobb oldalt és az úgynevezett konzervatívokat - de némi önkritika azért nekünk is beleférhetne. 
 categories: blog
