@@ -58,9 +58,9 @@ Igen, tanultam Vona Gábortól és **mégsem lettem Jobbikos**. Ahogyan tőletek
 Ez pedig a fentiből következik: annyira toleránsak vagyunk és annyira hiszünk a szép eszmékben, hogy **nekifutásból köpjük magunkat szemen, ha ezeket valaki bántja**. Fideszesnek lenni vallás? Igen az. És **liberálisnak lenni is az** ebben a szétpolarizált, hülye világban. 
 
 ![](http://agostonlaszlo.hu/images/kecs.jpg)
-<center><i>Vallás</i>/center>
+<center><i>Vallás</i></center>
 
-Mert képtelenek vagyunk tartani szintet: nem merek női témákról írni, mert rögtön jönnek a "nincsen p/nád, kussolj"-típusú kommentek. Ha valaki felveti, hogy a cigányok körében magasabb a bűnözési ráta, azonnal megkapja a "náci" címkét. Ha valaki konzervatív, rögtön ostoba, agymosott szemét is lesz.
+Mert képtelenek vagyunk tartani szintet: már nem merek női témákról írni, mert rögtön jönnek a "nincsen p/nád, kussolj"-típusú kommentek. Ha valaki felveti, hogy a cigányok körében magasabb a bűnözési ráta, azonnal megkapja a "náci" címkét. Ha valaki konzervatív, rögtön ostoba, agymosott szemét is lesz.
 
 Ez a gyűlölet. És nem érdekel, ki kezdte.
 
