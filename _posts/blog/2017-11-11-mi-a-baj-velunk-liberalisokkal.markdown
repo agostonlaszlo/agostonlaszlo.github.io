@@ -6,7 +6,7 @@ author: agoston_laszlo
 excerpt: Nekem is megtelik időnként a hócipőm a liberális mantrákkal és nem nehéz megérteni, miért. Menő dolog kritizálni Trumpot, Orbánt, a jobb oldalt és az úgynevezett konzervatívokat - de némi önkritika azért nekünk is beleférhetne. 
 categories: blog
 tags: [demokrácia, megbékélés]
-image: http://agostonlaszlo.hu/images/polkorrekt.jpg
+image: http://agostonlaszlo.hu/images/liberalborito.jpg
 lang: hu
 ---
 
