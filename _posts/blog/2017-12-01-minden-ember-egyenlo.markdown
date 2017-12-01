@@ -21,7 +21,7 @@ A társadalom feladata nem az lenne, hogy **egy szinten kezelje az anyagyilkost 
 
 De mi következik mindebből? Az, hogy nem érhet ugyanannyit a szerény képességű Andriska és a csillogó elméjű Szilvi, az anyagyilkos és Teréz anya szava sem. Mint ahogy **a való életben**, egy megbeszélésen, egy családi asztalnál **sem ugyanazzal a súllyal esne latba a kettő**. Akkor miért ragaszkodunk mégis mindenáron a minden ember egyenlő - egy ember egy szavazat fényesen becsődölt elméletéhez? (Miért csődölt be? Mert [ahogy korábban is írtam](http://agostonlaszlo.hu/blog/a-demokracia-megbukott/): **nem a legjobb programot, hanem a leghangosabb senkiházit szavazza meg a nép**, aki a legtöbbet ígéri vagy a leghangosabban veri a mellét. Nézz szét a vesztébe rohanó demokráciákban Brexittől Trumpon át Magyarországig.) Miért hisszük, hogy egy ember attól értékes, hogy szavazata van? Ha ma, a minden ember egy szavazat világában elmész Borsodba azt látod, az ottani magyarok ugyanolyan fontosak a kormány számára, mint mondjuk a felcsútiak? Nem a szavazati jogon múlik...
 
-![](http://agostonlaszlo.hu/images/aranylift.jpg)
+![](http://agostonlaszlo.hu/images/lejtapalya.jpg)
 <center><i>A szavazati jog nem biztosíték semmire. Van, akiknek így is lejt a pálya.</i></center>
 
 Én abban hiszek, hogy **meg kell húzni egy határt**, amit ha valaki nem tud megugrani, nem szabad szavazni engedni. Mi ez a határ? Beszélhetünk róla, de például **analfabétáktól és alap matematikai, történelmi, földrajzi kérdéseket nem ismerőktől** hogyan várhatnánk el, hogy átlássanak **makroökonómiai, nemzetközi gazdasági vagy éppen szociálpolitikai kérdéseket**? Egy **elítélt bűnözőtől** is megkérdezzük, merre menjen a közös hajó? Egy **demens időstől**, aki egyszer akár nagy professzor is lehetett, de ma már nem tudja, melyik utcában lakik? Egy **narkós fiataltól**, aki azt se tudja, hány óra?
@@ -33,7 +33,7 @@ DE! És e nélkül értelmetlen minderről beszélni is: csak akkor húzhatunk v
 Látom, ahogy felhúzod a szemöldököd: szerinted egy éhes, PET-palackkal fűtő embernek **az a legnagyobb baja, hogy ilyeneket tanuljon**? Nem. Ő túlélni akar. De a saját túlélését segíti, ha nem arról szól egy kampány, hogy **pont őt akarják egy tál rizzsel vagy sorosozással behülyíteni**, hogy arra szavazzon, aki aztán a legkevésbé sem foglalkozik majd vele.
 
 ![](http://agostonlaszlo.hu/images/aranylift.jpg)
-<center><i>Az elmúlt évek két talán legsikeresebb politikusa a szegény embereket kérpviselő Trump az aranylift előtt és Nigel Farage, aki gyorsan [lemondott](http://index.hu/kulfold/2016/07/04/ujabb_fordulat_lemond_nigel_farage_a_ukip_vezetoje/), miután megszavazték a Brexitet. </i></center>
+<center><i>Az elmúlt évek két talán legsikeresebb politikusa a szegény embereket kérpviselő Trump az aranylift előtt és Nigel Farage, aki gyorsan lemondott, miután megszavazték a Brexitet. </i></center>
 
 **Miért elitizmus**, ha azt mondom, az válasszon kapitányt, aki megérti, **mitől repül a repülő**, aki nem hiszi, hogy **a Föld lapos** és akinek van rálátása a kérdésre? Miért járunk azzal jobban, ha egy rossz szándékú utas rövid távú hasznot remélve beszavaztatja magát a kapitányi székbe aztán a földbe csapja a repülőt, amin ülünk? 
 
