@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nem kell mindenkinek szavazni
+title: Kell-e mindenkinek szavazni?
 date: 2017-12-01 8:00:18.000000000 +00:00
 author: agoston_laszlo
 excerpt: Megpróbáltuk ezt a rendszert, ki is jöttek a hibái. Vagy változtatunk vagy abba az irányba megy tovább a világ, amitől mind félünk, de persze tenni nem merünk ellene... Olvasd végig és dönts magad!
