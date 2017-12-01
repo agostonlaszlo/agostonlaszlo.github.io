@@ -13,6 +13,8 @@ Nem igaz, hogy minden ember egyenlő. Ha így lenne, mind **ugyanannyi adót ké
 
 Minden ember egyenlőnek **születik**. Ez viszont tökéletes és megfellebbezhetetlen igazság, amivel bárki, aki vitatkozni mer, gazemberséget követ el. **Mindenkinek egyenlő lehetőségeket teremteni** és mindenkit egyenlő eséllyel indítani az élet nevű nagy versenyben - ez lenne a **demokrácia** célja. És idáig a dolog szép és jó is.
 
+![](http://agostonlaszlo.hu/images/csontvazak.jpg)
+
 Csakhogy a születés után kiderül, **ki milyen képességeket hozott**: ki lesz atomtudós és ki súlyemelő, kit érdekel jobban az irodalom és kinek nem megy a fejébe a fizika, ha pisztolyt szegeznek is a szívéhez. Ha elméletben kivesszük is a szülői és társadalmi környezet befolyásoló faktorát, még akkor is lesz bőven, aki **lustább vagy szorgalmasabb, intelligensebb vagy butább, törődőbb vagy önzőbb, gyorsabb vagy lassabb** - mert nem vagyunk ugyanolyanok. És ezért nem is vagyunk egyenlők.
 
 A társadalom feladata nem az lenne, hogy **egy szinten kezelje az anyagyilkost és Teréz anyát** vagy a jó szívű, kedves, de rendkívül szerény képességgel megáldott Andriskát és a csillogó elméjű Szilvit. Az egyenlő lehetőségek megteremtése lenne a cél, hogy mindenki ugyanonnan tudjon rajtolni és **senkit se vegyenek fel a szervezők motorral a futóverseny közepén**, legyen bár akár a miniszterelnök lánya az.
@@ -46,4 +48,4 @@ Teremtsük meg a lehetőséget, hogy a zsákfaluból is lehessen valaki atomfizi
 Nem kell mindenkinek részt vennie a közéletben, csak az szóljon bele, aki tudás és megértés birtokában van.
 Viszont mindenkinek legyen elérhető egy ingyenes és jól strukturált tananyag, hogy bárki, aki akar szavazni, tudás birtokában tegye azt.
 
-Tisztában vagyok vele, hogy mindez futurisztikus egy olyan országban, amelynek [csalásra épül a választási rendszereG(http://gepnarancs.hu/2013/08/torvenyes-a-valasztasi-csalas/). De először mindig az ideának kell megszületnie, kiforrnia és csak utána jöhet változás.
+Tisztában vagyok vele, hogy mindez futurisztikus egy olyan országban, amelynek [csalásra épül a választási rendszere](http://gepnarancs.hu/2013/08/torvenyes-a-valasztasi-csalas/). De először mindig az ideának kell megszületnie, kiforrnia és csak utána jöhet változás.
