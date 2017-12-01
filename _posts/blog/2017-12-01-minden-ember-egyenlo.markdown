@@ -3,7 +3,7 @@ layout: post
 title: Kell-e mindenkinek szavazni?
 date: 2017-12-01 8:00:18.000000000 +00:00
 author: agoston_laszlo
-excerpt: Megpróbáltuk ezt a rendszert, ki is jöttek a hibái. Vagy változtatunk vagy abba az irányba megy tovább a világ, amitől mind félünk, de persze tenni nem merünk ellene... Olvasd végig és dönts magad!
+excerpt: Minden ember egyenlőnek születik, de nem minden ember egyenlő. Ezt vagy elfogadjuk vagy tovább szépelgünk a pusztulás felé. Új szabályokat alkotunk vagy belehalunk a politikai korrektségbe?
 categories: blog
 tags: [demokrácia, megbékélés]
 image: http://agostonlaszlo.hu/images/csontvazak.jpg
