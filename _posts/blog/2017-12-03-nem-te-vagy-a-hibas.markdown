@@ -9,7 +9,7 @@ tags: [demokrácia, megbékélés, feminizmus]
 image: http://agostonlaszlo.hu/images/kislanykocsiban.jpg
 lang: hu
 ---
-**Az alábbiak szerzője természetesen nem én vagyok, hanem egy hosszú évek óta Svájban élő énekes ismerősöm, Kovách Anna. A kiemelések tőlem származnak. **
+**Az alábbiak szerzője természetesen nem én vagyok, hanem egy hosszú évek óta Svájban élő énekes ismerősöm, Kovách Anna. A kiemelések tőlem származnak.**
 
 "Már egy jó ideje pörög ez a szexuális zaklatás téma. Úgy gondoltam én inkább kimaradok belőle, értetlenül nézem hogy most ekkora feneket kerítenek neki, mintha bárkit is meglepne ez. Álszent az egész ahogy most lehozzák a médiában és mindenki nyilatkozik hogy elítéli és hogy húúú hát ilyen megtörténhetet...
 
