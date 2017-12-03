@@ -6,7 +6,7 @@ author: agoston_laszlo
 excerpt: Azt sem értem, Svájcban miért tudok felvenni bármit amit csak akarok, míg otthon lógnak ki a pasik a kocsiból mikor elhajtanak mellettem. Otthon takargatnom kell magam, vagy fel kell készülnöm a harcra, hogy bármikor visszaszólhassak, esetleg fizikailag is megvédjem a testemet. 
 categories: blog
 tags: [demokrácia, megbékélés, feminizmus]
-image: http://agostonlaszlo.hu/images/kislanykocsiban.jpg
+image: http://agostonlaszlo.hu/images/kislanyakocsiban.jpg
 lang: hu
 ---
 **Az alábbiak szerzője természetesen nem én vagyok, hanem egy hosszú évek óta Svájban élő énekes ismerősöm, Kovách Anna. A kiemelések tőlem származnak.**
@@ -14,7 +14,7 @@ lang: hu
 "Már egy jó ideje pörög ez a szexuális zaklatás téma. Úgy gondoltam én inkább kimaradok belőle, értetlenül nézem hogy most ekkora feneket kerítenek neki, mintha bárkit is meglepne ez. Álszent az egész ahogy most lehozzák a médiában és mindenki nyilatkozik hogy elítéli és hogy húúú hát ilyen megtörténhetet...
 
 
-![](http://agostonlaszlo.hu/images/kislanykocsiban.jpg)
+![](http://agostonlaszlo.hu/images/kislanyakocsiban.jpg)
 <center><i> A kép illusztráció</i></center>
 
 Pár napja egy olyan fiatal nő nyilatkozott aki számomra nem ismeretlen embereket direkt nem megnevezve vádolt zaklatással. És akkor jött a felismerés. Egyértelmű volt kikről van szó, habár én „megúsztam” a dolgot, rá kellett jönnöm hogy gyerekként (én akkor voltam 11 éves) bizony fogalmam sem volt hogy mi folyik ott, miért hívtak el fagyizni, miért érdeklődtek a családom után annyira és volt mégis olyan fura érzésem.
