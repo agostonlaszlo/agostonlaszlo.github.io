@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Magyarország elesett
-date: 2017-10-06 8:00:18.000000000 +00:00
+date: 2017-10-11 8:00:18.000000000 +00:00
 author: agoston_laszlo
 excerpt: 1937 van. Zsidó vagy a náci Németországban. Mit csinálsz? Mai fejjel azt mondod, menekülsz. De akkor ők miért nem menekültek el?
 categories: blog
@@ -11,7 +11,7 @@ lang: hu
 ---
 *"Az nem lehet, hogy annyi szív <br />
 Hiába onta vért, <br />
-S keservben annyi hû kebel <br />
+S keservben annyi hű kebel <br />
 Szakadt meg a honért."*  <br />
 
 1937 van. Zsidó vagy a náci Németországban. Mit csinálsz? Mai fejjel azt mondod: menekülsz. De akkor ők miért nem menekültek el? 
@@ -26,7 +26,7 @@ Ezen gondolkozom már nagyon régóta. És azon, hogy vajon mit tettem volna én
 
 **Meddig próbálsz ellenállni és mikor jön el az a pont, amikor meghajtod fejedet a Gép előtt?** Amikor belátod, hogy 2018-ban ugyanez a kormány fog győzni, csak a mérték a kérdéses. Amikor belátod, [hogy az egypártrendszer szentháromságának ugyanúgy tagja az MSZP, mint a KDNP](http://24.hu/kozelet/2017/10/07/havas-szinjatek-volt-a-vita-molnar-a-fidesz-kottajabol-jatszott/) és hogy az européer Magyarországra - amelyben nincs mondjuk eleve elcsalva egy választás már a rendszer bevezetésekor -, amelybe '89 óta elvileg törekedtünk, egyszerűen nincs kereslet az ostobák, a megfélemlítettek és a kacagó hazaárulók között?
 
-*"Az nem lehet, hogy ész, erõ <br />
+*"Az nem lehet, hogy ész, erő <br />
 És oly szent akarat <br />
 Hiába sorvadozzanak <br />
 Egy átoksúly alatt."* <br />
@@ -42,14 +42,14 @@ Mondd, mit csinált Európa a Krím-félsziget annektálásakor? Nem ugyanazt, m
 
 Nem érzed, mert lassan, **napról napra, centiről centire törték el a gerincünket.** Már nem is emlékszel, milyen volt külföldön büszkeséggel magyarnak lenni. És milyen volt legutóbb - ha volt ilyen egyáltalán - Magyarországon hinni a jövőben. Hittel szavazni. Bízni a másikban és elsősorban embernek lenni.
 
-Magyarország elesett. Évről évre csúszunk lefelé és a jövő évi választáson ki fog derülni, hogy a többség ezt akarja. Ha nem ezt akarja, akkor is ki fog derülni. Mert a maffiát a demokratikus eszközök sosem érdekélték és nem is engedik, hogy felálljon egy hiteles, valamire való ellenfél. Mindig az jut eszembe, hogy **Bajnai Gordon milyen sietve távozott az országból és mennyire nincsen róla hír...
+Magyarország elesett. Évről évre csúszunk lefelé és a jövő évi választáson ki fog derülni, hogy a többség ezt akarja. Ha nem ezt akarja, akkor is ki fog derülni. Mert a maffiát a demokratikus eszközök sosem érdekélték és nem is engedik, hogy felálljon egy hiteles, valamire való ellenfél. Mindig az jut eszembe, hogy **Bajnai Gordon milyen sietve távozott az országból és mennyire nincsen róla hír...**
 
-*"Még jõni kell, még jõni fog <br />
+*"Még jőni kell, még jőni fog <br />
 Egy jobb kor, mely után <br />
 Buzgó imádság epedez <br />
 Százezrek ajakán."* <br />
 
-Ez most erőszaktétel. **Megerőszakolják a hazámat és nem tehetek semmit ellene.** *"Letörnek népet és hazát, bosszút állnak ifjon, s gyönge lányon."* - de a Nagy Francia Forradalomnak is ugyan, mi lett a vége? Kivégzések és őrület... Az emberiségnek kell felnőnie és a magyar embereknek ahhoz, hogy előre tudjunk lépni. Úgy tűnik, előbb át kell esnünk ezen az erőszaktételen. Mert megakadályozni - és ne áltasd magad! - nem tudjuk. "Ne ellenkezz, hamarabb túl leszel rajta!"
+Ez most erőszaktétel. **Megerőszakolják a hazámat és nem tehetek semmit ellene.** *"Letörnek népet és hazát, bosszút állnak ifjon, s gyönge lányon."* - de a Nagy Francia Forradalomnak is ugyan, mi lett a vége? Kivégzések és őrület... Az emberiségnek kell felnőnie és a magyar embereknek ahhoz, hogy előre tudjunk lépni. Úgy tűnik, előbb át kell esnünk ezen az erőszaktételen. Mert megakadályozni - és ne áltasd magad! - nem tudjuk. *"Ne ellenkezz, hamarabb túl leszel rajta!"*
 
 Úgy tűnik, nem tudjuk felújítani a házat, **porig kell égnie, hogy valami tisztát, jobbat húzhassunk egy nap a helyére**. Át kell mennünk ezen és túl kell élnünk, hogy aztán megbánhassuk bűneinket, ahogyan a németek is tették.
 
