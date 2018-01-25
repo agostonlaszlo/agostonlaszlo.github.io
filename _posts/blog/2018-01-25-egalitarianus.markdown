@@ -9,7 +9,7 @@ tags: [megbékélés, feminizmus]
 image: http://agostonlaszlo.hu/images/jamesbond.JPG
 lang: hu
 ---
-Bevallom, nem értek ezzel egyet. A nőknek **nem a férfiak helyett**, hanem **a férfiakkal együtt** kell egyenlőségben lenniük. Nem az a megoldás, hogy átírjuk a mítoszainkat, leforgatjuk négy nővel a Szellemírtók 2-t (megtörtént), és nővé tesszük James Bondot, hanem hogy megteremtjük az ezzel párhuzamos női mítoszt. Ennek jött el ma az ideje: hogy újraértelmezzük a nők szerepét, megszülessenek azok az idolok és példaképek, akik nem csak a szépségükkel vagy a hűségükkel, hanem az eszükkel, a lelki erejükkel és hasonló kiválóságaikkal válnak követendővé.
+Bevallom, nem értek ezzel egyet. A nőknek **nem a férfiak helyett**, hanem **a férfiakkal együtt** kell egyenlőségben lenniük. Nem az a megoldás, hogy átírjuk a mítoszainkat, leforgatjuk négy nővel a Szellemírtók 2-t (megtörtént), és nővé tesszük James Bondot, hanem hogy **megteremtjük az ezzel párhuzamos női mítoszt**. Ennek jött el ma az ideje: hogy **újraértelmezzük a nők szerepét**, megszülessenek azok az idolok és példaképek, akik nem csak a szépségükkel vagy a hűségükkel, hanem **az eszükkel, a lelki erejükkel és hasonló kiválóságaikkal válnak követendővé**.
 
 ![](http://agostonlaszlo.hu/images/jamesbond.JPG)
 
