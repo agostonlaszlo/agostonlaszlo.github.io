@@ -33,6 +33,6 @@ Az áldozat szerepéről beszélni **előre érdemes és szabad és kell**: hogy
 
 Idáig lefelé nyomtuk egymást. Ment a harc, hogy ki a hibás, **kinek a felelőssége**. Azt mondjuk, Éva adta Ádámnak az almát. De srácok! Annyira mindegy, mert **egyikük fejéhez sem tartottak pisztolyt, hogy belehaparapjanak**. Tovább keressük a bűnöst vagy megértjük, hogy **mindannyian egymás áldozatai vagyunk** és megpróbálunk ebből az egészből **együtt** felállni?
 
-Mára már nem tartom magam feministának. Nem támogatom azt, hogy a férfiak elnyomása után a nők elnyomása következzen. Egalitariánus vagyok - egyenlőségpárti. Tudunk együtt működni szeretetben, odafigyelésben is, csak rengeteg munka és önismeret szükséges hozzá.
+Mára már nem tartom magam feministának. Nem támogatom azt, hogy a férfiak elnyomása után a nők elnyomása következzen. **Egalitariánus vagyok - mindkét oldalról egyenlőségpárti.** Tudunk együtt működni szeretetben, odafigyelésben is, csak rengeteg munka és önismeret szükséges hozzá.
 
 De sohasem volt jobb idő elkezdeni, mint most.
