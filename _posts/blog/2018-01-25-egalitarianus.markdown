@@ -27,7 +27,7 @@ Miért írok férfigyűlöletről? Mert nem látom **a javító szándékot**, a
 
 Az áldozat szerepéről beszélni **előre érdemes és szabad és kell**: hogy ne legyünk naivak és hülyék. Hogy ne *váljunk* áldozattá. A rossz hírű producer felmentése meg természetesen kérdéses sem lehet - de **meg kell adni neki a lehetőséget** és az utat, hogy megbánást tudjon tanusítani és feloldozást tudjon nyerni. Mert **az elkövető is áldozat**, senki sem tesz jókedvéből rosszat a másikkal. 
 
-És ugyanígy azoknak a nőknek is **akik napról napra ugyanúgy megerőszakolják a férfiakat** csak az ő eszközeik nem fizikai természetűek. Ha **a büntetés oldaláról közelítünk**, egy végtelen spirálban találjuk magunkat. Itt az ideje **a megbocsátásról beszélni**. És azt segíteni. Nekem neked, neked nekem.
+És ugyanígy azoknak a nőknek is meg kell adni a megbánás és a feloldozás lehetőségét, **akik napról napra ugyanúgy megerőszakolják a férfiakat** csak az ő eszközeik nem fizikai természetűek. Ha **a büntetés oldaláról közelítünk**, egy végtelen spirálban találjuk magunkat. Itt az ideje **a megbocsátásról beszélni**. És azt segíteni. Nekem neked, neked nekem.
 
 **A férfiaknak meg kell érteni, hogy a nem az kurvára nem. A nőknek pedig meg kell tanulniuk nemet mondani. Meg igent is, mert a talánhoz nem lehet alkalmazkodni.**
 
