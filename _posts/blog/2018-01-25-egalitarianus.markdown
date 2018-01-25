@@ -14,7 +14,6 @@ Bevallom, nem értek ezzel egyet. A nőknek **nem a férfiak helyett**, hanem **
 De ez már nem az a feminizmus, ami eddig volt. Ez már valami új, a szüfrazsetteknél nagyobb dolog. Itt már nem csak a teret kell megteremtenie a nőknek, de birtokba is kell venniük a jogaikat - és a jogokkal mindig járó kötelezettségeiket. És jobban kell csinálniunk, mint ahogyan mi, férfiak csináltuk. Nem lehet a sok évezredes elnyomatásra hivatkozva most a férfiakat elnyomni. Nem teremthetünk újra egy rosszul működő, erőn és félelmen, kiszolgáltatottságon alapuló rendszert csak most férfi helyett női agresszióval. Nem lehet a jövő útja, hogy a "rendszerváltás" után más néven, más nemben teremtse elő a társadalom újra az elnyomóit. 
 
 ![](http://agostonlaszlo.hu/images/jamesbond.JPG)
-<center><i> A kép illusztráció</i></center>
 
 Láttam egy videót, amely az ellen küzdött, hogy **a nők ne kapjanak kevesebbet ugyanazért a munkáért**. Maximálisan igazuk van! - De ezzel egy időben, ezzel teljesen egyszerre **a nőknek is el kell hagyniuk azt az elvárást**, hogy **a férfi többet keressen** náluk. Azt, hogy egy randin a férfinak **meg kelljen hívni a nőt** és azt, hogy a szórakozóhelyekre **a nők olcsóbban mehessenek be**. Az egyenlőség egyenlőség. Ha az egyik fél hirtelen egyenlőbbé válik, azt már az Állatfarmban is láttuk, hogy nem vezet jóra. 
 
