@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kell-e női James Bond - avagy meg lehet-e nyerni a nemek háborúját?
-date: 2017-12-03 8:00:18.000000000 +00:00
+date: 2018-01-25 8:00:18.000000000 +00:00
 author: agoston_laszlo
 excerpt: Mindannyian egymás áldozatai vagyunk. Küzdünk még azért, hogy bebizonyítsuk, ki a hibásabb vagy megpróbálunk végre ebből az egészből együtt felállni?
 categories: blog
