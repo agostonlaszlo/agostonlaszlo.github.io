@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ki a legelnyomottabb kiebbség ma Magyarországon?
+title: Kik a legelnyomottabb kiebbség ma Magyarországon?
 date: 2018-02-03 8:00:18.000000000 +00:00
 author: agoston_laszlo
 excerpt: A cigányság? A nők? A melegek? A menekültek? Netán a zsidók? Volna egy más megfejtésem a témára.
