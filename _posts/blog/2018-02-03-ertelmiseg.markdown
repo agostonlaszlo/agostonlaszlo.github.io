@@ -14,7 +14,7 @@ Ma reggel feltettem a kérdést az oldalamon - és rengeteg válasz is érkezett
 ![](http://agostonlaszlo.hu/images/kisebbseg.jpg)
 
 **0. Értelmezzük a kérdést: legelnyomottabb**
-Valószínűleg a szegregációban élő cigányság a **legmagárahagyottabb** - senkit sem érdekel a döntéshozók körében, hogy élnek-e vagy halnak. Túlzok: *a krumpliosztás* kivételével. A **legutáltabbak** természetesen a menekültek jelenleg - bár ők csak egy hajszállal létezőbbek a pirézeknél. A **legkevésbé elfogadottak** a melegek és így tovább... de **aktív elnyomás** alatt ki áll?
+Valószínűleg a szegregációban élő cigányság a **legmagárahagyottabb** - senkit sem érdekel a döntéshozók körében, hogy élnek-e vagy halnak. Túlzok: *a krumpliosztás* kivételével. A **legutáltabbak** természetesen a menekültek jelenleg - bár ők csak egy hajszállal létezőbbek a pirézeknél. A **legkevésbé elfogadottak** a melegek, a **"legvédtelenebbek"** a nők, és sanszosan a **"legelárultabbak"** a magyar gyerekek és így tovább... de **aktív elnyomás** alatt ki áll?
 
 **Az értelmiség.** Azok a gondolkodók, akik sok évet töltöttek az oktatásban (*akár kétszer annyit*, mint sokan mások), rendszeresen tájékozódnak több forrásból; egyéni, kritikus gondolkodásúak, nem csak a címet, de a cikket is elolvassák, beszélnek nyelveket... Miért mondom, hogy ők a legelnyomottabbak? Vegyük át.
 
