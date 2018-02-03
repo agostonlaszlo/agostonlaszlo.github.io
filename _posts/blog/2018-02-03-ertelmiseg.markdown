@@ -21,7 +21,7 @@ Valószínűleg a szegregációban élő cigányság a **legmagárahagyottabb** 
 **1. Szólásszabadság**<br />
 Az értelmiségi lét leglényege, hogy azt a tudást, amit valaki fáradságos munkával felhalmozott, **megpróbálja megosztani** a másikkal, a társadalom javára fordítja. Ezért **jó befektetés az értelmiség nevelése**, mert a belé fektetett pénzt-időt-energiát **megsokszorozva adja vissza** a közösségnek élete folyamán. Ilyan például a tanár, orvos vagy éppen az oknyomozó újságíró. Csakhogy ha a kritikus gondolkodás és az egyéni ötletek megvalósítsa **nem támogatott**, ha **az idős professzor** a hálapénzért minden izgalmas esetet **elhappol a fiatal doktor elől**, az **újságíró nem írhat** csak arról, amiről a központból utasítást kap és a **tanárt a KLIK rángatja zsinóron** - ezek az emberek nem lesznek szabadok. És ezért nem lehetnek boldogok sem. 
 
-Olyanok lesznek, mint a versenyló, akit felkészítenek a futamra, de nem engedik futni, viszont idegesen nézik a helyettük versenyző gebék keserves vergődését és az nevetséges teljesítményt kísérő vad éljenzést a lelátóról. Köpnek egyet a porba és **egy idő után már nem is akarnak futni**, beállnak igás lónak és arra emlékeznek, mi lehett volna belőlük, ha...
+Olyanok lesznek, mint a versenyló, akit felkészítenek a futamra, de nem engedik futni, viszont idegesen nézik a helyettük versenyző gebék keserves vergődését és az nevetséges teljesítményt kísérő vad éljenzést a lelátóról. Köpnek egyet a porba és **egy idő után már nem is akarnak futni**, beállnak igás lónak és életük végéig arra emlékeznek, mi lehetett volna belőlük, ha...
 
 ![](http://agostonlaszlo.hu/images/kasszandra.jpg)
 <center><i>A haját tépő Kasszandra képe - Evelyn De Morgan képe</i></center>
