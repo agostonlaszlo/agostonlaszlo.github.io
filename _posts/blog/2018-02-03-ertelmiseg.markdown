@@ -32,7 +32,7 @@ Pontosan ilyen állapotban él ma a világ egyre több országában az értelmis
 Természetesen egy közmunkás életszínvonalával nem összevethető már egy átlag tanár életszínvonala sem. De azt is vegyük számításba, hogy az értelmiségiek **a Maslow-piramis magasabb szintjén állnak**, azaz bár "lentról" nézve a problémáik kisebb súlyúnak tűnnek, "fentebb" azok pont **ugyanannyira relevánsak**. Például a **megbecsültség hiánya**, az önmegvalósítás ellehetetlenítése, a **folyamatos támadás alatt** élés vagy **meghasonlás**. "Nem csak kenyérrel él az ember" - mondta Jézus, és nem is csak a kenyér hiánya tud életeket tönkretenni.
 
 ![](http://tiszta-kommunikacio.hu/wp-content/uploads/2015/01/maslow-tk-1024x838.jpg)
-<center<i>A Maslow-féle szükségletpiramis - forrás: tiszta-kommunikacio.hu</i></center>
+<center><i>A Maslow-féle szükségletpiramis - forrás: tiszta-kommunikacio.hu</i></center>
 
 **3. A közösség hiánya**
 Mivel **minden olyan helyet**, kezdeményezést és szerveződést, amelyben az értelmiség találkozni tudott eddig, **szisztematikusan számolnak fel vagy tesznek tönkre** (lásd még: Sirály, Auróra, egyetemek, civilek, eljelentéktelenített vagy "felfideszesített" alapítványok és szervezetek), egyre jobban széthullik a *polgári Magyarország*. A társ nélküli ember ereje pedig töredéke a társadalomban élő embernek. Vagy más társakat, társadalmat választ és emigrál. De senki se higgye, hogy az ellehetetlenítés elől menekülve ez egy boldog váltás lehet...
