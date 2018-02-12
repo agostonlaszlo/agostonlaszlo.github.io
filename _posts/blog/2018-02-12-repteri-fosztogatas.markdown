@@ -44,7 +44,7 @@ Mert nem is az. Csak a mérték más. Nem mindegy, hogy ezer csomagból egyet ny
 
 Amennyit csak lehet. Amennyit tudnak. Attól függ, mennyire nyitható. Ha nyitható, bele fognak nézni.
 
-![](http://agostonlaszlo.hu/images/repterifosztogatas.jpg)
+![](http://agostonlaszlo.hu/images/repterilopas.jpg)
 <center><i>A kép illusztráció - <a href="https://www.youtube.com/watch?v=ayuXjKzPs7Y" target="blank">Forrás</a></i></center>
 
 **De hogy nem lett akkor ebből nagyobb probléma?**
