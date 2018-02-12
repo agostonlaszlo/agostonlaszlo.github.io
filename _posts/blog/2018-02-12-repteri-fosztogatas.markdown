@@ -9,7 +9,7 @@ tags: [megbékélés, demokrácia, szavazójog]
 image: http://agostonlaszlo.hu/images/kisebbseg.jpg
 lang: hu
 ---
-„Szia Laci! Ha akarod tudni, hogy mennek ezek a poggyászfosztogatások a reptéren, írj rám! Név nélkül, de elmondom. Ott dolgoztam.” – kaptam a privát üzenetet. Nyilván érdekelt. És miután biztosítottam hírforrásomat, hogy nem adom ki a személyazonosságát készítettünk egy telefonos interjút. Már nem dolgozik Ferihegyen, külföldöt is megjárva hazatért és egy teljesen más szférában helyezkedett el. Ő évekig látta-élte azt a reptéren, amiről ma sokan beszélnek.
+***„Szia Laci! Ha akarod tudni, hogy mennek ezek a poggyászfosztogatások a reptéren, írj rám! Név nélkül, de elmondom. Ott dolgoztam.”* – kaptam a privát üzenetet. Nyilván érdekelt. És miután biztosítottam hírforrásomat, hogy nem adom ki a személyazonosságát készítettünk egy telefonos interjút. Már nem dolgozik Ferihegyen, külföldöt is megjárva hazatért és egy teljesen más szférában helyezkedett el. Ő évekig látta-élte azt a reptéren, amiről ma sokan beszélnek.**
 
 ![](http://agostonlaszlo.hu/images/repterilopas.jpg)
 <center><i>A kép illusztráció - <a href="https://www.youtube.com/watch?v=ayuXjKzPs7Y" target="blank">Forrás</a></i></center>
@@ -20,15 +20,16 @@ Mert felháborítónak tartom, hogy a reptér kivonja magát a felelősség aló
 
 **Reptéri belépők?**
 
-Gondolj bele, milyen biztonsági kockázat valakit egy repülő közelébe engedni felszállás előtt! Ezért minden ott dolgozót nemzetbiztonsági szintű átvilágításnak vetnek alá. Nem lenne jó, ha veszélyes emberek kerülnének egy repülő közelébe, ugye? Ez egy nagyon komoly folyamat, az alvállalkozó igénylése után 4-8 hét is lehet, amire valaki megkapja. Hogy lehet az mégis, hogy ha valahol egy rakodó kolléga esetleg megbukna, pár héttel később egy másik alvállalkozónál újra alkalmazásba kerülhet? És hogy lehet, hogy „ehhez a reptének semmi köze”? Ez nagyon nem fair.
+Gondolj bele, milyen biztonsági kockázat valakit egy repülő közelébe engedni felszállás előtt! Ezért minden ott dolgozót nemzetbiztonsági szintű átvilágításnak vetnek alá. Nem lenne jó, ha veszélyes emberek kerülnének egy repülő közelébe, ugye? Ez egy nagyon komoly folyamat, az alvállalkozó igénylése után 4-8 hét is lehet, amire valaki megkapja. Hogy lehet az mégis, hogy ha valahol egy rakodó kolléga esetleg megbukna, pár héttel később egy másik alvállalkozónál újra alkalmazásba kerülhet? És hogy lehet, hogy *„ehhez a reptének semmi köze”*? Ez nagyon nem fair.
 
 **Mit jelent az, hogy mindenki tud a poggyászfosztogatásokról?**
 
-Ne viccelj, ez egy hallgatólagosan tudott dolog, csak bizonyitani nem lehet, vagyis nehezen.  Ahogyan a légiposta- és cargofosztogatások is. A koreai dolog meg a Babos Timi ügye a felszínre került, de ez csak a jéghegy csúcsa. Azóta is száz ugyanilyen történt, biztos vagyok benne.
+Ne viccelj, ez egy hallgatólagosan tudott dolog, csak bizonyitani nem lehet, vagyis nehezen.  Ahogyan a légiposta- és cargofosztogatások is. A *koreai dolog* meg a *Babos Timi* ügye a felszínre került, de ez csak a jéghegy csúcsa. Azóta is száz ugyanilyen történt, biztos vagyok benne.
 
 **Hogy lehet ez ennyire a rendszer része?**
 
 Csak gondolj bele: a fapados légitársaságok megjelenésével nagyon felhígult a szakma. A légitársaságok nevetséges pénzt fizetnek a reptéri kiszolgálásért és ezt az alvállalkozók tovább hárítják a munkásokra, akik nevetséges pénzekért mozgatnak meg napi 20-30 tonnát hóban-fagyban, esőben, tűző napon. Nincs árnyék, nem tudsz pihenni, koszos, a jóisten tudja, hol járt repülőgépek rakterében mászkálsz és a veszélyes anyagoktól az élő állatig mindennel bajlódsz. Kemény fizikai munka, nagy stresszel - bagóért.
+
 Éppen ezért a munkások egy jelentős része sem éppen az oxfordi felvételijére készül, ha érted mire gondolok, ez a munka pedig nem annyira vonzó, hogy az elvesztése bármilyen visszatartó erőt is jelentene. Ha egyetlen csomagból lenyúl valaki 100 eurót, azzal a mozdulattal már meg is kereste a fizetése egyötödét...
 
 **Ezek szerint a rakodómunkások lopása a fizetés része?**
@@ -45,7 +46,7 @@ Amennyit csak lehet. Amennyit tudnak. Attól függ, mennyire nyitható. Ha nyith
 
 **De hogy nem lett akkor ebből nagyobb probléma?**
 
-Egyrészt nem kerül felszínre, másrészt vannak módszerek. Például a „csippentés” – amikor mondjuk találnak nálad 2000 eurót és nem az egészet lopják el, csak mondjuk kétszázat. Te meg hazaérve azon gondolkodsz, hogy lehet, hogy elköltötted vagy elvesztetted valahol. Vagy amikor olyanok cuccát fosztogatják, akik nem tehetnek feljelentést, mert maguk is vétkesek. Mondjuk – tegyük fel – egy magyar autónepper elmegy Németországba, hogy használt kocsit vegyen és visz magával 15 ezer eurót. Hivatalosan csak tízet vihetne, ezért amikor a tizenötből eltűnik kettő, nem jelentheti be, mert magát jelentené fel. Értesz, ugye?
+Egyrészt nem kerül felszínre, másrészt vannak módszerek. Például a *„csippentés”* – amikor mondjuk találnak nálad 2000 eurót és nem az egészet lopják el, csak mondjuk kétszázat. Te meg hazaérve azon gondolkodsz, hogy lehet, hogy elköltötted vagy elvesztetted valahol. Vagy amikor olyanok cuccát fosztogatják, akik nem tehetnek feljelentést, mert maguk is vétkesek. Mondjuk – tegyük fel – egy magyar autónepper elmegy Németországba, hogy használt kocsit vegyen és visz magával 15 ezer eurót. Hivatalosan csak tízet vihetne, ezért amikor a tizenötből eltűnik kettő, nem jelentheti be, mert magát jelentené fel. Értesz, ugye?
 
 **Elég ijesztő. Te hogyan repülsz? Mit lehet tenni ez ellen?**
 
@@ -61,6 +62,7 @@ Nagyon megbecsülik a kétkezi munkát. Egy rakodó megkeres 1000-1200 font nett
 Másrészt ott, ha csak a gyanúja felmerül annak, hogy valaki lopott, az egész brigádot kirúgják. Ha valaki megpróbálkozna ezzel, a többi verné agyon. Ettől még persze előfordul, de más a nagyságrendje. Magyarországon viszont ez egy szervezet, akik nagyon sokat engednek meg maguknak. Amikor ott dolgoztam, volt, hogy kis túlzással több valutát lehetett volna náluk váltani, mint a Nemzeti Bankban. És védik is a területüket.
 
 **Hogy értve?**
+
 Volt, aki szólt. Nem járt jól. A műszak után megtalálták. 
 
 **És mit tesz a reptéri rendőrség?**
@@ -69,9 +71,8 @@ Ha nincs tettenérés, nem nagyon bizonyítható a dolog. A tárgyi bizonyíték
 
 **Mit lehetne tenni?**
 
-Elsősorban a reptérnek is kéne vállalnia a saját felelősségét elvégre ők állítják ki a belépőket. Ha vezetsz egy éttermet és az egyik pincér tahó a vendégekkel, nem foghatod arra, hogy „de egy állásközvetítőn keresztül dolgozik nálunk”! Meg kéne becsülni a munkásokat, hogy csökkenjen rajtuk az anyagi nyomás és ők is megbecsüljék a munkahelyüket. Valahogy úgy, mint kint, nyugaton.
+Elsősorban a reptérnek is kéne vállalnia a saját felelősségét elvégre ők állítják ki a belépőket. Ha vezetsz egy éttermet és az egyik pincér tahó a vendégekkel, nem foghatod arra, hogy *„de egy állásközvetítőn keresztül dolgozik nálunk”*! Meg kéne becsülni a munkásokat, hogy csökkenjen rajtuk az anyagi nyomás és ők is megbecsüljék a munkahelyüket. Valahogy úgy, mint kint, nyugaton.
 
 **Mennyire érzed ezt megvalósíthatónak?**
 
-Láttam hogy van, ahol működik, éltem benne. De tisztában vagyok, hogy itthon azért nagyon más a világ. Haragszik most mindenki a rakodókra – de ha már lopás: az senkinek sem tűnt fel, hogy minden háztartásban volt otthon egy Malévos kanál meg pohár a konyhában?
-
+Láttam hogy van, ahol működik, éltem benne. De tisztában vagyok, hogy itthon azért nagyon más a világ. Haragszik most mindenki a rakodókra – de ha már lopás: az senkinek sem tűnt fel, hogy *minden háztartásban volt otthon egy Malévos kanál meg pohár a konyhában?*
