@@ -12,7 +12,7 @@ lang: hu
 „Szia Laci! Ha akarod tudni, hogy mennek ezek a poggyászfosztogatások a reptéren, írj rám! Név nélkül, de elmondom. Ott dolgoztam.” – kaptam a privát üzenetet. Nyilván érdekelt. És miután biztosítottam hírforrásomat, hogy nem adom ki a személyazonosságát készítettünk egy telefonos interjút. Már nem dolgozik Ferihegyen, külföldöt is megjárva hazatért és egy teljesen más szférában helyezkedett el. Ő évekig látta-élte azt a reptéren, amiről ma sokan beszélnek.
 
 ![](http://agostonlaszlo.hu/images/repterilopas.jpg)
-<center><i>A kép illusztráció - <a href="https://www.youtube.com/watch?v=ayuXjKzPs7Y" target="blank">Forrás</a></i>Í/center>
+<center><i>A kép illusztráció - <a href="https://www.youtube.com/watch?v=ayuXjKzPs7Y" target="blank">Forrás</a></i></center>
 
 **Köszönöm, hogy megkerestél. De miért is kerestél meg? Miért akarsz beszélni?**
 
