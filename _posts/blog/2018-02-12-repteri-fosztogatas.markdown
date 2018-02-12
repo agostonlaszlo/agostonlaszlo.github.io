@@ -3,7 +3,7 @@ layout: post
 title: Lehet, hogy már megloptak Ferihegyen csak nem vetted észre? – interjú egy volt reptéri dolgozóval
 date: 2018-02-12 14:00:18.000000000 +00:00
 author: agoston_laszlo
-excerpt: Belülről látta a poggyászfosztogatás rendszerét, külföldön látta, mit lehetne tenni ellen. És elmondja, hogyan ne válj áldozattá.
+excerpt: Belülről látta a poggyászfosztogatás rendszerét, külföldön látta, mit lehetne tenni ellene. És elmondja, hogyan ne válj áldozattá.
 categories: blog
 tags: [megbékélés, demokrácia, szavazójog]
 image: http://agostonlaszlo.hu/images/repteritolvaj.jpg
