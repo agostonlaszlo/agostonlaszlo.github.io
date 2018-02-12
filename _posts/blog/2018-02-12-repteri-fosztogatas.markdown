@@ -57,7 +57,7 @@ Ne tegyél a poggyászba értéket. Az arany, az ékszer, a készpénz, a cigare
 
 **Mi van a lakatokkal?**
 
-Felejtsd el. Láttam olyat, hogy egy rakodó övén egy teljes kulcskészlet lógott. Leültem és néztem magam elé, mint a kiskutya, amelyiknek nem dobtak labdát, hogy ilyen lehet. Senki se szól érte.
+Felejtsd el. Láttam olyat, hogy egy rakodó övén egy teljes kulcskészlet lógott. Leültem és néztem magam elé, mint a kiskutya, amelyiknek nem dobtak labdát, hogy ilyen létezik. Senki sem szól érte.
 
 **Hogy megy ez nyugaton?**
 
