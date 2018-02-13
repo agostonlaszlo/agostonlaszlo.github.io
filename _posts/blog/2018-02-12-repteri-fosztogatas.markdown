@@ -70,7 +70,7 @@ Volt, aki szólt. Nem járt jól. A műszak után megtalálták.
 
 **És mit tesz a reptéri rendőrség?**
 
-Ha nincs tettenérés, nem nagyon bizonyítható a dolog. A tárgyi bizonyítékot nem nagyon dolog eltüntetni, ha van egyáltalán. Meg persze a fentiek miatt azt sem lehet tudni, hogy ez valójában hány esetet jelent, mekkora a kár.  Oké, megírta a koreai nagykövetség, hogy két utasnak eltűntek dolgok a poggyászából és ebből balhé lett. Aztán a marhák meglopnak egy teniszezőnőt, egy ismert embert rögtön ez után. Ökörség: belenyúl egy olyan poggyászba, ami célkeresztben van. Azt hiszed régen nem volt ennyi lopás? Dehogynem. Csak talán okosabbak voltak és kevésbé mohók.
+Ha nincs tettenérés, nem nagyon bizonyítható a dolog. A tárgyi bizonyítékot nem nagy dolog eltüntetni, ha van egyáltalán. Meg persze a fentiek miatt azt sem lehet tudni, hogy ez valójában hány esetet jelent, mekkora a kár.  Oké, megírta a koreai nagykövetség, hogy két utasnak eltűntek dolgok a poggyászából és ebből balhé lett. Aztán a marhák meglopnak egy teniszezőnőt, egy ismert embert rögtön ez után. Ökörség: belenyúl egy olyan poggyászba, ami célkeresztben van. Azt hiszed régen nem volt ennyi lopás? Dehogynem. Csak talán okosabbak voltak és kevésbé mohók.
 
 **Mit lehetne tenni?**
 
