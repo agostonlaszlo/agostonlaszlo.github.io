@@ -36,13 +36,13 @@ A fickó kicsit elbizonytalanodik.
 
 **--	Sosem állítottam, hogy mindenkit be kell fogadni és nagyon komoly fenyegetésnek érzem a radikális iszlámot. De kérlek, ne felejtsd el, hogy a radikálisok mindig kisebbségben vannak minden csoportban. A keresztények között is tudok neked őrültet mutatni szép számmal... Viszont úgy gondolom, a tisztességes eljárást, az emberi minimumot mindenki megérdemli nemtől, fajtól, vallástól függetlenül. És az óriási szégyen, hogy Magyarország ezt a határzónában és a plakátokon, Őcsényben és a kampányban nem teszi meg. Óriási szégyen, hogy egyáltalán ez kampánytémává vált.**
 
--- Ott van a videó, amit Neuköllnben készítettél! Az egy dolog, hogy te nem találkoztál az élősködő, a helyieket terrorizáló muszlimokkal, de vajon a helyiek mertek neked őszintén beszélni erről? Hiszen a németek iszonyúan próbálnak elhatárolódni attól, hogy bárki is idegengyűlölőnek állítsa be őket. A svédek szintén. Ha akarod ezer olyan felvételt mutatok, amelyeken muszlim hordák üvöltik London utcáin, hogy *England go to hell!* *(magyarul: pokolba Angliával!)*
+-- Ott van a videó, amit Neuköllnben készítettél! Az egy dolog, hogy te nem találkoztál az élősködő, a helyieket terrorizáló muszlimokkal, de vajon a helyiek mertek neked őszintén beszélni erről? Hiszen a németek iszonyúan próbálnak elhatárolódni attól, hogy bárki is idegengyűlölőnek állítsa be őket. A svédek szintén. Ha akarod ezer olyan felvételt mutatok, amelyeken muszlim hordák üvöltik London utcáin, hogy *England go to hell!* *(jelentése: pokolba Angliával!)*
 
 **--	Ahogy mondtam, ez létező probléma, de rendészeti kérdés. Erősítsük meg a rendőrséget és a titkossszolgálatot, adjunk nekik elég pénzt, embert, jogkört és kezeljék, mert az ő dolguk, nem Manyi nénié meg Pista bácsié a tiszabőnyi kocsmában! Nekem állampolgárként nem ez a feladatom, hanem hogy lássam a másikban az embert és tiszteljem bőrszíntől, fajtól, vallástól függetlenül. Ehelyett Orbán még rá is erősít, mint mondjuk azzal, amit Őcsény után mondott.**
 
 --	Mert ott mit mondott?
 
-**--	Azt, hogy nagyon helyes, hogy az őcsényiek „határozottan, hangosan és érthetően fejezték ki a véleményüket” – azaz szurkálták ki a legális menekült gyerekeket befogadni akaró fogadós kocsijának a kerekét. ( [forrás](https://24.hu/belfold/2017/09/29/orban-annyit-hazudtak-mar-a-magyaroknak-migransugyben-hogy-nem-hiszik-el-hogy-csak-gyermekek-erkeznenek/) ) **
+**--	Azt, hogy nagyon helyes, hogy az őcsényiek „határozottan, hangosan és érthetően fejezték ki a véleményüket” – azaz szurkálták ki a legális menekült gyerekeket befogadni akaró fogadós kocsijának a kerekét. ( [forrás](https://24.hu/belfold/2017/09/29/orban-annyit-hazudtak-mar-a-magyaroknak-migransugyben-hogy-nem-hiszik-el-hogy-csak-gyermekek-erkeznenek/) )**
 
 --	Ezt nem tudom, küldj róla valami anyagot.
 
