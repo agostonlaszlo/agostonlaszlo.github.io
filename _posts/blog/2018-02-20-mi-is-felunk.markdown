@@ -9,7 +9,7 @@ tags: [megbékélés, demokrácia,]
 image: http://agostonlaszlo.hu/images/kidobo.jpg
 lang: hu
 ---
---	Te vagy Ágoston László? – állít meg egy kopasz, kigyúrt, nagydarab férfi a konditerem öltözőjében. Mélyen ülő szúrós szemei a hátam közepéig nyilallva várják a választ. Éppen a *boxkesztyűjét* csomagolja és az *MMA-s sípcsontvédőt* – ami meglehetősen feltűnő egy harcművészetekkel nem kifejezetten foglalkozó edzőterem öltözőjében.
+--	Te vagy Ágoston László? – állít meg egy kopasz, kigyúrt, nagydarab férfi a konditerem öltözőjében. Mélyen ülő szúrós szemei a hátam közepéig nyilallva várják a választ. Éppen a *boxkesztyűjét* csomagolja és az *MMA-s sípcsontvédőt* – ami meglehetősen feltűnő egy harcművészetekkel nem kifejezetten foglalkozó edzőterem öltözőjében.<br />
 --	Igen én vagyok. – válaszolom. Bevillan az arca egy hozzászólásból, amit a Budapest Pridera szervezett eseményemhez írt. Azt írta, majd ő is eljön és *beszélgetünk*... eléggé fenyegetésnek tűnt... - Úgy emlékszem, beszélni akartál velem. Megiszunk egy sört?
 
 A fickó kicsit elbizonytalanodik.
