@@ -3,7 +3,7 @@ layout: post
 title: Mi is félünk, nem csak ti – interjú egy Fidesz-szavazóval
 date: 2018-02-20 14:00:18.000000000 +00:00
 author: agoston_laszlo
-excerpt: Úgy döntöttem, nem menekülök el a kérdőre vonás elől és találkoztam a Fidesz-szavazó marcona kidobóemberrel. Kíváncsi voltam, egy olyan ember világlátására, akié szöges ellentétben lehet az enyémmel. 
+excerpt: Úgy döntöttem, nem menekülök el a kérdőre vonás elől és találkoztam a Fidesz-szavazó marcona kidobóemberrel. Kíváncsi voltam egy olyan ember világlátására, akié szöges ellentétben lehet az enyémmel. 
 categories: blog
 tags: [megbékélés, demokrácia,]
 image: http://agostonlaszlo.hu/images/kidobo.jpg
