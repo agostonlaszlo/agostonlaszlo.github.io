@@ -54,11 +54,11 @@ A fickó kicsit elbizonytalanodik.
 
 --	2006-ban Angliában éltem, amikor itthon nyilvánossá vált az őszödi beszéd. Mélyen felháborított. Tudod, sokan mondják, hogy ez egy igazságbeszéd volt – de ez hülyeség. Gyurcsány a felső pártvezetés hibáit akarta mindenkire rátolni. De a legfontosabb: nem a nyilvánosságnak szánta! Így ez csak egy lopott beismerés volt, nem valami óriási tett, aminek a balliberálisok beállítják. Mit keres még ez az ember a politikában, mondd?
 
-**--	Én úgy látom, egy fejlett demokráciában egy ilyen „hazudtunk éjjel és nappal”-dolog után egy miniszterelnöknek illik lemondania, mert ezzel tud példát mutatni és tartást adni az országnak, amit vezet. Több volt, mint kínos azt hallgatni, ahogy a BBC-ben védekezett és nem volt hajlandó válaszolni arra a kérdésre – sokadszorra sem! -, hogy tényleg hazudott-e. **
+**--	Én úgy látom, egy fejlett demokráciában egy ilyen „hazudtunk éjjel és nappal”-dolog után egy miniszterelnöknek illik lemondania, mert ezzel tud példát mutatni és tartást adni az országnak, amit vezet. Több volt, mint kínos azt hallgatni, ahogy a BBC-ben védekezett és nem volt hajlandó válaszolni arra a kérdésre – sokadszorra sem! -, hogy tényleg hazudott-e.**
 
 --	Látod, nekem akkor lett elegem. A szüleimet majdnem megverték a zavargások során Gyurcsány szemkilövető rendőrei.
 
-**--	De belátod, hogy az a tömeg a tévészékház felgyújtása után már inkább volt csőcselék, mint forradalmárok hazafias csoportja...***
+**--	De belátod, hogy az a tömeg a tévészékház felgyújtása után már inkább volt csőcselék, mint forradalmárok hazafias csoportja...**
 
 --	És te belátod, hogy a tévészékházban azért hagytak hátra harminc rendőrt, hogy kiszolgáltassák őket a népharagnak és utána erre hivatkozva tudjanak retorziókat végrehajtani! Egy tank a Deák téren, amiben pont egy fröccs benzint hagytak? Vicc!
 
@@ -77,7 +77,7 @@ A fickó kicsit elbizonytalanodik.
 
 --	Értelek. De miért velünk akarják megfizettetni, ami az ő hibájuk? Szerinted a magyarok miatt indulnak el az emberek Afrikából vagy mert a Nyugat évszázadokig kizsákmányolta őket és nem engedte fejlődni? Az USA ugyanez...
 
-**-	Tényleg! Te támogatod Trumpot?**
+**--	Tényleg! Te támogatod Trumpot?**
 
 --	Egy seggfej. Bernie Sanders lett volna a jó választás. De Obamában is nagyot csalódtam, amikor kiállt Hillary Clinton mellett… Ezzel együtt az amerikai barátaim szerint egyelőre még jól vannak, nem működik rosszul az országuk így egy év után. 
 
@@ -93,7 +93,7 @@ A fickó kicsit elbizonytalanodik.
 
 --	Azt ugye tudod, hogy mi is félünk? Tudod hányan mondják, hogy lámpavasra akarnak húzni minket? Meg van mérgezve az egész magyar vitakultúra.
 
-**-- Aztán mégis a mostani kormány emberei teszik rá a kezüket vállalatokra, alkalmaznak maffiamódszereket...***
+**-- Aztán mégis a mostani kormány emberei teszik rá a kezüket vállalatokra, alkalmaznak maffiamódszereket...**
 
 --	Ezt én maximálisan elítélem! Akkor ezek a barátaid, akikkel ez történik, menjenek el Strasbourgig és pereljék ki a szart is abból, aki megérdemli. Attól, hogy jobboldali vagyok, nem támogatom a saját pártom és holdudvara törvénytelenségeit. Ahogyan nem vagyok elnéző az előzőekkel sem!
 
