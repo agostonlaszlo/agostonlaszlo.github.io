@@ -38,6 +38,8 @@ A fickó kicsit elbizonytalanodik.
 
 -- Ott van a videó, amit Neuköllnben készítettél! Az egy dolog, hogy te nem találkoztál az élősködő, a helyieket terrorizáló muszlimokkal, de vajon a helyiek mertek neked őszintén beszélni erről? Hiszen a németek iszonyúan próbálnak elhatárolódni attól, hogy bárki is idegengyűlölőnek állítsa be őket. A svédek szintén. Ha akarod ezer olyan felvételt mutatok, amelyeken muszlim hordák üvöltik London utcáin, hogy *England go to hell!* *(jelentése: pokolba Angliával!)*
 
+<iframe src="https://player.vimeo.com/video/234458248" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 **--	Ahogy mondtam, ez létező probléma, de rendészeti kérdés. Erősítsük meg a rendőrséget és a titkossszolgálatot, adjunk nekik elég pénzt, embert, jogkört és kezeljék, mert az ő dolguk, nem Manyi nénié meg Pista bácsié a tiszabőnyi kocsmában! Nekem állampolgárként nem ez a feladatom, hanem hogy lássam a másikban az embert és tiszteljem bőrszíntől, fajtól, vallástól függetlenül. Ehelyett Orbán még rá is erősít, mint mondjuk azzal, amit Őcsény után mondott.**
 
 --	Mert ott mit mondott?
