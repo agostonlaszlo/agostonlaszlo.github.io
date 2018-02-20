@@ -67,7 +67,7 @@ A fickó kicsit elbizonytalanodik.
 
 **-- Szóval Gyurcsányék ellenében lettél Fidesz-szavazó?**
 
---	Nem, de amit ő művelt, nem is hagyott más esélyt. Számomra sokat jelentenek *Bayer&nbsp;Zsolt* szavai, amiből sokan csak a hangnemet hallják meg, pedig a tartalomból rengeteget lehet tanulni! Meggyőzött, ahogy a 2002-es TV-vitában Medgyessyt leiskolázta *Viktor*. Visszafogott volt, kulturált, csak ez a hozzáállás nem volt elég Magyarországon a győzelemhez. *Varga Mihály*, *Kövér László* - számomra vannak hiteles, követhető személyek a pártban. 2006 után eseményei után pedig végképp úgy éreztem, a hazámnak szüksége van rám és igyekeztem tenni, amit tehettem.
+--	Nem, de amit ő művelt, nem is hagyott más esélyt. Számomra sokat jelentenek *Bayer&nbsp;Zsolt* szavai, amiből sokan csak a hangnemet hallják meg, pedig a tartalomból rengeteget lehet tanulni! Meggyőzött, ahogy a 2002-es TV-vitában Medgyessyt leiskolázta *Viktor*. Visszafogott volt, kulturált, csak ez a hozzáállás nem volt elég Magyarországon a győzelemhez. *Varga Mihály*, *Kövér László* - számomra vannak hiteles, követhető személyek a pártban. 2006 eseményei után pedig végképp úgy éreztem, a hazámnak szüksége van rám és igyekeztem tenni, amit tehettem.
 
 **--	És elégedett vagy az „elmúlt nyolc évvel”?**
 
