@@ -14,8 +14,8 @@ lang: hu
 
 A fickó kicsit elbizonytalanodik.
 
---	Te nagy Jobbik-szavazó lettél, nem? 
---	Nem tudok róla. Vagy arra gondolsz, hogy elmentem egy beszélgetésre Vona Gáborral? Mással is mentem volna, de más nem hívott.
+--	Te nagy Jobbik-szavazó lettél, nem? <br />
+--	Nem tudok róla. Vagy arra gondolsz, hogy elmentem egy beszélgetésre Vona Gáborral? Mással is mentem volna, de más nem hívott.<br />
 --	Én Fidesz-szavazó vagyok, minden más öngyilkosság lenne! Te viszont nem válaszoltál a kérdéseimre az oldaladon, le is vettem a követést...
 
 ![](http://agostonlaszlo.hu/images/kidobo.jpg)
