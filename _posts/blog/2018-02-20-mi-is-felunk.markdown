@@ -62,7 +62,7 @@ A fickó kicsit elbizonytalanodik.
 
 --	És te belátod, hogy a tévészékházban azért hagytak hátra harminc rendőrt, hogy kiszolgáltassák őket a népharagnak és utána erre hivatkozva tudjanak retorziókat végrehajtani! Egy tank a Deák téren, amiben pont egy fröccs benzint hagytak? Vicc!
 
-![](http://agostonlaszlo.hu/images/oszodibeszed.jpg)
+![](http://agostonlaszlo.hu/images/oszodi-beszed.jpg)
 <center><i><a href="https://24.hu/belfold/2016/05/26/tiz-eve-egy-ember-azt-mondta-elkurtuk/" target="blank">A kép forrása</a></i></center>
 
 **-- Szóval Gyurcsányék ellenében lettél Fidesz-szavazó?**
@@ -93,7 +93,7 @@ A fickó kicsit elbizonytalanodik.
 
 --	Azt ugye tudod, hogy mi is félünk? Tudod hányan mondják, hogy lámpavasra akarnak húzni minket? Meg van mérgezve az egész magyar vitakultúra.
 
-**--	Aztán mégis a mostani kormány emberei teszik rá a kezüket vállalatokra, alkalmaznak maffiamódszereket...***
+**-- Aztán mégis a mostani kormány emberei teszik rá a kezüket vállalatokra, alkalmaznak maffiamódszereket...***
 
 --	Ezt én maximálisan elítélem! Akkor ezek a barátaid, akikkel ez történik, menjenek el Strasbourgig és pereljék ki a szart is abból, aki megérdemli. Attól, hogy jobboldali vagyok, nem támogatom a saját pártom és holdudvara törvénytelenségeit. Ahogyan nem vagyok elnéző az előzőekkel sem!
 
