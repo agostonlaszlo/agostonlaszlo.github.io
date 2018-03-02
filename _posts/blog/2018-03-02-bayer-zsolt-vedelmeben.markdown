@@ -12,7 +12,7 @@ lang: hu
 Nagyon nem ismer, aki azzal vádolna meg, hogy Bayer Zsolt-rajongó vagyok. Sőt, [nem kevésszer keltem már ki nyilvánosan a Nemzet Vértollnoka ellen](http://agostonlaszlo.hu/blog/mindig-szerettem-volna-dijat-kapni-mar-tudom-hogy-nem-fogok/), de ami most terjed a neten - *a baloldali sajtó hathatós közreműködésével* - az felháborít. Miért? Mert hétfőn leírtam, hogy Hódmezővásárhely után ciki Fideszesnek lenni - az ilyen videókat nézve pedig *ciki ellenzékinek lenni is*. Ne már...
 
 A videó:
-<iframe src="//coub.com/embed/140u9h?muted=false&autostart=false&originalSize=false&startWithHD=false" allowfullscreen frameborder="0" width="640" height="360" allow="autoplay"></iframe>
+<iframe width="640" height="360" src="//coub.com/embed/140u9h?muted=false&autostart=false&originalSize=false&startWithHD=false" allowfullscreen frameborder="0"  allow="autoplay"></iframe>
 
 Megnéztem és elsőre nyilván nekem is felfordult a gyomrom. "Kinéztem" Bayerből, hogy ilyet mondjon, de azért mégiscsak furának éreztem a dolgot. Utánanéztem (igen, kedves ellenzéki újságírók, *ez lenne a ti dolgotok is*!) és kiderült, hogy melyik videóból és hogyan vágták össze:
 
