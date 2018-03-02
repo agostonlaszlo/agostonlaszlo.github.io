@@ -9,7 +9,7 @@ tags: [megbékélés, demokrácia,]
 image: https://coubsecure-s.akamaihd.net/get/b52/p/coub/simple/cw_timeline_pic/95eef5915fe/a3688b0c5c2df15ca95d9/big_1485206175_image.jpg
 lang: hu
 ---
-Nagyon nem ismer, aki azzal vádolna meg, hogy Bayer Zsolt-rajongó vagyok. Sőt, [nem kevésszer keltem már ki nyilvánosan a Nemzet Vértollnoka ellen](http://agostonlaszlo.hu/blog/mindig-szerettem-volna-dijat-kapni-mar-tudom-hogy-nem-fogok/), de ami most terjed a neten - *a baloldali sajtó hathatós közreműködésével* - **az felháborít.** Miért? Mert hétfőn leírtam, hogy Hódmezővásárhely után ciki Fideszesnek lenni - az ilyen videókat nézve pedig *ciki ellenzékinek lenni is*. Ne már...
+Nagyon nem ismer, aki azzal vádolna meg, hogy Bayer Zsolt-rajongó vagyok. Sőt, <a href="http://agostonlaszlo.hu/blog/mindig-szerettem-volna-dijat-kapni-mar-tudom-hogy-nem-fogok/" target="blank">nem kevésszer keltem már ki nyilvánosan a Nemzet Vértollnoka ellen</a>, de ami most terjed a neten - *a baloldali sajtó hathatós közreműködésével* - **az felháborít.** Miért? Mert hétfőn leírtam, hogy Hódmezővásárhely után ciki Fideszesnek lenni - az ilyen videókat nézve pedig *ciki ellenzékinek lenni is*. Ne már...
 
 A videó:
 <iframe width="640" height="360" src="//coub.com/embed/140u9h?muted=false&autostart=false&originalSize=false&startWithHD=false" allowfullscreen frameborder="0"  allow="autoplay"></iframe>
@@ -24,7 +24,7 @@ Hanem arról, hogy **akkor sem hazudhatsz, ha a másik hazudik**.
 
 Hogy ha a propagandával szemben ellenpropagandát gyártasz csupán **a kérdések hitelt érdemlő és alapos bemutatása helyett**, nem hogy nem leszel jobb annál, akit mocskolsz, de még **annak a kedvét is elveszed az együttgondolkodástól, aki egyébként egyetértene veled**! Ha valódi ellenpólust, valódi választási lehetőséget akarsz teremteni, **légy különb**! Érvelj. **Maradj higgadt.** És ha leanyáznak ne anyázz vissza. Különben miért is hinné el bárki, hogy te nem vagy *ugyanolyan*? Ja és mégvalami:
 
-Ne hazudj!
+**Ne hazudj!**
 
 Látod,  ez a felhívás nem csak a jobboldalra érvényes...
 
