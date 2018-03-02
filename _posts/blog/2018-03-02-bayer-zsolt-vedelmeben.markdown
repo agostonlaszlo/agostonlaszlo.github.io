@@ -6,7 +6,7 @@ author: agoston_laszlo
 excerpt: Kiráz a hideg Bayer Zsolttól. De ha elveszítjük az erkölcsi tartásunkat a kampány hevében, milyen jogon kritizálunk? Kormányváltást vagy rendszerváltást akar az ellenzék? Mert a kormányváltás nagyon kevés lenne...
 categories: blog
 tags: [megbékélés, demokrácia,]
-image: http://agostonlaszlo.hu/images/kidobo.jpg
+image: https://coubsecure-s.akamaihd.net/get/b52/p/coub/simple/cw_timeline_pic/95eef5915fe/a3688b0c5c2df15ca95d9/big_1485206175_image.jpg
 lang: hu
 ---
 Nagyon nem ismer, aki azzal vádolna meg, hogy Bayer Zsolt-rajongó vagyok. Sőt, [nem kevésszer keltem már ki nyilvánosan a Nemzet Vértollnoka ellen](http://agostonlaszlo.hu/blog/mindig-szerettem-volna-dijat-kapni-mar-tudom-hogy-nem-fogok/), de ami most terjed a neten - *a baloldali sajtó hathatós közreműködésével* - az felháborít. Miért? Mert hétfőn leírtam, hogy Hódmezővásárhely után ciki Fideszesnek lenni - az ilyen videókat nézve pedig *ciki ellenzékinek lenni is*. Ne már...
