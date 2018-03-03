@@ -48,4 +48,4 @@ Kezded már kapisgálni, **miért rettentően fontos a másság elfogadása**? M
 
 Miattad. Miattunk.
 
-Jó ez így?
+Jó ez így szerinted?
