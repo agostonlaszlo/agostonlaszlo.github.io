@@ -3,11 +3,11 @@ layout: post
 title: Ezt a nőt te férfibörtönbe zárnád?
 date: 2018-03-03 11:00:00.000000000 +00:00
 author: agoston_laszlo
-excerpt: Legalábbis az alapján, amit a transznemű nőkről kommunikál a társadalom. Tabu, óriási tabu a szexualitás, hát még a nem hagyományos szexus kérdése itthon!
+excerpt: Csak mert férfibörtönbe került Angliában elítéltként. Szerinted ez nincs jól? Nagyon el fogsz csodálkozni, hogy mégis mennyien támogatják - talán tudatlanságból - hogy így legyen! 
 categories: blog
 lang: hu
 image: http://agostonlaszlo.hu/images/traszno.jpg
-tags: [rólam, zene]
+tags: [homoszexualitas]
 ---
 A 21. század nagy úri huncutságának tartják sokan a transznemű emberek kérdését. "Mégis miféle ostobaság ez, hogy nemet vált egy férfi vagy egy nő? **Ha az Isten férfinek teremtette**, az férfi legyen, ha nőnek, nő! Nem?"
 
