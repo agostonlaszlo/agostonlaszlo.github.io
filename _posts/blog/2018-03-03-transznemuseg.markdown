@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ezt a nőt a magyarok többsége férfi börtönbe zárná
-date: 2015-02-22 11:30:00.000000000 +00:00
+date: 2018-03-03 11:00:00.000000000 +00:00
 author: agoston_laszlo
 excerpt: Legalábbis az alapján, amit a transznemű nőkről kommunikál a társadalom. Tabu, óriási tabu a szexualitás, hát még a nem hagyományos szexus kérdése itthon!
 categories: blog
