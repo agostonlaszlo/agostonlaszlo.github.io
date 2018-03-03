@@ -31,3 +31,5 @@ Látod,  ez a felhívás nem csak a jobboldalra érvényes...
 [](http://agostonlaszlo.hu/images/felkialtojel.jpg)
 
 **Kérlek, ha majd kommentelsz, tegyél három felkiáltójelet a mondanivalód elé** és ne áruld el senkinek, miért teszed. Vicces - és félek, egyben elszomorító - lesz látni, hogy hányan vannak, akik csak a cím alapján szólnak majd hozzá és ki az, aki el is olvasta.
+
+UPDATE: A transzneműség kérdésében a nagy érdeklődésre való tekintettel írtam egy további cikket, <a href="http://agostonlaszlo.hu/blog/transznemuseg/" target="blank">amit itt tudsz elolvasni</a>!
