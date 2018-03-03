@@ -6,7 +6,7 @@ author: agoston_laszlo
 excerpt: Legalábbis az alapján, amit a transznemű nőkről kommunikál a társadalom. Tabu, óriási tabu a szexualitás, hát még a nem hagyományos szexus kérdése itthon!
 categories: blog
 lang: hu
-image: http://agostonlaszlo.hu/mages/transzno.jpg
+image: http://agostonlaszlo.hu/images/transzno.jpg
 tags: [rólam, zene]
 ---
 A 21. század nagy úri huncutságának tartják sokan a transznemű emberek kérdését. "Mégis miféle ostobaság ez, hogy nemet vált egy férfi vagy egy nő? **Ha az Isten férfinek teremtette**, az férfi legyen, ha nőnek, nő! Nem?"
@@ -40,7 +40,7 @@ Zhou 1995-ös kutatása kimutatta, hogy azoknak **a férfiaknak az agya**, akik 
 
 Több, mint 2000 alkalommal erőszakolták meg férfiak a nőnek kinéző, magát nőként definiáló, de születési nemét tekintve férfit.
 
-![](http://agostonlaszlo.hu/mages/transzno.jpg)
+![](http://agostonlaszlo.hu/images/transzno.jpg)
 <center><i>Te férfi vagy női börtönbe küldenéd?</i></center>
 
 A képen látható ember szintén **férfiként született**, egész életében nőként élt és át is esett a nemi átalakító műtéteken - szintén férfi börtönbe zárták. 150 ezer alíárás gyűlt össze arra a petícióra, amely követelte, hogy női börtönbe vigyék? Légy őszinte és mondd meg: szerinted nem ott a helye? (<a href="http://www.independent.co.uk/news/uk/crime/tara-hudson-transgender-woman-moved-to-womens-prison-after-public-outcry-a6715476.html" target="blank">Forrrás</a>)
