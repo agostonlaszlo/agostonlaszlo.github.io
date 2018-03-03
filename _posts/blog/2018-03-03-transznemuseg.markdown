@@ -21,7 +21,7 @@ Tehát a történet, amin annyi homofób csámcsog most, éppen arról szól, ho
 
 Felteszed a kérdést: *"de miért nem marad a seggén és marad nő, aki nő?"* Mert nem az.
 
-Vannak emberek, akiknél **egyszerűen nem dönthető el elsőre orvosilag, hogy férfiak vagy nők valójában** - ők az interszexuálisok. Nem, nem a fiús lányokokról és a lányos fiúkról beszélünk, hanem olyan emberekről, akik például **hormonális szembpontból inkább nők, de a külső nemi szerveik tekintetében inkább férfiak**. (Itt tudsz erről bővebben olvasni: <a href="http://uvegplafon.blog.hu/2015/09/30/mi_tortenik_ha_a_kisbabank_egyszerre_lany_es_fiu" target="blank">link</a>)
+Vannak emberek, akiknél **egyszerűen nem dönthető el elsőre orvosilag, hogy férfiak vagy nők valójában** - ők az interszexuálisok. Nem, nem a fiús lányokokról és a lányos fiúkról beszélünk, hanem olyan emberekről, akik például **hormonális szempontból inkább nők, de a külső nemi szerveik tekintetében inkább férfiak**. (Itt tudsz erről bővebben olvasni: <a href="http://uvegplafon.blog.hu/2015/09/30/mi_tortenik_ha_a_kisbabank_egyszerre_lany_es_fiu" target="blank">link</a>)
 
 Aztán ott van például az AIS, az *Androgén-inszenzitivitási szindróma*.
 
@@ -43,7 +43,7 @@ Több, mint 2000 alkalommal erőszakolták meg férfiak a nőnek kinéző, magá
 ![](http://agostonlaszlo.hu/images/traszno.jpg)
 <center><i>Te férfi vagy női börtönbe küldenéd?</i></center>
 
-A képen látható ember szintén **férfiként született**, egész életében nőként élt és át is esett a nemi átalakító műtéteken - szintén férfi börtönbe zárták. 150 ezer alíárás gyűlt össze arra a petícióra, amely követelte, hogy női börtönbe vigyék? Légy őszinte és mondd meg: szerinted nem ott a helye? (<a href="http://www.independent.co.uk/news/uk/crime/tara-hudson-transgender-woman-moved-to-womens-prison-after-public-outcry-a6715476.html" target="blank">Forrrás</a>)
+A képen látható ember szintén **férfiként született**, egész életében nőként élt és át is esett a nemi átalakító műtéteken - szintén férfi börtönbe zárták. 150 ezer alíárás gyűlt össze arra a petícióra, amely követelte, hogy női börtönbe vigyék. Légy őszinte és mondd meg: szerinted nem ott a helye? (<a href="http://www.independent.co.uk/news/uk/crime/tara-hudson-transgender-woman-moved-to-womens-prison-after-public-outcry-a6715476.html" target="blank">Forrrás</a>)
 
 **Hány transgender azaz transznemű ember él a világon - és Magyarországon?** Ezt nyilvántartás hiányában nehéz megmondani, de kutatások szerint valahol **minden 100. és minden 300. ember között** van az arányuk. Tehát egy tömött MÁV-szerelvényen statisztikailag mindig fog utazni legalább néhány! (<a href="https://www.nytimes.com/2016/07/01/health/transgender-population.html" target="blank">Forrás</a>) Mégis, hallani se hallottál még igazán róluk, igaz?
 
