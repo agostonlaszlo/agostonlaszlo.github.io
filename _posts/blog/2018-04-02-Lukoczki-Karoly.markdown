@@ -42,6 +42,7 @@ Egyrészt mert nem vagyok országos politikus, aki a tévében ad át hidakat. M
 -- Örömmel. Mindenek előtt szeretném, ha csatlakoznánk az Európai Ügyészséghez és létrehoznánk egy Korrupcióellenes Ügyészséget. Mert a rendszerszintű korrupció teljesen elveszi az ország erejét. Az egészségügy és a kórházak felszabadításra szorulnak: pénzügyi és adminisztratív segítség kell – *azonnal*. De ha csak a kerületre gondolok: a reptéri zajszint csökkentésére csak ígéreteket kaptunk, pedig ez évtizedes probléma és ezrek, ha nem tízezrek problémája. Az M0 révén lehetőségünk volna vállalkozásokat behívni a kerületbe, amelyekkel kéz a kézben járna az infrastruktúra fejlesztése. Folytassam?
 
 **-- Mondd, te hiszel Istenben?**
+
 -- Meredeken váltottál! *(nevet)* Templomba járó ember voltam, amíg a papok is el nem kezdtek politizálni. Hiszek, de közösségbe nem járok.
 
 **-- És mi a véleményed azokról, akik a Fideszben hisznek úgy, mint egy vallásban?**
