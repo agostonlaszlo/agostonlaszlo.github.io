@@ -1,54 +1,62 @@
 ---
 layout: post
-title: Ezt a nőt te férfibörtönbe zárnád?
+title: Interjú Lukoczki Károllyal - a legesélyesebb ellenzéki jelölttel Rákosmentén
 date: 2018-03-03 11:00:00.000000000 +00:00
 author: agoston_laszlo
-excerpt: Csak mert férfibörtönbe került Angliában elítéltként. Szerinted ez nincs jól? Nagyon el fogsz csodálkozni, hogy mégis mennyien támogatják - talán tudatlanságból - hogy így legyen! 
+excerpt: Minden felmérés azt állítja, Lukoczki Károlyra kell szavaznom Rákosmentén, ha változást akarok. Úgy döntöttem, kérek tőle egy interjút.
 categories: blog
 lang: hu
-image: http://agostonlaszlo.hu/images/traszno.jpg
-tags: [homoszexualitas]
+image: http://agostonlaszlo.hu/images/lukoczkikaroly.jpg
+tags: [demokrácia]
 ---
-A 21. század nagy úri huncutságának tartják sokan a transznemű emberek kérdését. "Mégis miféle ostobaság ez, hogy nemet vált egy férfi vagy egy nő? **Ha az Isten férfinek teremtette**, az férfi legyen, ha nőnek, nő! Nem?"
+Ülök a pesti úti McDonaldsban Rákoskeresztúron és Lukoczki Károlyra, az ellenzék legesélyesebb jelöltjére várok. Minden mérés - még a Jobbikos is! - azt hozta ki, hogy rá kell szavaznia a kormányváltást akaróknak a kerületben. Életemben nem hallottam róla. Gondoltam kérek tőle egy időpontot.
 
-Két helyen merült fel ez mostanában: <a href="http://agostonlaszlo.hu/blog/bayer-zsolt-vedelmeben/" target="blank">Bayer Zsolt "orvosverős" álvideójában</a> és egy hírben, amely szerint <a href="http://patriota.info/amp/sport-halala-transznemu-fiu-nyerte-a-lanyok-birkozoversenyet/" target="blank">"egy nemváltoztató hormonkezelésen is átesett <b>transz férfi, Mack Beggs nyerte a lányoknak kiírt birkózóversenyt</b>"</a>. El is csámcsogott rajta a patriota.info nevű, általam kevéssé ismert oldal és közönsége.
+**-- Nem gáz egy kommunista utódpárt jelöltjének lenni 2018-ban?**
 
-![]({{ site.baseurl }}/images/patriota.JPG)
+- A történelmünk adottság, amivel együtt kell élnünk, de a mai MSZP-t nem tartom annak. Az MSZMP szellemi jogutódja a Munkáspárt lett. Mi egy liberális, szociáldemokrata értékrendet képviselő párt vagyunk.
 
-Gáz, mi? De nézzük meg kicsit közelebbről! Az <a href="http://www.espn.com/espnw/sports/article/18767310/transgender-wrestler-mack-beggs-euless-trinity-wins-texas-state-girls-wrestling-title" target="blank">espn.com</a> megkérdezte magát az érintettet és szüleit is és kiderült, hogy **ő maga a férfiak között szeretett volna indulni, csak a szövetség nem engedte**. A szövetség kényszerítette, hogy ha nőnek született, a nők között induljon akkor is, ha tesztoszteronkezeléseinek eredményeként *már jóval erősebb és férfiasabb volt*, mint társai.
+**-- Azért ha csak Horn Gyulára gondolok... elég sok "régi motoros" került az új logó alá is...
 
-Tehát a történet, amin annyi homofób csámcsog most, éppen arról szól, hogy **ha elfogadnánnk a másságot, nem kéne ilyen megalázó helyzetbe kerülnie** sem a transznemű versenyzőnek sem lány versenytársainak, akiket végül 56-0-ás mérleggel intézett el.
+- Ahogyan az összes többi pártba is. De a rendszerváltás egyébként sem "a régi" porrá rombolásáról és eltörléséről kellett volna, hogy szóljon, hanem a teljes, rendszerszintű újraszerveződésről a régi pozitívumainak megtartásával. És legyünk őszinték: ma nem az MSZP az MSZMP-hez legjobban hasonlító párt. Mi kapjuk ezt a kérdést, de nem mi építettünk személyi kultuszt, káder-rendszert a NER-ből és autoriter demokráciát... Hozzáteszem, én csak 2006 óta politizálok.
 
-Felteszed a kérdést: *"de miért nem marad a seggén és marad nő, aki nő?"* Mert nem az.
+**-- Miért kezdted el?
 
-Vannak emberek, akiknél **egyszerűen nem dönthető el elsőre orvosilag, hogy férfiak vagy nők valójában** - ők az interszexuálisok. Nem, nem a fiús lányokokról és a lányos fiúkról beszélünk, hanem olyan emberekről, akik például **hormonális szempontból inkább nők, de a külső nemi szerveik tekintetében inkább férfiak**. (Itt tudsz erről bővebben olvasni: <a href="http://uvegplafon.blog.hu/2015/09/30/mi_tortenik_ha_a_kisbabank_egyszerre_lany_es_fiu" target="blank">link</a>)
+- Tudod, én voltam már mindkét oldalon. Félárva gyerekként nőttem fel, munka mellett végeztem a gimnáziumot és az egyetemet, 0 forinttal kezdtem el a vállalkozásomat, három gyereket neveltem fel. Mára - és ezt nem dicsekvésből mondom - mindenem megvan mind anyagi, mind lelki értelemben. Úgy érzem, felelősségem van abban, hogy ez az ország élhetőbb hely legyen. Nem a saját hasznomért politizálok, adni akarok.
 
-Aztán ott van például az AIS, az *Androgén-inszenzitivitási szindróma*.
+**-- Azért ez nyálas volt.
 
-"Képzeljünk el egy helyes, kedves, angyali kislányt, aki szép lassan belenő a serdülőkorba. És egyszer csak kiderül, hogy nem menstruál. Lehet, hogy modellszépségű nővé fejlődik, de tizenkét, tizennégy, tizennyolc éves – és még mindig nincs menzesze. Az orvosi vizsgálat aztán kideríti: nem csoda, hogy nincs menzesz: nincs petefészek sem, nincs méh sem, a hüvely vakon végződik, és egyébként nagyon rövid. A hasüregben viszont herék találhatók, ami nem is csoda: a genetikai elemzés során kiderül, hogy az illető kislány (nő) XY kromoszómájú: genetikailag tehát férfi. Nem kicsit: nagyon." (<a href="http://birtalan.blogspot.hu/2008/05/grg-sofr-gdeli-esete-rendrkkel.html" target="blank">Birtalan Balázs: A görög sofőr gödeli esete a rendőrökkel</a> - ezt mindenképpen olvasd el, ha érdekel a téma!)
-
-![]({{ site.baseurl }}/images/Odiele.jpg)
-<center><i>A modell Hanne Gaby Odiele női külsődleges nemi jegyekkel, de le nem szállt herékkel, férfiként született. A heréit tíz éves korában távolították el olyan orvosok, akiknek ha jól értem Bayer Zsolt "előbb elvenné a diplomáját, utána agyonverné őket és csak ez után zárna börtönbe". <a href="https://www.youtube.com/watch?v=OzoU1qhXWAk" target="blank">(Forrás)</a></i></center>
-
-Zhou 1995-ös kutatása kimutatta, hogy azoknak **a férfiaknak az agya**, akik nőknek érzik magukat, sokkal **inkább hasonlítanak egy nő agyára**, mint egy férfiére. Swaab (2004), Gooren (2006), Garcia-Falgueras (2008 ) és Rametti (2010) kutatásai pedig azt bizonyították, hogy a nemi identitást befolyásolja az agy szerkezete. (Ha a tudományos része érdekel, itt olvass utána: [wiki](https://en.wikipedia.org/wiki/Causes_of_transsexuality) ). 
-
-És itt most a terjedelem okán abba is hagynám a bizonyítását annak, hogy ez a kérdés **valós probléma** nem pedig valami hipszter őrület. És ha megnézed, hogy mit okoz az érintettek körében, rájösz, hogy **kurvagyorsan meg kéne változtatni a társadalom mentalitását a kérdésben**.
-
-<a href="http://www.independent.co.uk/news/world/australasia/transgender-woman-raped-2000-times-male-prison-a6989366.html" target="blank">Ebben a cikkben</a> egy olyan férfi nyilatkozik, aki nővé alakíttatta át magát. Nem jókedvében, hanem a fent is részletezett okok miatt. Kocsilopási ügybe keveredett és börtönbe került.
-
-**Férfi börtönbe. Nőként. Szerinted?**
-
-Több, mint 2000 alkalommal erőszakolták meg férfiak a nőnek kinéző, magát nőként definiáló, de születési nemét tekintve férfit.
+-- Sajnálom, ha nyálasnak hangzott. De tudod, én a 69. vagyok az MSZP listáján, engem tényleg nem a politikai karrier érdekel. Viszont itt élek Rákosmentén 55 30 éve. Itt vannak a barátaim, szeretem ezt a helyet. Már az MSZP előtt is a Lokálpatrióták XVII. kerületi Egyesületének alapítója és elnöke voltam évekig és értelemszerűen azt sem az anyagi haszonszerzés miatt csináltam. A Magyar Szkander Szövetség alelnöke vagyok… értesz. Talán az is jellemző, hogy az MSZP-Párbeszéd mellett a DK és a Liberálisok is engem javasolnak, a Kétfarkú Kutyapárt is támogat és a Momentum is csak listán kér szavazatokat, hogy egyéniben nekem húzzák a választók az ikszet.
 
 ![](http://agostonlaszlo.hu/images/traszno.jpg)
 <center><i>Te férfi vagy női börtönbe küldenéd?</i></center>
 
-A képen látható ember szintén **férfiként született**, egész életében nőként élt és át is esett a nemi átalakító műtéteken - szintén férfi börtönbe zárták. 150 ezer alíárás gyűlt össze arra a petícióra, amely követelte, hogy női börtönbe vigyék. Légy őszinte és mondd meg: szerinted nem ott a helye? (<a href="http://www.independent.co.uk/news/uk/crime/tara-hudson-transgender-woman-moved-to-womens-prison-after-public-outcry-a6715476.html" target="blank">Forrrás</a>)
+**-- Ha ekkora a támogatottságod, miért nem hallani rólad többet?
 
-**Hány transgender azaz transznemű ember él a világon - és Magyarországon?** Ezt nyilvántartás hiányában nehéz megmondani, de kutatások szerint valahol **minden 100. és minden 300. ember között** van az arányuk. Tehát egy tömött MÁV-szerelvényen statisztikailag mindig fog utazni legalább néhány! (<a href="https://www.nytimes.com/2016/07/01/health/transgender-population.html" target="blank">Forrás</a>) Mégis, hallani se hallottál még igazán róluk, igaz?
+Egyrészt mert nem vagyok országos politikus, aki a tévében ad át hidakat. Másrészt mert nincsen olyan helyi újság, amely szóba állna nem-Fideszes jelölttel. Egyszerűen nem kapok felületet. Ez az első interjú, amit a kampány során adok, pedig hidd el, szerettem volna sokkal többet…
 
-Kezded már kapisgálni, **miért rettentően fontos a másság elfogadása**? Miért lenne iszonyatosan fontos, hogy szeretettel bánjunk azzal a több tízezer magyar emberrel, aki ezt nap, mint nap megéli? Vagyis megélné, de amíg mi csak hangulatkeltő cikkeket osztogatunk meg a Facebookon és bele se gondolunk, hogy mi miért történik, nem fognak tudni teljes életet élni.
+**-- Miért kéne rád szavaznom – azon túl, hogy te vagy a legesélyesebb ellenzéki jelölt Rákosmentén és Kőbányán?
 
-Miattad. Miattunk.
+-- Tudod, az én egyik gyerekem is külföldön él már. A feleségem testvére is külföldön él és a környezetemben egyre többen mennek el. Meg kell állítanunk a kivándorlást, mert minden kiköltözővel egy csepp vér folyik ki az ország ereiből. És nem kárhoztathatjuk az elmenőket - Magyarországot kell vonzóvá tennünk helyette!
 
-Jó ez így szerinted?
+**-- Tényekre lennék kíváncsi. Tervekre, programra...
+
+-- Örömmel. Mindenek előtt szeretném, ha csatlakoznánk az Európai Ügyészséghez és létrehoznánk egy Korrupcióellenes Ügyészséget. Mert a rendszerszintű korrupció teljesen elveszi az ország erejét. Az egészségügy és a kórházak felszabadításra szorulnak: pénzügyi és adminisztratív segítség kell – azonnal. De ha csak a kerületre gondolok: a reptéri zajszint csökkentésére csak ígéreteket kaptunk, pedig ez évtizedes probléma és ezrek, ha nem tízezrek problémája. Az M0 révén lehetőségünk volna vállalkozásokat behívni a kerületbe, amelyekkel kéz a kézben járna az infrastruktúra fejlesztése. Folytassam?
+
+**-- Mondd, te hiszel Istenben?**
+-- Meredeken váltottál! (nevet) Templomba járó ember voltam, amíg a papok is el nem kezdtek politizálni. Hiszek, de közösségbe nem járok.
+
+**-- És mi a véleményed azokról, akik a Fideszben hisznek úgy, mint egy vallásban?
+
+-- Vannak olyan barátaim, akiknek narancsszínű vér csörgedezik az ereikben, annyira elkötelezettek. De ettől még tiszteletre méltó, nagyszerű emberek. Sohasem fogom megérteni, hogy miért gondolkodnak ebben a kérdésben úgy, ahogy, miért nem látják… de ettől még tudunk együtt dolgozni. Talán a leginkább ezt a „mi” és „ti” rendszert utálom a mostani kormányzásban. Hogy kettészakítják az országot. Ezért is indulok a választáson, hogy ez megváltozzon.
+
+**-- Sokan mondják, hogy ha kormányváltás lenne, elvesznének az olyan kedvezmények, mint az egykulcsos SZJA vagy a nagycsaládosok támogatása. És ez sokaknak nagyon komoly visszatartó erő.
+
+-- Orbán Viktornak öt gyereke van, igaz? Akkor neki most bőven jár családtámogatás. Ha Mészáros Lőrincnek van három gyereke, akkor neki is. Nem? Pont ugyanúgy, mint annak a rákosligeti családnak, ahol két minimálbéren élő szülő neveli a három gyereket. Jól van ez így? És ezt úgy mondom, hogy nekem is három gyerekem van. Nem az a cél, hogy bárkinek is rosszabb legyen, hanem hogy igazságosabb legyen a rendszer.
+
+**-- Mit üzennél azoknak, akik még nem döntötték el, hogy elmennek-e szavazni?
+
+-- Itt, a budapesti 14-es szavazókerületben, a saját számításaink szerint fej-fej mellett állunk a Fideszes jelölttel. A még tanácstalanok kezében van a döntés, hogy milyen lesz a kerület és Magyarország jövője. Ne becsüljék le ennek a jelentőségét!
+
+**-- Aztán ha bekerülsz a Parlamentbe, úgyis a frakciófegyelem szerint fogsz szavazni...**
+
+-- Már mondtam, 69. vagyok a listán. Senkinek sem tartozom számadással ezért. Ha elég hiteles vagyok, megválasztanak és teszem, amit megígértem. Ha nem tenném, itt fogok élni azok között az emberek között, akiket cserbenhagynék ezzel. Mondtam már, hogy írásba adtam az ígéretem, hogy mindig elérhető szeretnék lenni?
