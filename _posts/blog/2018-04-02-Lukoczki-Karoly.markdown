@@ -9,7 +9,7 @@ lang: hu
 image: http://agostonlaszlo.hu/images/lukoczkikaroly.jpg
 tags: [demokrácia]
 ---
-Ülök a pesti úti McDonaldsban Rákoskeresztúron és Lukoczki Károlyra, az ellenzék legesélyesebb jelöltjére várok. Minden mérés - még a Jobbikos is! - azt hozta ki, hogy rá kell szavaznia a kormányváltást akaróknak a kerületben. Életemben nem hallottam róla. Arra is kváncsi voltam, miért nem hallottam róla... Gondoltam kérek tőle egy időpontot.
+Ülök a pesti úti McDonaldsban Rákoskeresztúron és Lukoczki Károlyra, az ellenzék legesélyesebb jelöltjére várok. Minden mérés - még a Jobbikos is! - azt hozta ki, hogy rá kell szavaznia a kormányváltást akaróknak a kerületben. Életemben nem hallottam róla. Arra is kíváncsi voltam, miért nem hallottam róla... Gondoltam kérek tőle egy időpontot.
 
 **-- Nem gáz egy kommunista utódpárt jelöltjének lenni 2018-ban?**
 
