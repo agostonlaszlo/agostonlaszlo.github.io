@@ -13,15 +13,15 @@ tags: [demokrácia]
 
 **-- Nem gáz egy kommunista utódpárt jelöltjének lenni 2018-ban?**
 
-- A történelmünk adottság, amivel együtt kell élnünk, de a mai MSZP-t nem tartom annak. Az MSZMP szellemi jogutódja a Munkáspárt lett. Mi egy liberális, szociáldemokrata értékrendet képviselő párt vagyunk.
+-- A történelmünk adottság, amivel együtt kell élnünk, de a mai MSZP-t nem tartom annak. Az MSZMP szellemi jogutódja a Munkáspárt lett. Mi egy liberális, szociáldemokrata értékrendet képviselő párt vagyunk.
 
 **-- Azért ha csak Horn Gyulára gondolok... elég sok "régi motoros" került az új logó alá is...
 
-- Ahogyan az összes többi pártba is. De a rendszerváltás egyébként sem "a régi" porrá rombolásáról és eltörléséről kellett volna, hogy szóljon, hanem a teljes, rendszerszintű újraszerveződésről a régi pozitívumainak megtartásával. És legyünk őszinték: ma nem az MSZP az MSZMP-hez legjobban hasonlító párt. Mi kapjuk ezt a kérdést, de nem mi építettünk személyi kultuszt, káder-rendszert a NER-ből és autoriter demokráciát... Hozzáteszem, én csak 2006 óta politizálok.
+-- Ahogyan az összes többi pártba is. De a rendszerváltás egyébként sem "a régi" porrá rombolásáról és eltörléséről kellett volna, hogy szóljon, hanem a teljes, rendszerszintű újraszerveződésről a régi pozitívumainak megtartásával. És legyünk őszinték: ma nem az MSZP az MSZMP-hez legjobban hasonlító párt. Mi kapjuk ezt a kérdést, de nem mi építettünk személyi kultuszt, káder-rendszert a NER-ből és autoriter demokráciát... Hozzáteszem, én csak 2006 óta politizálok.
 
 **-- Miért kezdted el?
 
-- Tudod, én voltam már mindkét oldalon. Félárva gyerekként nőttem fel, munka mellett végeztem a gimnáziumot és az egyetemet, 0 forinttal kezdtem el a vállalkozásomat, három gyereket neveltem fel. Mára - és ezt nem dicsekvésből mondom - mindenem megvan mind anyagi, mind lelki értelemben. Úgy érzem, felelősségem van abban, hogy ez az ország élhetőbb hely legyen. Nem a saját hasznomért politizálok, adni akarok.
+-- Tudod, én voltam már mindkét oldalon. Félárva gyerekként nőttem fel, munka mellett végeztem a gimnáziumot és az egyetemet, 0 forinttal kezdtem el a vállalkozásomat, három gyereket neveltem fel. Mára - és ezt nem dicsekvésből mondom - mindenem megvan mind anyagi, mind lelki értelemben. Úgy érzem, felelősségem van abban, hogy ez az ország élhetőbb hely legyen. Nem a saját hasznomért politizálok, adni akarok.
 
 **-- Azért ez nyálas volt.
 
