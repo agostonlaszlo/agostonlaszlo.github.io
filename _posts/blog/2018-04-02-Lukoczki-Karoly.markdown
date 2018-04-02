@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interjú Lukoczki Károllyal - a legesélyesebb ellenzéki jelölttel Rákosmentén
-date: 2018-03-03 11:00:00.000000000 +00:00
+date: 2018-04-02 19:00:00.000000000 +00:00
 author: agoston_laszlo
 excerpt: Minden felmérés azt állítja, Lukoczki Károlyra kell szavaznom Rákosmentén, ha változást akarok. Úgy döntöttem, kérek tőle egy interjút.
 categories: blog
@@ -9,7 +9,7 @@ lang: hu
 image: http://agostonlaszlo.hu/images/lukoczkikaroly.jpg
 tags: [demokrácia]
 ---
-Ülök a pesti úti McDonaldsban Rákoskeresztúron és Lukoczki Károlyra, az ellenzék legesélyesebb jelöltjére várok. Minden mérés - még a Jobbikos is! - azt hozta ki, hogy rá kell szavaznia a kormányváltást akaróknak a kerületben. Életemben nem hallottam róla. Gondoltam kérek tőle egy időpontot.
+Ülök a pesti úti McDonaldsban Rákoskeresztúron és Lukoczki Károlyra, az ellenzék legesélyesebb jelöltjére várok. Minden mérés - még a Jobbikos is! - azt hozta ki, hogy rá kell szavaznia a kormányváltást akaróknak a kerületben. Életemben nem hallottam róla. Arra is kváncsi voltam, miért nem hallottam róla... Gondoltam kérek tőle egy időpontot.
 
 **-- Nem gáz egy kommunista utódpárt jelöltjének lenni 2018-ban?**
 
@@ -25,14 +25,14 @@ tags: [demokrácia]
 
 **-- Azért ez nyálas volt.
 
--- Sajnálom, ha nyálasnak hangzott. De tudod, én a 69. vagyok az MSZP listáján, engem tényleg nem a politikai karrier érdekel. Viszont itt élek Rákosmentén 55 30 éve. Itt vannak a barátaim, szeretem ezt a helyet. Már az MSZP előtt is a Lokálpatrióták XVII. kerületi Egyesületének alapítója és elnöke voltam évekig és értelemszerűen azt sem az anyagi haszonszerzés miatt csináltam. A Magyar Szkander Szövetség alelnöke vagyok… értesz. Talán az is jellemző, hogy az MSZP-Párbeszéd mellett a DK és a Liberálisok is engem javasolnak, a Kétfarkú Kutyapárt is támogat és a Momentum is csak listán kér szavazatokat, hogy egyéniben nekem húzzák a választók az ikszet.
+-- Sajnálom, ha nyálasnak hangzott. De tudod, én a 69. vagyok az MSZP listáján, engem tényleg nem a politikai karrier érdekel. Viszont itt élek Rákosmentén 55 30 éve. Itt vannak a barátaim, szeretem ezt a helyet. Már az MSZP előtt is a Lokálpatrióták XVII. kerületi Egyesületének alapítója és elnöke voltam évekig és értelemszerűen azt sem az anyagi haszonszerzés miatt csináltam. A Magyar Szkander Szövetség alelnöke vagyok... értesz. Talán az is jellemző, hogy az MSZP-Párbeszéd mellett a DK és a Liberálisok is engem javasolnak, a Kétfarkú Kutyapárt is - mint a legesélyesebb ellenzéki jelöltet - engem támogat és a Momentum is csak listán kér szavazatokat, hogy egyéniben nekem húzzák a választók az ikszet.
 
-![](http://agostonlaszlo.hu/images/traszno.jpg)
+![](http://agostonlaszlo.hu/images/lukoczkikaroly2.jpg)
 <center><i>Te férfi vagy női börtönbe küldenéd?</i></center>
 
 **-- Ha ekkora a támogatottságod, miért nem hallani rólad többet?
 
-Egyrészt mert nem vagyok országos politikus, aki a tévében ad át hidakat. Másrészt mert nincsen olyan helyi újság, amely szóba állna nem-Fideszes jelölttel. Egyszerűen nem kapok felületet. Ez az első interjú, amit a kampány során adok, pedig hidd el, szerettem volna sokkal többet…
+Egyrészt mert nem vagyok országos politikus, aki a tévében ad át hidakat. Másrészt mert nincsen olyan helyi újság, amely szóba állna nem-Fideszes jelölttel. Egyszerűen nem kapok felületet. Ez az első interjú, amit a kampány során adok, pedig hidd el, szerettem volna sokkal többet...
 
 **-- Miért kéne rád szavaznom – azon túl, hogy te vagy a legesélyesebb ellenzéki jelölt Rákosmentén és Kőbányán?
 
@@ -40,10 +40,10 @@ Egyrészt mert nem vagyok országos politikus, aki a tévében ad át hidakat. M
 
 **-- Tényekre lennék kíváncsi. Tervekre, programra...
 
--- Örömmel. Mindenek előtt szeretném, ha csatlakoznánk az Európai Ügyészséghez és létrehoznánk egy Korrupcióellenes Ügyészséget. Mert a rendszerszintű korrupció teljesen elveszi az ország erejét. Az egészségügy és a kórházak felszabadításra szorulnak: pénzügyi és adminisztratív segítség kell – azonnal. De ha csak a kerületre gondolok: a reptéri zajszint csökkentésére csak ígéreteket kaptunk, pedig ez évtizedes probléma és ezrek, ha nem tízezrek problémája. Az M0 révén lehetőségünk volna vállalkozásokat behívni a kerületbe, amelyekkel kéz a kézben járna az infrastruktúra fejlesztése. Folytassam?
+-- Örömmel. Mindenek előtt szeretném, ha csatlakoznánk az Európai Ügyészséghez és létrehoznánk egy Korrupcióellenes Ügyészséget. Mert a rendszerszintű korrupció teljesen elveszi az ország erejét. Az egészségügy és a kórházak felszabadításra szorulnak: pénzügyi és adminisztratív segítség kell – *azonnal*. De ha csak a kerületre gondolok: a reptéri zajszint csökkentésére csak ígéreteket kaptunk, pedig ez évtizedes probléma és ezrek, ha nem tízezrek problémája. Az M0 révén lehetőségünk volna vállalkozásokat behívni a kerületbe, amelyekkel kéz a kézben járna az infrastruktúra fejlesztése. Folytassam?
 
 **-- Mondd, te hiszel Istenben?**
--- Meredeken váltottál! (nevet) Templomba járó ember voltam, amíg a papok is el nem kezdtek politizálni. Hiszek, de közösségbe nem járok.
+-- Meredeken váltottál! *(nevet)* Templomba járó ember voltam, amíg a papok is el nem kezdtek politizálni. Hiszek, de közösségbe nem járok.
 
 **-- És mi a véleményed azokról, akik a Fideszben hisznek úgy, mint egy vallásban?
 
