@@ -25,7 +25,7 @@ tags: [demokrácia]
 
 **-- Azért ez nyálas volt.**
 
--- Sajnálom, ha nyálasnak hangzott. De tudod, én a 69. vagyok az MSZP listáján, engem tényleg nem a politikai karrier érdekel. Viszont itt élek Rákosmentén 30 éve. Itt vannak a barátaim, szeretem ezt a helyet. Már az MSZP előtt is a Lokálpatrióták XVII. kerületi Egyesületének alapítója és elnöke voltam évekig és értelemszerűen azt sem az anyagi haszonszerzés miatt csináltam. A Magyar Szkander Szövetség alelnöke vagyok... értesz. Talán az is jellemző, hogy az MSZP-Párbeszéd mellett a DK és a Liberálisok is engem javasolnak, a Momentum is csak listán kér szavazatokat, hogy egyéniben nekem húzzák a választók az ikszet és az MKKP is a legesélyesebb ellenzéki jelöltre - azaz rám - való szavazásra buzdít.
+-- Sajnálom, ha nyálasnak hangzott. De tudod, én a 69. vagyok az MSZP listáján, engem tényleg nem a politikai karrier érdekel. Viszont itt élek Rákosmentén 30 éve. Itt vannak a barátaim, szeretem ezt a helyet. Már az MSZP előtt is a Lokálpatrióták XVII. kerületi Egyesületének alapítója és elnöke voltam évekig és értelemszerűen azt sem az anyagi haszonszerzés miatt csináltam. A Magyar Szkander Szövetség alelnöke vagyok... értesz. Talán az is jellemző, hogy az *MSZP-Párbeszéd* mellett a *DK* és a *Liberálisok* is engem javasolnak, a *Momentum* is csak listán kér szavazatokat, hogy egyéniben nekem húzzák a választók az ikszet és az *MKKP* is a legesélyesebb ellenzéki jelöltre - azaz rám - való szavazásra buzdít.
 
 ![](http://agostonlaszlo.hu/images/lukoczkikaroly2.jpg)
 
