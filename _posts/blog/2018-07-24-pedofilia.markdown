@@ -30,7 +30,7 @@ Viszont - és ebben van a borzalmas csapda! - ezek szerint vannak emberek, akik 
 
 ![](http://agostonlaszlo.hu/images/pedo.jpg)
 
-Jogosan vetődhet fel benned a kérdés: **hányan vannak**, akikről most beszélünk. A válaszon pedig ismét meg fogsz lepődni! Természetesen ennek a számnak a megbecsülése is nagyon nehéz, de kutatók <a href="https://www.independent.co.uk/news/paedophilia-sexual-orientation-straight-gay-criminal-psychologist-child-sex-abuse-a6965956.html" target="blank"> 0,5 és 5 százalék közé teszik </a> a pedofilok számát a társadalomban. **Csak Magyarországra vetítve ez 50-500 ezer ember!**  Ferenc pápa <a href="https://www.nlcafe.hu/ezvan/20140713/ferenc-papa-pedofilia-nyilatkozat/" target="blank">a pedofil papok számát 2%-ra tette </a> - de miért is lenne a papok között magasabb az arányuk, mint a teljes népességben?
+Jogosan vetődhet fel benned a kérdés: **hányan vannak**, akikről most beszélünk. A válaszon pedig ismét meg fogsz lepődni! Természetesen ennek a számnak a megbecsülése is nagyon nehéz, de kutatók <a href="https://www.independent.co.uk/news/paedophilia-sexual-orientation-straight-gay-criminal-psychologist-child-sex-abuse-a6965956.html" target="blank"> 0,5 és 5 százalék közé teszik </a> a pedofilok számát a társadalomban. **Csak Magyarországra vetítve ez 50-500 ezer ember!**  Ferenc pápa <a href="https://www.nlcafe.hu/ezvan/20140713/ferenc-papa-pedofilia-nyilatkozat/" target="blank">a pedofil papok arányát 2%-ra tette </a> - de miért is lenne a papok között magasabb az arányuk, mint a teljes népességben?
 
 Oké. Elég meredek - de mit kezdjünk ezzel az információval?
 
