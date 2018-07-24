@@ -33,7 +33,7 @@ Oké. De mit kezdjünk ezzel az információval?
 
 **1, Válasszuk külön a pedofil hajlammal együtt élő és a gyerekmolesztáló (bűnöző) embereket!<br />
 2, Fogadjuk el, hogy a pedofil nem tehet arról, hogy pedofil, ezért amíg másnak nem árt, nem bűnös - áldozat. <br />
-3, Segítsük azzal, hogy megbélyegzés helyett** <a href"http://www.unikornis.hu/elet/20161031-pedofilia-klaus-beier-terapia-gyogyithatatlan.html" target="blank"> **kezelést kapjon, amely segítheti vágyainak kordában tartásában.**</a> <br />
+3, Segítsük azzal, hogy megbélyegzés helyett** <a href=http://www.unikornis.hu/elet/20161031-pedofilia-klaus-beier-terapia-gyogyithatatlan.html" target="blank"> **kezelést kapjon, amely segítheti vágyainak kordában tartásában.**</a> <br />
 
 **Ha nem veszünk tudomást a pedofília létezéséről** és kizárólag kocsmai stílusban vagyunk képesek róla beszélni, **sohasem fog megoldódni a gyerekmolesztálások kérdése.** A büntetés jogos, de nem hatásos megoldás. Nem csak azért, mert az elkövető a fentiekből adódóan *"érthető és természetes"* módon fogja szakértő segítség nélkül folytatni a tevékenységét szabadulás után, de azért is, mert a büntetés már nem segít a gyerekmolesztálás áldozatain. És ők rengetegen vannak. <a href=http://www.unikornis.hu/elet/20161031-pedofilia-klaus-beier-terapia-gyogyithatatlan.html" target="blank">**Száz emberből több, mint tíz!**</a> Úgyis mondhatnám, sokkal nagyobb az esélye annak, hogy **a te gyereked is találkozzon ezzel a problémával**, mint hogy megengedhessük magunknak a "Tények-szintű", a tényeket nem figyelembe vevő véleményalkotás luxusát.
 
