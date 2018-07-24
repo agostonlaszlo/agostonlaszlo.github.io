@@ -42,4 +42,6 @@ Oké. Elég meredek - de mit kezdjünk ezzel az információval?
 
 **Tagadás, hőbörgés és büntetés helyett** ezért is lenne életbevágó a korrekt diskurzus, a téma iránti érzékenyítés és a **segítségnyújtás** az érintett áldozatoknak - akár elkövetőként, akár gyerekként voltak érintettek.
 
+![](http://agostonlaszlo.hu/images/felkialtojel.jpg)
+
 **(Kérlek, ha kommentelsz, három felkiáltójellel mutasd, hogy eljutottál idáig a cikk olvasásában! Köszönöm!)**
