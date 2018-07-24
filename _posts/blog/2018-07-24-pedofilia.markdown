@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vannak hős pedofilok? Vannak. És jó lenne segíteni őket!
+title: Vannak hős pedofilok? Vannak. Hogyan segítsük őket?
 date: 2018-07-24 11:00:00.000000000 +00:00
 author: agoston_laszlo
 excerpt: Mutatok egy népőpontot, amire tán még sosem gondoltál. És ha most belegondolsz, hősként fogsz tekinteni sok emberre, akitől eddig a gyomrod fordult ki.
