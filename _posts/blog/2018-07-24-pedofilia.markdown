@@ -15,7 +15,7 @@ A TV2-n ment le nem rég egy mérhetetlenül egyszerűsítő, felszínes és ép
 
 Amivel én maximálisan egyetértek - de ha nem olvasod el az alábbi magyarázatot, rendkívül téves következtetésekre juthatsz.
 
-![](http://agostonlaszlo.hu/images/pedo.jpg)
+![](http://agostonlaszlo.hu/images/grandcanyon.jpg)
 
 Mindenek előtt **válasszunk szét két fogalmat**: a *pedofilt* és a *gyerekmolesztálót*. Előbbinek gondolatai vannak, vágyai és szexuális álmai gyerekekkel, utóbbi ezeket meg is próbálja kiélni. A kettő közötti szakadék pedig sokszor szélesebb a Grand Canyonnál!
 
@@ -26,6 +26,8 @@ Kutatások mutatták ki, hogy a pedofíliának <a href="http://www.origo.hu/eges
 Te Laci - teheted fel a kérdést -, most azt akarod nekem beadni, hogy rendben van, ha valaki gyerekekhez szexuális vággyal közeledik? **A legkevésbé sem.** Ennek pedig egyetlen és megcáfolhatatlan oka van: **a közös beleegyezés hiánya**. Egy tízéves (ha nem fiatalabb) gyerek nem tud beleegyezni szexuális aktusba vagy bármi a szexualitással összeköthető aktivitásba. Egyszerűen nem érett meg a döntés meghozatalára - **így a velük való szexuális aktivitás egyoldalú, bűncselekmény, erőszak**. Ezért tettünk még rögtön az elején különbséget pedofil és gyermekmolesztáló között!
 
 Viszont itt a borzalmas csapda: ezek szerint vannak emberek, akik nem tudatos, nem akaratlagos, nem szándékos módon vonzódnak a gyerekekhez, **a vágyuk kiélése viszont egyértelmű bűncselekmény lenne**. Képzeld magad ebbe a helyzetbe egy pillanatra és értsd meg, miért mondom: rengeteg pedofil - aki nem beszélhet erről, nem számíthat segítségre és aki visszafogja a vágyait - **hős**. Te a diétádat sem tudod rendesen tartani, ő viszont egész életében tartózkodik valamitől, ami nagyon-nagyon vonzza, amire nagyon-nagyon vágyik. Meglepő innét szemlélni, igaz?
+
+![](http://agostonlaszlo.hu/images/pedo.jpg)
 
 Jogosan vetődhet fel benned a kérdés: **hányan vannak**, akikről most szó van. A válaszon pedig ismét meg fogsz lepődni! Természetesen ennek a számnak a megbecsülése is nagyon nehéz, de kutatók <a href="https://www.independent.co.uk/news/paedophilia-sexual-orientation-straight-gay-criminal-psychologist-child-sex-abuse-a6965956.html" target="blank"> 0,5 és 5 százalék közé teszik </a> a pedofilok számát a társadalomban. **Csak Magyarországra vetítve ez 50-500 ezer ember!**  Ferenc pápa <a href"https://www.nlcafe.hu/ezvan/20140713/ferenc-papa-pedofilia-nyilatkozat/" target="blank">a pedofil papok számát 2%-ra tette </a> - de miért is lenne a papok között magasabb az arányuk, mint a teljes népességben?
 
